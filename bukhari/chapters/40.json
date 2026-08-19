@@ -1,0 +1,18 @@
+[
+{ "start": 2299, "arabic": "باب وَكَالَةُ الشَّرِيكِ الشَّرِيكَ فِي الْقِسْمَةِ وَغَيْرِهَا", "swahili": "MLANGO 1: Mshirika anaweza kumwakilisha mshirika mwenzake katika mgawanyo na mambo mengine" },
+{ "start": 2301, "arabic": "باب إِذَا وَكَّلَ الْمُسْلِمُ حَرْبِيًّا فِي دَارِ الْحَرْبِ أَوْ فِي دَارِ الإِسْلاَمِ، جَازَ", "swahili": "MLANGO 2: Ikiwa Mwislamu atamteua asiye Mwislamu kuwa mwakilishi katika nchi ya vita au ya Kiislamu, inaruhusiwa" },
+{ "start": 2302, "arabic": "باب الْوَكَالَةِ فِي الصَّرْفِ وَالْمِيزَانِ", "swahili": "MLANGO 3: Kumwakilisha mtu katika kubadilisha fedha na kupima bidhaa kwa mizani" },
+{ "start": 2304, "arabic": "بَابُ إِذَا أَبْصَرَ الرَّاعِي أَوِ الْوَكِيلُ شَاةً تَمُوتُ أَوْ شَيْئًا يَفْسُدُ ذَبَحَ وَأَصْلَحَ مَا يَخَافُ عَلَيْهِ الْفَسَادَ", "swahili": "MLANGO 4: Ikiwa mchungaji au mwakilishi ataona kondoo anakufa au kitu kinaharibika, basi achinje na kutengeneza kile anachohofia kitaharibika" },
+{ "start": 2305, "arabic": "باب وَكَالَةُ الشَّاهِدِ وَالْغَائِبِ جَائِزَةٌ", "swahili": "MLANGO 5: Kumteua mwakilishi aliyepo au asiyepo inaruhusiwa" },
+{ "start": 2306, "arabic": "باب الْوَكَالَةِ فِي قَضَاءِ الدُّيُونِ", "swahili": "MLANGO 6: Kumteua mwakilishi kwa ajili ya kulipa madeni" },
+{ "start": 2307, "arabic": "باب إِذَا وَهَبَ شَيْئًا لِوَكِيلٍ أَوْ شَفِيعِ قَوْمٍ جَازَ", "swahili": "MLANGO 7: Ikiwa mtu atatoa zawadi kwa mwakilishi au mwombezi wa watu, inaruhusiwa" },
+{ "start": 2309, "arabic": "باب إِذَا وَكَّلَ رَجُلٌ أَنْ يُعْطِيَ شَيْئًا وَلَمْ يُبَيِّنْ كَمْ يُعْطِي، فَأَعْطَى عَلَى مَا يَتَعَارَفُهُ النَّاسُ", "swahili": "MLANGO 8: Ikiwa mtu atamteua mwingine kutoa kitu bila kubainisha kiasi, basi atoe kulingana na ada za watu (kawaida)" },
+{ "start": 2310, "arabic": "باب وَكَالَةِ الْمَرْأَةِ الإِمَامَ فِي النِّكَاحِ", "swahili": "MLANGO 9: Mwanamke kumwakilisha kiongozi (Imamu) katika ndoa" },
+{ "start": 2311, "arabic": "بَابُ إِذَا وَكَّلَ رَجُلاً، فَتَرَكَ الْوَكِيلُ شَيْئًا، فَأَجَازَهُ الْمُوَكِّلُ، فَهُوَ جَائِزٌ، وَإِنْ أَقْرَضَهُ إِلَى أَجَلٍ مُسَمًّى جَازَ", "swahili": "MLANGO 10: Ikiwa mtu atamteua mwingine, kisha mwakilishi akaacha jambo na mteuaji akalikubali, basi inaruhusiwa" },
+{ "start": 2312, "arabic": "باب إِذَا بَاعَ الْوَكِيلُ شَيْئًا فَاسِدًا فَبَيْعُهُ مَرْدُودٌ", "swahili": "Mlango: Ikiwa mwakilishi atauza kitu kwa njia isiyo halali basi mauzo yake yanarudishwa" },
+{ "start": 2313, "arabic": "باب الْوَكَالَةِ فِي الْوَقْفِ وَنَفَقَتِهِ، وَأَنْ يُطْعِمَ صَدِيقًا لَهُ وَيَأْكُلَ بِالْمَعْرُوفِ", "swahili": "Mlango: Uwakilishi katika kusimamia wakfu na gharama zake, na kwamba msimamizi anaweza kumlisha rafiki yake na yeye mwenyewe kula kwa kiasi cha kawaida" },
+{ "start": 2314, "arabic": "باب الْوَكَالَةِ فِي الْحُدُودِ", "swahili": "Mlango: Kumteua mtu kutekeleza adhabu" },
+{ "start": 2317, "arabic": "باب الْوَكَالَةِ فِي الْبُدْنِ وَتَعَاهُدِهَا", "swahili": "Mlango: Kumteua mtu kuchinja wanyama wa kafara (ngamia) na kuwatunza" },
+{ "start": 2318, "arabic": "بَابُ إِذَا قَالَ الرَّجُلُ لِوَكِيلِهِ ضَعْهُ حَيْثُ أَرَاكَ اللَّهُ. وَقَالَ الْوَكِيلُ قَدْ سَمِعْتُ مَا قُلْتَ", "swahili": "Mlango: Ikiwa mtu atamwambia mwakilishi wake, 'Itumie kama Mwenyezi Mungu anavyokuelekeza.' Na mwakilishi akasema, 'Nimeshasikia ulichosema'" },
+{ "start": 2319, "arabic": "باب وَكَالَةِ الأَمِينِ فِي الْخِزَانَةِ وَنَحْوِهَا", "swahili": "Mlango: Kumteua mweka hazina mwaminifu" }
+]

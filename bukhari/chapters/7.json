@@ -1,0 +1,11 @@
+[
+  { "start": 334, "arabic": "باب", "swahili": "MLANGO 1: (Mlango kuhusu kuanza kwa amri ya Tayammum)" },
+  { "start": 336, "arabic": "بَابُ إِذَا لَمْ يَجِدْ مَاءً وَلاَ تُرَابًا", "swahili": "MLANGO 2: Nini cha kufanya ikiwa (mtu) hapati maji wala udongo" },
+  { "start": 337, "arabic": "باب التَّيَمُّمِ فِي الْحَضَرِ، إِذَا لَمْ يَجِدِ الْمَاءَ، وَخَافَ فَوْتَ الصَّلاَةِ", "swahili": "MLANGO 3: Tayammum ukiwa mjini (si safarini) ikiwa maji hayapatikani na kuna hofu ya muda wa Swala kupita" },
+  { "start": 338, "arabic": "باب الْمُتَيَمِّمُ هَلْ يَنْفُخُ فِيهِمَا", "swahili": "MLANGO 4: Je, mwenye kutayamamu anaweza kupuliza viganja vyake (kuondoa vumbi la ziada)?" },
+  { "start": 339, "arabic": "باب التَّيَمُّمُ لِلْوَجْهِ وَالْكَفَّيْنِ", "swahili": "MLANGO 5: Tayammum ni kwa ajili ya uso na viganja viwili" },
+  { "start": 344, "arabic": "باب الصَّعِيدُ الطَّيِّبُ وَضُوءُ الْمُسْلِمِ ، يَكْفِيهِ مِنَ الْمَاءِ", "swahili": "MLANGO 6: Udongo safi ni udhu wa Muislamu (unamtosheleza badala ya maji)" },
+  { "start": 345, "arabic": "باب إِذَا خَافَ الْجُنُبُ عَلَى نَفْسِهِ الْمَرَضَ أَوِ الْمَوْتَ أَوْ خَافَ الْعَطَشَ، تَيَمَّمَ", "swahili": "MLANGO 7: Pindi mwenye janaba anapohofia nafsi yake kupata maradhi, kifo au kiu (kama akitumia maji kidogo aliyonayo), basi atayamamu" },
+  { "start": 347, "arabic": "باب التَّيَمُّمُ ضَرْبَةٌ", "swahili": "MLANGO 8: Tayammum ni pigo moja (kwenye udongo)" },
+  { "start": 348, "arabic": "باب", "swahili": "MLANGO 9: (Mlango)" }
+]

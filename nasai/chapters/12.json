@@ -1,0 +1,537 @@
+[
+  {
+    "start": "1029",
+    "arabic": "باب التطبيق",
+    "swahili": "MLANGO: KUUNGANISHA MIKONO YA MTU PAMOJA"
+  },
+  {
+    "start": "1032",
+    "arabic": "باب نَسْخِ ذَلِكَ",
+    "swahili": "MLANGO: KUFUTWA KWA HILO"
+  },
+  {
+    "start": "1034",
+    "arabic": "باب الإِمْسَاكِ بِالرُّكَبِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: KUSHIKILIA MAGOTI WAKATI WA KUINAMA"
+  },
+  {
+    "start": "1036",
+    "arabic": "باب مَوَاضِعِ الرَّاحَتَيْنِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: MAHALI PA KUWEKA MITENDE WAKATI WA KUINAMA"
+  },
+  {
+    "start": "1037",
+    "arabic": "باب مَوَاضِعِ أَصَابِعِ الْيَدَيْنِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: MAHALI PA KUWEKA VIDOLE WAKATI WA KUINAMA"
+  },
+  {
+    "start": "1038",
+    "arabic": "باب التَّجَافِي فِي الرُّكُوعِ",
+    "swahili": "MLANGO: KUSHIKILIA MIKONO KUTOKA UPANDE WA MTU WAKATI WA KUINAMA"
+  },
+  {
+    "start": "1039",
+    "arabic": "باب الاِعْتِدَالِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: KUWA WASTANI KATIKA KUINAMA"
+  },
+  {
+    "start": "1040",
+    "arabic": "باب النَّهْىِ عَنِ الْقِرَاءَةِ، فِي الرُّكُوعِ",
+    "swahili": "MLANGO: UHARAMU WA KUSOMA QUR-AAN HUKU UKIRUKUU"
+  },
+  {
+    "start": "1045",
+    "arabic": "باب تَعْظِيمِ الرَّبِّ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: UTUKUFU WA BWANA HUKU UKIINAMA"
+  },
+  {
+    "start": "1046",
+    "arabic": "باب الذِّكْرِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: KUMBUKA UNAPOINAMA"
+  },
+  {
+    "start": "1047",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الذِّكْرِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: AINA NYINGINE YA UKUMBUSHO WAKATI WA KUINAMA"
+  },
+  {
+    "start": "1048",
+    "arabic": "باب نَوْعٌ آخَرُ مِنْهُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1049",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الذِّكْرِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: AINA NYINGINE YA UKUMBUSHO WAKATI WA KUINAMA"
+  },
+  {
+    "start": "1050",
+    "arabic": "باب نَوْعٌ آخَرُ مِنْهُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1051",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1053",
+    "arabic": "باب الرُّخْصَةِ فِي تَرْكِ الذِّكْرِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MTU ASISOME UKUMBUSHO WOWOTE ANAPOINAMA"
+  },
+  {
+    "start": "1054",
+    "arabic": "باب الأَمْرِ بِإِتْمَامِ الرُّكُوعِ",
+    "swahili": "MLANGO: AMRI YA KUINAMA VIZURI"
+  },
+  {
+    "start": "1055",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ عِنْدَ الرَّفْعِ مِنَ الرُّكُوعِ",
+    "swahili": "MLANGO: KUINUA MIKONO WAKATI WA KUINUKA KUTOKA KWA KUINAMA"
+  },
+  {
+    "start": "1056",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ حَذْوَ فُرُوعِ الأُذُنَيْنِ عِنْدَ الرَّفْعِ مِنَ الرُّكُوعِ",
+    "swahili": "MLANGO: KUINUA MIKONO HADI IWE SAWA NA SEHEMU YA JUU YA MASIKIO"
+  },
+  {
+    "start": "1057",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ حَذْوَ الْمَنْكِبَيْنِ عِنْدَ الرَّفْعِ مِنَ الرُّكُوعِ",
+    "swahili": "MLANGO: KUINUA MIKONO HADI IWE SAWA NA MABEGA WAKATI WA KUINUKA KUTOKA KWA KUINAMA"
+  },
+  {
+    "start": "1058",
+    "arabic": "باب الرُّخْصَةِ فِي تَرْكِ ذَلِكَ",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MTU KUTOFANYA HIVYO"
+  },
+  {
+    "start": "1059",
+    "arabic": "باب مَا يَقُوُلُ الإِمَامُ إِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ",
+    "swahili": "MLANGO: ANACHOSEMA IMAM ANAPOINUA KICHWA CHAKE KUTOKA KWENYE KUINAMA"
+  },
+  {
+    "start": "1061",
+    "arabic": "باب مَا يَقُولُ الْمَأْمُومُ",
+    "swahili": "MLANGO: ANACHOTAKIWA KUSEMA MTU ANAYESWALI NYUMA YA IMAMU"
+  },
+  {
+    "start": "1063",
+    "arabic": "باب قَوْلِهِ ‏\"‏ رَبَّنَا وَلَكَ الْحَمْدُ ‏\"‏",
+    "swahili": "MLANGO: WAKISEMA: RABBANA WA LAKAL-HAMD (MOLA WETU MLEZI, NA SIFA NJEMA NI ZAKO)."
+  },
+  {
+    "start": "1065",
+    "arabic": "باب قَدْرِ الْقِيَامِ بَيْنَ الرَّفْعِ مِنَ الرُّكُوعِ وَالسُّجُودِ",
+    "swahili": "MLANGO: MUDA WA KUSIMAMA BAINA YA KUINUKA KUTOKA KWENYE RUKUU HADI KUSUJUDU"
+  },
+  {
+    "start": "1066",
+    "arabic": "باب مَا يَقُولُ فِي قِيَامِهِ ذَلِكَ",
+    "swahili": "MLANGO: NINI CHA KUSEMA WAKATI WA KUSIMAMA (BAADA YA KUINAMA)"
+  },
+  {
+    "start": "1070",
+    "arabic": "باب الْقُنُوتِ بَعْدَ الرُّكُوعِ",
+    "swahili": "MLANGO: QUNUT BAADA YA KUINAMA"
+  },
+  {
+    "start": "1071",
+    "arabic": "باب الْقُنُوتِ فِي صَلاَةِ الصُّبْحِ",
+    "swahili": "MLANGO: QUNUT WAKATI WA SWALA YA SUBH"
+  },
+  {
+    "start": "1075",
+    "arabic": "باب الْقُنُوتِ فِي صَلاَةِ الظُّهْرِ",
+    "swahili": "MLANGO: QUNUT WAKATI WA SWALA YA DHUHR"
+  },
+  {
+    "start": "1076",
+    "arabic": "باب الْقُنُوتِ فِي صَلاَةِ الْمَغْرِبِ",
+    "swahili": "MLANGO: QUNUT WAKATI WA SWALA YA MAGHRIB"
+  },
+  {
+    "start": "1077",
+    "arabic": "باب اللَّعْنِ فِي الْقُنُوتِ",
+    "swahili": "MLANGO: KUTOA LAANA WAKATI WA QUNUT"
+  },
+  {
+    "start": "1078",
+    "arabic": "باب لَعْنِ الْمُنَافِقِينَ فِي الْقُنُوتِ",
+    "swahili": "MLANGO: KUWALAANI WANAAFIKI WAKATI WA QUNUT"
+  },
+  {
+    "start": "1079",
+    "arabic": "باب تَرْكِ الْقُنُوتِ",
+    "swahili": "MLANGO: BILA KUSEMA QUNUT"
+  },
+  {
+    "start": "1081",
+    "arabic": "باب تَبْرِيدِ الْحَصَى لِلسُّجُودِ عَلَيْهِ",
+    "swahili": "MLANGO: KUPOZA KOKOTO ILI KUZISUJUDIA"
+  },
+  {
+    "start": "1082",
+    "arabic": "باب التَّكْبِيرِ لِلسُّجُودِ",
+    "swahili": "MLANGO: TAKBIR WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1084",
+    "arabic": "باب كَيْفَ يَخِرُّ لِلسُّجُودِ",
+    "swahili": "MLANGO: JINSI MTU ANAVYOPASWA KWENDA KUSUJUDU"
+  },
+  {
+    "start": "1085",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ لِلسُّجُودِ",
+    "swahili": "MLANGO: KUINUA MIKONO KABLA YA KUSUJUDU"
+  },
+  {
+    "start": "1088",
+    "arabic": "باب تَرْكِ رَفْعِ الْيَدَيْنِ عِنْدَ السُّجُودِ",
+    "swahili": "MLANGO: KUTOINUA MIKONO WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1089",
+    "arabic": "باب أَوَّلِ مَا يَصِلُ إِلَى الأَرْضِ مِنَ الإِنْسَانِ فِي سُجُودِهِ",
+    "swahili": "MLANGO: SEHEMU YA KWANZA YA MWILI AMBAYO INAPASWA KUFIKA CHINI WAKATI MTU ANAPOSUJUDU"
+  },
+  {
+    "start": "1092",
+    "arabic": "باب وَضْعِ الْيَدَيْنِ مَعَ الْوَجْهِ فِي السُّجُودِ",
+    "swahili": "MLANGO: KUWEKA MIKONO CHINI PAMOJA NA USO WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1093",
+    "arabic": "باب عَلَى كَمِ السُّجُودُ",
+    "swahili": "MLANGO: MTU ANASUJUDU JUU YA (SEHEMU NGAPI ZA MWILI) NGAPI?"
+  },
+  {
+    "start": "1094",
+    "arabic": "باب تَفْسِيرِ ذَلِكَ",
+    "swahili": "MLANGO: UFAFANUZI WA HILO"
+  },
+  {
+    "start": "1095",
+    "arabic": "باب السُّجُودِ عَلَى الْجَبِينِ",
+    "swahili": "MLANGO: KUSUJUDU KWENYE PAJI LA USO"
+  },
+  {
+    "start": "1096",
+    "arabic": "باب السُّجُودِ عَلَى الأَنْفِ",
+    "swahili": "MLANGO: KUSUJUDU JUU YA PUA YA MTU"
+  },
+  {
+    "start": "1097",
+    "arabic": "باب السُّجُودِ عَلَى الْيَدَيْنِ",
+    "swahili": "MLANGO: KUSUJUDU JUU YA MIKONO"
+  },
+  {
+    "start": "1098",
+    "arabic": "باب السُّجُودِ عَلَى الرُّكْبَتَيْنِ",
+    "swahili": "MLANGO: KUSUJUDU KWA MAGOTI"
+  },
+  {
+    "start": "1099",
+    "arabic": "باب السُّجُودِ عَلَى الْقَدَمَيْنِ",
+    "swahili": "MLANGO: KUSUJUDU KWA MIGUU"
+  },
+  {
+    "start": "1100",
+    "arabic": "باب نَصْبِ الْقَدَمَيْنِ فِي السُّجُودِ",
+    "swahili": "MLANGO: KUWEKA MIGUU WIMA WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1101",
+    "arabic": "باب فَتْحِ أَصَابِعِ الرِّجْلَيْنِ فِي السُّجُودِ",
+    "swahili": "MLANGO: KUKUNJA VIDOLE VYA MIGUU (ILI VIELEKEE QIBLAH) WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1102",
+    "arabic": "باب مَكَانِ الْيَدَيْنِ مِنَ السُّجُودِ",
+    "swahili": "MLANGO: KUWEKA MIKONO WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1103",
+    "arabic": "باب النَّهْىِ عَنْ بَسْطِ الذِّرَاعَيْنِ، فِي السُّجُودِ",
+    "swahili": "MLANGO: UHARAMU WA KUWEKA MIKONO YA MTU JUU YA ARDHI WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1104",
+    "arabic": "باب صِفَةِ السُّجُودِ",
+    "swahili": "MLANGO: MAELEZO YA KUSUJUDU"
+  },
+  {
+    "start": "1109",
+    "arabic": "باب التَّجَافِي فِي السُّجُودِ",
+    "swahili": "MLANGO: KUINUA MIKONO KUTOKA KWA UPANDE WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1110",
+    "arabic": "باب الاِعْتِدَالِ فِي السُّجُودِ",
+    "swahili": "MLANGO: KIASI KATIKA SIJDA"
+  },
+  {
+    "start": "1111",
+    "arabic": "باب إِقَامَةِ الصُّلْبِ فِي السُّجُودِ",
+    "swahili": "MLANGO: KUDUMISHA MGONGO (KUSTAREHE) WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1112",
+    "arabic": "باب النَّهْىِ عَنْ نَقْرَةِ الْغُرَابِ،",
+    "swahili": "MLANGO: MARUFUKU YA KUNYONYA KAMA KUNGURU"
+  },
+  {
+    "start": "1113",
+    "arabic": "باب النَّهْىِ عَنْ كَفِّ الشَّعْرِ، فِي السُّجُودِ",
+    "swahili": "MLANGO: MARUFUKU YA KUNYOOSHA NYWELE WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1114",
+    "arabic": "باب مَثَلِ الَّذِي يُصَلِّي وَرَأْسُهُ مَعْقُوصٌ",
+    "swahili": "MLANGO: MFANO WA MWENYE KUSWALI NA NYWELE ZAKE ZIMEFUNGWA NYUMA YAKE"
+  },
+  {
+    "start": "1115",
+    "arabic": "باب النَّهْىِ عَنْ كَفِّ الثِّيَابِ، فِي السُّجُودِ",
+    "swahili": "MLANGO: UHARAMU WA KUFUNGA NGUO WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1116",
+    "arabic": "باب السُّجُودِ عَلَى الثِّيَابِ",
+    "swahili": "MLANGO: KUSUJUDU JUU YA NGUO YA MTU"
+  },
+  {
+    "start": "1117",
+    "arabic": "باب الأَمْرِ بِإِتْمَامِ السُّجُودِ",
+    "swahili": "MLANGO: AMRI YA KUSUJUDU IPASAVYO"
+  },
+  {
+    "start": "1118",
+    "arabic": "باب النَّهْىِ عَنِ الْقِرَاءَةِ، فِي السُّجُودِ",
+    "swahili": "MLANGO: UHARAMU WA KUSOMA QUR-AAN WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1120",
+    "arabic": "باب الأَمْرِ بِالاِجْتِهَادِ فِي الدُّعَاءِ فِي السُّجُودِ",
+    "swahili": "MLANGO: AMRI YA KUFANYA BIDII KATIKA KUOMBA WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1121",
+    "arabic": "باب الدُّعَاءِ فِي السُّجُودِ",
+    "swahili": "MLANGO: DUA WAKATI WA KUSUJUDU"
+  },
+  {
+    "start": "1122",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1123",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1124",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1126",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1127",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1128",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1129",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1130",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1131",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1132",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1133",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1134",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1135",
+    "arabic": "باب عَدَدِ التَّسْبِيحِ فِي السُّجُودِ",
+    "swahili": "MLANGO: IDADI YA TASBIHI KATIKA SIJDA"
+  },
+  {
+    "start": "1136",
+    "arabic": "باب الرُّخْصَةِ فِي تَرْكِ الذِّكْرِ فِي السُّجُودِ",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MTU ASISOME KAULI YA UKUMBUSHO AKIWA AMESUJUDU"
+  },
+  {
+    "start": "1137",
+    "arabic": "باب أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنَ اللَّهِ عَزَّ وَجَلَّ",
+    "swahili": "MLANGO: NI LINI MTU YUKO KARIBU ZAIDI NA MWENYEZI MUNGU MTUKUFU NA MTUKUFU?"
+  },
+  {
+    "start": "1138",
+    "arabic": "باب فَضْلِ السُّجُودِ",
+    "swahili": "MLANGO: FADHILA YA KUSUJUDU"
+  },
+  {
+    "start": "1139",
+    "arabic": "باب ثَوَابِ مَنْ سَجَدَ لِلَّهِ عَزَّ وَجَلَّ سَجْدَةً",
+    "swahili": "MLANGO: MALIPO YA MWENYE KUMSUJUDIA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU"
+  },
+  {
+    "start": "1140",
+    "arabic": "باب مَوْضِعِ السُّجُودِ",
+    "swahili": "MLANGO: MAHALI PA KUSUJUDU"
+  },
+  {
+    "start": "1141",
+    "arabic": "باب هَلْ يَجُوزُ أَنْ تَكُونَ سَجْدَةٌ أَطْوَلَ مِنْ سَجْدَةٍ",
+    "swahili": "MLANGO: JE, INAJUZU KUFANYA SIJDA MOJA KUWA NDEFU KULIKO NYENGINE?"
+  },
+  {
+    "start": "1142",
+    "arabic": "باب التَّكْبِيرِ عِنْدَ الرَّفْعِ مِنَ السُّجُودِ",
+    "swahili": "MLANGO: TAKBIR WAKATI WA KUKAA KUTOKA KUSUJUDU"
+  },
+  {
+    "start": "1143",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ عِنْدَ الرَّفْعِ مِنَ السَّجْدَةِ الأُولَى",
+    "swahili": "MLANGO: KUINUA MIKONO WAKATI WA KUINUKA KUTOKA KWENYE SIJDA YA KWANZA"
+  },
+  {
+    "start": "1144",
+    "arabic": "باب تَرْكِ ذَلِكَ بَيْنَ السَّجْدَتَيْنِ",
+    "swahili": "MLANGO: KUTOFANYA HIVYO BAINA YA SIJDA MBILI"
+  },
+  {
+    "start": "1145",
+    "arabic": "باب الدُّعَاءِ بَيْنَ السَّجْدَتَيْنِ",
+    "swahili": "MLANGO: DUA BAINA YA SIJDA MBILI"
+  },
+  {
+    "start": "1146",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ بَيْنَ السَّجْدَتَيْنِ تِلْقَاءَ الْوَجْهِ",
+    "swahili": "MLANGO: KUINUA MIKONO (KARIBU) YA USO KATI YA SIJDA MBILI"
+  },
+  {
+    "start": "1147",
+    "arabic": "باب كَيْفَ الْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ",
+    "swahili": "MLANGO: JINSI YA KUKAA KATI YA SIJDA MBILI"
+  },
+  {
+    "start": "1148",
+    "arabic": "باب قَدْرِ الْجُلُوسِ بَيْنَ السَّجْدَتَيْنِ",
+    "swahili": "MLANGO: MUDA GANI MTU ANATAKIWA KUKAA BAINA YA SIJDA MBILI"
+  },
+  {
+    "start": "1149",
+    "arabic": "باب التَّكْبِيرِ لِلسُّجُودِ",
+    "swahili": "MLANGO: TAKBIRA YA KUSUJUDU"
+  },
+  {
+    "start": "1151",
+    "arabic": "باب الاِسْتِوَاءِ لِلْجُلُوسِ عِنْدَ الرَّفْعِ مِنَ السَّجْدَتَيْنِ",
+    "swahili": "MLANGO: KUTULIA KATIKA HALI YA KUKAA BAADA YA KUINUKA KUTOKA KWENYE SIJDA MBILI"
+  },
+  {
+    "start": "1153",
+    "arabic": "باب الاِعْتِمَادِ عَلَى الأَرْضِ عِنْدَ النُّهُوضِ",
+    "swahili": "MLANGO: KUJITEGEMEZA CHINI WAKATI WA KUINUKA"
+  },
+  {
+    "start": "1154",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ عَنِ الأَرْضِ، قَبْلَ الرُّكْبَتَيْنِ",
+    "swahili": "MLANGO: KUINUA MIKONO KUTOKA CHINI KABLA YA MAGOTI"
+  },
+  {
+    "start": "1155",
+    "arabic": "باب التَّكْبِيرِ لِلنُّهُوضِ",
+    "swahili": "MLANGO: TAKBIRA WAKATI WA KUAMKA"
+  },
+  {
+    "start": "1157",
+    "arabic": "باب كَيْفَ الْجُلُوسُ لِلتَّشَهُّدِ الأَوَّلِ",
+    "swahili": "MLANGO: JINSI YA KUKAA KWA TASHAHHUD YA KWANZA"
+  },
+  {
+    "start": "1158",
+    "arabic": "باب الاِسْتِقْبَالِ بِأَطْرَافِ أَصَابِعِ الْقَدَمِ الْقِبْلَةَ عِنْدَ الْقُعُودِ لِلتَّشَهُّدِ",
+    "swahili": "MLANGO: KUELEKEZA VIDOLE VYA MIGUU KUELEKEA QIBLAH WAKATI WA KUKAA KWA TASHAHHUD YA KWANZA"
+  },
+  {
+    "start": "1159",
+    "arabic": "باب مَوْضِعِ الْيَدَيْنِ عِنْدَ الْجُلُوسِ لِلتَّشَهُّدِ الأَوَّلِ",
+    "swahili": "MLANGO: KUWEKA MIKONO WAKATI WA KUKAA KWA TASHAHHUD YA KWANZA"
+  },
+  {
+    "start": "1160",
+    "arabic": "باب مَوْضِعِ الْبَصَرِ فِي التَّشَهُّدِ",
+    "swahili": "MLANGO: AMBAPO MTU ANAPASWA KUANGALIA WAKATI WA KUSOMA TASHAHHUD"
+  },
+  {
+    "start": "1161",
+    "arabic": "باب الإِشَارَةِ بِالأُصْبُعِ فِي التَّشَهُّدِ الأَوَّلِ",
+    "swahili": "MLANGO: KUASHIRIA KWA KIDOLE WAKATI WA TASHAHHUD YA KWANZA"
+  },
+  {
+    "start": "1162",
+    "arabic": "باب كَيْفَ التَّشَهُّدُ الأَوَّلُ",
+    "swahili": "MLANGO: KINACHOSEMWA KATIKA TASHAHHUD YA KWANZA"
+  },
+  {
+    "start": "1172",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ التَّشَهُّدِ",
+    "swahili": "MLANGO: TOLEO JINGINE LA TASHAHHUD"
+  },
+  {
+    "start": "1173",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ التَّشَهُّدِ",
+    "swahili": "MLANGO: TOLEO JINGINE LA TASHAHHUD"
+  },
+  {
+    "start": "1174",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ التَّشَهُّدِ",
+    "swahili": "MLANGO: TOLEO JINGINE LA TASHAHHUD"
+  },
+  {
+    "start": "1175",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ التَّشَهُّدِ",
+    "swahili": "MLANGO: TOLEO JINGINE LA TASHAHHUD"
+  },
+  {
+    "start": "1176",
+    "arabic": "باب التَّخْفِيفِ فِي التَّشَهُّدِ الأَوَّلِ",
+    "swahili": "MLANGO: KUWA MFUPI KATIKA TASHAHHUD YA KWANZA"
+  },
+  {
+    "start": "1177",
+    "arabic": "باب تَرْكِ التَّشَهُّدِ الأَوَّلِ",
+    "swahili": "MLANGO: KUTOKUSOMA TASHAHHUD YA KWANZA"
+  }
+]

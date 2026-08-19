@@ -1,0 +1,642 @@
+[
+  {
+    "start": 5970,
+    "arabic": "باب قَوْلِ اللَّهِ تَعَالَى ‏{‏وَوَصَّيْنَا الإِنْسَانَ بِوَالِدَيْهِ‏}",
+    "swahili": "MLANGO: AL-BIRR NA AS-SILA"
+  },
+  {
+    "start": 5971,
+    "arabic": "باب مَنْ أَحَقُّ النَّاسِ بِحُسْنِ الصُّحْبَةِ",
+    "swahili": "MLANGO: NANI ANA HAKI ZAIDI YA URAFIKI BORA?"
+  },
+  {
+    "start": 5972,
+    "arabic": "باب لاَ يُجَاهِدُ إِلاَّ بِإِذْنِ الأَبَوَيْنِ",
+    "swahili": "MLANGO: MTU ASIENDE KWA AJILI YA JIHAD BILA YA IDHINI YA WAZAZI"
+  },
+  {
+    "start": 5973,
+    "arabic": "باب لاَ يَسُبُّ الرَّجُلُ وَالِدَيْهِ",
+    "swahili": "MLANGO: MWANAUME HATAKIWI KUWANYANYASA WAZAZI WAKE"
+  },
+  {
+    "start": 5974,
+    "arabic": "باب إِجَابَةِ دُعَاءِ مَنْ بَرَّ وَالِدَيْهِ",
+    "swahili": "MLANGO: DUA YA MTU ANAYEWACHA WAZAZI WAKE IKIWA IMETIMIZWA"
+  },
+  {
+    "start": 5975,
+    "arabic": "باب عُقُوقُ الْوَالِدَيْنِ مِنَ الْكَبَائِرِ",
+    "swahili": "MLANGO: KUWAKUFURU WAZAZI NI MOJA YA MADHAMBI MAKUBWA"
+  },
+  {
+    "start": 5978,
+    "arabic": "باب صِلَةِ الْوَالِدِ الْمُشْرِكِ",
+    "swahili": "MLANGO: KUWA MWEMA KWA BABA AMBAYE NI MUSHRIK"
+  },
+  {
+    "start": 5979,
+    "arabic": "باب صِلَةِ الْمَرْأَةِ أُمَّهَا وَلَهَا زَوْجٌ",
+    "swahili": "MLANGO: FADHILI KUTOKA KWA MWANAMKE AMBAYE ANA MUME, KWA MAMA YAKE"
+  },
+  {
+    "start": 5981,
+    "arabic": "باب صِلَةِ الأَخِ الْمُشْرِكِ",
+    "swahili": "MLANGO: KUWA MWEMA KWA NDUGUYE AMBAYE NI MUSHRIK"
+  },
+  {
+    "start": 5982,
+    "arabic": "باب فَضْلِ صِلَةِ الرَّحِمِ",
+    "swahili": "MLANGO: UBORA WA UHUSIANO MZURI NA JAMAA"
+  },
+  {
+    "start": 5984,
+    "arabic": "باب إِثْمِ الْقَاطِعِ",
+    "swahili": "MLANGO: DHAMBI YA AL-QATI'"
+  },
+  {
+    "start": 5985,
+    "arabic": "باب مَنْ بُسِطَ لَهُ فِي الرِّزْقِ بِصِلَةِ الرَّحِمِ",
+    "swahili": "MLANGO: YEYOTE ALIYETAJIRIKA KWA SABABU YA KUWA NA MAHUSIANO MAZURI NA JAMAA NA JAMAA ZAKE"
+  },
+  {
+    "start": 5987,
+    "arabic": "باب مَنْ وَصَلَ وَصَلَهُ اللَّهُ",
+    "swahili": "MLANGO: MWENYEZI MUNGU ATAWEKA UHUSIANO MWEMA KWA YULE ANAYEWEKA UHUSIANO MZURI NA JAMAA NA JAMAA"
+  },
+  {
+    "start": 5990,
+    "arabic": "باب يَبُلُّ الرَّحِمَ بِبَلاَلِهَا",
+    "swahili": "MLANGO: AR-RAHM, YAANI, TUMBO LA UZAZI (UHUSIANO WA JAMAA) HUBAKIA MBICHI NA LENYE KUZAA IKIWA MTU HULITUNZA DAIMA."
+  },
+  {
+    "start": 5991,
+    "arabic": "باب لَيْسَ الْوَاصِلُ بِالْمُكَافِي",
+    "swahili": "MLANGO: AL-WASIL SI MWENYE KUMLIPA WEMA ALIOFANYIWA NA JAMAA ZAKE"
+  },
+  {
+    "start": 5992,
+    "arabic": "باب مَنْ وَصَلَ رَحِمَهُ فِي الشِّرْكِ ثُمَّ أَسْلَمَ",
+    "swahili": "MLANGO: MAHUSIANO MAZURI NA KITH NA JAMAA WAKATI MUSHRIK ALISILIMU"
+  },
+  {
+    "start": 5993,
+    "arabic": "باب مَنْ تَرَكَ صَبِيَّةَ غَيْرِهِ حَتَّى تَلْعَبَ بِهِ أَوْ قَبَّلَهَا أَوْ مَازَحَهَا",
+    "swahili": "MLANGO: YEYOTE ALIYEMRUHUSU MSICHANA MDOGO KUCHEZA NAYE"
+  },
+  {
+    "start": 5994,
+    "arabic": "باب رَحْمَةِ الْوَلَدِ وَتَقْبِيلِهِ وَمُعَانَقَتِهِ",
+    "swahili": "MLANGO: KUWA NA HURUMA KWA WATOTO NA KUWAKUMBATIA"
+  },
+  {
+    "start": 6000,
+    "arabic": "باب جَعَلَ اللَّهُ الرَّحْمَةَ مِائَةَ جُزْءٍ",
+    "swahili": "MLANGO: MWENYEZI MUNGU ALIGAWANYA REHEMA KATIKA SEHEMU MIA MOJA"
+  },
+  {
+    "start": 6001,
+    "arabic": "باب قَتْلِ الْوَلَدِ خَشْيَةَ أَنْ يَأْكُلَ مَعَهُ",
+    "swahili": "MLANGO: KUUA WATOTO KWA KUHOFIA KWAMBA WATASHIRIKI MILO (KATIKA KITABU 'S' IMEONGEZWA KWA HISA AMBAZO NIMEACHA HIYO 'S')"
+  },
+  {
+    "start": 6002,
+    "arabic": "باب وَضْعِ الصَّبِيِّ فِي الْحِجْرِ",
+    "swahili": "MLANGO: KUCHUKUA MTOTO KWENYE PAJA LA MTU"
+  },
+  {
+    "start": 6003,
+    "arabic": "باب وَضْعِ الصَّبِيِّ عَلَى الْفَخِذِ",
+    "swahili": "MLANGO: KUWEKA MTOTO KWENYE PAJA"
+  },
+  {
+    "start": 6004,
+    "arabic": "باب حُسْنُ الْعَهْدِ مِنَ الإِيمَانِ",
+    "swahili": "MLANGO: KUSHIKA AGANO LA MTU NI SEHEMU YA IMANI"
+  },
+  {
+    "start": 6005,
+    "arabic": "باب فَضْلِ مَنْ يَعُولُ يَتِيمًا",
+    "swahili": "MLANGO: UBORA WA YULE ANAYEMCHUNGA YATIMA."
+  },
+  {
+    "start": 6006,
+    "arabic": "باب السَّاعِي عَلَى الأَرْمَلَةِ",
+    "swahili": "MLANGO: YULE ANAYEMTUNZA NA KUMFANYIA KAZI MJANE"
+  },
+  {
+    "start": 6007,
+    "arabic": "باب السَّاعِي عَلَى الْمِسْكِينِ",
+    "swahili": "MLANGO: MWENYE KUANGALIA NA KUFANYA KAZI KWA AL-MISKIN"
+  },
+  {
+    "start": 6008,
+    "arabic": "باب رَحْمَةِ النَّاسِ وَالْبَهَائِمِ",
+    "swahili": "MLANGO: KUWA NA HURUMA KWA WATU NA KWA WANYAMA"
+  },
+  {
+    "start": 6014,
+    "arabic": "باب الْوَصَاةِ بِالْجَارِ",
+    "swahili": "MLANGO: KUPENDEKEZA KUWA MKARIMU KWA JIRANI YAKO"
+  },
+  {
+    "start": 6016,
+    "arabic": "باب إِثْمِ مَنْ لاَ يَأْمَنُ جَارُهُ بَوَايِقَهُ",
+    "swahili": "MLANGO: MTU AMBAYE JIRANI YAKE HAJISIKII SALAMA KUTOKANA NA UOVU WAKE"
+  },
+  {
+    "start": 6017,
+    "arabic": "باب لاَ تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا",
+    "swahili": "MLANGO: MWANAMKE-JIRANI HATAKIWI KUDHALILISHA CHOCHOTE ANACHOPEWA NA MWANAMKE-JIRANI YAKE"
+  },
+  {
+    "start": 6018,
+    "arabic": "باب مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلاَ يُؤْذِ جَارَهُ",
+    "swahili": "MLANGO: MWENYE KUMUAMINI MWENYEZI MUNGU NA SIKU YA MWISHO ASIMDHURU JIRANI YAKE"
+  },
+  {
+    "start": 6020,
+    "arabic": "باب حَقِّ الْجِوَارِ فِي قُرْبِ الأَبْوَابِ",
+    "swahili": "MLANGO: JIRANI AMBAYE LANGO LAKE LIKO KARIBU ANA HAKI ZAIDI YA KUPOKEA UPENDELEO"
+  },
+  {
+    "start": 6021,
+    "arabic": "باب كُلُّ مَعْرُوفٍ صَدَقَةٌ",
+    "swahili": "MLANGO: KUAMRISHA YOTE AMBAYO NI AL-MA'RUF INACHUKULIWA KUWA NI SADAKA"
+  },
+  {
+    "start": 6023,
+    "arabic": "باب طِيبِ الْكَلاَمِ",
+    "swahili": "MLANGO: HOTUBA YA KUPENDEZA YA KIRAFIKI"
+  },
+  {
+    "start": 6024,
+    "arabic": "باب الرِّفْقِ فِي الأَمْرِ كُلِّهِ",
+    "swahili": "MLANGO: KUWA MKARIMU NA MPOLE KATIKA MAMBO YOTE"
+  },
+  {
+    "start": 6026,
+    "arabic": "باب تَعَاوُنِ الْمُؤْمِنِينَ بَعْضِهِمْ بَعْضًا",
+    "swahili": "MLANGO: USHIRIKIANO KATI YA WAUMINI"
+  },
+  {
+    "start": 6028,
+    "arabic": "بَابُ قَوْلِ اللَّهِ تَعَالَى: {مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَصِيبٌ مِنْهَا وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَا وَكَانَ اللَّهُ عَلَى كُلِّ شَيْءٍ مُقِيتًا}",
+    "swahili": "MLANGO: \"MWENYE KUOMBEA MEMA ATAPATA UJIRA WAKE...\""
+  },
+  {
+    "start": 6029,
+    "arabic": "باب لَمْ يَكُنِ النَّبِيُّ صلى الله عليه وسلم فَاحِشًا وَلاَ مُتَفَحِّشًا",
+    "swahili": "MLANGO: MTUME (SAW) HAKUWA FAHISH WALA MUTAFAHHISH"
+  },
+  {
+    "start": 6033,
+    "arabic": "باب حُسْنِ الْخُلُقِ، وَالسَّخَاءِ، وَمَا يُكْرَهُ مِنَ الْبُخْلِ",
+    "swahili": "MLANGO: TABIA NJEMA, UKARIMU, NA UBAKHILI"
+  },
+  {
+    "start": 6039,
+    "arabic": "باب كَيْفَ يَكُونُ الرَّجُلُ فِي أَهْلِهِ",
+    "swahili": "MLANGO: MWANAUME ANAPASWA KUWAJE NA FAMILIA YAKE?"
+  },
+  {
+    "start": 6040,
+    "arabic": "باب الْمِقَةِ مِنَ اللَّهِ تَعَالَى",
+    "swahili": "MLANGO: MAPENZI YANATOKA KWA MWENYEZI MUNGU MTUKUFU"
+  },
+  {
+    "start": 6041,
+    "arabic": "باب الْحُبِّ فِي اللَّهِ",
+    "swahili": "MLANGO: KUPENDA KWA AJILI YA MWENYEZI MUNGU"
+  },
+  {
+    "start": 6042,
+    "arabic": "بَابُ قَوْلِ اللَّهِ تَعَالَى: {يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَى أَنْ يَكُونُوا خَيْرًا مِنْهُمْ} إِلَى قَوْلِهِ: {فَأُولَئِكَ هُمُ الظَّالِمُونَ}",
+    "swahili": "MLANGO: \"... KUNDI LISIDHIHAKI KUNDI LINGINE..\""
+  },
+  {
+    "start": 6044,
+    "arabic": "باب مَا يُنْهَى مِنَ السِّبَابِ وَاللَّعْنِ",
+    "swahili": "MLANGO: KUITA MAJINA MABAYA NA LAANA"
+  },
+  {
+    "start": 6051,
+    "arabic": "باب مَا يَجُوزُ مِنْ ذِكْرِ النَّاسِ نَحْوَ قَوْلِهِمُ الطَّوِيلُ وَالْقَصِيرُ",
+    "swahili": "MLANGO: KUELEZEA MTU KAMA MREFU AU MFUPI"
+  },
+  {
+    "start": 6052,
+    "arabic": "باب الْغِيبَةِ",
+    "swahili": "MLANGO: KUSENGENYA"
+  },
+  {
+    "start": 6053,
+    "arabic": "باب قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ خَيْرُ دُورِ الأَنْصَارِ ‏\"‏",
+    "swahili": "MLANGO: \"FAMILIA BORA KATI YA ANSARI\""
+  },
+  {
+    "start": 6054,
+    "arabic": "باب مَا يَجُوزُ مِنِ اغْتِيَابِ أَهْلِ الْفَسَادِ وَالرِّيَبِ",
+    "swahili": "MLANGO: KEJELI, WATU WAOVU NA WENYE TUHUMA"
+  },
+  {
+    "start": 6055,
+    "arabic": "باب النَّمِيمَةُ مِنَ الْكَبَائِرِ",
+    "swahili": "MLANGO: AN_NAMIMA NI MIONGONI MWA MADHAMBI MAKUBWA"
+  },
+  {
+    "start": 6056,
+    "arabic": "باب مَا يُكْرَهُ مِنَ النَّمِيمَةِ",
+    "swahili": "MLANGO: NINI HAIPENDI KWA NAMIMA"
+  },
+  {
+    "start": 6057,
+    "arabic": "باب قَوْلِ اللَّهِ تَعَالَى ‏{‏وَاجْتَنِبُوا قَوْلَ الزُّورِ‏}",
+    "swahili": "MLANGO: \"...NA EPUKA USEMI WA UWONGO.\""
+  },
+  {
+    "start": 6058,
+    "arabic": "باب مَا قِيلَ فِي ذِي الْوَجْهَيْنِ",
+    "swahili": "MLANGO: NI NINI KINACHOSEMWA JUU YA MTU MWENYE SURA MBILI"
+  },
+  {
+    "start": 6059,
+    "arabic": "باب مَنْ أَخْبَرَ صَاحِبَهُ، بِمَا يُقَالُ فِيهِ",
+    "swahili": "MLANGO: ILI KUMJULISHA RAFIKI KILE AMBACHO KIMESEMWA JUU YAKE."
+  },
+  {
+    "start": 6060,
+    "arabic": "باب مَا يُكْرَهُ مِنَ التَّمَادُحِ",
+    "swahili": "MLANGO: NI NINI HAKIPENDI KUMSIFU MTU]"
+  },
+  {
+    "start": 6062,
+    "arabic": "باب مَنْ أَثْنَى عَلَى أَخِيهِ بِمَا يَعْلَمُ",
+    "swahili": "MLANGO: MWENYE KUMSIFU NDUGUYE KWA HAYO ANAJUA"
+  },
+  {
+    "start": 6063,
+    "arabic": "بَابُ قَوْلِ اللَّهِ تَعَالَى: {إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ}",
+    "swahili": "MLANGO: 'HAKIKA! MWENYEZI MUNGU ANAAMRISHA AL-'ADL NA AL-IHSAN, NA KUWAPA JAMAA NA JAMAA NA ANAHARAMISHA AL-FAHSHAA' NA AL-MUNKAR NA AL-BAGHY ANAKUNASIHINI ILI MPATE KUKUMBUKA.\""
+  },
+  {
+    "start": 6064,
+    "arabic": "بَابُ مَا يُنْهَى عَنِ التَّحَاسُدِ وَالتَّدَابُرِ",
+    "swahili": "MLANGO: WIVU NA KUACHANA NI HARAMU."
+  },
+  {
+    "start": 6066,
+    "arabic": "باب ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلاَ تَجَسَّسُوا‏}‏",
+    "swahili": "MLANGO: ENYI MLIO AMINI! JIEPUSHENI NA DHANA NYINGI, HAKIKA BAADHI YA DHANA NI DHAMBI."
+  },
+  {
+    "start": 6067,
+    "arabic": "باب مَا يَكُونُ مِنَ الظَّنِّ",
+    "swahili": "MLANGO: NI AINA GANI YA TUHUMA INARUHUSIWA."
+  },
+  {
+    "start": 6069,
+    "arabic": "باب سَتْرِ الْمُؤْمِنِ عَلَى نَفْسِهِ",
+    "swahili": "MLANGO: MUUMINI ANAPASWA KUFICHA DHAMBI ANAZOFANYA"
+  },
+  {
+    "start": 6071,
+    "arabic": "باب الْكِبْرِ",
+    "swahili": "MLANGO: KIBURI NA MAJIVUNO"
+  },
+  {
+    "start": "6073-6075",
+    "arabic": "باب الْهِجْرَةِ",
+    "swahili": "MLANGO: AL-HIJRA"
+  },
+  {
+    "start": 6078,
+    "arabic": "باب مَا يَجُوزُ مِنَ الْهِجْرَانِ لِمَنْ عَصَى",
+    "swahili": "MLANGO: KUACHWA KWA MTU MWENYE DHAMBI"
+  },
+  {
+    "start": 6079,
+    "arabic": "باب هَلْ يَزُورُ صَاحِبَهُ كُلَّ يَوْمٍ أَوْ بُكْرَةً وَعَشِيًّا",
+    "swahili": "MLANGO: JE, MTU ANAWEZA KUMTEMBELEA RAFIKI YAKE KILA SIKU, AU KUMTEMBELEA ASUBUHI NA JIONI?"
+  },
+  {
+    "start": 6080,
+    "arabic": "باب الزِّيَارَةِ وَمَنْ زَارَ قَوْمًا فَطَعِمَ عِنْدَهُمْ",
+    "swahili": "MLANGO: ULIPAJI WA ZIARA"
+  },
+  {
+    "start": 6081,
+    "arabic": "باب مَنْ تَجَمَّلَ لِلْوُفُودِ",
+    "swahili": "MLANGO: YEYOTE ALIYEJITOKEZA KWA AJILI YA WAJUMBE."
+  },
+  {
+    "start": 6082,
+    "arabic": "باب الإِخَاءِ وَالْحِلْفِ",
+    "swahili": "MLANGO: KUANZISHWA KWA DHAMANA YA UDUGU NA HITIMISHO LA MKATABA"
+  },
+  {
+    "start": 6084,
+    "arabic": "باب التَّبَسُّمِ وَالضَّحِكِ",
+    "swahili": "MLANGO: KUTABASAMU NA KUCHEKA"
+  },
+  {
+    "start": 6094,
+    "arabic": "بَابُ قَوْلِ اللَّهِ تَعَالَى: {يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ} وَمَا يُنْهَى عَنِ الْكَذِبِ",
+    "swahili": "MLANGO: \"ENYI MLIO AMINI! MCHENI MWENYEZI MUNGU, NA KUWENI PAMOJA NA WAKWELI.\""
+  },
+  {
+    "start": 6097,
+    "arabic": "باب فِي الْهَدْىِ الصَّالِحِ",
+    "swahili": "MLANGO: NJIA YA HAKI AU MWONGOZO"
+  },
+  {
+    "start": 6099,
+    "arabic": "باب الصَّبْرِ عَلَى الأَذَى",
+    "swahili": "MLANGO: KUWA NA SUBIRA MTU ANAPODHURIKA"
+  },
+  {
+    "start": 6101,
+    "arabic": "باب مَنْ لَمْ يُوَاجِهِ النَّاسَ بِالْعِتَابِ",
+    "swahili": "MLANGO: AMBAO HAWAKUWA NA MAWAIDHA WATU KATIKA NYUSO ZAO"
+  },
+  {
+    "start": 6103,
+    "arabic": "باب مَنْ كَفَّرَ أَخَاهُ بِغَيْرِ تَأْوِيلٍ فَهْوَ كَمَا قَالَ",
+    "swahili": "MLANGO: YEYOTE ANAYEMWITA NDUGU YAKE KAFIR BILA YA SABABU YOYOTE"
+  },
+  {
+    "start": 6106,
+    "arabic": "باب مَنْ لَمْ يَرَ إِكْفَارَ مَنْ قَالَ ذَلِكَ مُتَأَوِّلاً أَوْ جَاهِلاً",
+    "swahili": "MLANGO: YEYOTE ASIYEMCHUKULIA KAMA KAFIR MTU ANAYESEMA HIVYO..."
+  },
+  {
+    "start": 6109,
+    "arabic": "بَابُ مَا يَجُوزُ مِنَ الْغَضَبِ وَالشِّدَّةِ لأَمْرِ اللَّهِ",
+    "swahili": "MLANGO: NINI CHA KUSEMA WAKATI MTU ANA HASIRA AU MKALI KWA AJILI YA MWENYEZI MUNGU"
+  },
+  {
+    "start": 6114,
+    "arabic": "باب الْحَذَرِ مِنَ الْغَضَبِ",
+    "swahili": "MLANGO: KUWA MWANGALIFU KUTOKA KWA HASIRA"
+  },
+  {
+    "start": 6117,
+    "arabic": "باب الْحَيَاءِ",
+    "swahili": "MLANGO: AL-HAYD"
+  },
+  {
+    "start": 6120,
+    "arabic": "باب إِذَا لَمْ تَسْتَحِي فَاصْنَعْ مَا شِئْتَ",
+    "swahili": "MLANGO: \"NA IKIWA HAUONI AIBU, BASI FANYA CHOCHOTE UNACHOPENDA.\""
+  },
+  {
+    "start": 6121,
+    "arabic": "باب مَا لاَ يُسْتَحْيَا مِنَ الْحَقِّ لِلتَّفَقُّهِ فِي الدِّينِ",
+    "swahili": "MLANGO: USIONE HAYA KWA UKWELI KUELEWA DINI"
+  },
+  {
+    "start": 6124,
+    "arabic": "باب قَوْلِ النَّبِيِّ صلى الله عليه وسلم: «يَسِّرُوا وَلاَ تُعَسِّرُوا»",
+    "swahili": "MLANGO: \"RAHISISHA MAMBO KWA WATU NA USIFANYE MAMBO KUWA MAGUMU KWAO.\""
+  },
+  {
+    "start": 6129,
+    "arabic": "باب الاِنْبِسَاطِ إِلَى النَّاسِ",
+    "swahili": "MLANGO: KUWA MCHANGAMFU NA WATU"
+  },
+  {
+    "start": 6131,
+    "arabic": "باب الْمُدَارَاةِ مَعَ النَّاسِ",
+    "swahili": "MLANGO: KUWA MPOLE NA MWENYE ADABU NA WATU."
+  },
+  {
+    "start": 6133,
+    "arabic": "باب لاَ يُلْدَغُ الْمُؤْمِنُ مِنْ جُحْرٍ مَرَّتَيْنِ",
+    "swahili": "MLANGO: MUUMINI ASICHOMWE MARA MBILI KWA SHIMO MOJA"
+  },
+  {
+    "start": 6134,
+    "arabic": "باب حَقِّ الضَّيْفِ",
+    "swahili": "MLANGO: HAKI YA MGENI"
+  },
+  {
+    "start": 6135,
+    "arabic": "بَابُ إِكْرَامِ الضَّيْفِ وَخِدْمَتِهِ إِيَّاهُ بِنَفْسِهِ",
+    "swahili": "MLANGO: KUMHESHIMU MGENI NA KUMTUMIKIA"
+  },
+  {
+    "start": 6139,
+    "arabic": "باب صُنْعِ الطَّعَامِ وَالتَّكَلُّفِ لِلضَّيْفِ",
+    "swahili": "MLANGO: KUANDAA CHAKULA KWA MGENI"
+  },
+  {
+    "start": 6140,
+    "arabic": "باب مَا يُكْرَهُ مِنَ الْغَضَبِ وَالْجَزَعِ عِنْدَ الضَّيْفِ",
+    "swahili": "MLANGO: HASIRA NA PAPARA MBELE YA MGENI"
+  },
+  {
+    "start": 6141,
+    "arabic": "باب قَوْلِ الضَّيْفِ لِصَاحِبِهِ لاَ آكُلُ حَتَّى تَأْكُلَ",
+    "swahili": "MLANGO: \"WALLAHI, SITAKULA MPAKA MLE.\""
+  },
+  {
+    "start": 6142,
+    "arabic": "باب إِكْرَامِ الْكَبِيرِ وَيَبْدَأُ الأَكْبَرُ بِالْكَلاَمِ وَالسُّؤَالِ",
+    "swahili": "MLANGO: KUHESHIMU WAZEE AMBAO WANAPASWA KUANZA KUZUNGUMZA"
+  },
+  {
+    "start": 6145,
+    "arabic": "باب مَا يَجُوزُ مِنَ الشِّعْرِ وَالرَّجَزِ وَالْحُدَاءِ وَمَا يُكْرَهُ مِنْهُ",
+    "swahili": "MLANGO: NI AINA GANI ZA MASHAIRI, RAJAZ NA HUDA ZINARUHUSIWA"
+  },
+  {
+    "start": 6150,
+    "arabic": "باب هِجَاءِ الْمُشْرِكِينَ",
+    "swahili": "MLANGO: LAMPOONING AL-MUSHRIKIN"
+  },
+  {
+    "start": 6154,
+    "arabic": "بَابُ مَا يُكْرَهُ أَنْ يَكُونَ الْغَالِبُ عَلَى الإِنْسَانِ الشِّعْرُ حَتَّى يَصُدَّهُ عَنْ ذِكْرِ اللَّهِ وَالْعِلْمِ وَالْقُرْآنِ",
+    "swahili": "MLANGO: KUJIINGIZA KATIKA USHAIRI"
+  },
+  {
+    "start": 6156,
+    "arabic": "باب قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ تَرِبَتْ يَمِينُكَ ‏\"‏‏.‏ ‏\"‏ وَعَقْرَى حَلْقَى ‏\"‏‏.‏",
+    "swahili": "MLANGO: TARIBAT YAMINUKA NA AQRA HALQA"
+  },
+  {
+    "start": 6158,
+    "arabic": "باب مَا جَاءَ فِي زَعَمُوا",
+    "swahili": "MLANGO: \"WALIDHANI AU KUDAI KUWA ...\""
+  },
+  {
+    "start": 6159,
+    "arabic": "باب مَا جَاءَ فِي قَوْلِ الرَّجُلِ وَيْلَكَ",
+    "swahili": "MLANGO: KUSEMA \"WAILAKA.\""
+  },
+  {
+    "start": 6168,
+    "arabic": "بَابُ عَلاَمَةِ حُبِّ اللَّهِ عَزَّ وَجَلَّ",
+    "swahili": "MLANGO: DALILI ZA KUMPENDA MWENYEZI MUNGU"
+  },
+  {
+    "start": 6172,
+    "arabic": "باب قَوْلِ الرَّجُلِ لِلرَّجُلِ اخْسَأْ",
+    "swahili": "MLANGO: KAULI YA MTU KWA MTU MWINGINE: IKHSA"
+  },
+  {
+    "start": 6176,
+    "arabic": "باب قَوْلِ الرَّجُلِ مَرْحَبًا",
+    "swahili": "MLANGO: KUSEMA: \"MARAHABA\""
+  },
+  {
+    "start": 6177,
+    "arabic": "باب مَا يُدْعَى النَّاسُ بِآبَائِهِمْ",
+    "swahili": "MLANGO: KUWAITA WATU KWA JINA LA BABA YAO"
+  },
+  {
+    "start": 6179,
+    "arabic": "باب لاَ يَقُلْ خَبُثَتْ نَفْسِي",
+    "swahili": "MLANGO: MTU ASISEME 'KHABUTHAT NAFSI'"
+  },
+  {
+    "start": 6181,
+    "arabic": "باب لاَ تَسُبُّوا الدَّهْرَ",
+    "swahili": "MLANGO: USITUMIE VIBAYA AD-DAHR"
+  },
+  {
+    "start": 6183,
+    "arabic": "باب قَوْلِ النَّبِيِّ صلى الله عليه وسلم: «إِنَّمَا الْكَرْمُ قَلْبُ الْمُؤْمِنِ»",
+    "swahili": "MLANGO: “AL-KARM NI MOYO WA MUUMINI TU"
+  },
+  {
+    "start": 6184,
+    "arabic": "باب قَوْلِ الرَّجُلِ فَدَاكَ أَبِي وَأُمِّي",
+    "swahili": "MLANGO: KUSEMA \"WACHA BABA YANGU NA MAMA YANGU WATOLEWE SADAKA KWA AJILI YAKO\"."
+  },
+  {
+    "start": 6185,
+    "arabic": "باب قَوْلِ الرَّجُلِ جَعَلَنِي اللَّهُ فِدَاكَ",
+    "swahili": "MLANGO: KUSEMA \"MWENYEZI MUNGU ANITOE SADAKA KWA AJILI YAKO\"."
+  },
+  {
+    "start": 6186,
+    "arabic": "باب أَحَبِّ الأَسْمَاءِ إِلَى اللَّهِ عَزَّ وَجَلَّ",
+    "swahili": "MLANGO: MAJINA YANAYOPENDWA SANA NA ALLAH 'AZZA WA JALL"
+  },
+  {
+    "start": 6187,
+    "arabic": "باب قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏",
+    "swahili": "MLANGO: \"JITAJIENI KWA JINA LANGU, LAKINI MSIJIITE KWA KUNYAH YANGU.\""
+  },
+  {
+    "start": 6190,
+    "arabic": "باب اسْمِ الْحَزْنِ",
+    "swahili": "MLANGO: JINA LA JINA: 'AL-HAZN'"
+  },
+  {
+    "start": 6191,
+    "arabic": "باب تَحْوِيلِ الاِسْمِ إِلَى اسْمٍ أَحْسَنَ مِنْهُ",
+    "swahili": "MLANGO: ILI KUBADILISHA JINA KWA JINA BORA"
+  },
+  {
+    "start": 6194,
+    "arabic": "باب مَنْ سَمَّى بِأَسْمَاءِ الأَنْبِيَاءِ",
+    "swahili": "MLANGO: MWENYE KUTAJA KWA MAJINA YA MITUME."
+  },
+  {
+    "start": 6200,
+    "arabic": "باب تَسْمِيَةِ الْوَلِيدِ",
+    "swahili": "MLANGO: KWA JINA: 'AL-WALID'"
+  },
+  {
+    "start": 6201,
+    "arabic": "باب مَنْ دَعَا صَاحِبَهُ فَنَقَصَ مِنِ اسْمِهِ حَرْفًا",
+    "swahili": "MLANGO: YEYOTE, AKIMWITA RAFIKI, ANAACHA BARUA KUTOKA KWA JINA LAKE"
+  },
+  {
+    "start": 6203,
+    "arabic": "باب الْكُنْيَةِ لِلصَّبِيِّ وَقَبْلَ أَنْ يُولَدَ لِلرَّجُلِ",
+    "swahili": "MLANGO: MTOTO ANAWEZA KUPEWA AL-KUNYAH NA MMOJA ANAWEZA KUPEWA AL-KUNYAH KABLA YA WATOTO"
+  },
+  {
+    "start": 6204,
+    "arabic": "باب التَّكَنِّي بِأَبِي تُرَابٍ، وَإِنْ كَانَتْ لَهُ كُنْيَةٌ أُخْرَى",
+    "swahili": "MLANGO: KUITWA ABU TURAB, INGAWA MTU TAYARI ANA JINA LINGINE LA KUNYAH"
+  },
+  {
+    "start": 6205,
+    "arabic": "باب أَبْغَضِ الأَسْمَاءِ إِلَى اللَّهِ",
+    "swahili": "MLANGO: JINA AMBALO MWENYEZI MUNGU AMECHUKIA ZAIDI."
+  },
+  {
+    "start": 6207,
+    "arabic": "باب كُنْيَةِ الْمُشْرِكِ",
+    "swahili": "MLANGO: KUNYAH YA AL-MUSHRIK."
+  },
+  {
+    "start": 6209,
+    "arabic": "باب الْمَعَارِيضُ مَنْدُوحَةٌ عَنِ الْكَذِبِ",
+    "swahili": "MLANGO: AL-MA'ARID NI NJIA SALAMA YA KUEPUKA UWONGO"
+  },
+  {
+    "start": 6213,
+    "arabic": "باب قَوْلِ الرَّجُلِ لِلشَّىْءِ لَيْسَ بِشَىْءٍ وَهْوَ يَنْوِي أَنَّهُ لَيْسَ بِحَقٍّ‏‏",
+    "swahili": "MLANGO: UFAFANUZI WA KITU KWA MWANAUME KAMA 'SICHOCHOTE' HUKU AKIMAANISHA KUWA SI KWELI"
+  },
+  {
+    "start": 6214,
+    "arabic": "باب رَفْعِ الْبَصَرِ إِلَى السَّمَاءِ",
+    "swahili": "MLANGO: KUINUA MACHO KUELEKEA ANGANI"
+  },
+  {
+    "start": 6216,
+    "arabic": "باب نَكْتِ الْعُودِ فِي الْمَاءِ وَالطِّينِ",
+    "swahili": "MLANGO: YEYOTE ALIYECHOVYA FIMBO KWENYE MAJI NA MATOPE"
+  },
+  {
+    "start": 6217,
+    "arabic": "باب الرَّجُلِ يَنْكُتُ الشَّىْءَ بِيَدِهِ فِي الأَرْضِ",
+    "swahili": "MLANGO: MTU ANAWEZA KUKWANGUA ARDHI"
+  },
+  {
+    "start": 6218,
+    "arabic": "باب التَّكْبِيرِ وَالتَّسْبِيحِ عِنْدَ التَّعَجُّبِ",
+    "swahili": "MLANGO: KAULI YA TAKBIR NA TASBIHI WAKATI WA MAAJABU"
+  },
+  {
+    "start": 6220,
+    "arabic": "باب النَّهْىِ عَنِ الْخَذْفِ",
+    "swahili": "MLANGO: NI MARUFUKU KURUSHA MAWE"
+  },
+  {
+    "start": 6221,
+    "arabic": "باب الْحَمْدِ لِلْعَاطِسِ",
+    "swahili": "MLANGO: KUSEMA 'AL-HAMDU-LILLAH' JUU YA KUPIGA CHAFYA"
+  },
+  {
+    "start": 6222,
+    "arabic": "باب تَشْمِيتِ الْعَاطِسِ إِذَا حَمِدَ اللَّهَ",
+    "swahili": "MLANGO: TASHMU KWA MWENYE KUPIGA CHAFYA IKIWA ATAMHIMIDI MWENYEZI MUNGU"
+  },
+  {
+    "start": 6223,
+    "arabic": "باب مَا يُسْتَحَبُّ مِنَ الْعُطَاسِ، وَمَا يُكْرَهُ مِنَ التَّثَاؤُبِ",
+    "swahili": "MLANGO: KUPIGA CHAFYA, NA KUPIGA MIAYO"
+  },
+  {
+    "start": 6224,
+    "arabic": "باب إِذَا عَطَسَ كَيْفَ يُشَمَّتُ",
+    "swahili": "MLANGO: MTU ANAPOPIGA CHAFYA, NI NINI KINAPASWA KUSEMWA?"
+  },
+  {
+    "start": 6225,
+    "arabic": "باب لاَ يُشَمَّتُ الْعَاطِسُ إِذَا لَمْ يَحْمَدِ اللَّهَ",
+    "swahili": "MLANGO: TASHMU ISISEMWE KWA MWENYE KUPIGA CHAFYA IKIWA HASEMI 'AL-HAMDU-LILLAH'."
+  },
+  {
+    "start": 6226,
+    "arabic": "باب إِذَا تَثَاوَبَ فَلْيَضَعْ يَدَهُ عَلَى فِيهِ",
+    "swahili": "MLANGO: IKIWA MTU ANAPIGA MIAYO, ANAPASWA KUWEKA MKONO WAKE JUU YA KINYWA CHAKE"
+  }
+]

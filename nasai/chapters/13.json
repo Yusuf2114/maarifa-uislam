@@ -1,0 +1,527 @@
+[
+  {
+    "start": "1179",
+    "arabic": "باب التَّكْبِيرِ إِذَا قَامَ مِنَ الرَّكْعَتَيْنِ",
+    "swahili": "MLANGO: TAKBIRA WAKATI WA KUSIMAMA KWA KUFUATA RAKAA MBILI"
+  },
+  {
+    "start": "1181",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ فِي الْقِيَامِ إِلَى الرَّكْعَتَيْنِ الأُخْرَيَيْنِ",
+    "swahili": "MLANGO: KUINUA MIKONO WAKATI WA KUSIMAMA KWA RAKAA MBILI ZA MWISHO"
+  },
+  {
+    "start": "1182",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ لِلْقِيَامِ إِلَى الرَّكْعَتَيْنِ الأُخْرَيَيْنِ حَذْوَ الْمَنْكِبَيْنِ",
+    "swahili": "MLANGO: KUINUA MIKONO SAWA NA MABEGA WAKATI WA KUSIMAMA KWA RAKAA MBILI ZA MWISHO"
+  },
+  {
+    "start": "1183",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ وَحَمْدِ اللَّهِ وَالثَّنَاءِ عَلَيْهِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUINUA MIKONO, NA KUMHIMIDI NA KUMHIMIDI MWENYEZI MUNGU WAKATI WA SWALA"
+  },
+  {
+    "start": "1184",
+    "arabic": "باب السَّلاَمِ بِالأَيْدِي فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUSALIMIA WATU KWA ISHARA YA MKONO WAKATI WA KUOMBA"
+  },
+  {
+    "start": "1186",
+    "arabic": "باب رَدِّ السَّلاَمِ بِالإِشَارَةِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KURUDISHA SALAMU KWA ISHARA WAKATI WA KUSWALI"
+  },
+  {
+    "start": "1191",
+    "arabic": "باب النَّهْىِ عَنْ مَسْحِ الْحَصَى، فِي الصَّلاَةِ",
+    "swahili": "MLANGO: UHARAMU WA KULAINISHA KOKOTO WAKATI WA KUSWALI"
+  },
+  {
+    "start": "1192",
+    "arabic": "باب الرُّخْصَةِ فِيهِ مَرَّةً",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MTU KUFANYA HIVYO MARA MOJA"
+  },
+  {
+    "start": "1193",
+    "arabic": "باب النَّهْىِ عَنْ رَفْعِ الْبَصَرِ، إِلَى السَّمَاءِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: UHARAMU WA KUNYANYUA MACHO MBINGUNI WAKATI WA KUSWALI"
+  },
+  {
+    "start": "1195",
+    "arabic": "باب التَّشْدِيدِ فِي الاِلْتِفَاتِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: ONYO KALI DHIDI YA KUGEUKA WAKATI WA KUOMBA"
+  },
+  {
+    "start": "1200",
+    "arabic": "باب الرُّخْصَةِ فِي الاِلْتِفَاتِ فِي الصَّلاَةِ يَمِينًا وَشِمَالاً",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MTU KUGEUKIA KULIA AU KUSHOTO WAKATI WA KUOMBA"
+  },
+  {
+    "start": "1202",
+    "arabic": "باب قَتْلِ الْحَيَّةِ وَالْعَقْرَبِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUUA NYOKA NA NGE WAKATI WA KUOMBA"
+  },
+  {
+    "start": "1204",
+    "arabic": "باب حَمْلِ الصَّبَايَا فِي الصَّلاَةِ وَوَضْعِهِنَّ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUBEBA WATOTO WADOGO NA KUWAWEKA CHINI WAKATI WA KUOMBA"
+  },
+  {
+    "start": "1206",
+    "arabic": "باب الْمَشْىِ أَمَامَ الْقِبْلَةِ خُطًى يَسِيرَةً",
+    "swahili": "MLANGO: KUCHUKUA HATUA CHACHE KUELEKEA QIBLAH"
+  },
+  {
+    "start": "1207",
+    "arabic": "باب التَّصْفِيقِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUPIGA MAKOFI WAKATI WA MAOMBI"
+  },
+  {
+    "start": "1209",
+    "arabic": "باب التَّسْبِيحِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: TASBIHI WAKATI WA SWALA"
+  },
+  {
+    "start": "1211",
+    "arabic": "باب التَّنَحْنُحِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUSAFISHA KOO WAKATI WA KUOMBA"
+  },
+  {
+    "start": "1214",
+    "arabic": "باب الْبُكَاءِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KULIA WAKATI WA MAOMBI"
+  },
+  {
+    "start": "1215",
+    "arabic": "باب لَعْنِ إِبْلِيسَ وَالتَّعَوُّذِ بِاللَّهِ مِنْهُ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUMLAANI IBLISI NA KUOMBA HIFADHI KWA ALLAH (Mtukufu na aliyetukuka) KUTOKANA NAYE WAKATI WA KUSWALI"
+  },
+  {
+    "start": "1216",
+    "arabic": "باب الْكَلاَمِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: AKIZUNGUMZA WAKATI WA MAOMBI"
+  },
+  {
+    "start": "1222",
+    "arabic": "باب مَا يَفْعَلُ مَنْ قَامَ مِنَ اثْنَتَيْنِ نَاسِيًا وَلَمْ يَتَشَهَّدْ",
+    "swahili": "MLANGO: JE, MTU AFANYE NINI IKIWA ATASIMAMA BAADA YA RAKAA MBILI NA AKASAHAU KUSEMA TASHAHH"
+  },
+  {
+    "start": "1224",
+    "arabic": "باب مَا يَفْعَلُ مَنْ سَلَّمَ مِنْ رَكْعَتَيْنِ نَاسِيًا وَتَكَلَّمَ",
+    "swahili": "MLANGO: JE, MTU AFANYE NINI IKIWA ATASEMA TASLIM KWA KUFUATA RAKAA MBILI KWA KUKOSEA KISHA"
+  },
+  {
+    "start": "1232",
+    "arabic": "باب ذِكْرِ الاِخْتِلاَفِ عَلَى أَبِي هُرَيْرَةَ فِي السَّجْدَتَيْنِ",
+    "swahili": "MLANGO: AKITAJA RIWAYA ZINAZOTOFAUTIANA NA ABU HURAIRA KUHUSU SIJDA MBILI"
+  },
+  {
+    "start": "1238",
+    "arabic": "باب إِتْمَامِ الْمُصَلِّي عَلَى مَا ذَكَرَ إِذَا شَكَّ",
+    "swahili": "MLANGO: MWENYE KUSWALI AKIKAMILISHA (SWALA) JUU YA YALE ANAYOYAKUMBUKA WAKATI ANA SHAKA"
+  },
+  {
+    "start": "1240",
+    "arabic": "باب التَّحَرِّي",
+    "swahili": "MLANGO: KUKADIRIA (NI NINI KINACHOWEZEKANA ZAIDI)"
+  },
+  {
+    "start": "1254",
+    "arabic": "باب مَا يَفْعَلُ مَنْ صَلَّى خَمْسًا",
+    "swahili": "MLANGO: JE, MTU ANAPASWA KUFANYA NINI IKIWA ATASWALI RAKAA TANO?"
+  },
+  {
+    "start": "1260",
+    "arabic": "باب مَا يَفْعَلُ مَنْ نَسِيَ شَيْئًا مِنْ صَلاَتِهِ",
+    "swahili": "MLANGO: JE, MTU ANAPASWA KUFANYA NINI IKIWA AMESAHAU SEHEMU YA SALA YAKE"
+  },
+  {
+    "start": "1261",
+    "arabic": "باب التَّكْبِيرِ فِي سَجْدَتَىِ السَّهْوِ",
+    "swahili": "MLANGO: TAKBIR KWA SIJDA MBILI ZA KUSAHAU"
+  },
+  {
+    "start": "1262",
+    "arabic": "باب صِفَةِ الْجُلُوسِ فِي الرَّكْعَةِ الَّتِي يَقْضِي فِيهَا الصَّلاَةَ",
+    "swahili": "MLANGO: VIPI MTU ANATAKIWA KUKAA KATIKA RAKAA YA MWISHO YA SWALA"
+  },
+  {
+    "start": "1264",
+    "arabic": "باب مَوْضِعِ الذِّرَاعَيْنِ",
+    "swahili": "MLANGO: UWEKAJI WA FOREARMS"
+  },
+  {
+    "start": "1265",
+    "arabic": "باب مَوْضِعِ الْمِرْفَقَيْنِ",
+    "swahili": "MLANGO: UWEKAJI WA VIWIKO"
+  },
+  {
+    "start": "1266",
+    "arabic": "باب مَوْضِعِ الْكَفَّيْنِ",
+    "swahili": "MLANGO: UWEKAJI IKIWA MIKONO"
+  },
+  {
+    "start": "1267",
+    "arabic": "باب قَبْضِ الأَصَابِعِ مِنَ الْيَدِ الْيُمْنَى دُونَ السَّبَّابَةِ",
+    "swahili": "MLANGO: KUKUNJA VIDOLE VYA MKONO WA KULIA KANDO NA KIDOLE CHA MBELE"
+  },
+  {
+    "start": "1268",
+    "arabic": "باب قَبْضِ الثِّنْتَيْنِ مِنْ أَصَابِعِ الْيَدِ الْيُمْنَى وَعَقْدِ الْوُسْطَى وَالإِبْهَامِ مِنْهَا",
+    "swahili": "MLANGO: KUKUNJA VIDOLE VIWILI VYA MKONO WA KULIA NA KUTENGENEZA MDUARA NA KIDOLE CHA KATI"
+  },
+  {
+    "start": "1269",
+    "arabic": "باب بَسْطِ الْيُسْرَى عَلَى الرُّكْبَةِ",
+    "swahili": "MLANGO: KUWEKA MKONO WA KUSHOTO JUU YA GOTI"
+  },
+  {
+    "start": "1271",
+    "arabic": "باب الإِشَارَةِ بِالأُصْبُعِ فِي التَّشَهُّدِ",
+    "swahili": "MLANGO: KUASHIRIA KWA KIDOLE WAKATI WA TASHAHHUD"
+  },
+  {
+    "start": "1272",
+    "arabic": "باب النَّهْىِ عَنِ الإِشَارَةِ، بِأُصْبُعَيْنِ وَبِأَىِّ أُصْبُعٍ يُشِيرُ",
+    "swahili": "MLANGO: MARUFUKU YA KUNYOOSHA VIDOLE VIWILI NA NI KIDOLE KIPI MTU ANYOOSHEE"
+  },
+  {
+    "start": "1274",
+    "arabic": "باب إِحْنَاءِ السَّبَّابَةِ فِي الإِشَارَةِ",
+    "swahili": "MLANGO: KUKUNJA KIDOLE WAKATI WA KUASHIRIA"
+  },
+  {
+    "start": "1275",
+    "arabic": "باب مَوْضِعِ الْبَصَرِ عِنْدَ الإِشَارَةِ وَتَحْرِيكِ السَّبَّابَةِ",
+    "swahili": "MLANGO: MAHALI PA KUANGALIA WAKATI WA KUASHIRIA NA KUSONGA KIDOLE CHA MBELE"
+  },
+  {
+    "start": "1276",
+    "arabic": "باب النَّهْىِ عَنْ رَفْعِ الْبَصَرِ، إِلَى السَّمَاءِ عِنْدَ الدُّعَاءِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: UHARAMU WA KUNYANYUA MACHO MBINGUNI WAKATI WA KUOMBA DUA"
+  },
+  {
+    "start": "1277",
+    "arabic": "باب إِيجَابِ التَّشَهُّدِ",
+    "swahili": "MLANGO: WAJIBU WA TASHAHHUD"
+  },
+  {
+    "start": "1278",
+    "arabic": "باب تَعْلِيمِ التَّشَهُّدِ كَتَعْلِيمِ السُّورَةِ مِنَ الْقُرْآنِ",
+    "swahili": "MLANGO: KUFUNDISHA TASHAHHUD KAMA VILE MTU ANAVYOFUNDISHA SURAH YA QURAN"
+  },
+  {
+    "start": "1279",
+    "arabic": "باب كَيْفَ التَّشَهُّدُ",
+    "swahili": "MLANGO: KINACHOSEMWA KWA TASHAHHUD"
+  },
+  {
+    "start": "1280",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ التَّشَهُّدِ",
+    "swahili": "MLANGO: TOLEO JINGINE LA TASHAHHUD"
+  },
+  {
+    "start": "1281",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ التَّشَهُّدِ",
+    "swahili": "MLANGO: TOLEO JINGINE LA TASHAHHUD"
+  },
+  {
+    "start": "1282",
+    "arabic": "باب السَّلاَمِ عَلَى النَّبِيِّ صلى الله عليه وسلم",
+    "swahili": "MLANGO: KUTUMA SALAMU KWA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM)"
+  },
+  {
+    "start": "1283",
+    "arabic": "باب فَضْلِ التَّسْلِيمِ عَلَى النَّبِيِّ صلى الله عليه وسلم",
+    "swahili": "MLANGO: FADHILA YA KUTUMA SALAMU KWA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM)"
+  },
+  {
+    "start": "1284",
+    "arabic": "باب التَّمْجِيدِ وَالصَّلاَةِ عَلَى النَّبِيِّ صلى الله عليه وسلم فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUMTUKUZA ALLAH (Mtukufu na aliyetukuka) NA KUMSWALIA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM) KATIKA SWALA"
+  },
+  {
+    "start": "1285",
+    "arabic": "باب الأَمْرِ بِالصَّلاَةِ عَلَى النَّبِيِّ صلى الله عليه وسلم",
+    "swahili": "MLANGO: AMRI YA KUTUMA SWALA KWA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM)"
+  },
+  {
+    "start": "1286",
+    "arabic": "باب كَيْفَ الصَّلاَةُ عَلَى النَّبِيِّ صلى الله عليه وسلم",
+    "swahili": "MLANGO: JINSI YA KUTUMA SWALA KWA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM)"
+  },
+  {
+    "start": "1287",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: TOLEO JINGINE"
+  },
+  {
+    "start": "1290",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: TOLEO JINGINE"
+  },
+  {
+    "start": "1293",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: TOLEO JINGINE"
+  },
+  {
+    "start": "1294",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: TOLEO JINGINE"
+  },
+  {
+    "start": "1295",
+    "arabic": "باب الْفَضْلِ فِي الصَّلاَةِ عَلَى النَّبِيِّ صلى الله عليه وسلم",
+    "swahili": "MLANGO: FADHILA ZA KUMSWALIA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM)"
+  },
+  {
+    "start": "1298",
+    "arabic": "باب تَخْيِيرِ الدُّعَاءِ بَعْدَ الصَّلاَةِ عَلَى النَّبِيِّ صلى الله عليه وسلم",
+    "swahili": "MLANGO: KUCHAGUA DUA BAADA YA KUMSWALIA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM)"
+  },
+  {
+    "start": "1299",
+    "arabic": "باب الذِّكْرِ بَعْدَ التَّشَهُّدِ",
+    "swahili": "MLANGO: KUMBUKUMBU BAADA YA TASHAHHUD"
+  },
+  {
+    "start": "1300",
+    "arabic": "باب الدُّعَاءِ بَعْدَ الذِّكْرِ",
+    "swahili": "MLANGO: DUA BAADA YA KUKUMBUKA"
+  },
+  {
+    "start": "1302",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الدُّعَاءِ",
+    "swahili": "MLANGO: AINA NYINGINE YA DUA"
+  },
+  {
+    "start": "1303",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الدُّعَاءِ",
+    "swahili": "MLANGO: AINA NYINGINE YA DUA"
+  },
+  {
+    "start": "1304",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الدُّعَاءِ",
+    "swahili": "MLANGO: AINA NYINGINE YA DUA"
+  },
+  {
+    "start": "1305",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1307",
+    "arabic": "باب التَّعَوُّذِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUTAFUTA HIFADHI KWA ALLAH (Mtukufu na aliyetukuka) WAKATI WA KUSWALI"
+  },
+  {
+    "start": "1308",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: TOLEO JINGINE"
+  },
+  {
+    "start": "1311",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الذِّكْرِ بَعْدَ التَّشَهُّدِ",
+    "swahili": "MLANGO: AINA NYINGINE YA UKUMBUSHO BAADA YA TASHAHHUD"
+  },
+  {
+    "start": "1312",
+    "arabic": "باب تَطْفِيفِ الصَّلاَةِ",
+    "swahili": "MLANGO: KUTOKUOMBA IPASAVYO"
+  },
+  {
+    "start": "1313",
+    "arabic": "باب أَقَلِّ مَا يُجْزِئُ مِنْ عَمَلِ الصَّلاَةِ",
+    "swahili": "MLANGO: KIWANGO CHA CHINI KINACHOHITAJIKA ILI SWALA YAKE IWE SAHIHI"
+  },
+  {
+    "start": "1316",
+    "arabic": "باب السَّلاَمِ",
+    "swahili": "MLANGO: SALAMU"
+  },
+  {
+    "start": "1318",
+    "arabic": "باب مَوْضِعِ الْيَدَيْنِ عِنْدَ السَّلاَمِ",
+    "swahili": "MLANGO: KUWEKA MIKONO WAKATI WA SALAMU"
+  },
+  {
+    "start": "1319",
+    "arabic": "باب كَيْفَ السَّلاَمُ عَلَى الْيَمِينِ",
+    "swahili": "MLANGO: JINSI YA KUSEMA SALAM KWA HAKI YA MTU"
+  },
+  {
+    "start": "1321",
+    "arabic": "باب كَيْفَ السَّلاَمُ عَلَى الشِّمَالِ",
+    "swahili": "MLANGO: JINSI YA KUSEMA SALAM KWA KUSHOTO YA MTU"
+  },
+  {
+    "start": "1326",
+    "arabic": "باب السَّلاَمِ بِالْيَدَيْنِ",
+    "swahili": "MLANGO: KUSALI SALAMU KWA MIKONO"
+  },
+  {
+    "start": "1327",
+    "arabic": "باب تَسْلِيمِ الْمَأْمُومِ حِينَ يُسَلِّمُ الإِمَامُ",
+    "swahili": "MLANGO: MFUASI AKISEMA SALAM PALE IMAM ANAPOSEMA SALAM"
+  },
+  {
+    "start": "1328",
+    "arabic": "باب السُّجُودِ بَعْدَ الْفَرَاغِ مِنَ الصَّلاَةِ",
+    "swahili": "MLANGO: KUSUJUDU BAADA YA KUMALIZA KUSWALI"
+  },
+  {
+    "start": "1329",
+    "arabic": "باب سَجْدَتَىِ السَّهْوِ بَعْدَ السَّلاَمِ وَالْكَلاَمِ",
+    "swahili": "MLANGO: KUSUJUDU KWA KUSAHAU BAADA YA KUSALI NA KUSEMA"
+  },
+  {
+    "start": "1330",
+    "arabic": "باب السَّلاَمِ بَعْدَ سَجْدَتَىِ السَّهْوِ",
+    "swahili": "MLANGO: SALAAM BAADA YA SIJDA MBILI ZA KUSAHAU"
+  },
+  {
+    "start": "1332",
+    "arabic": "باب جَلْسَةِ الإِمَامِ بَيْنَ التَّسْلِيمِ وَالاِنْصِرَافِ",
+    "swahili": "MLANGO: IMAMU AKIKAA BAINA YA TASLIM NA KUONDOKA"
+  },
+  {
+    "start": "1334",
+    "arabic": "باب الاِنْحِرَافِ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: KUGEUKA KUTOKA QIBLAH NA KUELEKEA WATU BAADA YA TASLIM"
+  },
+  {
+    "start": "1335",
+    "arabic": "باب التَّكْبِيرِ بَعْدَ تَسْلِيمِ الإِمَامِ",
+    "swahili": "MLANGO: KUSEMA TAKBIRA BAADA YA IMAMU AMESEMA TASLIM"
+  },
+  {
+    "start": "1336",
+    "arabic": "باب الأَمْرِ بِقِرَاءَةِ الْمُعَوِّذَاتِ بَعْدَ التَّسْلِيمِ مِنَ الصَّلاَةِ",
+    "swahili": "MLANGO: AMRI YA KUSOMA AL-MU'AWWIDHAT BAADA YA KUSEMA TASLIM MWISHONI MWA SWALA."
+  },
+  {
+    "start": "1337",
+    "arabic": "باب الاِسْتِغْفَارِ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: KUOMBA MSAMAHA BAADA YA TASLIM"
+  },
+  {
+    "start": "1338",
+    "arabic": "باب الذِّكْرِ بَعْدَ الاِسْتِغْفَارِ",
+    "swahili": "MLANGO: KUMBUKUMBU BAADA YA KUOMBA MSAMAHA"
+  },
+  {
+    "start": "1339",
+    "arabic": "باب التَّهْلِيلِ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: TAHLIL (KUSEMA LA ILAHA ILLALLAH) BAADA YA TASLIM"
+  },
+  {
+    "start": "1340",
+    "arabic": "باب عَدَدِ التَّهْلِيلِ وَالذِّكْرِ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: NI MARA NGAPI MTU ANATAKIWA KUSOMA TAHLILI NA MAWAIDHA BAADA YA SWALA"
+  },
+  {
+    "start": "1341",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الْقَوْلِ عِنْدَ انْقِضَاءِ الصَّلاَةِ",
+    "swahili": "MLANGO: DUA NYINGINE YA KUOMBWA BAADA YA KUMALIZA SWALA"
+  },
+  {
+    "start": "1343",
+    "arabic": "باب كَمْ مَرَّةً يَقُولُ ذَلِكَ",
+    "swahili": "MLANGO: NI MARA NGAPI KUSEMA HIVYO?"
+  },
+  {
+    "start": "1344",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الذِّكْرِ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: AINA NYINGINE YA UKUMBUSHO BAADA YA TASLIM"
+  },
+  {
+    "start": "1345",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الذِّكْرِ وَالدُّعَاءِ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: AINA NYINGINE YA UKUMBUSHO NA DUA BAADA YA TASLIM"
+  },
+  {
+    "start": "1346",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الدُّعَاءِ عِنْدَ الاِنْصِرَافِ مِنَ الصَّلاَةِ",
+    "swahili": "MLANGO: AINA NYINGINE YA DUA BAADA YA KUMALIZA SWALA"
+  },
+  {
+    "start": "1347",
+    "arabic": "باب التَّعَوُّذِ فِي دُبُرِ الصَّلاَةِ",
+    "swahili": "MLANGO: KUTAFUTA HIFADHI KWA ALLAH (Mtukufu na aliyetukuka) KWA KUFUATA KILA SALA"
+  },
+  {
+    "start": "1348",
+    "arabic": "باب عَدَدِ التَّسْبِيحِ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: IDADI YA TASBIH BAADA YA TASLIM"
+  },
+  {
+    "start": "1349",
+    "arabic": "باب نَوْعٌ آخَرُ مِنْ عَدَدِ التَّسْبِيحِ",
+    "swahili": "MLANGO: IDADI NYINGINE YA NYAKATI ZA KUSOMA TASBIH"
+  },
+  {
+    "start": "1350",
+    "arabic": "باب نَوْعٌ آخَرُ مِنْ عَدَدِ التَّسْبِيحِ",
+    "swahili": "MLANGO: NAMBARI NYINGINE YA TASBIH"
+  },
+  {
+    "start": "1352",
+    "arabic": "باب نَوْعٌ آخَرُ مِنْ عَدَدِ التَّسْبِيحِ",
+    "swahili": "MLANGO: NAMBARI NYINGINE YA TASBIH"
+  },
+  {
+    "start": "1353",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1354",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE"
+  },
+  {
+    "start": "1355",
+    "arabic": "باب عَقْدِ التَّسْبِيحِ",
+    "swahili": "MLANGO: KUHESABU TASBIHI KWENYE VIDOLE VYA MTU"
+  },
+  {
+    "start": "1356",
+    "arabic": "باب تَرْكِ مَسْحِ الْجَبْهَةِ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: KUTOJIFUTA USO BAADA YA KUSEMA TASLIM"
+  },
+  {
+    "start": "1357",
+    "arabic": "باب قُعُودِ الإِمَامِ فِي مُصَلاَّهُ بَعْدَ التَّسْلِيمِ",
+    "swahili": "MLANGO: IMAMU AKIWA AMEKAA MAHALI ALIPOSWALI BAADA YA TASLIM"
+  },
+  {
+    "start": "1359",
+    "arabic": "باب الاِنْصِرَافِ مِنَ الصَّلاَةِ",
+    "swahili": "MLANGO: KUONDOKA BAADA YA KUMALIZA MAOMBI"
+  },
+  {
+    "start": "1362",
+    "arabic": "باب الْوَقْتِ الَّذِي يَنْصَرِفُ فِيهِ النِّسَاءُ مِنَ الصَّلاَةِ",
+    "swahili": "MLANGO: WAKATI AMBAO WANAWAKE WANAPASWA KUONDOKA BAADA YA KUSWALI"
+  },
+  {
+    "start": "1363",
+    "arabic": "باب النَّهْىِ عَنْ مُبَادَرَةِ الإِمَامِ، بِالاِنْصِرَافِ مِنَ الصَّلاَةِ",
+    "swahili": "MLANGO: UHARAMU WA KUTOKA MBELE YA IMAMU BAADA YA SWALA"
+  },
+  {
+    "start": "1364",
+    "arabic": "باب ثَوَابِ مَنْ صَلَّى مَعَ الإِمَامِ حَتَّى يَنْصَرِفَ",
+    "swahili": "MLANGO: MALIPO YA MWENYE KUSWALI PAMOJA NA IMAMU MPAKA AONDOKE"
+  },
+  {
+    "start": "1365",
+    "arabic": "باب الرُّخْصَةِ لِلإِمَامِ فِي تَخَطِّي رِقَابِ النَّاسِ",
+    "swahili": "MLANGO: MAKUBALIANO YA KUMRUHUSU IMAMU KUKANYAGA SHINGO ZA WATU"
+  },
+  {
+    "start": "1366",
+    "arabic": "باب إِذَا قِيلَ لِلرَّجُلِ هَلْ صَلَّيْتَ هَلْ يَقُولُ لاَ",
+    "swahili": "MLANGO: IKIWA MTU ATAAMBIWA \"UMEOMBA?\" JE, ANAPASWA KUSEMA \"HAPANA\"?"
+  }
+]

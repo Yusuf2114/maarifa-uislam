@@ -1,0 +1,607 @@
+[
+  {
+    "start": "1818",
+    "arabic": "باب تَمَنِّي الْمَوْتِ ‏",
+    "swahili": "MLANGO: KUTAMANI KIFO"
+  },
+  {
+    "start": "1822",
+    "arabic": "باب الدُّعَاءِ بِالْمَوْتِ ‏",
+    "swahili": "MLANGO: KUOMBEA KIFO"
+  },
+  {
+    "start": "1824",
+    "arabic": "باب كَثْرَةِ ذِكْرِ الْمَوْتِ ‏",
+    "swahili": "MLANGO: KUKUMBUKA KIFO MARA NYINGI"
+  },
+  {
+    "start": "1826",
+    "arabic": "باب تَلْقِينِ الْمَيِّتِ ‏",
+    "swahili": "MLANGO: KUMSHAWISHI MTU ANAYEKUFA TALQIN"
+  },
+  {
+    "start": "1828",
+    "arabic": "باب عَلاَمَةِ مَوْتِ الْمُؤْمِنِ ‏",
+    "swahili": "MLANGO: ISHARA YA KIFO CHA MUUMINI"
+  },
+  {
+    "start": "1830",
+    "arabic": "باب شِدَّةِ الْمَوْتِ ‏",
+    "swahili": "MLANGO: UGUMU WA KIFO"
+  },
+  {
+    "start": "1831",
+    "arabic": "باب الْمَوْتِ يَوْمَ الاِثْنَيْنِ ‏",
+    "swahili": "MLANGO: KUFA SIKU YA JUMATATU"
+  },
+  {
+    "start": "1832",
+    "arabic": "باب الْمَوْتِ بِغَيْرِ مَوْلِدِهِ ‏",
+    "swahili": "MLANGO: KUFA MAHALI PENGINE ZAIDI YA MAHALI ALIPOZALIWA MTU"
+  },
+  {
+    "start": "1833",
+    "arabic": "باب مَا يُلْقَى بِهِ الْمُؤْمِنُ مِنَ الْكَرَامَةِ عِنْدَ خُرُوجِ نَفْسِهِ ‏",
+    "swahili": "MLANGO: HESHIMA AMBAYO MUUMINI HUKUTANISHWA NAYO WAKATI ROHO YAKE INAPOTOKA"
+  },
+  {
+    "start": "1834",
+    "arabic": "باب فِيمَنْ أَحَبَّ لِقَاءَ اللَّهِ ‏",
+    "swahili": "MLANGO: MWENYE KUPENDA KUKUTANA NA MWENYEZI MUNGU"
+  },
+  {
+    "start": "1839",
+    "arabic": "باب تَقْبِيلِ الْمَيِّتِ ‏",
+    "swahili": "MLANGO: KUMBUSU MAREHEMU"
+  },
+  {
+    "start": "1842",
+    "arabic": "باب تَسْجِيَةِ الْمَيِّتِ ‏",
+    "swahili": "MLANGO: KUFUNIKA MAREHEMU"
+  },
+  {
+    "start": "1843",
+    "arabic": "باب فِي الْبُكَاءِ عَلَى الْمَيِّتِ ‏",
+    "swahili": "MLANGO: KULIA KWA MAREHEMU"
+  },
+  {
+    "start": "1846",
+    "arabic": "باب النَّهْىِ عَنِ الْبُكَاءِ، عَلَى الْمَيِّتِ ‏",
+    "swahili": "MLANGO: MARUFUKU YA KUWALILIA WAFU"
+  },
+  {
+    "start": "1851",
+    "arabic": "باب النِّيَاحَةِ عَلَى الْمَيِّتِ ‏",
+    "swahili": "MLANGO: KUOMBOLEZA JUU YA WAFU"
+  },
+  {
+    "start": "1859",
+    "arabic": "باب الرُّخْصَةِ فِي الْبُكَاءِ عَلَى الْمَيِّتِ ‏",
+    "swahili": "MLANGO: MAKUBALIANO YANAYORUHUSU KULIA KWA MAREHEMU"
+  },
+  {
+    "start": "1860",
+    "arabic": "باب دَعْوَى الْجَاهِلِيَّةِ ‏",
+    "swahili": "MLANGO: MIITO YA JAHILIYYAH"
+  },
+  {
+    "start": "1861",
+    "arabic": "باب السَّلْقِ ‏",
+    "swahili": "MLANGO: KUMFUFUA MAKAMU KATIKA MAOMBOLEZO"
+  },
+  {
+    "start": "1862",
+    "arabic": "باب ضَرْبِ الْخُدُودِ ‏‏",
+    "swahili": "MLANGO: KUPIGA MASHAVU"
+  },
+  {
+    "start": "1863",
+    "arabic": "باب الْحَلْقِ ‏‏",
+    "swahili": "MLANGO: KUNYOA (KAMA ISHARA YA KUOMBOLEZA)"
+  },
+  {
+    "start": "1864",
+    "arabic": "باب شَقِّ الْجُيُوبِ ‏‏",
+    "swahili": "MLANGO: KURARUA VAZI LA MTU"
+  },
+  {
+    "start": "1868",
+    "arabic": "باب الأَمْرِ بِالاِحْتِسَابِ وَالصَّبْرِ عِنْدَ نُزُولِ الْمُصِيبَةِ ‏‏",
+    "swahili": "MLANGO: AMRI YA KUTAFUTA MALIPO NA KUWA NA SUBIRA WAKATI WA MSIBA"
+  },
+  {
+    "start": "1871",
+    "arabic": "باب ثَوَابِ مَنْ صَبَرَ وَاحْتَسَبَ ‏‏",
+    "swahili": "MLANGO: MALIPO YA MWENYE SUBIRA NA KUTAKA MALIPO"
+  },
+  {
+    "start": "1872",
+    "arabic": "باب ثَوَابِ مَنِ احْتَسَبَ ثَلاَثَةً مِنْ صُلْبِهِ ‏‏",
+    "swahili": "MLANGO: UJIRA WA MWENYE KUTAKA MALIPO KWA AJILI YA (KUPOTEZA) WATOTO WAKE WATATU"
+  },
+  {
+    "start": "1873",
+    "arabic": "باب مَنْ يُتَوَفَّى لَهُ ثَلاَثَةٌ ‏‏",
+    "swahili": "MLANGO: MWENYE KUPOTEZA TATU"
+  },
+  {
+    "start": "1877",
+    "arabic": "باب مَنْ قَدَّمَ ثَلاَثَةً ‏‏",
+    "swahili": "MLANGO: MMOJA AMBAYE WATOTO WAKE WATATU WANATANGULIA (KATIKA KIFO)"
+  },
+  {
+    "start": "1878",
+    "arabic": "باب النَّعْىِ ‏‏",
+    "swahili": "MLANGO: TANGAZO LA KIFO"
+  },
+  {
+    "start": "1881",
+    "arabic": "باب غَسْلِ الْمَيِّتِ بِالْمَاءِ وَالسِّدْرِ ‏‏",
+    "swahili": "MLANGO: KUOSHA MAREHEMU KWA MAJI NA MAJANI YA LOTE"
+  },
+  {
+    "start": "1882",
+    "arabic": "باب غَسْلِ الْمَيِّتِ بِالْحَمِيمِ ‏‏",
+    "swahili": "MLANGO: KUOSHA MAREHEMU KWA MAJI YA JOTO"
+  },
+  {
+    "start": "1883",
+    "arabic": "باب نَقْضِ رَأْسِ الْمَيِّتِ ‏‏",
+    "swahili": "MLANGO: KUNYOOSHA NYWELE ZA MAREHEMU"
+  },
+  {
+    "start": "1884",
+    "arabic": "باب مَيَامِنِ الْمَيِّتِ وَمَوَاضِعِ الْوُضُوءِ مِنْهُ ‏‏",
+    "swahili": "MLANGO: KUANZIA KULIA NA KWA SEHEMU ZILIZOOSHWA KWENYE WUDHU (WAKATI WA KUMUOSHA) MAREHEMU"
+  },
+  {
+    "start": "1885",
+    "arabic": "باب غَسْلِ الْمَيِّتِ وَتْرًا ‏‏",
+    "swahili": "MLANGO: KUOSHA MAREHEMU IDADI ISIYO YA KAWAIDA YA NYAKATI"
+  },
+  {
+    "start": "1886",
+    "arabic": "باب غَسْلِ الْمَيِّتِ أَكْثَرَ مِنْ خَمْسٍ ‏‏",
+    "swahili": "MLANGO: KUOSHA MAREHEMU ZAIDI YA MARA TANO"
+  },
+  {
+    "start": "1887",
+    "arabic": "باب غَسْلِ الْمَيِّتِ أَكْثَرَ مِنْ سَبْعَةٍ ‏‏",
+    "swahili": "MLANGO: KUOSHA MAREHEMU ZAIDI YA MARA SABA"
+  },
+  {
+    "start": "1890",
+    "arabic": "باب الْكَافُورِ فِي غَسْلِ الْمَيِّتِ ‏‏",
+    "swahili": "MLANGO: KAFURI KWA AJILI YA KUMUOSHA MAREHEMU"
+  },
+  {
+    "start": "1893",
+    "arabic": "باب الإِشْعَارِ ‏‏",
+    "swahili": "MLANGO: KUFUNIKA SANDA"
+  },
+  {
+    "start": "1895",
+    "arabic": "باب الأَمْرِ بِتَحْسِينِ الْكَفَنِ ‏‏",
+    "swahili": "MLANGO: AMRI YA KUFUNIKA VIZURI"
+  },
+  {
+    "start": "1896",
+    "arabic": "باب أَىُّ الْكَفَنِ خَيْرٌ ‏‏",
+    "swahili": "MLANGO: SANDA IPI NI BORA?"
+  },
+  {
+    "start": "1897",
+    "arabic": "باب كَفَنِ النَّبِيِّ صلى الله عليه وسلم ‏‏",
+    "swahili": "MLANGO: SANDA YA MTUME"
+  },
+  {
+    "start": "1900",
+    "arabic": "باب الْقَمِيصِ فِي الْكَفَنِ ‏‏",
+    "swahili": "MLANGO: SHATI KAMA SANDA"
+  },
+  {
+    "start": "1904",
+    "arabic": "باب كَيْفَ يُكَفَّنُ الْمُحْرِمُ إِذَا مَاتَ ‏‏",
+    "swahili": "MLANGO: VIPI MWENYE KUHIJI KATIKA IHRAM ANAPASWA KUFUNIKWA AKIFA?"
+  },
+  {
+    "start": "1905",
+    "arabic": "باب الْمِسْكِ ‏‏",
+    "swahili": "MLANGO: MUSK"
+  },
+  {
+    "start": "1907",
+    "arabic": "باب الإِذْنِ بِالْجَنَازَةِ ‏",
+    "swahili": "MLANGO: TAARIFA YA MAZISHI"
+  },
+  {
+    "start": "1908",
+    "arabic": "باب السُّرْعَةِ بِالْجَنَازَةِ ‏",
+    "swahili": "MLANGO: KUHARAKISHA NA JANAZAH"
+  },
+  {
+    "start": "1915",
+    "arabic": "باب الأَمْرِ بِالْقِيَامِ لِلْجَنَازَةِ ‏",
+    "swahili": "MLANGO: AMRI YA KUSIMAMA KWA MAZISHI"
+  },
+  {
+    "start": "1921",
+    "arabic": "باب الْقِيَامِ لِجَنَازَةِ أَهْلِ الشِّرْكِ ‏",
+    "swahili": "MLANGO: KUSIMAMA KWA MAZISHI YA WATU WA SHIRKI"
+  },
+  {
+    "start": "1923",
+    "arabic": "باب الرُّخْصَةِ فِي تَرْكِ الْقِيَامِ ‏",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MTU KUTOSIMAMA"
+  },
+  {
+    "start": "1930",
+    "arabic": "باب اسْتِرَاحَةِ الْمُؤْمِنِ بِالْمَوْتِ ‏",
+    "swahili": "MLANGO: MWAMINI ANAPATA MUUMINI ANAPATA MSAADA KATIKA KIFO"
+  },
+  {
+    "start": "1931",
+    "arabic": "باب الاِسْتِرَاحَةِ مِنَ الْكُفَّارِ ‏",
+    "swahili": "MLANGO: KUSAMEHEWA MAKAFIRI"
+  },
+  {
+    "start": "1932",
+    "arabic": "باب الثَّنَاءِ ‏",
+    "swahili": "MLANGO: KUMSIFU MAREHEMU"
+  },
+  {
+    "start": "1935",
+    "arabic": "باب النَّهْىِ عَنْ ذِكْرِ الْهَلْكَى، إِلاَّ بِخَيْرٍ ‏",
+    "swahili": "MLANGO: MARUFUKU YA KUSEMA LOLOTE ILA JEMA KUHUSU MAREHEMU"
+  },
+  {
+    "start": "1936",
+    "arabic": "باب النَّهْىِ عَنْ سَبِّ الأَمْوَاتِ، ‏",
+    "swahili": "MLANGO: MARUFUKU YA KUWATUSI WAFU"
+  },
+  {
+    "start": "1939",
+    "arabic": "باب الأَمْرِ بِاتِّبَاعِ الْجَنَائِزِ ‏",
+    "swahili": "MLANGO: AMRI YA KUHUDHURIA MAZISHI"
+  },
+  {
+    "start": "1940",
+    "arabic": "باب فَضْلِ مَنْ يَتْبَعُ جَنَازَةً ‏",
+    "swahili": "MLANGO: FADHILA YA KUFUATA JANAZAH"
+  },
+  {
+    "start": "1942",
+    "arabic": "باب مَكَانِ الرَّاكِبِ مِنَ الْجَنَازَةِ ‏",
+    "swahili": "MLANGO: MAHALI PA WAENDESHAJI WAKATI WA KUFUATA JANAZAH"
+  },
+  {
+    "start": "1943",
+    "arabic": "باب مَكَانِ الْمَاشِي مِنَ الْجَنَازَةِ ‏",
+    "swahili": "MLANGO: MAHALI PA WATEMBEA KWA MIGUU UNAPOFUATA JANAZAH"
+  },
+  {
+    "start": "1946",
+    "arabic": "باب الأَمْرِ بِالصَّلاَةِ عَلَى الْمَيِّتِ ‏",
+    "swahili": "MLANGO: AMRI YA KUMUOMBEA MAREHEMU"
+  },
+  {
+    "start": "1947",
+    "arabic": "باب الصَّلاَةِ عَلَى الصِّبْيَانِ ‏",
+    "swahili": "MLANGO: (MAZISHI) MAOMBI KWA WAVULANA"
+  },
+  {
+    "start": "1948",
+    "arabic": "باب الصَّلاَةِ عَلَى الأَطْفَالِ ‏",
+    "swahili": "MLANGO: (MAZISHI) MAOMBI KWA AJILI YA MTOTO"
+  },
+  {
+    "start": "1949",
+    "arabic": "باب أَوْلاَدِ الْمُشْرِكِينَ ‏",
+    "swahili": "MLANGO: WATOTO WA WASHIRIKINA"
+  },
+  {
+    "start": "1953",
+    "arabic": "باب الصَّلاَةِ عَلَى الشُّهَدَاءِ ‏",
+    "swahili": "MLANGO: KUTOA SALA YA MAZISHI KWA MASHAHIDI"
+  },
+  {
+    "start": "1955",
+    "arabic": "باب تَرْكِ الصَّلاَةِ عَلَيْهِمْ ‏",
+    "swahili": "MLANGO: KUTOSWALI SWALAH YA JENEZA KWA AJILI YAO (MASHAHADA)"
+  },
+  {
+    "start": "1956",
+    "arabic": "باب تَرْكِ الصَّلاَةِ عَلَى الْمَرْجُومِ ‏",
+    "swahili": "MLANGO: KUTOSWALI SWALA YA MAZISHI KWA AMBAYE AMEPIGWA MAWE HADI KUFA."
+  },
+  {
+    "start": "1957",
+    "arabic": "باب الصَّلاَةِ عَلَى الْمَرْجُومِ ‏",
+    "swahili": "MLANGO: KUTOA SWALA YA MAZISHI KWA AMBAYE ALIPIGWA MAWE HADI KUFA."
+  },
+  {
+    "start": "1958",
+    "arabic": "باب الصَّلاَةِ عَلَى مَنْ يَحِيفُ فِي وَصِيَّتِهِ ‏",
+    "swahili": "MLANGO: KUSWALI SWALAH YA JENEZA KWA AMBAYE ALIDHULUMU KATIKA WASIA WAKE."
+  },
+  {
+    "start": "1959",
+    "arabic": "باب الصَّلاَةِ عَلَى مَنْ غَلَّ ‏",
+    "swahili": "MLANGO: KUTOA SALA YA MAZISHI KWA AJILI YA YULE ALIYEIBA NGAWIRA ZA VITA."
+  },
+  {
+    "start": "1960",
+    "arabic": "باب الصَّلاَةِ عَلَى مَنْ عَلَيْهِ دَيْنٌ ‏",
+    "swahili": "MLANGO: KUSWALI SWALAH YA JENEZA KWA AMBAYE ANADAIWA DENI."
+  },
+  {
+    "start": "1964",
+    "arabic": "باب تَرْكِ الصَّلاَةِ عَلَى مَنْ قَتَلَ نَفْسَهُ ‏‏",
+    "swahili": "MLANGO: KUTOSWALI SWALA YA MAZISHI KWA ALIYEJIUA."
+  },
+  {
+    "start": "1966",
+    "arabic": "باب الصَّلاَةِ عَلَى الْمُنَافِقِينَ ‏‏",
+    "swahili": "MLANGO: KUSWALI SWALA YA MAZISHI KWA WANAFIKI"
+  },
+  {
+    "start": "1967",
+    "arabic": "باب الصَّلاَةِ عَلَى الْجَنَازَةِ فِي الْمَسْجِدِ ‏‏",
+    "swahili": "MLANGO: KUSWALI SWALA YA MAZISHI MSIKITINI"
+  },
+  {
+    "start": "1969",
+    "arabic": "باب الصَّلاَةِ عَلَى الْجَنَازَةِ بِاللَّيْلِ ‏‏",
+    "swahili": "MLANGO: KUSALI SALA YA MAZISHI USIKU"
+  },
+  {
+    "start": "1970",
+    "arabic": "باب الصُّفُوفِ عَلَى الْجَنَازَةِ ‏‏",
+    "swahili": "MLANGO: KUUNDA SAFU ZA KUSALI SALA YA MAZISHI"
+  },
+  {
+    "start": "1976",
+    "arabic": "باب الصَّلاَةِ عَلَى الْجَنَازَةِ قَائِمًا ‏‏",
+    "swahili": "MLANGO: KUSWALI SWALA YA MAITI HUKU WAKIWA WAMESIMAMA"
+  },
+  {
+    "start": "1977",
+    "arabic": "باب اجْتِمَاعِ جَنَازَةِ صَبِيٍّ وَامْرَأَةٍ ‏‏",
+    "swahili": "MLANGO: KUCHANGANYA MAZISHI YA MVULANA NA MWANAMKE"
+  },
+  {
+    "start": "1978",
+    "arabic": "باب اجْتِمَاعِ جَنَائِزِ الرِّجَالِ وَالنِّسَاءِ ‏‏",
+    "swahili": "MLANGO: KUCHANGANYA MAZISHI YA WANAUME NA WANAWAKE"
+  },
+  {
+    "start": "1980",
+    "arabic": "باب عَدَدِ التَّكْبِيرِ عَلَى الْجَنَازَةِ ‏‏",
+    "swahili": "MLANGO: IDADI YA TAKBIRA KATIKA SWALA YA JENEZA"
+  },
+  {
+    "start": "1983",
+    "arabic": "باب الدُّعَاءِ ‏‏",
+    "swahili": "MLANGO: DUA"
+  },
+  {
+    "start": "1991",
+    "arabic": "باب فَضْلِ مَنْ صَلَّى عَلَيْهِ مِائَةٌ ‏‏",
+    "swahili": "MLANGO: FADHILA ZA YULE AMBAYE WATU MIA MOJA HUSWALI SWALA YA MAZISHI"
+  },
+  {
+    "start": "1994",
+    "arabic": "باب ثَوَابِ مَنْ صَلَّى عَلَى جَنَازَةٍ ‏‏",
+    "swahili": "MLANGO: MALIPO YA MWENYE KUSWALI SWALAH YA JENEZA"
+  },
+  {
+    "start": "1998",
+    "arabic": "باب الْجُلُوسِ قَبْلَ أَنْ تُوضَعَ الْجَنَازَةُ ‏‏",
+    "swahili": "MLANGO: KUKETI KABLA YA MWILI KUWEKWA KABURINI"
+  },
+  {
+    "start": "1999",
+    "arabic": "باب الْوُقُوفِ لِلْجَنَائِزِ ‏‏",
+    "swahili": "MLANGO: WAKISIMAMA KWA MAZISHI"
+  },
+  {
+    "start": "2002",
+    "arabic": "باب مُوَارَاةِ الشَّهِيدِ فِي دَمِهِ ‏‏",
+    "swahili": "MLANGO: KUMZIKA SHAHIDI KATIKA DAMU YAKE"
+  },
+  {
+    "start": "2003",
+    "arabic": "باب أَيْنَ يُدْفَنُ الشَّهِيدُ",
+    "swahili": "MLANGO: MFIADINI AZIKWE WAPI?"
+  },
+  {
+    "start": "2006",
+    "arabic": "باب مُوَارَاةِ الْمُشْرِكِ ‏‏",
+    "swahili": "MLANGO: KUMZIKA MSHIRIKINA"
+  },
+  {
+    "start": "2007",
+    "arabic": "باب اللَّحْدِ وَالشَّقِّ ‏‏",
+    "swahili": "MLANGO: LAHD (NICHE) NA SHIMO"
+  },
+  {
+    "start": "2010",
+    "arabic": "باب مَا يُسْتَحَبُّ مِنْ إِعْمَاقِ الْقَبْرِ ‏‏",
+    "swahili": "MLANGO: INAPENDEKEZWA KUFANYA KABURI KUWA KINA"
+  },
+  {
+    "start": "2011",
+    "arabic": "باب مَا يُسْتَحَبُّ مِنْ تَوْسِيعِ الْقَبْرِ ‏‏",
+    "swahili": "MLANGO: INAPENDEKEZWA KUFANYA KABURI LIPANUKE"
+  },
+  {
+    "start": "2012",
+    "arabic": "باب وَضْعِ الثَّوْبِ فِي اللَّحْدِ ‏‏",
+    "swahili": "MLANGO: KUWEKA KITAMBAA NDANI YA LAHD"
+  },
+  {
+    "start": "2013",
+    "arabic": "باب السَّاعَاتِ الَّتِي نُهِيَ عَنْ إِقْبَارِ الْمَوْتَى، فِيهِنَّ ‏‏",
+    "swahili": "MLANGO: WAKATI AMBAO NI MARUFUKU KUZIKA WAFU"
+  },
+  {
+    "start": "2015",
+    "arabic": "باب دَفْنِ الْجَمَاعَةِ فِي الْقَبْرِ الْوَاحِدِ ‏‏",
+    "swahili": "MLANGO: KUZIKA IDADI YA WATU KATIKA KABURI MOJA"
+  },
+  {
+    "start": "2018",
+    "arabic": "باب مَنْ يُقَدَّمُ ‏‏",
+    "swahili": "MLANGO: NANI ANAPASWA KUWEKWA KWANZA?"
+  },
+  {
+    "start": "2019",
+    "arabic": "باب إِخْرَاجِ الْمَيِّتِ مِنَ اللَّحْدِ بَعْدَ أَنْ يُوضَعَ فِيهِ ‏‏",
+    "swahili": "MLANGO: KUMTOA MAREHEMU KUTOKA LAHD BAADA YA KUWEKWA HUMO"
+  },
+  {
+    "start": "2021",
+    "arabic": "باب إِخْرَاجِ الْمَيِّتِ مِنَ الْقَبْرِ بَعْدَ أَنْ يُدْفَنَ فِيهِ ‏‏",
+    "swahili": "MLANGO: KUMTOA MAREHEMU KABURINI BAADA YA KUZIKWA HUMO"
+  },
+  {
+    "start": "2022",
+    "arabic": "باب الصَّلاَةِ عَلَى الْقَبْرِ ‏‏",
+    "swahili": "MLANGO: KUSALI KABURINI"
+  },
+  {
+    "start": "2026",
+    "arabic": "باب الرُّكُوبِ بَعْدَ الْفَرَاغِ مِنَ الْجَنَازَةِ ‏‏",
+    "swahili": "MLANGO: AKIPANDA BAADA YA KUMALIZA MAZISHI"
+  },
+  {
+    "start": "2027",
+    "arabic": "باب الزِّيَادَةِ عَلَى الْقَبْرِ ‏‏",
+    "swahili": "MLANGO: KUFANYA KABURI KUBWA"
+  },
+  {
+    "start": "2028",
+    "arabic": "باب الْبِنَاءِ عَلَى الْقَبْرِ ‏‏",
+    "swahili": "MLANGO: KUJENGA JUU YA MAKABURI"
+  },
+  {
+    "start": "2029",
+    "arabic": "باب تَجْصِيصِ الْقُبُورِ ‏‏",
+    "swahili": "MLANGO: KUPAKWA JUU YA MAKABURI"
+  },
+  {
+    "start": "2030",
+    "arabic": "باب تَسْوِيَةِ الْقُبُورِ إِذَا رُفِعَتْ ‏‏",
+    "swahili": "MLANGO: KUSAWAZISHA MAKABURI IKIWA YAMEFANYWA JUU"
+  },
+  {
+    "start": "2032",
+    "arabic": "باب زِيَارَةِ الْقُبُورِ",
+    "swahili": "MLANGO: KUTEMBELEA MAKABURI"
+  },
+  {
+    "start": "2034",
+    "arabic": "باب زِيَارَةِ قَبْرِ الْمُشْرِكِ",
+    "swahili": "MLANGO: KUZURU KABURI LA MSHIRIKINA"
+  },
+  {
+    "start": "2035",
+    "arabic": "باب النَّهْىِ عَنْ الاِسْتِغْفَارِ، لِلْمُشْرِكِينَ",
+    "swahili": "MLANGO: MAKATAZO YA KUWAOMBEA MSAMAHA WASHIRIKINA"
+  },
+  {
+    "start": "2037",
+    "arabic": "باب الأَمْرِ بِالاِسْتِغْفَارِ لِلْمُؤْمِنِينَ",
+    "swahili": "MLANGO: AMRI YA KUOMBA MSAMAHA KWA WAUMINI"
+  },
+  {
+    "start": "2043",
+    "arabic": "باب التَّغْلِيظِ فِي اتِّخَاذِ السُّرُجِ عَلَى الْقُبُورِ",
+    "swahili": "MLANGO: ONYO KALI DHIDI YA KUWEKA TAA KWENYE MAKABURI"
+  },
+  {
+    "start": "2044",
+    "arabic": "باب التَّشْدِيدِ فِي الْجُلُوسِ عَلَى الْقُبُورِ",
+    "swahili": "MLANGO: ONYO KALI KUHUSU KUKETI JUU YA MAKABURI"
+  },
+  {
+    "start": "2046",
+    "arabic": "باب اتِّخَاذِ الْقُبُورِ مَسَاجِدَ",
+    "swahili": "MLANGO: KUCHUKUA MAKABURI KAMA MISIKITI"
+  },
+  {
+    "start": "2048",
+    "arabic": "باب كَرَاهِيَةِ الْمَشْىِ بَيْنَ الْقُبُورِ فِي النِّعَالِ السِّبْتِيَّةِ",
+    "swahili": "MLANGO: HAIPENDI KUTEMBEA KATI YA MAKABURI UMEVAA VIATU VYA SIBTIYAH"
+  },
+  {
+    "start": "2049",
+    "arabic": "باب التَّسْهِيلِ فِي غَيْرِ السِّبْتِيَّةِ",
+    "swahili": "MLANGO: UPOLE KUHUSU VIATU ZAIDI YA VIATU VYA SIBTIYAH"
+  },
+  {
+    "start": "2050",
+    "arabic": "باب الْمَسْأَلَةِ فِي الْقَبْرِ",
+    "swahili": "MLANGO: MASWALI KABURINI"
+  },
+  {
+    "start": "2051",
+    "arabic": "باب مَسْأَلَةِ الْكَافِرِ",
+    "swahili": "MLANGO: KUSWALI KWA KAFIRI"
+  },
+  {
+    "start": "2052",
+    "arabic": "باب مَنْ قَتَلَهُ بَطْنُهُ",
+    "swahili": "MLANGO: ANAYEFARIKI KWA UGONJWA WA TUMBO"
+  },
+  {
+    "start": "2053",
+    "arabic": "باب الشَّهِيدِ",
+    "swahili": "MLANGO: MFIADINI"
+  },
+  {
+    "start": "2055",
+    "arabic": "باب ضَمَّةِ الْقَبْرِ وَضَغْطَتِهِ",
+    "swahili": "MLANGO: KUMINYWA KWA KABURI"
+  },
+  {
+    "start": "2056",
+    "arabic": "باب عَذَابِ الْقَبْرِ",
+    "swahili": "MLANGO: ADHABU YA KABURI"
+  },
+  {
+    "start": "2060",
+    "arabic": "باب التَّعَوُّذِ مِنْ عَذَابِ الْقَبْرِ",
+    "swahili": "MLANGO: KUJIKINGA KWA MWENYEZI MUNGU NA ADHABU YA KABURI"
+  },
+  {
+    "start": "2068",
+    "arabic": "باب وَضْعِ الْجَرِيدَةِ عَلَى الْقَبْرِ",
+    "swahili": "MLANGO: KUWEKA MABUA YA MITENDE KWENYE KABURI"
+  },
+  {
+    "start": "2073",
+    "arabic": "باب أَرْوَاحِ الْمُؤْمِنِينَ",
+    "swahili": "MLANGO: NAFSI ZA WAUMINI"
+  },
+  {
+    "start": "2081",
+    "arabic": "باب الْبَعْثِ",
+    "swahili": "MLANGO: UFUFUO"
+  },
+  {
+    "start": "2087",
+    "arabic": "باب ذِكْرِ أَوَّلِ مَنْ يُكْسَى",
+    "swahili": "MLANGO: WA KWANZA KUVAA"
+  },
+  {
+    "start": "2088",
+    "arabic": "باب فِي التَّعْزِيَةِ",
+    "swahili": "MLANGO: RAMBIRAMBI"
+  },
+  {
+    "start": "2089",
+    "arabic": "باب نَوْعٌ آخَرُ",
+    "swahili": "MLANGO: AINA NYINGINE (YA RAMBIRAMBI)"
+  }
+]

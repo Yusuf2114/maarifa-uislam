@@ -1,0 +1,924 @@
+{
+  "hadiths": [
+    {
+"number": "5783",
+"arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ، وَزَيْدِ بْنِ أَسْلَمَ، يُخْبِرُونَهُ عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَنْظُرُ اللَّهُ إِلَى مَنْ جَرَّ ثَوْبَهُ خُيَلاَءَ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Abdullah bin `Umar (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alisema, 'Mwenyezi Mungu hatamtazama mtu anayeburuza nguo yake (nyuma yake) kwa kiburi.''"
+},
+{
+"number": "5784",
+"arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ جَرَّ ثَوْبَهُ خُيَلاَءَ لَمْ يَنْظُرِ اللَّهُ إِلَيْهِ يَوْمَ الْقِيَامَةِ ‏\"‏‏.‏ قَالَ أَبُو بَكْرٍ يَا رَسُولَ اللَّهِ إِنَّ أَحَدَ شِقَّىْ إِزَارِي يَسْتَرْخِي، إِلاَّ أَنْ أَتَعَاهَدَ ذَلِكَ مِنْهُ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لَسْتَ مِمَّنْ يَصْنَعُهُ خُيَلاَءَ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Abdullah bin `Umar (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alisema Mwenyezi Mungu hatamtazama, Siku ya Kiyama mtu anayeburuza nguo yake (nyuma yake) kwa kiburi. Abu Bakr (radhi za Allah ziwe juu yake) alisema, \"Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Upande mmoja wa Izar wangu unaning'inia chini nisipoutunza.\" Mtume (ﷺ) alisema, 'Wewe si mmoja wa wale wanaofanya hivyo kwa kiburi.\""
+},
+{
+"number": "5785",
+"arabic": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنَا عَبْدُ الأَعْلَى، عَنْ يُونُسَ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ ـ رضى الله عنه ـ قَالَ خَسَفَتِ الشَّمْسُ وَنَحْنُ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَامَ يَجُرُّ ثَوْبَهُ مُسْتَعْجِلاً، حَتَّى أَتَى الْمَسْجِدَ وَثَابَ النَّاسُ فَصَلَّى رَكْعَتَيْنِ، فَجُلِّيَ عَنْهَا، ثُمَّ أَقْبَلَ عَلَيْنَا وَقَالَ ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، فَإِذَا رَأَيْتُمْ مِنْهَا شَيْئًا فَصَلُّوا وَادْعُوا اللَّهَ حَتَّى يَكْشِفَهَا ‏\"‏‏.‏",
+"swahili": "Amesimulia Abu Bakra (radhi za Allah ziwe juu yake):\nKupatwa kwa jua kulitokea tulipokuwa tumekaa na Mtume (ﷺ) Aliinuka akiburuza nguo yake (chini) haraka hadi alipofika msikitini. Watu waligeukia (msikitini) na akasali sala ya rakaa mbili ambapo kupatwa kwa jua kuliisha na akatufuatilia na kusema, \"Jua na mwezi ni ishara mbili miongoni mwa ishara za Mwenyezi Mungu, kwa hivyo ukiona kitu kama hiki (kupatwa kwa jua) basi sali na umuombe Mwenyezi Mungu hadi atakapoondoa hali hiyo.\""
+},
+{
+"number": "5786",
+"arabic": "حَدَّثَنِي إِسْحَاقُ، أَخْبَرَنَا ابْنُ شُمَيْلٍ، أَخْبَرَنَا عُمَرُ بْنُ أَبِي زَائِدَةَ، أَخْبَرَنَا عَوْنُ بْنُ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ أَبِي جُحَيْفَةَ، قَالَ فَرَأَيْتُ بِلاَلاً جَاءَ بِعَنَزَةٍ فَرَكَزَهَا، ثُمَّ أَقَامَ الصَّلاَةَ، فَرَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ فِي حُلَّةٍ مُشَمِّرًا، فَصَلَّى رَكْعَتَيْنِ إِلَى الْعَنَزَةِ، وَرَأَيْتُ النَّاسَ وَالدَّوَابَّ يَمُرُّونَ بَيْنَ يَدَيْهِ مِنْ وَرَاءِ الْعَنَزَةِ‏.‏",
+"swahili": "Amesimulia Abu Juhaifa (radhi za Allah ziwe juu yake):\nNilimuona Bilal (radhi za Allah ziwe juu yake) akileta mkuki mfupi (au fimbo) na kuuweka ardhini, kisha akatangaza Iqama ya sala, na nikamuona Mtume wa Mwenyezi Mungu (ﷺ) akitoka, amevaa joho lenye mikono iliyokunjwa. Kisha akasali sala ya rakaa mbili nikiwa nimeielekea fimbo, na niliwaona watu na wanyama wakipita mbele yake ng'ambo ya fimbo."
+},
+{
+"number": "5787",
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي سَعِيدٍ الْمَقْبُرِيُّ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَا أَسْفَلَ مِنَ الْكَعْبَيْنِ مِنَ الإِزَارِ فَفِي النَّارِ ‏\"‏‏.‏",
+"swahili": "Amesimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alisema, \"Sehemu ya Izar inayoning'inia chini ya vifundo vya miguu iko Motoni.\""
+},
+{
+"number": "5788",
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَنْظُرُ اللَّهُ يَوْمَ الْقِيَامَةِ إِلَى مَنْ جَرَّ إِزَارَهُ بَطَرًا ‏\"‏‏.‏",
+"swahili": "Amesimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMjumbe wa Mwenyezi Mungu (ﷺ), \"Mwenyezi Mungu hatamtazama, Siku ya Kiyama, mtu anayemkokota Izar wake (nyuma yake) kwa kiburi na majivuno."
+},
+{
+"number": "5789",
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مُحَمَّدُ بْنُ زِيَادٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ النَّبِيُّ ـ أَوْ قَالَ أَبُو الْقَاسِمِ ـ صلى الله عليه وسلم ‏ \"‏ بَيْنَمَا رَجُلٌ يَمْشِي فِي حُلَّةٍ، تُعْجِبُهُ نَفْسُهُ مُرَجِّلٌ جُمَّتَهُ، إِذْ خَسَفَ اللَّهُ بِهِ، فَهْوَ يَتَجَلَّلُ إِلَى يَوْمِ الْقِيَامَةِ ‏\"‏‏.‏",
+"swahili": "Amesimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMtume (au 'Abul Qasim) alisema, \"Wakati mtu mmoja alikuwa akitembea, amevaa nguo mbili na akijivunia nywele zake zikiwa zimechanwa vizuri, ghafla Mwenyezi Mungu alimzamisha ardhini na ataendelea kuzama humo hadi Siku ya Kiyama."
+},
+{
+"number": "5790",
+"arabic": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، قَالَ حَدَّثَنِي اللَّيْثُ، قَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّ أَبَاهُ، حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ بَيْنَا رَجُلٌ يَجُرُّ إِزَارَهُ، خُسِفَ بِهِ، فَهْوَ يَتَجَلَّلُ فِي الأَرْضِ إِلَى يَوْمِ الْقِيَامَةِ ‏\"‏‏.‏ تَابَعَهُ يُونُسُ عَنِ الزُّهْرِيِّ‏.‏ وَلَمْ يَرْفَعْهُ شُعَيْبٌ عَنِ الزُّهْرِيِّ‏.‏ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، أَخْبَرَنَا أَبِي، عَنْ عَمِّهِ، جَرِيرِ بْنِ زَيْدٍ قَالَ كُنْتُ مَعَ سَالِمِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ عَلَى باب دَارِهِ فَقَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، سَمِعَ النَّبِيَّ صلى الله عليه وسلم نَحْوَهُ‏.‏",
+"swahili": "Amesimulia `Abdullah bin 'Umar (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alisema, \"Wakati mtu mmoja alikuwa akimkokota Izar wake ardhini (nyuma yake), ghafla Mwenyezi Mungu alimzamisha ardhini na ataendelea kuzama humo hadi Siku ya Kiyama.\"\n\nAbu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nkwamba alimsikia Mtume (akisimulia kama ilivyo hapo juu Nambari 680)."
+},
+{
+"number": "5791",
+"arabic": "حَدَّثَنَا مَطَرُ بْنُ الْفَضْلِ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا شُعْبَةُ، قَالَ لَقِيتُ مُحَارِبَ بْنَ دِثَارٍ عَلَى فَرَسٍ وَهْوَ يَأْتِي مَكَانَهُ الَّذِي يَقْضِي فِيهِ فَسَأَلْتُهُ عَنْ هَذَا الْحَدِيثِ فَحَدَّثَنِي فَقَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ جَرَّ ثَوْبَهُ مَخِيلَةً، لَمْ يَنْظُرِ اللَّهُ إِلَيْهِ يَوْمَ الْقِيَامَةِ ‏\"‏‏.‏ فَقُلْتُ لِمُحَارِبٍ أَذَكَرَ إِزَارَهُ قَالَ مَا خَصَّ إِزَارًا وَلاَ قَمِيصًا‏.‏ تَابَعَهُ جَبَلَةُ بْنُ سُحَيْمٍ وَزَيْدُ بْنُ أَسْلَمَ وَزَيْدُ بْنُ عَبْدِ اللَّهِ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَقَالَ اللَّيْثُ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ مِثْلَهُ‏.‏ وَتَابَعَهُ مُوسَى بْنُ عُقْبَةَ وَعُمَرُ بْنُ مُحَمَّدٍ وَقُدَامَةُ بْنُ مُوسَى عَنْ سَالِمٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ مَنْ جَرَّ ثَوْبَهُ ‏\"‏‏.‏",
+"swahili": "Amesimulia `Abdullah bin 'Umar (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alisema, \"Yeyote anayevuta nguo zake (ardhini) kwa kiburi na majivuno, Mwenyezi Mungu hatamtazama Siku ya Kiyama.\""
+},
+{
+"number": "5792",
+"arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ جَاءَتِ امْرَأَةُ رِفَاعَةَ الْقُرَظِيِّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَأَنَا جَالِسَةٌ وَعِنْدَهُ أَبُو بَكْرٍ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي كُنْتُ تَحْتَ رِفَاعَةَ فَطَلَّقَنِي فَبَتَّ طَلاَقِي، فَتَزَوَّجْتُ بَعْدَهُ عَبْدَ الرَّحْمَنِ بْنَ الزَّبِيرِ، وَإِنَّهُ وَاللَّهِ مَا مَعَهُ يَا رَسُولَ اللَّهِ إِلاَّ مِثْلُ هَذِهِ الْهُدْبَةِ‏.‏ وَأَخَذَتْ هُدْبَةً مِنْ جِلْبَابِهَا، فَسَمِعَ خَالِدُ بْنُ سَعِيدٍ قَوْلَهَا وَهْوَ بِالْبَابِ لَمْ يُؤْذَنْ لَهُ، قَالَتْ فَقَالَ خَالِدٌ يَا أَبَا بَكْرٍ أَلاَ تَنْهَى هَذِهِ عَمَّا تَجْهَرُ بِهِ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلاَ وَاللَّهِ مَا يَزِيدُ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى التَّبَسُّمِ، فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لَعَلَّكِ تُرِيدِينَ أَنْ تَرْجِعِي إِلَى رِفَاعَةَ، لاَ، حَتَّى يَذُوقَ عُسَيْلَتَكِ وَتَذُوقِي عُسَيْلَتَهُ ‏\"‏‏.‏ فَصَارَ سُنَّةً بَعْدُ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\n(mke wa Mtume) Mke wa Rifa`a Al-Qurazi alikuja kwa Mtume wa Mwenyezi Mungu (ﷺ) nilipokuwa nimekaa, na Abu Bakr (radhi za Allah ziwe juu yake) pia alikuwepo. Alisema, 'Ewe Mtume wa Mwenyezi Mungu! Nilikuwa mke wa Rifa`a na alinitaliki bila kubadilika. Kisha nikamwoa `AbdurRahman bin Az-Zubair ambaye, kwa jina la Mwenyezi Mungu, Ewe Mtume wa Mwenyezi Mungu (ﷺ), ana kitu kama pindo la vazi, Akionyesha pindo la pazia lake. Khalid bin Sa`id (radhi za Allah ziwe juu yake), ambaye alikuwa amesimama mlangoni, kwani hakuwa ameruhusiwa, alisikia kauli yake na akasema, \"Ewe Abu Bakr (radhi za Allah ziwe juu yake)! Kwa nini hamumzuii mwanamke huyu kusema mambo kama hayo waziwazi mbele ya Mtume wa Mwenyezi Mungu (ﷺ)?\" Hapana, Wallahi, Mtume wa Mwenyezi Mungu (ﷺ) hakufanya chochote ila alitabasamu. Kisha akamwambia mwanamke huyo, \"Labda unataka kurudi Rifa`a? Hilo haliwezekani isipokuwa `Abdur-Rahman afunge ndoa yake na wewe.\" Hilo likawa desturi baada yake."
+},
+{
+"number": "5793",
+"arabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي عَلِيُّ بْنُ حُسَيْنٍ، أَنَّ حُسَيْنَ بْنَ عَلِيٍّ، أَخْبَرَهُ أَنَّ عَلِيًّا ـ رضى الله عنه ـ قَالَ فَدَعَا النَّبِيُّ صلى الله عليه وسلم بِرِدَائِهِ، ثُمَّ انْطَلَقَ يَمْشِي، وَاتَّبَعْتُهُ أَنَا وَزَيْدُ بْنُ حَارِثَةَ، حَتَّى جَاءَ الْبَيْتَ الَّذِي فِيهِ حَمْزَةُ، فَاسْتَأْذَنَ فَأَذِنُوا لَهُمْ‏.‏",
+"swahili": "Ali (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) aliomba Rida yake, akaivaa na kuanza kutembea. Mimi na Zaid bin Haritha (radhi za Allah ziwe juu yake) tulimfuata hadi alipofika nyumbani ambapo Harnza (bin `Abdul Muttalib) (radhi za Allah ziwe juu yake) alikuwepo na kuomba ruhusa ya kuingia, nao wakatupa ruhusa."
+},
+{
+"number": "5794",
+"arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يَلْبَسُ الْمُحْرِمُ الْقَمِيصَ، وَلاَ السَّرَاوِيلَ، وَلاَ الْبُرْنُسَ، وَلاَ الْخُفَّيْنِ، إِلاَّ أَنْ لاَ يَجِدَ النَّعْلَيْنِ، فَلْيَلْبَسْ مَا هُوَ أَسْفَلُ مِنَ الْكَعْبَيْنِ ‏\"‏‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMtu mmoja aliuliza, \"Ewe Mtume wa Mwenyezi Mungu, Muhrim anapaswa kuvaa nguo za aina gani?\" Mtume, alisema, \"Muhrim hapaswi kuvaa shati, suruali, joho lenye kofia, au Khuffs (soksi zilizotengenezwa kwa kitambaa nene au ngozi) isipokuwa kama hawezi kupata viatu, ambapo anapaswa kukata sehemu (ya Khuff) inayofunika vifundo vya miguu.\""
+},
+{
+"number": "5795",
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، أَخْبَرَنَا ابْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ أَتَى النَّبِيُّ صلى الله عليه وسلم عَبْدَ اللَّهِ بْنَ أُبَىٍّ بَعْدَ مَا أُدْخِلَ قَبْرَهُ، فَأَمَرَ بِهِ فَأُخْرِجَ، وَوُضِعَ عَلَى رُكْبَتَيْهِ، وَنَفَثَ عَلَيْهِ مِنْ رِيقِهِ، وَأَلْبَسَهُ قَمِيصَهُ، وَاللَّهُ أَعْلَمُ‏.‏",
+"swahili": "Jabir bin `Abdullah (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alikuja kumtembelea `Abdullah bin Ubai (bin Salul) baada ya kuwekwa kaburini mwake. Mtume (ﷺ) aliamuru `Abdullah atolewe nje. Alitolewa nje na kuwekwa kwenye magoti ya Mtume, ambaye alimpulizia pumzi yake (iliyobarikiwa) na kumvika mwili kwa shati lake mwenyewe. Na Mwenyezi Mungu anajua zaidi."
+},
+{
+"number": "5796",
+"arabic": "حَدَّثَنَا صَدَقَةُ، أَخْبَرَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، قَالَ أَخْبَرَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ، قَالَ لَمَّا تُوُفِّيَ عَبْدُ اللَّهِ بْنُ أُبَىٍّ جَاءَ ابْنُهُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ أَعْطِنِي قَمِيصَكَ أُكَفِّنْهُ فِيهِ، وَصَلِّ عَلَيْهِ، وَاسْتَغْفِرْ لَهُ، فَأَعْطَاهُ قَمِيصَهُ، وَقَالَ ‏\"‏ إِذَا فَرَغْتَ فَآذِنَّا ‏\"‏‏.‏ فَلَمَّا فَرَغَ آذَنَهُ، فَجَاءَ لِيُصَلِّيَ عَلَيْهِ، فَجَذَبَهُ عُمَرُ فَقَالَ أَلَيْسَ قَدْ نَهَاكَ اللَّهُ أَنْ تُصَلِّيَ عَلَى الْمُنَافِقِينَ فَقَالَ ‏{‏اسْتَغْفِرْ لَهُمْ أَوْ لاَ تَسْتَغْفِرْ لَهُمْ إِنْ تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ‏}‏‏.‏ فَنَزَلَتْ ‏{‏وَلاَ تُصَلِّ عَلَى أَحَدٍ مِنْهُمْ مَاتَ أَبَدًا‏}‏ فَتَرَكَ الصَّلاَةَ عَلَيْهِمْ‏.‏",
+"swahili": "Alisimulia `Abdullah bin `Umar (radhi za Allah ziwe juu yake):\n`Abdullah bin Ubdi (bin Salul) alipofariki, mwanawe alikuja kwa Mtume wa Mwenyezi Mungu (ﷺ) na kusema 'Ewe Mtume wa Mwenyezi Mungu, nipe shati lako ili niweze kuifunika mwili wa baba yangu ndani yake. Na tafadhali mswalie sala ya mazishi na umuombee Mwenyezi Mungu msamaha.' Mtume (ﷺ) alimpa shati lake and kumwambia 'Tujulishe utakapomaliza (na msafara wa mazishi uko tayari) tuite.' Alipomaliza alimwambia Mtume (ﷺ) na Mtume (ﷺ) akaamuru sala yake ya mazishi lakini `Umar (radhi za Allah ziwe juu yake) alimzuia na kusema, \"Je, Mwenyezi Mungu hakukukataza kuswalia wanafiki sala ya mazishi aliposema: \"Ikiwa (Ewe Muhammad) utawaombea msamaha au usiwaombee msamaha: (na hata) ikiwa utawaombea msamaha mara sabini, Mwenyezi Mungu hatawasamehe.\" (9.80) Kisha ikafunuliwa: \"Wala (Ee Muhammad) usimswalie yeyote kati yao anayekufa, wala usisimame kaburini mwake.\" (9.34) Tangu wakati huo Mtume (ﷺ) hakusali sala za mazishi kwa wanafiki."
+},
+{
+"number": "5797",
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ نَافِعٍ، عَنِ الْحَسَنِ، عَنْ طَاوُسٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ ضَرَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَثَلَ الْبَخِيلِ وَالْمُتَصَدِّقِ، كَمَثَلِ رَجُلَيْنِ عَلَيْهِمَا جُبَّتَانِ مِنْ حَدِيدٍ، قَدِ اضْطُرَّتْ أَيْدِيهِمَا إِلَى ثُدِيِّهِمَا وَتَرَاقِيهِمَا، فَجَعَلَ الْمُتَصَدِّقُ كُلَّمَا تَصَدَّقَ بِصَدَقَةٍ انْبَسَطَتْ عَنْهُ حَتَّى تَغْشَى أَنَامِلَهُ وَتَعْفُوَ أَثَرَهُ، وَجَعَلَ الْبَخِيلُ كُلَّمَا هَمَّ بِصَدَقَةٍ قَلَصَتْ، وَأَخَذَتْ كُلُّ حَلْقَةٍ بِمَكَانِهَا‏.‏ قَالَ أَبُو هُرَيْرَةَ فَأَنَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ بِإِصْبَعِهِ هَكَذَا فِي جَيْبِهِ، فَلَوْ رَأَيْتَهُ يُوَسِّعُهَا وَلاَ تَتَوَسَّعُ‏.‏ تَابَعَهُ ابْنُ طَاوُسٍ عَنْ أَبِيهِ وَأَبُو الزِّنَادِ عَنِ الأَعْرَجِ فِي الْجُبَّتَيْنِ‏.‏ وَقَالَ حَنْظَلَةُ سَمِعْتُ طَاوُسًا سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ جُبَّتَانِ‏.‏ وَقَالَ جَعْفَرٌ عَنِ الأَعْرَجِ جُبَّتَانِ‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) ameweka mfano kwa bakhili na mtu mkarimu kwa kuwalinganisha na wanaume wawili waliovaa nguo mbili za chuma na mikono yao imeinuliwa hadi vifuani na shingoni mwao. Wakati wowote mkarimu anapojaribu kutoa zawadi ya hisani, nguo yake ya chuma hupanuka hadi inakuwa pana sana kiasi kwamba itafunika vidole vyake na kufuta nyayo zake. Na, wakati wowote bakhili anapotaka kutoa zawadi ya hisani, nguo yake humbana sana na kila pete hukwama mahali pake Abu Huraira (radhi za Allah ziwe juu yake) aliongeza; Nilimwona Mtume wa Mwenyezi Mungu (ﷺ) akiweka kidole chake kwenye mfuko (wa kifua) wa shati lake hivi. Kama ungemwona akijaribu kupanua (ufunguzi wa shati lake) lakini haikupanuka."
+},
+{
+"number": "5798",
+"arabic": "حَدَّثَنَا قَيْسُ بْنُ حَفْصٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي أَبُو الضُّحَى، قَالَ حَدَّثَنِي مَسْرُوقٌ، قَالَ حَدَّثَنِي الْمُغِيرَةُ بْنُ شُعْبَةَ، قَالَ انْطَلَقَ النَّبِيُ\"ُ صلى الله عليه وسلم لِحَاجَتِهِ ثُمَّ أَقْبَلَ، فَتَلَقَّيْتُهُ بِمَاءٍ، فَتَوَضَّأَ وَعَلَيْهِ جُبَّةٌ شَأْمِيَّةٌ، فَمَضْمَضَ وَاسْتَنْشَقَ وَغَسَلَ وَجْهَهُ، فَذَهَبَ يُخْرِجُ يَدَيْهِ مِنْ كُمَّيْهِ فَكَانَا ضَيِّقَيْنِ، فَأَخْرَجَ يَدَيْهِ مِنْ تَحْتِ الْجُبَّةِ، فَغَسَلَهُمَا وَمَسَحَ بِرَأْسِهِ وَعَلَى خُفَّيْهِ‏.‏",
+"swahili": "Al-Mughira bin Shu`ba (radhi za Allah ziwe juu yake) amesimulia:\nMtume (ﷺ) alienda kujibu wito wa maumbile, na aliporudi, nilikutana naye na maji na akafanya udhu huku akiwa amevaa joho la Sham. Alisuuza mdomo wake, akaweka maji puani mwake na kuyapuliza, akaosha uso wake na kujaribu kutoa mikono yake mikononi mwake, lakini ilikuwa nyembamba sana, kwa hivyo akatoa mikono yake chini ya kifua chake na kuiosha kisha akapitisha mikono yake yenye maji juu ya kichwa chake na Khuffs (soksi zilizotengenezwa kwa kitambaa nene au ngozi)."
+},
+{
+"number": "5799",
+"arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا زَكَرِيَّاءُ، عَنْ عَامِرٍ، عَنْ عُرْوَةُ بْنُ الْمُغِيرَةِ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فِي سَفَرٍ فَقَالَ ‏\"‏ أَمَعَكَ مَاءٌ ‏\"‏‏.‏ قُلْتُ نَعَمْ‏.‏ فَنَزَلَ عَنْ رَاحِلَتِهِ، فَمَشَى حَتَّى تَوَارَى عَنِّي فِي سَوَادِ لَيْلِ، ثُمَّ جَاءَ فَأَفْرَغْتُ عَلَيْهِ الإِدَاوَةَ، فَغَسَلَ وَجْهَهُ وَيَدَيْهِ، وَعَلَيْهِ جُبَّةٌ مِنْ صُوفٍ، فَلَمْ يَسْتَطِعْ أَنْ يُخْرِجَ ذِرَاعَيْهِ مِنْهَا حَتَّى أَخْرَجَهُمَا مِنْ أَسْفَلِ الْجُبَّةِ، فَغَسَلَ ذِرَاعَيْهِ، ثُمَّ مَسَحَ بِرَأْسِهِ، ثُمَّ أَهْوَيْتُ لأَنْزِعَ خُفَّيْهِ فَقَالَ ‏\"‏ دَعْهُمَا، فَإِنِّي أَدْخَلْتُهُمَا طَاهِرَتَيْنِ، فَمَسَحَ عَلَيْهِمَا ‏\"‏‏.‏",
+"swahili": "Al-Mughira (radhi za Allah ziwe juu yake) amesimulia:\nUsiku mmoja nilikuwa na Mtume (ﷺ) safarini. Aliniuliza (mimi), \"Je, una maji?\" Nilijibu, \"Ndiyo\" Kwa hiyo akashuka kutoka kwenye ngamia wake jike na kuondoka hadi alipotoweka gizani mwa usiku. Kisha akarudi na nikammiminia maji kutoka kwenye sufuria (kwa ajili ya kutawadha). Aliosha uso na mikono yake huku akiwa amevaa joho la sufu (ambalo mikono yake ilikuwa myembamba), kwa hivyo hakuweza kutoa mikono yake. Kwa hivyo akaitoa chini ya joho. Kisha akaosha mikono yake ya mbele na kuweka mikono yake yenye maji juu ya kichwa chake. Kisha nikajaribu kuvua Khuffs zake (soksi zilizotengenezwa kwa kitambaa nene au ngozi), lakini akasema, \"Ziache, kwani nimeweka utawadha kabla ya kuzivaa.\" Na kwa hivyo akaweka mikono yake yenye maji juu yake."
+},
+{
+"number": "5800",
+"arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، قَالَ قَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَقْبِيَةً، وَلَمْ يُعْطِ مَخْرَمَةَ شَيْئًا فَقَالَ مَخْرَمَةُ يَا بُنَىَّ انْطَلِقْ بِنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَانْطَلَقْتُ مَعَهُ فَقَالَ ادْخُلْ فَادْعُهُ لِي‏.‏ قَالَ فَدَعَوْتُهُ لَهُ، فَخَرَجَ إِلَيْهِ وَعَلَيْهِ قَبَاءٌ مِنْهَا فَقَالَ ‏ \"‏ خَبَأْتُ هَذَا لَكَ ‏\"‏‏.‏ قَالَ فَنَظَرَ إِلَيْهِ فَقَالَ رَضِيَ مَخْرَمَةُ‏.‏",
+"swahili": "Al-Miswar bin Makhrama (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) aligawa baadhi ya Qaba lakini hakumpa Makhrama chochote. Makhrama akaniambia, \"Ewe mwanangu! Twende kwa Mtume wa Mwenyezi Mungu (ﷺ).\" Kwa hivyo nikaendelea naye na akasema, \"Ingia ndani umuite 'au mimi.\" Kwa hivyo nilimwita Mtume (ﷺ) kwa ajili yake. Mtume (ﷺ) alimjia, akiwa amevaa moja ya Qaba hizo na kusema, (kwa Makhrama), \"Nimekuwekea hii\" Makhrama aliiangalia na kusema, \"Makhrama imeridhika sasa.\""
+},
+{
+"number": "5801",
+"arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ ـ رضى الله عنه ـ أَنَّهُ قَالَ أُهْدِيَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَرُّوجُ حَرِيرٍ، فَلَبِسَهُ، ثُمَّ صَلَّى فِيهِ، ثُمَّ انْصَرَفَ فَنَزَعَهُ نَزْعًا شَدِيدًا كَالْكَارِهِ لَهُ ثُمَّ قَالَ ‏ \"‏ لاَ يَنْبَغِي هَذَا لِلْمُتَّقِينَ ‏\"‏‏.‏ تَابَعَهُ عَبْدُ اللَّهِ بْنُ يُوسُفَ عَنِ اللَّيْثِ، وَقَالَ غَيْرُهُ فَرُّوجٌ حَرِيرٌ‏.‏",
+"swahili": "Alisimulia `Uqba bin 'Amir (radhi za Allah ziwe juu yake):\nFarruj aliyevaa hariri aliwasilishwa kwa Mtume wa Mwenyezi Mungu (ﷺ) na akaivaa na kusali ndani yake. Alipomaliza kusali, aliivua kwa nguvu kana kwamba hakuipenda na akasema, \"Hili (vazi) haliwafai wale wanaomcha Mwenyezi Mungu!\""
+},
+{
+"number": "5802",
+"arabic": "وَقَالَ لِي مُسَدَّدٌ حَدَّثَنَا مُعْتَمِرٌ، سَمِعْتُ أَبِي قَالَ، رَأَيْتُ عَلَى أَنَسٍ بُرْنُسًا أَصْفَرَ مِنْ خَزٍّ‏.‏",
+"swahili": "Alisimulia Mu'tamir:\nNilimsikia baba yangu akisema, \"Nilimwona Anas (radhi za Allah ziwe juu yake) akiwa amevaa joho la njano lenye kofia la Khazz.\""
+},
+{
+"number": "5803",
+"arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَلْبَسُوا الْقُمُصَ، وَلاَ الْعَمَائِمَ، وَلاَ السَّرَاوِيلاَتِ، وَلاَ الْبَرَانِسَ، وَلاَ الْخِفَافَ، إِلاَّ أَحَدٌ لاَ يَجِدُ النَّعْلَيْنِ، فَلْيَلْبَسْ خُفَّيْنِ، وَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ، وَلاَ تَلْبَسُوا مِنَ الثِّيَابِ شَيْئًا مَسَّهُ زَعْفَرَانٌ وَلاَ الْوَرْسُ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Abdullah bin `Umar (radhi za Allah ziwe juu yake):\nMtu mmoja alisema, \"Ewe Mtume wa Mwenyezi Mungu (ﷺ). Mtukufu anapaswa kuvaa nguo za aina gani? Mtume wa Mwenyezi Mungu (ﷺ) akajibu, 'Usivae mashati, vilemba, suruali, joho zenye kofia au Khuffs (soksi zilizotengenezwa kwa kitambaa nene au ngozi); lakini ikiwa mtu hawezi kupata sandali, basi anaweza kuvaa Khuffs baada ya kuzikata chini ya vifundo vya miguu. Usivae nguo zilizoguswa na sandali au vita (aina mbili za manukato)."
+},
+{
+"number": "5804",
+"arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ لَمْ يَجِدْ إِزَارًا فَلْيَلْبَسْ سَرَاوِيلَ، وَمَنْ لَمْ يَجِدْ نَعْلَيْنِ فَلْيَلْبَسْ خُفَّيْنِ ‏\"‏‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alisema, \"Yeyote asiyeweza kupata Izar, anaweza kuvaa suruali, na yeyote asiyeweza kuvaa sandali anaweza kuvaa Khuffs (soksi zilizotengenezwa kwa kitambaa nene au ngozi).\""
+},
+{
+"number": "5805",
+"arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ مَا تَأْمُرُنَا أَنْ نَلْبَسَ إِذَا أَحْرَمْنَا‏.‏ قَالَ ‏ \"‏ لاَ تَلْبَسُوا الْقَمِيصَ، وَالسَّرَاوِيلَ، وَالْعَمَائِمَ وَالْبَرَانِسَ، وَالْخِفَافَ، إِلاَّ أَنْ يَكُونَ رَجُلٌ لَيْسَ لَهُ نَعْلاَنِ، فَلْيَلْبَسِ الْخُفَّيْنِ أَسْفَلَ مِنَ الْكَعْبَيْنِ، وَلاَ تَلْبَسُوا شَيْئًا مِنَ الثِّيَابِ مَسَّهُ زَعْفَرَانٌ وَلاَ وَرْسٌ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Abdullah (radhi za Allah ziwe juu yake):\nMtu mmoja alisimama na kusema, Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Unatuamuru tuvae nini tunapojifanya kuwa Ihram?\" Mtume (ﷺ) akajibu, \"Usivae mashati, suruali, vilemba, joho zenye kofia au Khuffs (soksi zilizotengenezwa kwa kitambaa nene au ngozi), lakini ikiwa mwanaume hana viatu, anaweza kuvaa Khuffs baada ya kuzikata chini ya vifundo vya miguu; na usivae nguo zilizoguswa na (manukato) ya zafarani au vita.\""
+},
+{
+"number": "5806",
+"arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ الزُّهْرِيَّ، قَالَ أَخْبَرَنِي سَالِمٌ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَلْبَسُ الْمُحْرِمُ الْقَمِيصَ، وَلاَ الْعِمَامَةَ، وَلاَ السَّرَاوِيلَ، وَلاَ الْبُرْنُسَ، وَلاَ ثَوْبًا مَسَّهُ زَعْفَرَانٌ، وَلاَ وَرْسٌ، وَلاَ الْخُفَّيْنِ، إِلاَّ لِمَنْ لَمْ يَجِدِ النَّعْلَيْنِ، فَإِنْ لَمْ يَجِدْهُمَا فَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Abdullah bin `Umar (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alisema, \"Muhrim hapaswi kuvaa shati, kilemba, suruali, joho lenye kofia, vazi lililoguswa na (manukato) ya zafarani au vita, au Khuffs (soksi zilizotengenezwa kwa kitambaa nene au ngozi) isipokuwa kama mtu hana viatu, basi anapaswa kukata Khuffs chini ya vifundo vya miguu.\""
+},
+{
+"number": "5807",
+"arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامٌ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ هَاجَرَ إِلَى الْحَبَشَةِ نَاسٌ مِنَ الْمُسْلِمِينَ، وَتَجَهَّزَ أَبُو بَكْرٍ مُهَاجِرًا، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ عَلَى رِسْلِكَ، فَإِنِّي أَرْجُو أَنْ يُؤْذَنَ لِي ‏\"‏‏.‏ فَقَالَ أَبُو بَكْرٍ أَوَ تَرْجُوهُ بِأَبِي أَنْتَ قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ فَحَبَسَ أَبُو بَكْرٍ نَفْسَهُ عَلَى النَّبِيِّ صلى الله عليه وسلم لِصُحْبَتِهِ، وَعَلَفَ رَاحِلَتَيْنِ كَانَتَا عِنْدَهُ وَرَقَ السَّمُرِ أَرْبَعَةَ أَشْهُرٍ‏.‏ قَالَ عُرْوَةُ قَالَتْ عَائِشَةُ فَبَيْنَا نَحْنُ يَوْمًا جُلُوسٌ فِي بَيْتِنَا فِي نَحْرِ الظَّهِيرَةِ فَقَالَ قَائِلٌ لأَبِي بَكْرٍ هَذَا رَسُولُ اللَّهِ صلى الله عليه وسلم مُقْبِلاً مُتَقَنِّعًا، فِي سَاعَةٍ لَمْ يَكُنْ يَأْتِينَا فِيهَا‏.‏ قَالَ أَبُو بَكْرٍ فِدًا لَهُ بِأَبِي وَأُمِّي، وَاللَّهِ إِنْ جَاءَ بِهِ فِي هَذِهِ السَّاعَةِ إِلاَّ لأَمْرٍ‏.‏ فَجَاءَ النَّبِيُّ صلى الله عليه وسلم فَاسْتَأْذَنَ، فَأَذِنَ لَهُ فَدَخَلَ، فَقَالَ حِينَ دَخَلَ لأَبِي بَكْرٍ ‏\"‏ أَخْرِجْ مَنْ عِنْدَكَ ‏\"‏‏.‏ قَالَ إِنَّمَا هُمْ أَهْلُكَ بِأَبِي أَنْتَ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ فَإِنِّي قَدْ أُذِنَ لِي فِي الْخُرُوجِ ‏\"‏‏.‏ قَالَ فَالصُّحْبَةُ بِأَبِي أَنْتَ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ قَالَ فَخُذْ بِأَبِي أَنْتَ يَا رَسُولَ اللَّهِ إِحْدَى رَاحِلَتَىَّ هَاتَيْنِ‏.‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ بِالثَّمَنِ ‏\"‏‏.‏ قَالَتْ فَجَهَّزْنَاهُمَا أَحَثَّ الْجِهَازِ، وَضَعْنَا لَهُمَا سُفْرَةً فِي جِرَابٍ، فَقَطَعَتْ أَسْمَاءُ بِنْتُ أَبِي بَكْرٍ قِطْعَةً مِنْ نِطَاقِهَا، فَأَوْكَتْ بِهِ الْجِرَابَ، وَلِذَلِكَ كَانَتْ تُسَمَّى ذَاتَ النِّطَاقِ، ثُمَّ لَحِقَ النَّبِيُ\"ُ صلى الله عليه وسلم وَأَبُو بَكْرٍ بِغَارٍ فِي جَبَلٍ يُقَالُ لَهُ ثَوْرٌ، فَمَكُثَ فِيهِ ثَلاَثَ لَيَالٍ يَبِيتُ عِنْدَهُمَا عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ، وَهْوَ غُلاَمٌ شَابٌّ لَقِنٌ ثَقِفٌ، فَيَرْحَلُ مِنْ عِنْدِهِمَا سَحَرًا، فَيُصْبِحُ مَعَ قُرَيْشٍ بِمَكَّةَ كَبَائِتٍ، فَلاَ يَسْمَعُ أَمْرًا يُكَادَانِ بِهِ إِلاَّ وَعَاهُ، حَتَّى يَأْتِيَهُمَا بِخَبَرِ ذَلِكَ حِينَ يَخْتَلِطُ الظَّلاَمُ، وَيَرْعَى عَلَيْهِمَا عَامِرُ بْنُ فُهَيْرَةَ مَوْلَى أَبِي بَكْرٍ مِنْحَةً مِنْ غَنَمٍ، فَيُرِيحُهَا عَلَيْهِمَا حِينَ تَذْهَبُ سَاعَةٌ مِنَ الْعِشَاءِ، فَيَبِيتَانِ فِي رِسْلِهَا حَتَّى يَنْعِقَ بِهَا عَامِرُ بْنُ فُهَيْرَةَ بِغَلَسٍ، يَفْعَلُ ذَلِكَ كُلَّ لَيْلَةٍ مِنْ تِلْكَ اللَّيَالِي الثَّلاَثِ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nBaadhi ya wanaume Waislamu walihamia Ethiopia ambapo Abu Bakr (radhi za Allah ziwe juu yake) pia alijiandaa kwa ajili ya uhamiaji, lakini Mtume (ﷺ) akamwambia, \"Subiri, kwani natumai kwamba Mwenyezi Mungu ataniruhusu mimi pia kuhama.\" Abu Bakr (radhi za Allah ziwe juu yake) alisema, \"Baba yangu na mama yangu watolewe kafara kwa ajili yako. Je, unatumaini hilo (uhamiaji)?\" Mtume akasema, 'Ndiyo.\" Kwa hivyo Abu Bakr (radhi za Allah ziwe juu yake) alisubiri kuandamana na Mtume (ﷺ) na akawalisha ngamia wawili jike aliokuwa nao kwenye majani ya mti wa As-Samur mara kwa mara kwa miezi minne. Siku moja tulipokuwa tumekaa nyumbani kwetu adhuhuri, mtu mmoja alimwambia Abu Bakr (radhi za Allah ziwe juu yake), \"Huyu hapa Mtume wa Mwenyezi Mungu (ﷺ), anakuja akiwa amefunikwa kichwa chake na sehemu ya uso wake kwa kitambaa kwa saa ambayo hakuwahi kuja kwetu.\" Abu Bakr (radhi za Allah ziwe juu yake) akasema, \"Baba yangu na mama yangu watolewe kafara kwa ajili yako, (Ewe Mtume)! Jambo la dharura lazima liwe limekuleta hapa saa hii.\" Mtume (ﷺ) alikuja na kuomba ruhusa ya kuingia, naye akaruhusiwa. Mtume (ﷺ) aliingia na kumwambia Abu Bakr (radhi za Allah ziwe juu yake), \"Wale walio pamoja nawe watoke.\" Abu Bakr (radhi za Allah ziwe juu yake) akajibu, \"(Hakuna mgeni); hao ni familia yako. Baba yangu atolewe kafara kwa ajili yako, Ee Mtume wa Mwenyezi Mungu!\" Mtume (ﷺ) akasema, \"Nimeruhusiwa kuondoka (Mecca).\" Abu Bakr (radhi za Allah ziwe juu yake) akasema, \"Nitafuatana nawe, Ee Mtume wa Mwenyezi Mungu (ﷺ), Baba yangu atolewe kafara kwa ajili yako!\" Mtume (ﷺ) akasema, \"Ndiyo,\" Abu Bakr (radhi za Allah ziwe juu yake) alisema, 'Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Baba yangu atolewe kafara kwa ajili yako. Chukua mmoja wa ngamia wangu hawa wawili\" Mtume (ﷺ) alisema. Nitachukua tu baada ya kulipa bei yake.\" Kwa hivyo tuliandaa mizigo yao na kuweka chakula chao cha safari Kwenye mfuko wa ngozi. Na Asma' binti Abu Bakr (radhi za Allah ziwe juu yake) akakata kipande cha mshipi wake na kufunga mdomo wa mfuko wa ngozi nacho. Ndiyo maana aliitwa Dhatan-Nitaqaln. Kisha Mtume (ﷺ) na Abu Bakr (radhi za Allah ziwe juu yake) wakaenda kwenye pango katika mlima unaoitwa Thour na kukaa huko kwa usiku tatu. `Abdullah bin Abu Bakr (radhi za Allah ziwe juu yake). ambaye alikuwa kijana mwenye akili timamu. Alikuwa akikaa nao usiku na kuondoka kabla ya alfajiri ili asubuhi, awe pamoja na Maquraish huko Makka kana kwamba alikuwa amelala nao usiku kucha. Kama angesikia kuhusu njama yoyote iliyopangwa na Maquraishi dhidi ya Mtume na Abu Bakr (radhi za Allah ziwe juu yake), angeielewa na (kurudi) kuwajulisha kuhusu hilo giza lilipokuwa likiingia. 'Amir bin Fuhaira (radhi za Allah ziwe juu yake), mtumwa aliyeachiliwa huru wa Abu Bakr (radhi za Allah ziwe juu yake) alikuwa akiwalisha kundi la kondoo wa maziwa na alikuwa akiwapeleka kondoo hao kwao baada ya saa moja kupita baada ya swala ya 'Isha. Wangelala fofofo hadi 'Amir bin Fuhaira (radhi za Allah ziwe juu yake) awaamshe wakati bado kulikuwa na giza. Alikuwa akifa-nya hivyo katika kila moja ya usiku huo watatu."
+},
+{
+"number": "5808",
+"arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا مَالِكٌ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ عَامَ الْفَتْحِ وَعَلَى رَأْسِهِ الْمِغْفَرُ‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nKatika mwaka wa kutekwa kwa Makka, Mtume (ﷺ) aliingia Makka, akiwa amevaa kofia ya chuma kichwani."
+},
+{
+"number": "5809",
+"arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كُنْتُ أَمْشِي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ بُرْدٌ نَجْرَانِيٌّ غَلِيظُ الْحَاشِيَةِ، فَأَدْرَكَهُ أَعْرَابِيٌّ فَجَبَذَهُ بِرِدَائِهِ جَبْذَةً شَدِيدَةً، حَتَّى نَظَرْتُ إِلَى صَفْحَةِ عَاتِقِ رَسُولِ اللَّهِ صلى الله عليه وسلم قَدْ أَثَّرَتْ بِهَا حَاشِيَةُ الْبُرْدِ مِنْ شِدَّةِ جَبْذَتِهِ، ثُمَّ قَالَ يَا مُحَمَّدُ مُرْ لِي مِنْ مَالِ اللَّهِ الَّذِي عِنْدَكَ‏.‏ فَالْتَفَتَ إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ ضَحِكَ ثُمَّ أَمَرَ لَهُ بِعَطَاءٍ‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nWakati mmoja nilikuwa nikitembea na Mtume wa Mwenyezi Mungu (ﷺ) na alikuwa amevaa Najram Burd yenye ukingo mzito. Bedui mmoja alimfuata na kuvuta Burda yake kwa nguvu sana hivi kwamba niligundua upande wa bega la Mtume wa Mwenyezi Mungu (ﷺ) ulioathiriwa na ukingo wa Burda kutokana na mvuto huo wa nguvu. Bedui huyo alisema, \"Ewe Muhammad! Nipe sehemu ya utajiri wa Mwenyezi Mungu ulio pamoja nawe.\" Mtume wa Mwenyezi Mungu (ﷺ) aligeuka na kumtazama, na akatabasamu, 'akaamuru apewe kitu."
+},
+{
+"number": "5810",
+"arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ جَاءَتِ امْرَأَةٌ بِبُرْدَةٍ ـ قَالَ سَهْلٌ هَلْ تَدْرِي مَا الْبُرْدَةُ قَالَ نَعَمْ هِيَ الشَّمْلَةُ، مَنْسُوجٌ فِي حَاشِيَتِهَا ـ قَالَتْ يَا رَسُولَ اللَّهِ إِنِّي نَسَجْتُ هَذِهِ بِيَدِي أَكْسُوكَهَا‏.‏ فَأَخَذَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم مُحْتَاجًا إِلَيْهَا، فَخَرَجَ إِلَيْنَا وَإِنَّهَا لإِزَارُهُ، فَجَسَّهَا رَجُلٌ مِنَ الْقَوْمِ فَقَالَ يَا رَسُولَ اللَّهِ اكْسُنِيهَا‏.‏ قَالَ ‏ \"‏ نَعَمْ ‏\"‏‏.‏ فَجَلَسَ مَا شَاءَ اللَّهُ فِي الْمَجْلِسِ، ثُمَّ رَجَعَ، فَطَوَاهَا ثُمَّ أَرْسَلَ بِهَا إِلَيْهِ‏.‏ فَقَالَ لَهُ الْقَوْمُ مَا أَحْسَنْتَ، سَأَلْتَهَا إِيَّاهُ وَقَدْ عَرَفْتَ أَنَّهُ لاَ يَرُدُّ سَائِلاً‏.‏ فَقَالَ الرَّجُلُ وَاللَّهِ مَا سَأَلْتُهَا إِلاَّ لِتَكُونَ كَفَنِي يَوْمَ أَمُوتُ‏.‏ قَالَ سَهْلٌ فَكَانَتْ كَفَنَهُ‏.‏",
+"swahili": "Amesimulia Abu Hazim:\nShahl bin Sa`d (radhi za Allah ziwe juu yake) alisema, \"Mwanamke mmoja alikuja na Burda. Kisha Sahl (radhi za Allah ziwe juu yake) akawauliza (watu), \"Je, mnajua Burda ni nini?\" Mtu fulani akasema, \"Ndiyo. Ni Shamla yenye ukingo uliosokotwa.\" Sahl (radhi za Allah ziwe juu yake) aliongeza, \"Mwanamke huyo alisema, 'Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Nimeifuma hii (Burda) kwa mikono yangu mwenyewe ili uivae.\" Mtume wa Mwenyezi Mungu (ﷺ) aliichukua na alikuwa akiihitaji. Mtume wa Mwenyezi Mungu (ﷺ) alitujia na alikuwa ameivaa kama Izar. Mtu mmoja miongoni mwa watu aliigusa na akasema, 'Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Nipe niivae.' Mtume (ﷺ) akasema, 'Ndiyo.' Kisha akakaa pale kwa muda (na alipokwenda nyumbani kwake), akaikunja na kumpelekea. Watu wakamwambia mtu huyo, 'Hujafanya jambo jema. Ulimwomba, ingawa unajua kwamba haachi ombi la mtu yeyote.' Mtu huyo akasema, 'Wallahi! Nimemwomba tu ili iwe sanda yangu nitakapokufa.' Sahl (radhi za Allah ziwe juu yake) akaongeza, \"Marehemu ilikuwa sanda yake.\""
+},
+{
+"number": "5811",
+"arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي زُمْرَةٌ هِيَ سَبْعُونَ أَلْفًا، تُضِيءُ وُجُوهُهُمْ إِضَاءَةَ الْقَمَرِ ‏\"‏‏.‏ فَقَامَ عُكَاشَةُ بْنُ مِحْصَنٍ الأَسَدِيُّ يَرْفَعُ نَمِرَةً عَلَيْهِ قَالَ ادْعُ اللَّهَ لِي يَا رَسُولَ اللَّهِ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَقَالَ ‏\"‏ اللَّهُمَّ اجْعَلْهُ مِنْهُمْ ‏\"‏‏.‏ ثُمَّ قَامَ رَجُلٌ مِنَ الأَنْصَارِ فَقَالَ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَقَالَ رَسُولُ اللَّهِ ‏\"‏ سَبَقَكَ عُكَاشَةُ ‏\"‏‏.‏",
+"swahili": "Amesimulia Abu Huraira (radhi za Allah ziwe juu yake):\nNilimsikia Mtume wa Mwenyezi Mungu (ﷺ) akisema \"Kutoka miongoni mwa wafuasi wangu, kundi (takriban 70,000) litaingia Peponi bila kuulizwa hesabu zao, Nyuso zao zitang'aa kama mwezi.\" 'Ukasha bin Muhsin Al-Asadi alisimama, akiinua shuka lake la kufunika na kusema, \"Ewe Mtume wa Mwenyezi Mungu (ﷺ) Niombee Mwenyezi Mungu ili anijumuishe pamoja nao.\" Mtume (ﷺ) akasema! \"Ewe Mwenyezi Mungu! Mfanye awe miongoni mwao.\" Kisha mtu mwingine kutoka Al-Ansar akasimama na kusema, \"Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Niombee Mwenyezi Mungu ili anijumuishe pamoja nao.\" Hapo Mtume wa Mwenyezi Mungu (ﷺ) akasema, \"'Ukasha amekutarajia.\""
+},
+{
+"number": "5812",
+"arabic": "حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قُلْتُ لَهُ أَىُّ الثِّيَابِ كَانَ أَحَبَّ إِلَى النَّبِيِّ صلى الله عليه وسلم قَالَ الْحِبَرَةُ‏.‏",
+"swahili": "Amesimulia Qatada:\nNilimuuliza Anas (radhi za Allah ziwe juu yake), \"Ni aina gani ya nguo iliyopendwa zaidi na Mtume?\" Akajibu, \"Hibra (aina ya kitambaa cha Yemen).\""
+},
+{
+"number": "5813",
+"arabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا مُعَاذٌ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، رضى الله عنه ـ قَالَ كَانَ أَحبُّ الثِّيَابِ إِلَى النَّبِيِّ صلى الله عليه وسلم أَنْ يَلْبَسَهَا الْحِبَرَةَ‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nVazi lililopendwa zaidi na Mtume (ﷺ) kuvaa lilikuwa Hibra (aina ya kitambaa cha Yemen).\""
+},
+{
+"number": "5814",
+"arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حِينَ تُوُفِّيَ سُجِّيَ بِبُرْدٍ حِبَرَةٍ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\n(mke wa Mtume) Mtume wa Mwenyezi Mungu (ﷺ) alipokufa, alifunikwa na Hibra Burd (vazi la kijani kibichi lililopambwa kwa mraba).\""
+},
+{
+"number": "5815, 5816",
+"arabic": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَائِشَةَ، وَعَبْدَ اللَّهِ بْنُ عَبَّاسٍ، رضى الله عنهم قَالاَ لَمَّا نَزَلَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم طَفِقَ يَطْرَحُ خَمِيصَةً لَهُ عَلَى وَجْهِهِ، فَإِذَا اغْتَمَّ كَشَفَهَا عَنْ وَجْهِهِ، فَقَالَ وَهْوَ كَذَلِكَ ‏ \"‏ لَعْنَةُ اللَّهِ عَلَى الْيَهُودِ وَالنَّصَارَى اتَّخَذُوا قُبُورَ أَنْبِيَائِهِمْ مَسَاجِدَ ‏\"‏‏.‏ يُحَذِّرُ مَا صَنَعُوا‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake) na `Abdullah bin `Abbas (radhi za Allah ziwe juu yake):\nUgonjwa wa Mtume wa Mwenyezi Mungu (ﷺ) ulipozidi, alifunika uso wake na Khamisa, lakini alipokosa pumzi, aliliondoa usoni mwake na kusema, \"Ni hivyo!\" Mwenyezi Mungu awalaani Wayahudi Wakristo kwa sababu waliyachukulia makaburi ya manabii wao kama sehemu za ibada.\" Kwa hilo aliwaonya mfuasi wake wa kuwaiga, kwa kufanya waliyofanya.\""
+},
+{
+"number": "5817",
+"arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي خَمِيصَةٍ لَهُ لَهَا أَعْلاَمٌ، فَنَظَرَ إِلَى أَعْلاَمِهَا نَظْرَةً، فَلَمَّا سَلَّمَ قَالَ ‏ \"‏ اذْهَبُوا بِخَمِيصَتِي هَذِهِ إِلَى أَبِي جَهْمٍ، فَإِنَّهَا أَلْهَتْنِي آنِفًا عَنْ صَلاَتِي، وَائْتُونِي بِأَنْبِجَانِيَّةِ أَبِي جَهْمِ بْنِ حُذَيْفَةَ بْنِ حُذَيْفَةَ بْنِ غَانِمٍ مِنْ بَنِي عَدِيِّ بْنِ كَعْبٍ ‏\"‏‏.‏",
+"swahili": "Aisha (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) alisali huku akiwa amevaa Khamisa yake iliyokuwa na alama zilizoandikwa. Aliangalia alama zake na alipomaliza kusali, alisema, \"Mpelekee Khamisa yangu hii kwa Abu Jahm, kwani sasa imegeuza mawazo yangu kutoka kwenye sala yangu, na uniletee Anbijania (shuka nene wazi) ya Abu Jahm bin Hudhaifa bin Ghanim ambaye alikuwa wa Bani Adi bin Ka`b.\""
+},
+{
+"number": "5818",
+"arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا أَيُّوبُ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، عَنْ أَبِي بُرْدَةَ، قَالَ أَخْرَجَتْ إِلَيْنَا عَائِشَةُ كِسَاءً وَإِزَارًا غَلِيظًا فَقَالَتْ قُبِضَ رُوحُ النَّبِيِّ صلى الله عليه وسلم فِي هَذَيْنِ‏.‏",
+"swahili": "Aisha (radhi za Allah ziwe juu yake) alisimulia:\nAisha (radhi za Allah ziwe juu yake) alituletea Kisa na Izar na akasema, \"Mtume (ﷺ) alikufa akiwa amevaa hivi viwili.\" (Kisa, kipande cheusi cha mraba cha kitambaa cha sufu. Izar, vazi la kitambaa cha karatasi linalofunika nusu ya chini ya mwili).\""
+},
+{
+"number": "5819",
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ خُبَيْبٍ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ الْمُلاَمَسَةِ، وَالْمُنَابَذَةِ، وَعَنْ صَلاَتَيْنِ بَعْدَ الْفَجْرِ حَتَّى تَرْتَفِعَ الشَّمْسُ، وَبَعْدَ الْعَصْرِ حَتَّى تَغِيبَ، وَأَنْ يَحْتَبِيَ بِالثَّوْبِ الْوَاحِدِ، لَيْسَ عَلَى فَرْجِهِ مِنْهُ شَىْءٌ بَيْنَهُ وَبَيْنَ السَّمَاءِ، وَأَنْ يَشْتَمِلَ الصَّمَّاءَ‏.‏",
+"swahili": "Amesimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alikuwa amekataza: (A) Mulamasa na Munabadha (biashara), (B) kutoa sala mbili, moja baada ya sala ya lazima ya asubuhi hadi jua lichomoze, na zingine, baada ya sala ya `Asr hadi jua litue (C) Pia alikataza mtu kukaa amevaa nguo moja, ambayo haifuniki sehemu zake za siri (D) na kuzizuia zisionekane angani; (E) pia alikataza Ishtimalas- Samma'.\""
+},
+{
+"number": "5820",
+"arabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَامِرُ بْنُ سَعْدٍ، أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ لِبْسَتَيْنِ وَعَنْ بَيْعَتَيْنِ، نَهَى عَنِ الْمُلاَمَسَةِ وَالْمُنَابَذَةِ فِي الْبَيْعِ، وَالْمُلاَمَسَةُ لَمْسُ الرَّجُلِ ثَوْبَ الآخَرِ بِيَدِهِ بِاللَّيْلِ أَوْ بِالنَّهَارِ، وَلاَ يُقَلِّبُهُ إِلاَّ بِذَلِكَ، وَالْمُنَابَذَةُ أَنْ يَنْبِذَ الرَّجُلُ إِلَى الرَّجُلِ بِثَوْبِهِ، وَيَنْبِذَ الآخَرُ ثَوْبَهُ، وَيَكُونَ ذَلِكَ بَيْعَهُمَا، عَنْ غَيْرِ نَظَرٍ وَلاَ تَرَاضٍ، وَاللِّبْسَتَيْنِ اشْتِمَالُ الصَّمَّاءِ، وَالصَّمَّاءُ أَنْ يَجْعَلَ ثَوْبَهُ عَلَى أَحَدِ عَاتِقَيْهِ، فَيَبْدُو أَحَدُ شِقَّيْهِ لَيْسَ عَلَيْهِ ثَوْبٌ، وَاللِّبْسَةُ الأُخْرَى احْتِبَاؤُهُ بِثَوْبِهِ وَهْوَ جَالِسٌ، لَيْسَ عَلَى فَرْجِهِ مِنْهُ شَىْءٌ‏.‏",
+"swahili": "Amesimulia Abu Sa`id Al-Khudri (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alikataza njia mbili za kuvaa nguo na aina mbili za shughuli. (A) Alikataza shughuli za Mulamasa na Munabadha. Katika muamala wa Mulamasa mnunuzi hugusa tu nguo anayotaka kununua usiku au mchana, na mguso huo ungemlazimu kuinunua. Katika Munabadha, mtu mmoja humtupia mwingine nguo yake na wa pili humtupia wa kwanza na biashara ya kubadilishana ni kamili na halali bila kuchunguza vitu hivyo viwili au kuridhika navyo (B) Njia mbili za kuvaa nguo zilikuwa Ishtimal-as-Samma, yaani, kufunika bega la mtu kwa nguo yake na kuacha nyingine ikiwa wazi: na njia nyingine ilikuwa kujifunga na nguo huku mmoja akiwa amekaa kwa njia ambayo hakuna vazi lolote kati ya hizo litakalofunika sehemu yake ya siri.\""
+},
+{
+"number": "5821",
+"arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ لِبْسَتَيْنِ أَنْ يَحْتَبِيَ الرَّجُلُ فِي الثَّوْبِ الْوَاحِدِ لَيْسَ عَلَى فَرْجِهِ مِنْهُ شَىْءٌ، وَأَنْ يَشْتَمِلَ بِالثَّوْبِ الْوَاحِدِ، لَيْسَ عَلَى أَحَدِ شِقَّيْهِ، وَعَنِ الْمُلاَمَسَةِ وَالْمُنَابَذَةِ‏.‏",
+"swahili": "Amesimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alikataza aina mbili za nguo: (A) Kukaa katika mkao wa Ihtiba katika vazi moja ambalo halina chochote kinachofunika sehemu zake za siri. (B) kufunika upande mmoja wa mwili wake kwa vazi moja na kuacha upande mwingine uchi. Mtume (ﷺ) pia alikataza Mulamasa na Munabadha.\""
+},
+{
+"number": 5822,
+"arabic": "حَدَّثَنِي مُحَمَّدٌ، قَالَ أَخْبَرَنِي مَخْلَدٌ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي ابْنُ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ اشْتِمَالِ الصَّمَّاءِ، وَأَنْ يَحْتَبِيَ الرَّجُلُ فِي ثَوْبٍ وَاحِدٍ، لَيْسَ عَلَى فَرْجِهِ مِنْهُ شَىْءٌ‏.‏",
+"swahili": "Amesimulia Abu Sa`id Al-Khudri (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alikataza Ishtimal-as-Samma' na kwamba mwanamume anapaswa kukaa katika mkao wa Ihtiba' akiwa amevaa vazi moja, bila kufunika sehemu zake za siri."
+},
+{
+"number": 5823,
+"arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا إِسْحَاقُ بْنُ سَعِيدٍ، عَنْ أَبِيهِ، سَعِيدِ بْنِ فُلاَنٍ ـ هُوَ عَمْرُو بْنُ سَعِيدِ بْنِ الْعَاصِ ـ عَنْ أُمِّ خَالِدٍ بِنْتِ خَالِدٍ، أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِثِيَابٍ فِيهَا خَمِيصَةٌ سَوْدَاءُ صَغِيرَةٌ فَقَالَ ‏\"‏ مَنْ تَرَوْنَ نَكْسُو هَذِهِ ‏\"‏‏.‏ فَسَكَتَ الْقَوْمُ قَالَ ‏\"‏ ائْتُونِي بِأُمِّ خَالِدٍ ‏\"‏‏.‏ فَأُتِيَ بِهَا تُحْمَلُ فَأَخَذَ الْخَمِيصَةَ بِيَدِهِ فَأَلْبَسَهَا وَقَالَ ‏\"‏ أَبْلِي وَأَخْلِقِي ‏\"‏‏.‏ وَكَانَ فِيهَا عَلَمٌ أَخْضَرُ أَوْ أَصْفَرُ فَقَالَ ‏\"‏ يَا أُمَّ خَالِدٍ هَذَا سَنَاهْ ‏\"‏‏.‏ وَسَنَاهْ بِالْحَبَشِيَّةِ حَسَنٌ‏.‏",
+"swahili": "Amesimulia Um Khalid bint Khalid (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alipewa nguo ikiwemo Khamisa nyeusi. Mtume (ﷺ) akasema, \"Tutampa nani hii avae?\" Watu walinyamaza kimya ndipo Mtume (ﷺ) akasema, \"Nileteeni Um Khalid (radhi za Allah ziwe juu yake).\" Mimi (Um Khalid (radhi za Allah ziwe juu yake)) nililetewa nimebebwa (kwani nilikuwa msichana mdogo wakati huo). Mtume (ﷺ) alishika Khamisa mikononi mwake na kunifanya niivae na akasema, \"Uishi muda mrefu kiasi kwamba gauni lako litachakaa na utalitengeneza mara nyingi.\" Kwenye Khamisa kulikuwa na miundo ya kijani au hafifu (Mtume (ﷺ) aliona miundo hii) na akasema, \"Ewe Um Khalid (radhi za Allah ziwe juu yake)! Huyu ni Sanah.\" (Sanah kwa neno la Kiethiopia linalomaanisha mrembo)."
+},
+{
+"number": 5824,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنِي ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ لَمَّا وَلَدَتْ أُمُّ سُلَيْمٍ قَالَتْ لِي يَا أَنَسُ انْظُرْ هَذَا الْغُلاَمَ فَلاَ يُصِيبَنَّ شَيْئًا حَتَّى تَغْدُوَ بِهِ إِلَى النَّبِيِّ صلى الله عليه وسلم يُحَنِّكُهُ‏.‏ فَغَدَوْتُ بِهِ، فَإِذَا هُوَ فِي حَائِطٍ وَعَلَيْهِ خَمِيصَةٌ حُرَيْثِيَّةٌ، وَهْوَ يَسِمُ الظَّهْرَ الَّذِي قَدِمَ عَلَيْهِ فِي الْفَتْحِ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake):\nUm Sulaim (radhi za Allah ziwe juu yake) alipojifungua mtoto, aliniambia, \"Ewe Anas (radhi za Allah ziwe juu yake)! Mwangalie kijana huyu kwa makini na usimpe chochote cha kula au kunywa hadi umpeleke kwa Mtume (ﷺ) kesho asubuhi kwa ajili ya Tahnik.\" Kwa hivyo asubuhi iliyofuata nilimpeleka mtoto kwa Mtume (ﷺ) ambaye alikuwa amekaa bustanini na alikuwa amevaa Huraithiya Khamisa na alikuwa akimchoma ngamia jike ambaye alikuwa amekuja wakati wa Utekaji wa Makka."
+},
+{
+"number": 5825,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، أَخْبَرَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، أَنَّ رِفَاعَةَ، طَلَّقَ امْرَأَتَهُ، فَتَزَوَّجَهَا عَبْدُ الرَّحْمَنِ بْنُ الزَّبِيرِ الْقُرَظِيُّ، قَالَتْ عَائِشَةُ وَعَلَيْهَا خِمَارٌ أَخْضَرُ‏.‏ فَشَكَتْ إِلَيْهَا، وَأَرَتْهَا خُضْرَةً بِجِلْدِهَا، فَلَمَّا جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالنِّسَاءُ يَنْصُرُ بَعْضُهُنَّ بَعْضًا قَالَتْ عَائِشَةُ مَا رَأَيْتُ مِثْلَ مَا يَلْقَى الْمُؤْمِنَاتُ، لَجِلْدُهَا أَشَدُّ خُضْرَةً مِنْ ثَوْبِهَا‏.‏ قَالَ وَسَمِعَ أَنَّهَا قَدْ أَتَتْ رَسُولُ اللَّهِ صلى الله عليه وسلم فَجَاءَ وَمَعَهُ ابْنَانِ لَهُ مِنْ غَيْرِهَا‏.‏ قَالَتْ وَاللَّهِ مَا لِي إِلَيْهِ مِنْ ذَنْبٍ، إِلاَّ أَنَّ مَا مَعَهُ لَيْسَ بِأَغْنَى عَنِّي مِنْ هَذِهِ‏.‏ وَأَخَذَتْ هُدْبَةً مِنْ ثَوْبِهَا، فَقَالَ كَذَبَتْ وَاللَّهِ يَا رَسُولَ اللَّهِ، إِنِّي لأَنْفُضُهَا نَفْضَ الأَدِيمِ، وَلَكِنَّهَا نَاشِزٌ تُرِيدُ رِفَاعَةَ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَإِنْ كَانَ ذَلِكَ لَمْ تَحِلِّي لَهُ ـ أَوْ لَمْ تَصْلُحِي لَهُ ـ حَتَّى يَذُوقَ مِنْ عُسَيْلَتِكِ ‏\"‏‏.‏ قَالَ وَأَبْصَرَ مَعَهُ ابْنَيْنِ فَقَالَ ‏\"‏ بَنُوكَ هَؤُلاَءِ ‏\"‏‏.‏ قَالَ نَعَمْ‏.‏ قَالَ ‏\"‏ هَذَا الَّذِي تَزْعُمِينَ مَا تَزْعُمِينَ، فَوَاللَّهِ لَهُمْ أَشْبَهُ بِهِ مِنَ الْغُرَابِ بِالْغُرَابِ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Ikrima:\nRifa`a (radhi za Allah ziwe juu yake) alimtaliki mkewe ambapo `AbdurRahman bin Az-Zubair Al-Qurazi (radhi za Allah ziwe juu yake) alimwoa. `Aisha (radhi za Allah ziwe juu yake) alisema kwamba mwanamke huyo (alikuja, akiwa amevaa pazia la kijani kibichi (na kumlalamikia (`Aisha (radhi za Allah ziwe juu yake)) kuhusu mumewe na kumwonyesha doa la kijani kibichi kwenye ngozi yake lililosababishwa na kipigo). Ilikuwa tabia ya wanawake kusaidiana, kwa hivyo Mtume wa Mwenyezi Mungu (ﷺ) alipokuja, `Aisha (radhi za Allah ziwe juu yake) alisema, \"Sijaona mwanamke yeyote akiteseka kama wanawake waumini. Tazama! Ngozi yake ni ya kijani kibichi kuliko nguo zake!\" `AbdurRahman (radhi za Allah ziwe juu yake) aliposikia kwamba mkewe amemwendea Mtume, alikuja na wanawe wawili kutoka kwa mke mwingine. Akasema, \"Wallahi! Sikumtendea ubaya wowote lakini hana nguvu na hana faida kwangu kama hivi,\" akishikilia na kuonyesha pindo la vazi lake, `Abdur-Rahman (radhi za Allah ziwe juu yake) akasema, \"Wallahi, Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Amesema uongo! Mimi ni hodari sana na naweza kumridhisha lakini ni mtiifu na anataka kurudi Rifaa`a (radhi za Allah ziwe juu yake).\" Mtume wa Mwenyezi Mungu (ﷺ) akamwambia, \"Ikiwa hiyo ndiyo nia yako, basi ujue kwamba ni kinyume cha sheria kwako kuoa tena Rifa`a (radhi za Allah ziwe juu yake) isipokuwa `Abdur-Rahman (radhi za Allah ziwe juu yake) amefanya ngono nawe.\" Kisha Mtume (ﷺ) akawaona wavulana wawili wakiwa na `Abdur-Rahman (radhi za Allah ziwe juu yake) na akamuuliza, \"Je, hawa ni wana wako?\" Hapo `AbdurRahman (radhi za Allah ziwe juu yake) akasema, \"Ndiyo.\" Mtume (ﷺ) akasema, \"Unadai unachodai (yaani kwamba hana uwezo wa kuzaa)? Lakini Wallahi, wavulana hawa wanafanana naye kama kunguru anayefanana na kunguru,\""
+},
+{
+"number": 5826,
+"arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا مِسْععرٌ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنْ سَعْدٍ، قَالَ رَأَيْتُ بِشِمَالِ النَّبِيِّ صلى الله عليه وسلم وَبِيَمِينِهِ رَجُلَيْنِ عَلَيْهِمَا ثِيَابٌ بِيضٌ يَوْمَ أُحُدٍ، مَا رَأَيْتُهُمَا قَبْلُ وَلاَ بَعْدُ‏.‏",
+"swahili": "Sa`d (radhi za Allah ziwe juu yake) alisimulia:\nSiku ya vita vya Uhud, kulia na kushoto kwa Mtume (ﷺ) walikuwa wanaume wawili waliovaa nguo nyeupe, na sikuwa nimewaona hapo awali, wala sikuwaona baadaye."
+},
+{
+"number": 5827,
+"arabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْحُسَيْنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ يَحْيَى بْنِ يَعْمَرَ، حَدَّثَهُ أَنَّ أَبَا الأَسْوَدِ الدِّيلِيَّ حَدَّثَهُ أَنَّ أَبَا ذَرٍّ ـ رضى الله عنه ـ حَدَّثَهُ قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَعَلَيْهِ ثَوْبٌ أَبْيَضُ وَهْوَ نَائِمٌ، ثُمَّ أَتَيْتُهُ وَقَدِ اسْتَيْقَظَ فَقَالَ ‏\"‏ مَا مِنْ عَبْدٍ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ ثُمَّ مَاتَ عَلَى ذَلِكَ، إِلاَّ دَخَلَ الْجَنَّةَ ‏\"‏‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ ‏\"‏‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ ‏\"‏‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ عَلَى رَغْمِ أَنْفِ أَبِي ذَرٍّ ‏\"‏‏.‏ وَكَانَ أَبُو ذَرٍّ إِذَا حَدَّثَ بِهَذَا قَالَ وَإِنْ رَغِمَ أَنْفُ أَبِي ذَرٍّ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ هَذَا عِنْدَ الْمَوْتِ أو قَبْلَهُ، إِذَا تَابَ وَنَدِمَ وَقَالَ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ غُفِرَ لَهُ‏.‏",
+"swahili": "Amesimulia Abu Dharr (radhi za Allah ziwe juu yake):\nNilimjia Mtume (ﷺ) akiwa amevaa nguo nyeupe na amelala. Kisha nikarudi kwake tena baada ya kuamka kutoka usingizini. Alisema, \"Hakuna anayesema: 'Hakuna mwenye haki ya kuabudiwa isipokuwa Allah' na baadaye akafa huku akiamini hilo, isipokuwa kwamba ataingia Peponi.\" Nikasema, \"Hata kama amefanya ngono haramu na wizi?\" Alisema. 'Hata kama amefanya ngono haramu na wizi.\" Nikasema, \"Hata kama amefanya ngono haramu na wizi?\" Alisema. 'Hata kama amefanya ngono haramu na wizi.\" Nikasema, 'Hata kama amefanya ngono haramu na wizi?' Akasema, \"Hata kama amefanya ngono haramu na wizi, licha ya kutokupenda kwa Abu Dharr (radhi za Allah ziwe juu yake). Abu `Abdullah alisema, \"Hii ni wakati wa kifo au kabla yake ikiwa mtu atatubu na kujuta na kusema \"Hakuna mwenye haki ya kuabudiwa isipokuwa Allah. Atasamehewa dhambi zake.\""
+},
+{
+"number": 5828,
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا قَتَادَةُ، قَالَ سَمِعْتُ أَبَا عُثْمَانَ النَّهْدِيَّ، أَتَانَا كِتَابُ عُمَرَ وَنَحْنُ مَعَ عُتْبَةَ بْنِ فَرْقَدٍ بِأَذْرَبِيجَانَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْحَرِيرِ، إِلاَّ هَكَذَا، وَأَشَارَ بِإِصْبَعَيْهِ اللَّتَيْنِ تَلِيَانِ الإِبْهَامَ قَالَ فِيمَا عَلِمْنَا أَنَّهُ يَعْنِي الأَعْلاَمَ‏.‏",
+"swahili": "Aba `Uthman An-Nahdi:\nTulipokuwa na `Utba bin Farqad (radhi za Allah ziwe juu yake) huko Adharbijan, ilikuja barua ya `Umar (radhi za Allah ziwe juu yake) ikionyesha kwamba Mtume wa Mwenyezi Mungu alikuwa amekataza matumizi ya hariri isipokuwa kiasi hiki, kisha akaashiria kwa vidole vyake vya shahada na vya kati. Kwa ufahamu wetu, kwa hilo alimaanisha kufuma."
+},
+{
+"number": 5829,
+"arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا عَاصِمٌ، عَنْ أَبِي عُثْمَانَ، قَالَ كَتَبَ إِلَيْنَا عُمَرُ وَنَحْنُ بِأَذْرَبِيجَانَ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ لُبْسِ الْحَرِيرِ إِلاَّ هَكَذَا، وَصَفَّ لَنَا النَّبِيُّ صلى الله عليه وسلم إِصْبَعَيْهِ‏.‏ وَرَفَعَ زُهَيْرٌ الْوُسْطَى وَالسَّبَّابَةَ‏.‏",
+"swahili": "Abu `Uthman:\nTulipokuwa Adharbijan, `Umar (radhi za Allah ziwe juu yake) alituandikia: 'Mtume wa Mwenyezi Mungu (ﷺ) alikataza kuvaa hariri isipokuwa kiasi hiki. Kisha Mtume (ﷺ) akatulinganishia vidole vyake viwili (vidole vya shahada na vya kati) (ili kuonyesha hilo).' Zuhair (msimulizi mdogo) aliinua vidole vyake vya kati na vya shahada."
+},
+{
+"number": 5830,
+"arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ، قَالَ كُنَّا مَعَ عُتْبَةَ فَكَتَبَ إِلَيْهِ عُمَرُ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يُلْبَسُ الْحَرِيرُ فِي الدُّنْيَا، إِلاَّ لَمْ يُلْبَسْ فِي الآخِرَةِ مِنْهُ ‏\"‏‏.‏ حَدَّثَنَا الْحَسَنُ بْنُ عُمَرَ، حَدَّثَنَا مُعْتَمِرٌ، حَدَّثَنَا أَبِي، حَدَّثَنَا أَبُو عُثْمَانَ،، وَأَشَارَ أَبُو عُثْمَانَ، بِإِصْبَعَيْهِ الْمُسَبِّحَةِ وَالْوُسْطَى‏.‏",
+"swahili": "Abu `Uthman:\nTulipokuwa na `Utba (radhi za Allah ziwe juu yake). `Umar (radhi za Allah ziwe juu yake) alituandikia: Mtume (ﷺ) alisema, \"Hakuna mtu anayevaa hariri katika ulimwengu huu isipokuwa hatavaa chochote huko Akhera.\" Abu `Uthman aliashiria kwa vidole vyake vya kati na vya shahada. Hadithi hii pia imesimuliwa na Abu `Uthman."
+},
+{
+"number": 5831,
+"arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنِ ابْنِ أَبِي لَيْلَى، قَالَ كَانَ حُذَيْفَةُ بِالْمَدَايِنِ فَاسْتَسْقَى، فَأَتَاهُ دِهْقَانٌ بِمَاءٍ فِي إِنَاءٍ مِنْ فِضَّةٍ فَرَمَاهُ بِهِ وَقَالَ إِنِّي لَمْ أَرْمِهِ إِلاَّ أَنِّي نَهَيْتُهُ فَلَمْ يَنْتَهِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الذَّهَبُ وَالْفِضَّةُ وَالْحَرِيرُ وَالدِّيبَاجُ هِيَ لَهُمْ فِي الدُّنْيَا، وَلَكُمْ فِي الآخِرَةِ ‏\"‏‏.‏",
+"swahili": "Ibn Abi Laila:\nHudhaifa (radhi za Allah ziwe juu yake) alipokuwa Al-Madain, aliuliza kwa ajili ya maji ambapo mkuu wa kijiji alimletea maji katika kikombe cha fedha. Hudhaifa (radhi za Allah ziwe juu yake) alimrushia na kusema, \"Nimeyatupa kwa sababu tu nimemkataza kuyatumia, lakini haachi kuyatumia. Mtume wa Mwenyezi Mungu (ﷺ) alisema, 'Dhahabu, fedha, hariri na Dibaj (aina ya hariri) ni kwa ajili yao (makafiri) katika dunia hii na kwa ajili yenu (Waislamu) katika Akhera.'\""
+},
+{
+"number": 5832,
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ قَالَ شُعْبَةُ فَقُلْتُ أَعَنِ النَّبِيِّ صلى الله عليه وسلم فَقَالَ شَدِيدًا عَنِ النَّبِيِّ صلى الله عليه وسلم ـ فَقَالَ ‏ \"‏ مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا فَلَنْ يَلْبَسَهُ فِي الآخِرَةِ ‏\"‏‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alisema, Yeyote anayevaa hariri katika dunia hii hataivaa Akhera.\""
+},
+{
+"number": 5833,
+"arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، قَالَ سَمِعْتُ ابْنَ الزُّبَيْرِ، يَخْطُبُ يَقُولُ قَالَ مُحَمَّدٌ صلى الله عليه وسلم ‏ \"‏ مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا لَمْ يَلْبَسْهُ فِي الآخِرَةِ ‏\"‏‏.‏",
+"swahili": "Thabit (radhi za Allah ziwe juu yake) alisimulia:\nNilimsikia Ibn Az-Zubair (radhi za Allah ziwe juu yake) akitoa hotuba, akisema, \"Muhammad (ﷺ) alisema, 'Yeyote atakayevaa hariri katika ulimwengu huu, hataivaa Akhera.\""
+},
+{
+"number": 5834,
+"arabic": "حَدَّثَنَا عَلِيُّ بْنُ الْجَعْدِ، أَخْبَرَنَا شُعْبَةُ، عَنْ أَبِي ذُبْيَانَ، خَلِيفَةَ بْنِ كَعْبٍ قَالَ سَمِعْتُ ابْنَ الزُّبَيْرِ، يَقُولُ سَمِعْتُ عُمَرَ، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا لَمْ يَلْبَسْهُ فِي الآخِرَةِ ‏\"‏‏.‏ وَقَالَ لَنَا أَبُو مَعْمَرٍ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ يَزِيدَ، قَالَتْ مُعَاذَةُ أَخْبَرَتْنِي أُمُّ عَمْرٍو بِنْتُ عَبْدِ اللَّهِ، سَمِعْتُ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ، سَمِعَ عُمَرَ، سَمِعَ النَّبِيَّ صلى الله عليه وسلم‏ نَحْوَهُ.",
+"swahili": "Ibn Az-Zubair (radhi za Allah ziwe juu yake) alisimulia:\nNilimsikia `Umar (radhi za Allah ziwe juu yake) akisema, \"Mtume (ﷺ) alisema, 'Yeyote atakayevaa hariri katika ulimwengu huu, hataivaa Akhera.\""
+},
+{
+"number": 5835,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عِمْرَانَ بْنِ حِطَّانَ، قَالَ سأَلْتُ عَائِشَةَ عَنِ الْحَرِيرِ، فَقَالَتِ ائْتِ ابْنَ عَبَّاسٍ فَسَلْهُ‏.‏ قَالَ فَسَأَلْتُهُ فَقَالَ سَلِ ابْنَ عُمَرَ‏.‏ قَالَ فَسَأَلْتُ ابْنَ عُمَرَ فَقَالَ أَخْبَرَنِي أَبُو حَفْصٍ ـ يَعْنِي عُمَرَ بْنَ الْخَطَّابِ ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّمَا يَلْبَسُ الْحَرِيرَ فِي الدُّنْيَا مَنْ لاَ خَلاَقَ لَهُ فِي الآخِرَةِ ‏\"‏‏.‏ فَقُلْتُ صَدَقَ وَمَا كَذَبَ أَبُو حَفْصٍ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏ وَقَالَ عَبْدُ اللَّهِ بْنُ رَجَاءٍ حَدَّثَنَا حَرْبٌ عَنْ يَحْيَى حَدَّثَنِي عِمْرَانُ‏.‏ وَقَصَّ الْحَدِيثَ‏.‏",
+"swahili": "Umar bin Al-Khattab (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) alisema, \"Hakuna anayevaa hariri katika ulimwengu huu, isipokuwa yule ambaye hatakuwa na sehemu katika Akhera.\""
+},
+{
+"number": 5836,
+"arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ أُهْدِيَ لِلنَّبِيِّ صلى الله عليه وسلم ثَوْبُ حَرِيرٍ، فَجَعَلْنَا نَلْمُسُهُ، وَنَتَعَجَّبُ مِنْهُ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ أَتَعْجَبُونَ مِنْ هَذَا ‏\"‏‏.‏ قُلْنَا نَعَمْ‏.‏ قَالَ ‏\"‏ مَنَادِيلُ سَعْدِ بْنِ مُعَاذٍ فِي الْجَنَّةِ خَيْرٌ مِنْ هَذَا ‏\"‏‏.‏",
+"swahili": "Al-Bara (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alipewa vazi la hariri kama zawadi na tukaanza kuligusa kwa mikono yetu na kulifurahia. Hapo Mtume (ﷺ) akasema, \"Je, mnashangaa hili?\" Tukasema, \"Ndiyo.\" Akasema, \"Vitambaa vya Sa`d bin Mu`adh (radhi za Allah ziwe juu yake) Peponi ni bora kuliko hivi.\""
+},
+{
+"number": 5837,
+"arabic": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ ابْنَ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ حُذَيْفَةَ ـ رضى الله عنه ـ قَالَ نَهَانَا النَّبِيُّ صلى الله عليه وسلم أَنْ نَشْرَبَ فِي آنِيَةِ الذَّهَبِ وَالْفِضَّةِ، وَأَنْ نَأْكُلَ فِيهَا، وَعَنْ لُبْسِ الْحَرِيرِ وَالدِّيبَاجِ، وَأَنْ نَجْلِسَ عَلَيْهِ‏.‏",
+"swahili": "Alisimulia Hudhaifa (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alitukataza kunywa kutoka kwenye vyombo vya dhahabu na fedha, au kula humo, pia alikataza kuvaa hariri na Dibaj au kukaa juu yake."
+},
+{
+"number": 5838,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، حَدَّثَنَا مُعَاوِيَةُ بْنُ سُوَيْدِ بْنِ مُقَرِّنٍ، عَنِ ابْنِ عَازِبٍ، قَالَ نَهَانَا النَّبِيُّ صلى الله عليه وسلم عَنِ الْمَيَاثِرِ الْحُمْرِ وَالْقَسِّيِّ‏.‏",
+"swahili": "Alisimulia Ibn Azib (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alitukataza kutumia Mayathir nyekundu na kutumia Al-Qassiy."
+},
+{
+"number": 5839,
+"arabic": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنَا وَكِيعٌ، أَخْبَرَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ رَخَّصَ النَّبِيُّ صلى الله عليه وسلم لِلزُّبَيْرِ وَعَبْدِ الرَّحْمَنِ فِي لُبْسِ الْحَرِيرِ لِحِكَّةٍ بِهِمَا‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) aliwaruhusu Az-Zubair (radhi za Allah ziwe juu yake) na `Abdur-Rahman (radhi za Allah ziwe juu yake) kuvaa hariri kwa sababu walikuwa na muwasho."
+},
+{
+"number": 5840,
+"arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ مَيْسَرَةَ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ عَلِيٍّ ـ رضى الله عنه ـ قَالَ كَسَانِي النَّبِيُّ صلى الله عليه وسلم حُلَّةً سِيَرَاءَ، فَخَرَجْتُ فِيهَا، فَرَأَيْتُ الْغَضَبَ فِي وَجْهِهِ، فَشَقَّقْتُهَا بَيْنَ نِسَائِي‏.‏",
+"swahili": "Ali bin Abi Talib (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alinipa suti ya hariri. Nilitoka nje nikiwa nimeivaa, lakini nilipoona dalili za hasira usoni mwake, niliirarua na kuigawanya kwa wake zangu."
+},
+{
+"number": 5841,
+"arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ عُمَرَ ـ رضى الله عنه ـ رَأَى حُلَّةً سِيَرَاءَ تُبَاعُ فَقَالَ يَا رَسُولَ اللَّهِ لَوِ ابْتَعْتَهَا، تَلْبَسُهَا لِلْوَفْدِ إِذَا أَتَوْكَ وَالْجُمُعَةِ‏.‏ قَالَ ‏\"‏ إِنَّمَا يَلْبَسُ هَذِهِ مَنْ لاَ خَلاَقَ لَهُ ‏\"‏‏.‏ وَأَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ بَعْدَ ذَلِكَ إِلَى عُمَرَ حُلَّةَ سِيَرَاءَ حَرِيرٍ، كَسَاهَا إِيَّاهُ فَقَالَ عُمَرُ كَسَوْتَنِيهَا وَقَدْ سَمِعْتُكَ تَقُولُ فِيهَا مَا قُلْتَ فَقَالَ ‏\"‏ إِنَّمَا بَعَثْتُ إِلَيْكَ لِتَبِيعَهَا أو تَكْسُوَهَا ‏\"‏‏.‏",
+"swahili": "Abdullah bin `Umar (radhi za Allah ziwe juu yake) alisimulia:\n`Umar (radhi za Allah ziwe juu yake) aliona suti ya hariri ikiuzwa, kwa hivyo akasema, \"Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Kwa nini usiinunue ili uweze kuivaa wajumbe wanapokuja kwako, na pia Ijumaa?\" Mtume (ﷺ) alisema, \"Hii huvaliwa na yule tu ambaye hana sehemu katika Akhera.\" Baadaye Mtume (ﷺ) alimtumia `Umar (radhi za Allah ziwe juu yake) suti ya hariri inayofaa kuvaliwa. `Umar (radhi za Allah ziwe juu yake) akamwambia Mtume, \"Umenipa niivae, lakini nimekusikia ukisema ulichosema kuihusu?\" Mtume (ﷺ) akasema, \"Nilikutumia ili uiuze au umpe mtu mwingine avae.\""
+},
+{
+"number": 5842,
+"arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ، أَنَّهُ رَأَى عَلَى أُمِّ كُلْثُومٍ ـ عَلَيْهَا السَّلاَمُ ـ بِنْتِ رَسُولِ اللَّهِ صلى الله عليه وسلم بُرْدَ حَرِيرٍ سِيَرَاءَ‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nkwamba alikuwa amemwona Um Kulthum (radhi za Allah ziwe juu yake), binti wa Mtume wa Mwenyezi Mungu (ﷺ), akiwa amevaa vazi jekundu la hariri."
+},
+{
+"number": 5843,
+"arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عُبَيْدِ بْنِ حُنَيْنٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ لَبِثْتُ سَنَةً وَأَنَا أُرِيدُ أَنْ أَسْأَلَ عُمَرَ عَنِ الْمَرْأَتَيْنِ اللَّتَيْنِ تَظَاهَرَتَا عَلَى النَّبِيِّ صلى الله عليه وسلم فَجَعَلْتُ أَهَابُهُ، فَنَزَلَ يَوْمًا مَنْزِلاً فَدَخَلَ الأَرَاكَ، فَلَمَّا خَرَجَ سَأَلْتُهُ فَقَالَ عَائِشَةُ وَحَفْصَةُ ـ ثُمَّ قَالَ ـ كُنَّا فِي الْجَاهِلِيَّةِ لاَ نَعُدُّ النِّسَاءَ شَيْئًا، فَلَمَّا جَاءَ الإِسْلاَمُ وَذَكَرَهُنَّ اللَّهُ، رَأَيْنَا لَهُنَّ بِذَلِكَ عَلَيْنَا حَقًّا، مِنْ غَيْرِ أَنْ نُدْخِلَهُنَّ فِي شَىْءٍ مِنْ أُمُورِنَا، وَكَانَ بَيْنِي وَبَيْنَ امْرَأَتِي كَلاَمٌ فَأَغْلَظَتْ لِي فَقُلْتُ لَهَا وَإِنَّكِ لَهُنَاكِ‏.‏ قَالَتْ تَقُولُ هَذَا لِي وَابْنَتُكَ تُؤْذِي النَّبِيِّ صلى الله عليه وسلم فَأَتَيْتُ حَفْصَةَ فَقُلْتُ لَهَا إِنِّي أُحَذِّرُكِ أَنْ تَعْصِي اللَّهَ وَرَسُولَهُ‏.‏ وَتَقَدَّمْتُ إِلَيْهَا فِي أَذَاهُ، فَأَتَيْتُ أُمَّ سَلَمَةَ فَقُلْتُ لَهَا‏.‏ فَقَالَتْ أَعْجَبُ مِنْكَ يَا عُمَرُ قَدْ دَخَلْتَ فِي أُمُورِنَا، فَلَمْ يَبْقَ إِلاَّ أَنْ تَدْخُلَ بَيْنَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَزْوَاجِهِ، فَرَدَّدَتْ، وَكَانَ رَجُلٌ مِنَ الأَنْصَارِ إِذَا غَابَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَشَهِدْتُهُ أَتَيْتُهُ بِمَا يَكُونُ، وَإِذَا غِبْتُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَشَهِدَ أَتَانِي بِمَا يَكُونُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَكَانَ مَنْ حَوْلَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَدِ اسْتَقَامَ لَهُ، فَلَمْ يَبْقَ إِلاَّ مَلِكُ غَسَّانَ بِالشَّأْمِ، كُنَّا نَخَافُ أَنْ يَأْتِيَنَا، فَمَا شَعَرْتُ إِلاَّ بِالأَنْصَارِيِّ وَهْوَ يَقُولُ إِنَّه قَدْ حَدَثَ أَمْرٌ‏.‏ قُلْتُ لَهُ وَمَا هُوَ أَجَاءَ الْغَسَّانِيُّ قَالَ أَعْظَمُ مِنْ ذَاكَ، طَلَّقَ رَسُولُ اللَّهِ صلى الله عليه وسلم نِسَاءَهُ‏.‏ فَجِئْتُ فَإِذَا الْبُكَاءُ مِنْ حُجَرِهَا كُلِّهَا، وَإِذَا النَّبِيُّ صلى الله عليه وسلم قَدْ صَعِدَ فِي مَشْرُبَةٍ لَهُ، وَعَلَى باب الْمَشْرُبَةِ وَصِيفٌ فَأَتَيْتُهُ فَقُلْتُ اسْتَأْذِنْ لِي‏.‏ فَدَخَلْتُ فَإِذَا النَّبِيُّ صلى الله عليه وسلم عَلَى حَصِيرٍ قَدْ أَثَّرَ فِي جَنْبِهِ، وَتَحْتَ رَأْسِهِ مِرْفَقَةٌ مِنْ أَدَمٍ، حَشْوُهَا لِيفٌ، وَإِذَا أُهُبٌ مُعَلَّقَةٌ وَقَرَظٌ، فَذَكَرْتُ الَّذِي قُلْتُ لِحَفْصَةَ وَأُمِّ سَلَمَةَ، وَالَّذِي رَدَّتْ عَلَىَّ أُمُّ سَلَمَةَ، فَضَحِكَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَبِثَ تِسْعًا وَعِشْرِينَ لَيْلَةً، ثُمَّ نَزَلَ‏.‏",
+"swahili": "Ibn Abbas (radhi za Allah ziwe juu yake):\nKwa mwaka mmoja nilitaka kumuuliza `Umar (radhi za Allah ziwe juu yake) kuhusu wanawake wawili waliosaidiana dhidi ya Mtume (ﷺ) lakini nilimwogopa. Siku moja alishuka kwenye mnyama wake aliyempanda farasi na akaenda kati ya miti ya Arak ili kujibu wito wa maumbile, na aliporudi, nilimuuliza naye akasema, \"(Walikuwa) `Aisha (radhi za Allah ziwe juu yake) na Hafsa (radhi za Allah ziwe juu yake).\" Kisha akaongeza, \"Hatukuwahi kuwapa wanawake umuhimu katika siku za ujinga wa kabla ya Uislamu, lakini Uislamu ulipokuja na Mwenyezi Mungu akataja haki zao, tulikuwa tukiwapa haki zao lakini hatukuruhusu kuingilia mambo yetu. Wakati mmoja kulikuwa na ugomvi kati yangu na mke wangu naye akanijibu kwa sauti kubwa. Nilimwambia, 'Ajabu! Unaweza kujibu hivi?' Akasema, 'Ndiyo. Unaniambia hivi huku binti yako akimsumbua Mtume wa Mwenyezi Mungu (ﷺ)?' Kwa hiyo nikaenda kwa Hafsa (radhi za Allah ziwe juu yake) na kumwambia, 'Ninakuonya usimuasi Mwenyezi Mungu na Mtume Wake.' Kwanza nilienda kwa Hafsa (radhi za Allah ziwe juu yake) na kisha kwa Um Salama (radhi za Allah ziwe juu yake) na kumwambia vivyo hivyo. Aliniambia, 'Ewe Umar (radhi za Allah ziwe juu yake)! Inanishangaza kwamba unaingilia mambo yetu sana kiasi kwamba ungejitosa hata katika mambo ya Mtume wa Mwenyezi Mungu (ﷺ) na wake zake.' Kwa hivyo alikataa ushauri wangu. Kulikuwa na mtu wa Ansari; kila alipokuwa hayupo kwa Mtume wa Mwenyezi Mungu (ﷺ) na mimi nikiwa hapo, nilikuwa nikimweleza yaliyotokea (siku hiyo), na nilipokuwa hayupo na yeye alipokuwa hapo, alikuwa akinieleza yaliyotokea kuhusu habari kutoka kwa Mtume wa Mwenyezi Mungu (ﷺ). Wakati huo watawala wote wa nchi za karibu walikuwa wamejisalimisha kwa Mtume wa Mwenyezi Mungu (ﷺ) isipokuwa mfalme wa Ghassan huko Sham, na tuliogopa kwamba angeweza kutushambulia. Ghafla Ansari akaja na kusema, 'Tukio kubwa limetokea!' Nikamuuliza, 'Ni nini? Je, Ghassani (mfalme) amekuja?' Akasema, 'Kubwa zaidi ya hayo! Mtume wa Mwenyezi Mungu (ﷺ) amewaacha wake zake! Niliwaendea na kuwakuta wote wakilia majumbani mwao, na Mtume (ﷺ) alikuwa amepanda hadi chumba chake cha juu. Mlangoni mwa chumba hicho kulikuwa na mtumwa ambaye nilimwendea na kumwambia, \"Niombe ruhusa niingie.\" Aliniruhusu na nikaingia kumuona Mtume (ﷺ) amelala kwenye mkeka ambao ulikuwa umeacha alama yake ubavuni mwake. Chini ya kichwa chake kulikuwa na mto wa ngozi uliojaa mito ya mawese. Tazama! Kulikuwa na ngozi zilizoning'inia hapo na nyasi za kuchubua ngozi. Kisha nikataja nilichowaambia Hafsa (radhi za Allah ziwe juu yake) na Um Salama (radhi za Allah ziwe juu yake) na jibu ambalo Um Salama (radhi za Allah ziwe juu yake) alinipa. Mtume wa Mwenyezi Mungu (ﷺ) alitabasamu na kukaa hapo kwa siku ishirini na tisa kisha akashuka.\""
+},
+{
+"number": 5844,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامٌ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَتْنِي هِنْدُ بِنْتُ الْحَارِثِ، عَنْ أُمِّ سَلَمَةَ، قَالَتِ اسْتَيْقَظَ النَّبِيُّ صلى الله عليه وسلم مِنَ اللَّيْلِ وَهْوَ يَقُولُ ‏ \"‏ لاَ إِلَهَ إِلاَّ اللَّهُ، مَاذَا أُنْزِلَ اللَّيْلَةَ مِنَ الْفِتْنَةِ، مَاذَا أُنْزِلَ مِنَ الْخَزَائِنِ، مَنْ يُوقِظُ صَوَاحِبَ الْحُجُرَاتِ، كَمْ مِنْ كَاسِيَةٍ فِي الدُّنْيَا عَارِيَةٍ يَوْمَ الْقِيَامَةِ ‏\"‏‏.‏ قَالَ الزُّهْرِيُّ وَكَانَتْ هِنْدٌ لَهَا أَزْرَارٌ فِي كُمَّيْهَا بَيْنَ أَصَابِعِهَا‏.‏",
+"swahili": "Alisimulia Um Salama (radhi za Allah ziwe juu yake):\nUsiku mmoja Mtume (ﷺ) aliamka, akisema, \"Hakuna mwenye haki ya kuabudiwa isipokuwa Mwenyezi Mungu! Ni mateso mangapi yameshushwa usiku wa leo, na ni hazina ngapi zimeshushwa (zimefichuliwa)! Nani atakwenda kuwaamsha (kwa ajili ya sala) wanawake wa vyumba hivi? Nafsi nyingi zilizovaa vizuri (watu) katika ulimwengu huu, zitakuwa uchi Siku ya Kiyama.\""
+},
+{
+"number": 5845,
+"arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا إِسْحَاقُ بْنُ سَعِيدِ بْنِ عَمْرِو بْنِ سَعِيدِ بْنِ الْعَاصِ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَتْنِي أُمُّ خَالِدٍ بِنْتُ خَالِدٍ، قَالَتْ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِثِيَابٍ فِيهَا خَمِيصَةٌ سَوْدَاءُ قَالَ ‏\"‏ مَنْ تَرَوْنَ نَكْسُوهَا هَذِهِ الْخَمِيصَةَ ‏\"‏‏.‏ فَأُسْكِتَ الْقَوْمُ‏.‏ قَالَ ‏\"‏ ائْتُونِي بِأُمِّ خَالِدٍ ‏\"‏‏.‏ فَأُتِيَ بِي النَّبِيُّ صلى الله عليه وسلم فَأَلْبَسَهَا بِيَدِهِ وَقَالَ ‏\"‏ أَبْلِي وَأَخْلِقِي ‏\"‏‏.‏ مَرَّتَيْنِ فَجَعَلَ يَنْظُرُ إِلَى عَلَمِ الْخَمِيصَةِ، وَيُشِيرُ بِيَدِهِ إِلَىَّ وَيَقُولُ ‏\"‏ يَا أُمَّ خَالِدٍ هَذَا سَنَا ‏\"‏‏.‏ وَالسَّنَا بِلِسَانِ الْحَبَشِيَّةِ الْحَسَنُ‏.‏ قَالَ إِسْحَاقُ حَدَّثَتْنِي امْرَأَةٌ مِنْ أَهْلِي أَنَّهَا رَأَتْهُ عَلَى أُمِّ خَالِدٍ‏.‏",
+"swahili": "Alisimulia Um Khalid bint Khalid (radhi za Allah ziwe juu yake):\nBaadhi ya nguo ziliwasilishwa kwa Mtume wa Mwenyezi Mungu (ﷺ) kama zawadi na kulikuwa na Khamisa nyeusi pamoja nayo. Mtume aliwauliza (masahaba zake), \"Mnapendekeza tumpe nani Khamisa huyu?\" Watu wakanyamaza. Kisha akasema, \"Nileteeni Um Khalid (radhi za Allah ziwe juu yake),\" Basi nikaletewa kwake na akanivalisha kwa mikono yake mwenyewe na akasema mara mbili, \"Uishi muda mrefu kiasi kwamba utachakaa nguo nyingi.\" Kisha akaanza kutazama ushonaji wa Khamisa huyo na kusema, \"Ewe Um Khalid (radhi za Allah ziwe juu yake)! Huyu ni Sana!\" (Sana kwa lugha ya Kiethiopia inamaanisha mrembo.) 'Is-haq, msimulizi mdogo, alisema: Mwanamke mmoja wa familia yangu aliniambia kwamba alikuwa ameona Khamisa ikivaliwa na Um Khalid (radhi za Allah ziwe juu yake)."
+},
+{
+"number": 5846,
+"arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ عَبْدِ الْعَزِيزِ، عَنْ أَنَسٍ، قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم أَنْ يَتَزَعْفَرَ الرَّجُلُ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) aliwakataza wanaume kutumia zafarani."
+},
+{
+"number": 5847,
+"arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم أَنْ يَلْبَسَ الْمُحْرِمُ ثَوْبًا مَصْبُوغًا بِوَرْسٍ أَوْ بِزَعْفَرَانٍ‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) aliwakataza Muhrim kuvaa nguo zilizotiwa rangi ya Vita au zafarani."
+},
+{
+"number": 5848,
+"arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، سَمِعَ الْبَرَاءَ ـ رضى الله عنه ـ يَقُولُ كَانَ النَّبِيُّ صلى الله عليه وسلم مَرْبُوعًا، وَقَدْ رَأَيْتُهُ فِي حُلَّةٍ حَمْرَاءَ مَا رَأَيْتُ شَيْئًا أَحْسَنَ مِنْهُ‏.‏",
+"swahili": "Al-Bara (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alikuwa na urefu wa wastani. Nilimwona akiwa amevaa suti nyekundu, na sikuona kitu bora zaidi kuliko yeye."
+},
+{
+"number": 5849,
+"arabic": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ أَشْعَثَ، عَنْ مُعَاوِيَةَ بْنِ سُوَيْدِ بْنِ مُقَرِّنٍ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ أَمَرَنَا النَّبِيُ\" صلى الله عليه وسلم بِسَبْعٍ عِيَادَةِ الْمَرِيضِ، وَاتِّبَاعِ الْجَنَائِزِ، وَتَشْمِيتِ الْعَاطِسِ، وَنَهَانَا عَنْ لُبْسِ الْحَرِيرِ، وَالدِّيبَاجِ، وَالْقَسِّيِّ، وَالإِسْتَبْرَقِ، وَمَيَاثِرِ الْحُمْرِ‏.‏",
+"swahili": "Al-Bara (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alituamuru tufanye mambo saba: Kuwatembelea wagonjwa; kufuata maandamano ya mazishi; kusema 'Mwenyezi Mungu akurehemu', kwa anayepiga chafya ikiwa anasema, 'Sifa njema ziwe kwa Mwenyezi Mungu!; Alitukataza kuvaa hariri, Dibaj, Qassiy na Istibarq (aina mbalimbali za nguo za hariri); au kutumia Mayathir nyekundu (mito ya hariri)."
+},
+{
+"number": 5850,
+"arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ سَعِيدٍ أَبِي مَسْلَمَةَ، قَالَ سَأَلْتُ أَنَسًا أَكَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي فِي نَعْلَيْهِ قَالَ نَعَمْ‏.‏",
+"swahili": "Sa`id Abu Maslama alisimulia:\nNilimuuliza Anas (radhi za Allah ziwe juu yake), \"Je, Mtume (ﷺ) alikuwa akisali akiwa amevaa viatu vyake?\" Akasema, \"Ndiyo.\""
+},
+{
+"number": 5851,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ عُبَيْدِ بْنِ جُرَيْجٍ، أَنَّهُ قَالَ لِعَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ رَأَيْتُكَ تَصْنَعُ أَرْبَعًا لَمْ أَرَ أَحَدًا مِنْ أَصْحَابِكَ يَصْنَعُهَا‏.‏ قَالَ مَا هِيَ يَا ابْنَ جُرَيْجٍ قَالَ رَأَيْتُكَ لاَ تَمَسُّ مِنَ الأَرْكَانِ إِلاَّ الْيَمَانِيَيْنِ، وَرَأَيْتُكَ تَلْبَسُ النِّعَالَ السِّبْتِيَّةَ، وَرَأَيْتُكَ تَصْبُغُ بِالصُّفْرَةِ، وَرَأَيْتُكَ إِذَا كُنْتَ بِمَكَّةَ أَهَلَّ النَّاسُ إِذَا رَأَوُا الْهِلاَلَ، وَلَمْ تُهِلَّ أَنْتَ حَتَّى كَانَ يَوْمَ التَّرْوِيَةِ‏.‏ فَقَالَ لَهُ عَبْدُ اللَّهِ بْنُ عُمَرَ أَمَّا الأَرْكَانُ فَإِنِّي لَمْ أَرَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَمَسُّ إِلاَّ الْيَمَانِيَيْنِ، وَأَمَّا النِّعَالَ السِّبْتِيَّةُ فَإِنِّي رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَلْبَسُ النِّعَالَ الَّتِي لَيْسَ فِيهَا شَعَرٌ وَيَتَوَضَّأُ فِيهَا فَأَنَا أُحِبُّ أَنْ أَلْبَسَهَا، وَأَمَّا الصُّفْرَةُ فَإِنِّي رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَصْبُغُ بِهَا، فَأَنَا أُحِبُّ أَنْ أَصْبُغَ بِهَا وَأَمَّا الإِهْلاَلُ فَإِنِّي لَمْ أَرَ رَسُولَ اللَّهِ صلى الله عليه وسلم يُهِلُّ حَتَّى تَنْبَعِثَ بِهِ رَاحِلَتُهُ‏.‏",
+"swahili": "Sa`id Al-Maqburi alisimulia:\n'Ubai bin Juraij alimwambia `Abdullah bin `Umar (radhi za Allah ziwe juu yake), \"Ninakuona ukifanya mambo manne ambayo marafiki zako hawayafanyi.\" Ibn `Umar (radhi za Allah ziwe juu yake) akasema, \"Ni nini hayo, Ewe Ibn Juraij?\" Akasema, \"Ninaona kwamba hugusi isipokuwa pembe mbili za Yemen za Ka`ba (wakati wa kufanya Tawaf): na ninakuona umevaa viatu vya Sabtiyya; na ninakuona ukipaka rangi (nywele zako) kwa Sufra; na ninaona kwamba unapokuwa Makka, watu hujichukulia hali ya Ihram wanapoona mwezi mpevu (siku ya kwanza ya Dhul-Hijja) huku wewe hujichukulia hali ya Ihram hadi Siku ya Tarwiya (Dhul Hijja ya 8).\" `Abdullah bin `Umar (radhi za Allah ziwe juu yake) akamwambia, \"Kuhusu pembe za Ka`ba, sijamuona Mtume wa Mwenyezi Mungu (ﷺ) akigusa isipokuwa pembe mbili za Yemen. Kuhusu viatu vya Sabtiyya, nilimwona Mtume wa Mwenyezi Mungu (ﷺ) akiwa amevaa viatu vya ngozi ambavyo havikuwa na nywele, na alikuwa akifanya udhu huku akizivaa. Kwa hivyo, napenda kuvaa viatu hivyo. Kuhusu kupaka rangi Sufra, nilimwona Mtume wa Mwenyezi Mungu (ﷺ) akipaka rangi nywele zake, kwa hivyo napenda kupaka rangi (nywele zangu) nazo. Kuhusu mwezi mpevu (wa Dhul-Hijja), sijamwona Mtume wa Mwenyezi Mungu (ﷺ) akiwa katika hali ya Ihram hadi ngamia wake jike alipoondoka (tarehe 8 ya Dhul-Hijja)."
+},
+{
+"number": 5852,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَلْبَسَ الْمُحْرِمُ ثَوْبًا مَصْبُوغًا بِزَعْفَرَانٍ أَوْ وَرْسٍ، وَقَالَ ‏ \"‏ مَنْ لَمْ يَجِدْ نَعْلَيْنِ فَلْيَلْبَسْ خُفَّيْنِ، وَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ ‏\"‏‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) alikataza kwamba Muhrim avae nguo zilizotiwa rangi ya Zaffron au Vita, na akasema, \"Yeyote asiye na viatu anaweza kuvaa Khuffs (soksi za ngozi) baada ya kuzikata chini ya vifundo vya miguu.\""
+},
+{
+"number": 5853,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ لَمْ يَكُنْ لَهُ إِزَارٌ فَلْيَلْبَسِ السَّرَاوِيلَ، وَمَنْ لَمْ يَكُنْ لَهُ نَعْلاَنِ فَلْيَلْبَسْ خُفَّيْنِ ‏\"‏‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alisema, \"Yeyote asiye na Izar (shuka ya kiuno), anaweza kuvaa suruali; na yeyote asiye na viatu, anaweza kuvaa Khuffs (soksi za ngozi).\""
+},
+{
+"number": 5854,
+"arabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي أَشْعَثُ بْنُ سُلَيْمٍ، سَمِعْتُ أَبِي يُحَدِّثُ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُحِبُّ التَّيَمُّنَ فِي طُهُورِهِ وَتَرَجُّلِهِ وَتَنَعُّلِهِ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alikuwa akipenda kuanzia kulia katika kufanya wudhuu, kuchana nywele zake na kuvaa viatu vyake."
+},
+{
+"number": 5855,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا انْتَعَلَ أَحَدُكُمْ فَلْيَبْدَأْ بِالْيَمِينِ وَإِذَا نَزَعَ فَلْيَبْدَأْ بِالشِّمَالِ، لِتَكُنِ الْيُمْنَى أَوَّلَهُمَا تُنْعَلُ وَآخِرَهُمَا تُنْزَعُ ‏\"‏‏.‏",
+"swahili": "Amesimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMjumbe wa Mwenyezi Mungu (ﷺ) alisema, \"Ukitaka kuvaa viatu vyako, vaa kiatu cha kulia kwanza; na ukitaka kuvivua, chukua cha kushoto kwanza. Acha kiatu cha kulia kiwe cha kwanza kuvaa na cha mwisho kuvuliwa.\""
+},
+{
+"number": 5856,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَمْشِي أَحَدُكُمْ فِي نَعْلٍ وَاحِدَةٍ لِيُحْفِهِمَا جَمِيعًا، أَوْ لِيَنْعَلْهُمَا جَمِيعًا ‏\"‏‏.‏",
+"swahili": "Amesimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMjumbe wa Mwenyezi Mungu (ﷺ) alisema, \"Hakuna yeyote kati yenu anayepaswa kutembea, akiwa amevaa kiatu kimoja tu; avae viatu vyote viwili au asivae viatu vyovyote.\""
+},
+{
+"number": 5857,
+"arabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسٌ ـ رضى الله عنه ـ أَنَّ نَعْلَ، النَّبِيِّ صلى الله عليه وسلم كَانَ لَهَا قِبَالاَنِ‏.‏",
+"swahili": "Amesimulia Anas (radhi za Allah ziwe juu yake):\nKiatu cha Mtume (ﷺ) kilikuwa na mikanda miwili."
+},
+{
+"number": 5858,
+"arabic": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا عِيسَى بْنُ طَهْمَانَ، قَالَ خَرَجَ إِلَيْنَا أَنَسُ بْنُ مَالِكٍ بِنَعْلَيْنِ لَهُمَا قِبَالاَنِ، فَقَالَ ثَابِتٌ الْبُنَانِيُّ هَذِهِ نَعْلُ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+"swahili": "Isaa bin Tahman amesimulia:\nAnas bin Malik (radhi za Allah ziwe juu yake) alituletea, viatu viwili vyenye mikanda miwili. Thabit Al-Banani alisema, \"Hizi zilikuwa viatu vya Mtume (ﷺ).\""
+},
+{
+"number": 5859,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَرْعَرَةَ، قَالَ حَدَّثَنِي عُمَرُ بْنُ أَبِي زَائِدَةَ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَهْوَ فِي قُبَّةٍ حَمْرَاءَ مِنْ أَدَمٍ، وَرَأَيْتُ بِلاَلاً أَخَذَ وَضُوءَ النَّبِيِّ صلى الله عليه وسلم وَالنَّاسُ يَبْتَدِرُونَ الْوَضُوءَ، فَمَنْ أَصَابَ مِنْهُ شَيْئًا تَمَسَّحَ بِهِ، وَمَنْ لَمْ يُصِبْ مِنْهُ شَيْئًا أَخَذَ مِنْ بَلَلِ يَدِ صَاحِبِهِ‏.‏",
+"swahili": "Amesimulia Abu Juhaifa (radhi za Allah ziwe juu yake):\nNilikuja kwa Mtume (ﷺ) alipokuwa ndani ya hema la ngozi nyekundu, na nikamuona Bilal (radhi za Allah ziwe juu yake) akichukua maji yaliyobaki ya wudhuu wa Mtume, na watu walikuwa wakichukua maji hayo na kuyasugua usoni mwao; na yeyote ambaye hangeweza kupata chochote kutoka kwayo, angeshiriki unyevu wa mkono wa mwenzake (na kisha akasugua usoni mwake)."
+},
+{
+"number": 5860,
+"arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ، ح وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ قَالَ أَرْسَلَ النَّبِيُّ صلى الله عليه وسلم إِلَى الأَنْصَارِ، وَجَمَعَهُمْ فِي قُبَّةٍ مِنْ أَدَمٍ‏.‏",
+"swahili": "Amesimulia Anas bin Malik (radhi za Allah ziwe juu yake):\nMtume (ﷺ) aliwaita Ansari na kuwakusanya kwenye hema la ngozi."
+},
+{
+"number": 5861,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي بَكْرٍ، حَدَّثَنَا مُعْتَمِرٌ، عَنْ عُبَيْدِ اللَّهِ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَحْتَجِرُ حَصِيرًا بِاللَّيْلِ فَيُصَلِّي، وَيَبْسُطُهُ بِالنَّهَارِ فَيَجْلِسُ عَلَيْهِ، فَجَعَلَ النَّاسُ يَثُوبُونَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَيُصَلُّونَ بِصَلاَتِهِ حَتَّى كَثُرُوا فَأَقْبَلَ فَقَالَ ‏ \"‏ يَا أَيُّهَا النَّاسُ خُذُوا مِنَ الأَعْمَالِ مَا تُطِيقُونَ، فَإِنَّ اللَّهَ لاَ يَمَلُّ حَتَّى تَمَلُّوا، وَإِنَّ أَحَبَّ الأَعْمَالِ إِلَى اللَّهِ مَا دَامَ وَإِنْ قَلَّ ‏\"‏‏.‏",
+"swahili": "Amesimulia `Aisha (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alikuwa akitengeneza kitanzi kwa Hasir usiku ili kusali humo, na mchana alikuwa akikitanua na kukaa juu yake. Watu walianza kuja kwa Mtume (ﷺ) usiku kusali nyuma yake. Idadi yao ilipoongezeka, Mtume (ﷺ) aliwakabili na kusema. Enyi watu! Fanyeni matendo mema tu mnayoweza kufanya, kwani Mwenyezi Mungu hachoki (kutoa thawabu) hadi mchoke, na matendo bora kwa Mwenyezi Mungu ni yale yasiyoisha ingawa yalikuwa machache."
+},
+{
+"number": 5862,
+"arabic": "وَقَالَ اللَّيْثُ حَدَّثَنِي ابْنُ أَبِي مُلَيْكَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، أَنَّ أَبَاهُ، مَخْرَمَةَ قَالَ لَهُ يَا بُنَىَّ إِنَّهُ بَلَغَنِي أَنَّ النَّبِيَّ صلى الله عليه وسلم قَدِمَتْ عَلَيْهِ أَقْبِيَةٌ فَهْوَ يَقْسِمُهَا، فَاذْهَبْ بِنَا إِلَيْهِ، فَذَهَبْنَا فَوَجَدْنَا النَّبِيَّ صلى الله عليه وسلم فِي مَنْزِلِهِ، فَقَالَ لِي يَا بُنَىَّ ادْعُ لِي النَّبِيَّ صلى الله عليه وسلم فَأَعْظَمْتُ ذَلِكَ‏.‏ فَقُلْتُ أَدْعُو لَكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا بُنَىَّ إِنَّهُ لَيْسَ بِجَبَّارٍ‏.‏ فَدَعَوْتُهُ فَخَرَجَ وَعَلَيْهِ قَبَاءٌ مِنْ دِيبَاجٍ مُزَرَّرٌ بِالذَّهَبِ، فَقَالَ ‏ \"‏ يَا مَخْرَمَةُ هَذَا خَبَأْنَاهُ لَكَ ‏\"‏‏.‏ فَأَعْطَاهُ إِيَّاهُ‏.‏",
+"swahili": "Alisimulia Al-Miswar bin Makhrama (radhi za Allah ziwe juu yake):\nBaba yangu, Makhrama aliniambia, \"Nimejua kwamba baadhi ya nguo zimemjia Mtume (ﷺ) na anazigawa. Kwa hivyo ewe mwanangu! nipeleke kwake.\" Tulimwendea Mtume (ﷺ) na tukamkuta ndani ya nyumba. Baba yangu aliniambia, \"Ewe mwanangu! Mwite Mtume (ﷺ) kwa ajili yangu.\" Niliona ni vigumu kufanya hivyo, kwa hivyo nikasema kwa mshangao, \"Je, nimwite Mtume wa Mwenyezi Mungu (ﷺ) kwa ajili yenu?\" Baba yangu alisema, \"Ewe mwanangu! Yeye si mtawala wa kidikteta.\" Kwa hivyo nilimwita na akatoka akiwa amevaa joho la Dibaj lenye vifungo vya dhahabu, na akasema: \"Ewe Makhrama, nilikuwekea hili.\" Kisha Mtume (ﷺ) akampa."
+},
+{
+"number": 5863,
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا أَشْعَثُ بْنُ سُلَيْمٍ، قَالَ سَمِعْتُ مُعَاوِيَةَ بْنَ سُوَيْدِ بْنِ مُقَرِّنٍ، قَالَ سَمِعْتُ الْبَرَاءَ بْنَ عَازِبٍ ـ رضى الله عنهما ـ يَقُولُ نَهَانَا النَّبِيُّ صلى الله عليه وسلم عَنْ سَبْعٍ نَهَى عَنْ خَاتَمِ الذَّهَبِ ـ أَوْ قَالَ حَلْقَةِ الذَّهَبِ ـ وَعَنِ الْحَرِيرِ، وَالإِسْتَبْرَقِ، وَالدِّيبَاجِ، وَالْمِيثَرَةِ الْحَمْرَاءِ، وَالْقَسِّيِّ، وَآنِيَةِ الْفِضَّةِ، وَأَمَرَنَا بِسَبْعٍ بِعِيَادَةِ الْمَرِيضِ، وَاتِّبَاعِ الْجَنَائِزِ، وَتَشْمِيتِ الْعَاطِسِ، وَرَدِّ السَّلاَمِ، وَإِجَابَةِ الدَّاعِي، وَإِبْرَارِ الْمُقْسِمِ، وَنَصْرِ الْمَظْلُومِ‏.‏",
+"swahili": "Al-Bara' bin `Azib (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alitukataza kutumia vitu saba: Alikataza kutumia pete za dhahabu, hariri, Istabraq, Dibaj, Mayathir nyekundu, Al-Qassiy, na vyombo vya fedha. Alituamuru kufanya mambo mengine saba. Kuwatembelea wagonjwa; kufuata maandamano ya mazishi; kusema, \"Mwenyezi Mungu akurehemu\" kwa mtu anayepiga chafya ikiwa anasema \"Sifa njema ziwe kwa Mwenyezi Mungu\"; kujibu salamu, kukubali mialiko; kuwasaidia wengine kutimiza viapo vyao na kuwasaidia waliokandamizwa."
+},
+{
+"number": 5864,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ نَهَى عَنْ خَاتَمِ الذَّهَبِ‏.‏ وَقَالَ عَمْرٌو أَخْبَرَنَا شُعْبَةُ عَنْ قَتَادَةَ سَمِعَ النَّضْرَ سَمِعَ بَشِيرًا مِثْلَهُ‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alikataza kuvaa pete ya dhahabu."
+},
+{
+"number": 5865,
+"arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ ذَهَبٍ، وَجَعَلَ فَصَّهُ مِمَّا يَلِي كَفَّهُ، فَاتَّخَذَهُ النَّاسُ، فَرَمَى بِهِ، وَاتَّخَذَ خَاتَمًا مِنْ وَرِقٍ أَوْ فِضَّةٍ‏.‏",
+"swahili": "Alisimulia `Abdullah (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alivaa pete ya dhahabu au fedha .. na kuweka jiwe lake kwenye kiganja cha mkono wake. Watu pia walianza kuvaa pete za dhahabu kama hizo, lakini Mtume (ﷺ) alipowaona wamevaa pete those, alitupa pete hiyo ya dhahabu kisha akavaa pete ya fedha."
+},
+{
+"number": 5866,
+"arabic": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّTHَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ ذَهَبٍ أَوْ فِضَّةٍ، وَجَعَلَ فَصَّهُ مِمَّا يَلِي كَفَّهُ، وَنَقَشَ فِيهِ مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏ فَاتَّخَذَ النَّاسُ مِثْلَهُ، فَلَمَّا رَآهُمْ قَدِ اتَّخَذُوهَا رَمَى بِهِ، وَقَالَ ‏ \"‏ لاَ أَلْبَسُهُ أَبَدًا ‏\"‏‏.‏ ثُمَّ اتَّخَذَ خَاتَمًا مِنْ فِضَّةٍ، فَاتَّخَذَ النَّاسُ خَوَاتِيمَ الْفِضَّةِ‏.‏ قَالَ ابْنُ عُمَرَ فَلَبِسَ الْخَاتَمَ بَعْدَ النَّبِيِّ صلى الله عليه وسلم أَبُو بَكْرٍ ثُمَّ عُمَرُ ثُمَّ عُثْمَانُ، حَتَّى وَقَعَ مِنْ عُثْمَانَ فِي بِئْرِ أَرِيسَ‏.‏",
+"swahili": "Alisimulia Ibn. `Umar (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alivaa pete ya dhahabu au pete ya fedha na kuweka jiwe lake kwenye kiganja cha mkono wake na jina 'Muhammad, Mtume wa Mwenyezi Mungu' limeandikwa juu yake. Watu pia walianza kuvaa pete za dhahabu kama hizo, lakini Mtume (ﷺ) alipowaona wamevaa pete hizo, alitupa pete yake mwenyewe na kusema. \"Sitaivaa kamwe,\" kisha akavaa pete ya fedha, ambapo watu pia walianza kuvaa pete za fedha. Ibn `Umar (radhi za Allah ziwe juu yake) aliongeza: Baada ya Mtume (ﷺ) Abu Bakr (radhi za Allah ziwe juu yake) kuvaa pete hiyo, na kisha `Umar (radhi za Allah ziwe juu yake) na kisha `Uthman (radhi za Allah ziwe juu yake) kuvaa hadi ilipoanguka kwenye kisima cha Aris kutoka kwa `Uthman (radhi za Allah ziwe juu yake)."
+},
+{
+"number": 5867,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَلْبَسُ خَاتَمًا مِنْ ذَهَبٍ فَنَبَذَهُ فَقَالَ ‏ \"‏ لاَ أَلْبَسُهُ أَبَدًا ‏\"‏‏.‏ فَنَبَذَ النَّاسُ خَوَاتِيمَهُمْ‏.‏",
+"swahili": "Abdullah bin `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) alivaa pete ya dhahabu, kisha akaitupa na kusema, \"Sitaivaa kamwe.\" Watu pia walitupa pete zao (za dhahabu)."
+},
+{
+"number": 5868,
+"arabic": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ أَنَّهُ رَأَى فِي يَدِ رَسُولِ اللَّهِ صلى الله عليه وسلم خَاتَمًا مِنْ وَرِقٍ يَوْمًا وَاحِدًا، ثُمَّ إِنَّ النَّاسُ اصْطَنَعُوا الْخَوَاتِيمَ مِنْ وَرِقٍ وَلَبِسُوهَا، فَطَرَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمَهُ، فَطَرَحَ النَّاسُ خَوَاتِيمَهُمْ‏.‏ تَابَعَهُ إِبْرَاهِيمُ بْنُ سَعْدٍ وَزِيَادٌ وَشُعَيْبٌ عَنِ الزُّهْرِيِّ‏.‏ وَقَالَ ابْنُ مُسَافِرٍ عَنِ الزُّهْرِيِّ أَرَى خَاتَمًا مِنْ وَرِقٍ‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nkwamba aliona pete ya fedha mkononi mwa Mtume wa Mwenyezi Mungu (ﷺ) kwa siku moja tu. Kisha watu wakajitengenezea pete za fedha na kuivaa. Juu ya hilo, Mtume wa Mwenyezi Mungu (ﷺ) alitupa pete zao pia."
+},
+{
+"number": 5869,
+"arabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، أَخْبَرَنَا حُمَيْدٌ، قَالَ سُئِلَ أَنَسٌ هَلِ اتَّخَذَ النَّبِيُّ صلى الله عليه وسلم خَاتَمًا قَالَ أَخَّرَ لَيْلَةً صَلاَةَ الْعِشَاءِ إِلَى شَطْرِ اللَّيْلِ، ثُمَّ أَقْبَلَ عَلَيْنَا بِوَجْهِهِ، فَكَأَنِّي أَنْظُرُ إِلَى وَبِيصِ خَاتَمِهِ‏.‏ قَالَ ‏ \"‏ إِنَّ النَّاسَ قَدْ صَلَّوْا وَنَامُوا، وَإِنَّكُمْ لَمْ تَزَالُوا فِي صَلاَةٍ مَا انْتَظَرْتُمُوهَا ‏\"‏‏.‏",
+"swahili": "Humaid alisimulia:\nAnas (radhi za Allah ziwe juu yake) aliulizwa, \"Je, Mtume (ﷺ) alivaa pete?\" Anas (radhi za Allah ziwe juu yake) alisema, \"Siku moja aliahirisha sala ya `Isha' hadi usiku wa manane. Kisha akaja, akitutazama ..... kana kwamba sasa ninaangalia mng'ao wa pete yake ..... na akasema, \"Watu wamesali na kulala lakini wewe umekuwa ukisali kwani umekuwa ukiisubiri.\""
+},
+{
+"number": 5870,
+"arabic": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ حُمَيْدًا، يُحَدِّثُ عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ خَاتَمُهُ مِنْ فِضَّةٍ وَكَانَ فَصُّهُ مِنْهُ‏.‏ وَقَالَ يَحْيَى بْنُ أَيُّوبَ حَدَّثَنِي حُمَيْدٌ سَمِعَ أَنَسًا عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nPete ya Mtume (ﷺ) ilikuwa ya fedha, na jiwe lake pia lilikuwa la fedha."
+},
+{
+"number": 5871,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ سَهْلاً، يَقُولُ جَاءَتِ امْرَأَةٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ جِئْتُ أَهَبُ نَفْسِي‏.‏ فَقَامَتْ طَوِيلاً فَنَظَرَ وَصَوَّبَ، فَلَمَّا طَالَ مُقَامُهَا فَقَالَ رَجُلٌ زَوِّجْنِيهَا، إِنْ لَمْ تَكُنْ لَكَ بِهَا حَاجَةٌ‏.‏ قَالَ ‏\"‏ عِنْدَكَ شَىْءٌ تُصْدِقُهَا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ انْظُرْ ‏\"‏‏.‏ فَذَهَبَ ثُمَّ رَجَعَ فَقَالَ وَاللَّهِ إِنْ وَجَدْتُ شَيْئًا‏.‏ قَالَ ‏\"‏ اذْهَبْ فَالْتَمِسْ وَلَوْ خَاتَمًا مِنْ حَدِيدٍ ‏\"‏‏.‏ فَذَهَبَ ثُمَّ رَجَعَ قَالَ لاَ وَاللَّهِ وَلاَ خَاتَمًا مِنْ حَدِيدٍ‏.‏ وَعَلَيْهِ إِزَارٌ مَا عَلَيْهِ رِدَاءٌ‏.‏ فَقَالَ أُصْدِقُهَا إِزَارِي فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِزَارُكَ إِنْ لَبِسَتْهُ لَمْ يَكُنْ عَلَيْكَ مِنْهُ شَىْءٌ، وَإِنْ لَبِسْتَهُ لَمَ يَكُنْ عَلَيْهَا مِنْهُ شَىْءٌ ‏\"‏‏.‏ فَتَنَحَّى الرَّجُلُ فَجَلَسَ فَرَآهُ النَّبِيُّ صلى الله عليه وسلم مُوَلِّيًا فَأَمَرَ بِهِ فَدُعِيَ فَقَالَ ‏\"‏ مَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏ قَالَ سُورَةُ كَذَا وَكَذَا لِسُوَرٍ عَدَّدَهَا‏.‏ قَالَ ‏\"‏ قَدْ مَلَّكْتُكَهَا بِمَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏",
+"swahili": "Sahl (radhi za Allah ziwe juu yake) alisimulia:\nMwanamke mmoja alimjia Mtume (ﷺ) na kusema, \"Nimekuja kujionyesha kwako (kwa ajili ya ndoa).\" Aliendelea kusimama kwa muda mrefu ambapo Mtume (ﷺ) alimtazama kwa makini. Alipokaa kwa muda mrefu, mtu mmoja alimwambia Mtume (ﷺ) \"Ikiwa humhitaji, basi muoze mimi.\" Mtume (ﷺ) akasema, \"Je, una chochote cha kumpa (kama Mahr)?\" Mtu huyo akasema, \"Hapana.\" Mtume akasema, \"Nenda (nyumbani kwako) na \"Mtu yule akaenda na kurudi akasema, \"Wallahi, sikupata chochote.\" Mtume (ﷺ) akasema, \"Nenda tena ukatafute kitu, hata kama ni pete ya chuma.\" Akaenda tena na kurudi akisema, \"Hapana, Wallahi, siwezi kupata hata pete ya chuma.\" Mtu yule alikuwa na Izar tu na hakuwa na Rida' (vazi la juu). Akasema, \"Nitampa Izar yangu kama Mahr.\" Ndipo Mtume (ﷺ) akasema, \"Izar yako? Akiivaa, hakuna kitakachobaki juu yako, na ukiivaa hakuna kitakachobaki juu yake.\" Mtu yule akaenda kando na kukaa chini Mtume (ﷺ) alipomwona akiondoka (baada ya muda), aliita tena na kuuliza. \"Unajua Qur'ani ngapi (kwa moyo)? Akasema, 'Ninajua Sura fulani na fulani,\" akitaja Sura fulani. Mtume (ﷺ) akasema, \"Ninakuozesha kwa kiasi cha Qur'ani unachokijua (kwa moyo).\""
+},
+{
+"number": 5872,
+"arabic": "حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم أَرَادَ أَنْ يَكْتُبَ إِلَى رَهْطٍ أَوْ أُنَاسٍ مِنَ الأَعَاجِمِ، فَقِيلَ لَهُ إِنَّهُمْ لاَ يَقْبَلُونَ كِتَابًا إِلاَّ عَلَيْهِ خَاتَمٌ، فَاتَّخَذَ النَّبِيُّ صلى الله عليه وسلم خَاتَمًا مِنْ فِضَّةٍ نَقْشُهُ مُحَمَّدٌ رَسُولُ اللَّهِ فَكَأَنِّي بِوَبِيصِ أوْ بِبَصِيصِ الْخَاتَمِ فِي إِصْبَعِ النَّبِيِّ صلى الله عليه وسلم أَوْ فِي كَفِّهِ‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nMjumbe wa Mwenyezi Mungu (ﷺ) alitaka kuandika barua kwa kundi la watu au baadhi ya watu wasio Waarabu. Aliambiwa, \"Hawakubali herufi yoyote isipokuwa iwe imepigwa muhuri.\" Kwa hivyo Mtume (ﷺ) alijitengenezea pete ya fedha, na juu yake ilichongwa: 'Muhammad, Mtume wa Mwenyezi Mungu'. .. kana kwamba sasa ninaangalia mng'ao wa pete kwenye kidole (au kiganja) cha Mtume (ﷺ)."
+},
+{
+"number": 5873,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ سَلاَمٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمًا مِنْ وَرِقٍ، وَكَانَ فِي يَدِهِ، ثُمَّ كَانَ بَعْدُ فِي يَدِ أَبِي بَكْرٍ، ثُمَّ كَانَ بَعْدُ فِي يَدِ عُمَرَ، ثُمَّ كَانَ بَعْدُ فِي يَدِ عُثْمَانَ، حَتَّى وَقَعَ بَعْدُ فِي بِئْرِ أَرِيسَ، نَقْشُهُ مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMjumbe wa Mwenyezi Mungu (ﷺ) alijitengenezea pete ya fedha na aliivaa mkononi mwake. Baadaye ilivaliwa na Abu Bakr (radhi za Allah ziwe juu yake), na kisha na `Umar (radhi za Allah ziwe juu yake), na kisha na `Uthman (radhi za Allah ziwe juu yake) hadi ilipoanguka kwenye kisima cha Aris. (Kwenye pete hiyo) ilichongwa: 'Muhammad, Mtume wa Mwenyezi Mungu.\""
+},
+{
+"number": 5874,
+"arabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ صَنَعَ النَّبِيُّ صلى الله عليه وسلم خَاتَمًا قَالَ ‏ \"‏ إِنَّا اتَّخَذْنَا خَاتَمًا، وَنَقَشْنَا فِيهِ نَقْشًا، فَلاَ يَنْقُشْ عَلَيْهِ أَحَدٌ ‏\"‏‏.‏ قَالَ فَإِنِّي لأَرَى بَرِيقَهُ فِي خِنْصَرِهِ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alijitengenezea pete na akasema, \"Nimejitengenezea pete (kwa ajili yangu mwenyewe) na nikachora mchoro fulani juu yake ili yeyote kati yenu asipate mchoro kama huo kwenye pete yake.\" Niliona mng'ao wa pete kwenye kidole chake kidogo."
+},
+{
+"number": 5875,
+"arabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ لَمَّا أَرَادَ النَّبِيُّ صلى الله عليه وسلم أَنْ يَكْتُبَ إِلَى الرُّومِ قِيلَ لَهُ إِنَّهُمْ لَنْ يَقْرَءُوا كِتَابَكَ إِذَا لَمْ يَكُنْ مَخْتُومًا‏.‏ فَاتَّخَذَ خَاتَمًا مِنْ فِضَّةٍ، وَنَقْشُهُ مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏ فَكَأَنَّمَا أَنْظُرُ إِلَى بَيَاضِهِ فِي يَدِهِ‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alipokusudia kuwaandikia Wabyzantine, aliambiwa, \"Watu hao hawasomi barua yako isipokuwa iwe imepigwa muhuri.\" Kwa hivyo Mtume (ﷺ) alichukua pete ya fedha na akachora 'Muhammad, Mtume wa Mwenyezi Mungu' juu yake .... kana kwamba sasa ninaangalia mng'ao wake mkononi mwake."
+},
+{
+"number": 5876,
+"arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ، حَدَّثَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم اصْطَنَعَ خَاتَمًا مِنْ ذَهَبٍ، جَعَلَ فَصَّهُ فِي بَطْنِ كَفِّهِ إِذَا لَبِسَهُ، فَاصْطَنَعَ النَّاسُ خَوَاتِيمَ مِنْ ذَهَبٍ، فَرَقِيَ الْمِنْبَرَ، فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ فَقَالَ ‏ \"‏ إِنِّي كُنْتُ اصْطَنَعْتُهُ، وَإِنِّي لاَ أَلْبَسُهُ ‏\"‏‏.‏ فَنَبَذَهُ فَنَبَذَ النَّاسُ‏.‏ قَالَ جُوَيْرِيَةُ وَلاَ أَحْسِبُهُ إِلاَّ قَالَ فِي يَدِهِ الْيُمْنَى‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia `Abdullah (radhi za Allah ziwe juu yake):\nNabii (ﷺ) alikuwa amejitengenezea pete ya dhahabu, na alipoivaa, alikuwa akigeuza jiwe lake kuelekea kiganja cha mkono wake! Kwa hivyo watu pia walikuwa na dhahabu. Walijitengenezea wenyewe. Mtume (ﷺ) kisha akapanda mimbari, na baada ya kumtukuza na kumsifu Mwenyezi Mungu, akasema, \"Niliitengeneza kwa ajili yangu, lakini sasa sitaivaa tena.\" Aliitupa, kisha watu wakatupa pete zao pia. (Juwairiya, msimulizi mdogo, alisema: Nadhani Anas (radhi za Allah ziwe juu yake) alisema kwamba Mtume (ﷺ) alikuwa amevaa pete hiyo katika mkono wake wa kulia.)"
+},
+{
+"number": 5877,
+"arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ فِضَّةٍ، وَنَقَشَ فِيهِ، مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏ وَقَالَ ‏ \"‏ إِنِّي اتَّخَذْتُ خَاتَمًا مِنْ وَرِقٍ، وَنَقَشْتُ فِيهِ، مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏ فَلاَ يَنْقُشَنَّ أَحَدٌ عَلَى نَقْشِهِ ‏\"‏‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) alichukua pete ya fedha and akachora 'Muhammad, Mtume' wa Mwenyezi Mungu. Kisha Mtume akasema (kwetu), 'Nina pete ya fedha yenye 'Muhammad, Mtume wa Mwenyezi Mungu amechora juu yake, kwa hivyo hakuna hata mmoja wenu anayepaswa kuwa na mchoro kama huo kwenye pete yake.'"
+},
+{
+"number": 5878,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدُ اللَّهِ الأَنْصَارِيُّ، قَالَ حَدَّثَنِي أَبِي، عَنْ ثُمَامَةَ، عَنْ أَنَسٍ، أَنَّ أَبَا بَكْرٍ ـ رضى الله عنه ـ لَمَّا اسْتُخْلِفَ كَتَبَ لَهُ، وَكَانَ نَقْشُ الْخَاتَمِ ثَلاَثَةَ أَسْطُرٍ‏.‏ مُحَمَّدٌ سَطْرٌ، وَرَسُولُ سَطْرٌ، وَاللَّهِ سَطْرٌ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nkwamba Abu Bakr (radhi za Allah ziwe juu yake) alipokuwa Khalifa, alimwandikia barua (na kuipiga muhuri kwa pete ya Mtume) na mchoro wa pete ulikuwa katika mistari mitatu: Muhammad katika mstari mmoja, 'Mtume' katika mstari mwingine, na 'Allah' katika mstari wa tatu."
+},
+{
+"number": 5879,
+"arabic": "وَزَادَنِي أَحْمَدُ حَدَّثَنَا الأَنْصَارِيُّ، قَالَ حَدَّثَنِي أَبِي، عَنْ ثُمَامَةَ، عَنْ أَنَسٍ، قَالَ كَانَ خَاتَمُ النَّبِيِّ صلى الله عليه وسلم فِي يَدِهِ، وَفِي يَدِ أَبِي بَكْرٍ بَعْدَهُ، وَفِي يَدِ عُمَرَ بَعْدَ أَبِي بَكْرٍ، فَلَمَّا كَانَ عُثْمَانُ جَلَسَ عَلَى بِئْرِ أَرِيسَ ـ قَالَ ـ فَأَخْرَجَ الْخَاتَمَ، فَجَعَلَ يَعْبَثُ بِهِ فَسَقَطَ قَالَ فَاخْتَلَفْنَا ثَلاَثَةَ أَيَّامٍ مَعَ عُثْمَانَ فَنَنْزَحُ الْبِئْرَ فَلَمْ نَجِدْهُ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) aliongeza:\nPete ya Mtume (ﷺ) ilikuwa mkononi mwake, na baada yake, mkononi mwa Abu Bakr (radhi za Allah ziwe juu yake), na kisha mkononi mwa 'Umar (radhi za Allah ziwe juu yake) baada ya Abu Bakr (radhi za Allah ziwe juu yake). Wakati 'Uthman (radhi za Allah ziwe juu yake) alipokuwa Khalifa, mara moja alikuwa amekaa kwenye kisima cha Aris. Aliondoa pete mkononi mwake na alipokuwa akiichezea, akaanguka ndani ya kisima. Tuliendelea kwenda kisimani na 'Uthman (radhi za Allah ziwe juu yake) kwa siku tatu tukitafuta pete, na hatimaye kisima kikavuja maji, lakini pete haikupatikana."
+},
+{
+"number": 5880,
+"arabic": "حَدَّثَنَا أَبُو عَاصِمٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنَا الْحَسَنُ بْنُ مُسْلِمٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ شَهِدْتُ الْعِيدَ مَعَ النَّبِيِّ صلى الله عليه وسلم فَصَلَّى قَبْلَ الْخُطْبَةِ‏.‏ وَزَادَ ابْنُ وَهْبٍ عَنِ ابْنِ جُرَيْجٍ فَأَتَى النِّسَاءَ فَجَعَلْنَ يُلْقِينَ الْفَتَخَ وَالْخَوَاتِيمَ فِي ثَوْبِ بِلاَلٍ‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) alisimulia:\nNilisali sala ya Idi pamoja na Mtume (ﷺ) na akasali kabla ya Khutba (mahubiri). Ibn `Abbas (radhi za Allah ziwe juu yake) aliongeza: Baada ya sala hiyo, Mtume (ﷺ) alifika (safu za) wanawake na kuwaamuru watoe sadaka, na wanawake wakaanza kuweka pete zao kubwa na ndogo kwenye vazi la Bilal (radhi za Allah ziwe juu yake)."
+},
+{
+"number": 5881,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَرْعَرَةَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ خَرَجَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ عِيدٍ فَصَلَّى رَكْعَتَيْنِ، لَمْ يُصَلِّ قَبْلُ وَلاَ بَعْدُ، ثُمَّ أَتَى النِّسَاءَ فَأَمَرَهُنَّ بِالصَّدَقَةِ، فَجَعَلَتِ الْمَرْأَةُ تَصَدَّقُ بِخُرْصِهَا وَسِخَابِهَا‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alitoka siku ya `Id na akasali sala ya rakaa mbili, na hakusali rakaa yoyote kabla yake, wala baada yake. Kisha akawaendea wanawake na kuwaamuru watoe sadaka. Wanawake walianza kutoa hereni na mikufu yao."
+},
+{
+"number": 5882,
+"arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبْدَةُ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ هَلَكَتْ قِلاَدَةٌ لأَسْمَاءَ، فَبَعَثَ النَّبِيُّ صلى الله عليه وسلم فِي طَلَبِهَا رِجَالاً، فَحَضَرَتِ الصَّلاَةُ وَلَيْسُوا عَلَى وُضُوءٍ وَلَمْ يَجِدُوا مَاءً، فَصَلَّوْا وَهُمْ عَلَى غَيْرِ وُضُوءٍ، فَذَكَرُوا ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَأَنْزَلَ اللَّهُ آيَةَ التَّيَمُّمِ‏.‏ زَادَ ابْنُ نُمَيْرٍ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنْ عَائِشَةَ اسْتَعَارَتْ مِنْ أَسْمَاءَ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nMkufu wa Asma' (radhi za Allah ziwe juu yake) ulipotea, na Mtume (ﷺ) akawatuma watu kuutafuta. Wakati wa sala ulifika na hawakuwa na wudhuu na hawakuweza kupata maji; kwa hivyo walisali bila wudhuu, Walimtajia Mtume (ﷺ) hilo. Kisha Mwenyezi Mungu akafunua Aya ya Tayammum. (`Aisha (radhi za Allah ziwe juu yake) aliongeza: kwamba alikuwa ameazima (mkufu) kutoka kwa Asma' (radhi za Allah ziwe juu yake))."
+},
+{
+"number": 5883,
+"arabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَدِيٌّ، قَالَ سَمِعْتُ سَعِيدًا، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى يَوْمَ الْعِيدِ رَكْعَتَيْنِ، لَمْ يُصَلِّ قَبْلَهَا وَلاَ بَعْدَهَا ثُمَّ أَتَى النِّسَاءَ وَمَعَهُ بِلاَلٌ فَأَمَرَهُنَّ بِالصَّدَقَةِ، فَجَعَلَتِ الْمَرْأَةُ تُلْقِي قُرْطَهَا‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) amesimulia:\n\"Mtume (ﷺ) alisali rakaa mbili siku ya Idi na hakusali (swala ya Nawafil) yoyote kabla au baada yake. Kisha akaenda kwa wanawake, na Bilal (radhi za Allah ziwe juu yake) alikuwa akiandamana naye, na akawaamuru watoe sadaka. Na hivyo wanawake wakaanza kutoa hereni zao (nk.)."
+},
+{
+"number": 5884,
+"arabic": "حَدَّثَنِي إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا وَرْقَاءُ بْنُ عُمَرَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ كُنْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سُوقٍ مِنْ أَسْوَاقِ الْمَدِينَةِ فَانْصَرَفَ فَانْصَرَفْتُ فَقَالَ ‏\"‏ أَيْنَ لُكَعُ ـ ثَلاَثًا ـ ادْعُ الْحَسَنَ بْنَ عَلِيٍّ ‏\"‏‏.‏ فَقَامَ الْحَسَنُ بْنُ عَلِيٍّ يَمْشِي وَفِي عُنُقِهِ السِّخَابُ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم بِيَدِهِ هَكَذَا، فَقَالَ الْحَسَنُ بِيَدِهِ، هَكَذَا فَالْتَزَمَهُ فَقَالَ ‏\"‏ اللَّهُمَّ إِنِّي أُحِبُّهُ، فَأَحِبَّهُ، وَأَحِبَّ مَنْ يُحِبُّهُ ‏\"‏‏.‏ قَالَ أَبُو هُرَيْرَةَ فَمَا كَانَ أَحَدٌ أَحَبَّ إِلَىَّ مِنَ الْحَسَنِ بْنِ عَلِيٍّ بَعْدَ مَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَا قَالَ‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) amesimulia:\nNilikuwa na Mtume wa Mwenyezi Mungu (ﷺ) katika moja ya Masoko ya Madina. Aliondoka (sokoni) na mimi pia nikaondoka. Kisha akauliza mara tatu, \"Yu wapi (mtoto) mdogo?\" Kisha akasema, \"Mwite Al-Hasan bin `Ali (radhi za Allah ziwe juu yake).\" Kwa hivyo Al-Hasan bin `Ali (radhi za Allah ziwe juu yake) alisimama na kuanza kutembea akiwa na mkufu (wa shanga) shingoni mwake. Mtume (ﷺ) akanyoosha mkono wake hivi, na Al-Hasan (radhi za Allah ziwe juu yake) akafanya vivyo hivyo. Mtume (ﷺ) alimkumbatia na kusema, \"Ee Mwenyezi Mungu! Nampenda, kwa hivyo tafadhali mpendeni na wapendeni wale wanaompenda.\" Kwa kuwa Mtume wa Mwenyezi Mungu (ﷺ) alisema hivyo. Hakuna kitu kilichonipendeza zaidi kuliko Al-Hasan (radhi za Allah ziwe juu yake)."
+},
+{
+"number": 5885,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ لَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمُتَشَبِّهِينَ مِنَ الرِّجَالِ بِالنِّسَاءِ، وَالْمُتَشَبِّهَاتِ مِنَ النِّسَاءِ بِالرِّجَالِ‏.‏ تَابَعَهُ عَمْرٌو أَخْبَرَنَا شُعْبَةُ‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) aliwalaani wale wanaume walio katika mfano wa wanawake na wale wanawake walio katika mfano wa wanaume."
+},
+{
+"number": 5886,
+"arabic": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ لَعَنَ النَّبِيُّ صلى الله عليه وسلم الْمُخَنَّثِينَ مِنَ الرِّجَالِ، وَالْمُتَرَجِّلاَتِ مِنَ النِّسَاءِ وَقَالَ ‏ \"‏ أَخْرِجُوهُمْ مِنْ بُيُوتِكُمْ ‏\"‏‏.‏ قَالَ فَأَخْرَجَ النَّبِيُّ صلى الله عليه وسلم فُلاَنًا، وَأَخْرَجَ عُمَرُ فُلاَنًا‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) aliwalaani wanaume wa kike (wale wanaume walio katika mfano wa wanawake) na wale wanawake wanaojifanya wanaume, na akasema, \"Watoeni katika nyumba zenu.\" Mtume (ﷺ) alimtoa mtu fulani, na 'Umar (radhi za Allah ziwe juu yake) alimtoa mwanamke fulani."
+},
+{
+"number": 5887,
+"arabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، أَنَّ عُرْوَةَ، أَخْبَرَهُ أَنَّ زَيْنَبَ ابْنَةَ أَبِي سَلَمَةَ أَخْبَرَتْهُ أَنَّ أُمَّ سَلَمَةَ أَخْبَرَتْهَا أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ عِنْدَهَا وَفِي الْبَيْتِ مُخَنَّثٌ، فَقَالَ لِعَبْدِ اللَّهِ أَخِي أُمِّ سَلَمَةَ يَا عَبْدَ اللَّهِ إِنْ فُتِحَ لَكُمْ غَدًا الطَّائِفُ، فَإِنِّي أَدُلُّكَ عَلَى بِنْتِ غَيْلاَنَ، فَإِنَّهَا تُقْبِلُ بِأَرْبَعٍ وَتُدْبِرُ بِثَمَانٍ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يَدْخُلَنَّ هَؤُلاَءِ عَلَيْكُنَّ ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ تُقْبِلُ بِأَرْبَعٍ وَتُدْبِرُ بِثَمَانٍ يَعْنِي أَرْبَعَ عُكَنِ بَطْنِهَا، فَهْىَ تُقْبِلُ بِهِنَّ، وَقَوْلُهُ وَتُدْبِرُ بِثَمَانٍ‏.‏ يَعْنِي أَطْرَافَ هَذِهِ الْعُكَنِ الأَرْبَعِ، لأَنَّهَا مُحِيطَةٌ بِالْجَنْبَيْنِ حَتَّى لَحِقَتْ وَإِنَّمَا قَالَ بِثَمَانٍ‏.‏ وَلَمْ يَقُلْ بِثَمَانِيَةٍ‏.‏ وَوَاحِدُ الأَطْرَافِ وَهْهَ ذَكَرٌ، لأَنَّهُ لَمْ يَقُلْ ثَمَانِيَةَ أَطْرَافٍ‏.‏",
+"swahili": "Um Salama (radhi za Allah ziwe juu yake) alisimulia:\nkwamba mara moja Mtume (ﷺ) alikuwa nyumbani kwake, na Mwanaume mwenye jinsia ya kike alikuwepo pia. Mwanaume mwenye jinsia ya kike alimwambia `Abdullah (radhi za Allah ziwe juu yake), (kaka yake Um Salama (radhi za Allah ziwe juu yake)) \"0 `Abdullah (radhi za Allah ziwe juu yake)! Ikiwa Ta'if atashindwa kesho, nakupendekeza wewe binti wa Ghailan, kwani ni mnene sana kiasi kwamba ana mikunjo minne mbele (ya tumbo lake) na minane nyuma.\" Kwa hivyo Mtume (ﷺ) alisema (kwa wake zake) \"Wanaume hawa wa jinsia ya kike hawapaswi kuingia juu yenu (nyumba zenu)."
+},
+{
+"number": 5888,
+"arabic": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، عَنْ حَنْظَلَةَ، عَنْ نَافِعٍ، قَالَ أَصْحَابُنَا عَنِ الْمَكِّيِّ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مِنَ الْفِطْرَةِ قَصُّ الشَّارِبِ ‏\"‏‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alisema, \"Kukata masharubu 'ni sifa ya Fitra.\""
+},
+{
+"number": 5889,
+"arabic": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، قَالَ الزُّهْرِيُّ حَدَّثَنَا عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، رِوَايَةً ‏ \"‏ الْفِطْرَةُ خَمْسٌ ـ أَوْ خَمْسٌ مِنَ الْفِطْرَةِ ـ الْخِتَانُ، وَالاِسْتِحْدَادُ، وَنَتْفُ الإِبْطِ، وَتَقْلِيمُ الأَظْفَارِ، وَقَصُّ الشَّارِبِ ‏\"‏‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) alisema, \"Mitindo mitano ni sifa za Fitra: kutahiri, kunyoa sehemu za siri, kukata kucha na kukata masharubu.\""
+},
+{
+"number": 5890,
+"arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي رَجَاءٍ، حَدَّثَنَا إِسْحَاقُ بْنُ سُلَيْمَانَ، قَالَ سَمِعْتُ حَنْظَلَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مِنَ الْفِطْرَةِ حَلْقُ الْعَانَةِ، وَتَقْلِيمُ الأَظْفَارِ، وَقَصُّ الشَّارِبِ ‏\"‏‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) alisema, \"Kunyoa nywele za sehemu za siri. Kukata kucha na kukata masharubu mafupi, ni sifa za Fitra.\""
+},
+{
+"number": 5891,
+"arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ سَمِعْتُ النَّبِيِّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الْفِطْرَةُ خَمْسٌ الْخِتَانُ، وَالاِسْتِحْدَادُ، وَقَصُّ الشَّارِبِ، وَتَقْلِيمُ الأَظْفَارِ، وَنَتْفُ الآبَاطِ ‏\"‏‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nNilimsikia Mtume (ﷺ) akisema. \"Mitindo mitano ni sifa za Fitra: kutahiri, kunyoa nywele za sehemu za siri, kukata masharubu mafupi, kukata kucha, na kuondoa nywele za kwapa.\""
+},
+{
+"number": 5892,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مِنْهَالٍ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا عُمَرُ بْنُ مُحَمَّدِ بْنِ زَيْدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ خَالِفُوا الْمُشْرِكِينَ، وَفِّرُوا اللِّحَى، وَأَحْفُوا الشَّوَارِبَ ‏\"‏‏.‏ وَكَانَ ابْنُ عُمَرَ إِذَا حَجَّ أَوِ اعْتَمَرَ قَبَضَ عَلَى لِحْيَتِهِ، فَمَا فَضَلَ أَخَذَهُ‏.‏",
+"swahili": "Nafi` alisimulia:\nIbn `Umar (radhi za Allah ziwe juu yake) alisema, Mtume (ﷺ) alisema, 'Fanya kinyume cha wanavyofanya wapagani. Weka ndevu na kukata masharubu mafupi.' Kila mara Ibn `Umar (radhi za Allah ziwe juu yake) alipofanya Hija au Umra, alikuwa akishika ndevu zake kwa mkono wake na kukata chochote kilichobaki nje ya sehemu yake ya kushikilia."
+},
+{
+"number": 5893,
+"arabic": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنَا عَبْدَةُ، أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ انْهَكُوا الشَّوارِبَ، وَأَعْفُوا اللِّحَى ‏\"‏‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMtume wa Mwenyezi Mungu (ﷺ) alisema, \"Kata masharubu mafupi na uache ndevu (kama zilivyo).\""
+},
+{
+"number": 5894,
+"arabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ سَأَلْتُ أَنَسًا أَخَضَبَ النَّبِيُّ صلى الله عليه وسلم قَالَ لَمْ يَبْلُغِ الشَّيْبَ إِلاَّ قَلِيلاً‏.‏",
+"swahili": "Muhammad bin Seereen alisimulia:\nNilimuuliza Anas (radhi za Allah ziwe juu yake), \"Je, Mtume (ﷺ) alipaka nywele nywele zake rangi?\" Anas (radhi za Allah ziwe juu yake) alijibu, \"Mtume (ﷺ) hakuwa na nywele chache za kijivu isipokuwa mvi.\""
+},
+{
+"number": 5895,
+"arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، قَالَ سُئِلَ أَنَسٌ عَنْ خِضَابِ النَّبِيِّ، صلى الله عليه وسلم فَقَالَ إِنَّهُ لَمْ يَبْلُغْ مَا يَخْضِبُ، لَوْ شِئْتُ أَنْ أَعُدَّ شَمَطَاتِهِ فِي لِحْيَتِهِ‏.‏",
+"swahili": "Thabit alisimulia:\nAnas (radhi za Allah ziwe juu yake) aliulizwa kama Mtume (ﷺ) alitumia rangi ya nywele au la. Alijibu, \"Mtume (ﷺ) hakuwa na nywele za kijivu za kutosha kupaka rangi, (kama vile) kama nilitaka kuhesabu nywele zinazofifia kwenye ndevu zake (ningeweza).\""
+},
+{
+"number": 5896,
+"arabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ عُثْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ، قَالَ أَرْسَلَنِي أَهْلِي إِلَى أُمِّ سَلَمَةَ بِقَدَحٍ مِنْ مَاءٍ ـ وَقَبَضَ إِسْرَائِيلُ ثَلاَثَ أَصَابِعَ ـ مِنْ فِضَّةٍ فِيهِ شَعَرٌ مِنْ شَعَرِ النَّبِيِّ صلى الله عليه وسلم وَكَانَ إِذَا أَصَابَ الإِنْسَانَ عَيْنٌ أَوْ شَىْءٌ بَعَثَ إِلَيْهَا مِخْضَبَهُ، فَاطَّلَعْتُ فِي الْجُلْجُلِ فَرَأَيْتُ شَعَرَاتٍ حُمْرًا‏.‏",
+"swahili": "IsraiI alisimulia:\n`Uthman bin `Abdullah bin Mauhab alisema, \"Watu wangu walinituma na bakuli la maji kwa Um Salama (radhi za Allah ziwe juu yake).\" Israeli alikadiria vidole vitatu ('kuonyesha ukubwa mdogo wa chombo kilichopo ambapo kulikuwa na nywele za Mtume. `Uthman aliongeza, \"Ikiwa mtu yeyote angeugua jicho baya au ugonjwa mwingine, angetuma chombo (kilicho na maji) kwa Um Salama (radhi za Allah ziwe juu yake). Niliangalia ndani ya chombo (kilichokuwa na nywele za Mtume) na nikaona nywele chache nyekundu ndani yake,\""
+},
+{
+"number": 5897,
+"arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سَلاَّمٌ، عَنْ عُثْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ، قَالَ دَخَلْتُ عَلَى أُمِّ سَلَمَةَ فَأَخْرَجَتْ إِلَيْنَا شَعَرًا مِنْ شَعَرِ النَّبِيِّ صلى الله عليه وسلم مَخْضُوبًا‏.‏",
+"swahili": "Alisimulia `Uthman bin `Abdullah bin Mauhab:\nNilikwenda kwa Um Salama (radhi za Allah ziwe juu yake) na akatuletea baadhi ya nywele zilizotiwa rangi za Mtume."
+},
+{
+"number": 5898,
+"arabic": "وَقَالَ لَنَا أَبُو نُعَيْمٍ حَدَّثَنَا نُصَيْرُ بْنُ أَبِي الأَشْعَثِ، عَنِ ابْنِ مَوْهَبٍ، أَنَّ أُمِّ سَلَمَةَ، أَرَتْهُ شَعَرَ النَّبِيِّ صلى الله عليه وسلم أَحْمَرَ‏.‏",
+"swahili": "Ibn Mauhab pia alisema kwamba Um Salama (radhi za Allah ziwe juu yake) alikuwa amemwonyesha nywele nyekundu za Mtume."
+},
+{
+"number": 5899,
+"arabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ أَبِي سَلَمَةَ، وَسُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِنَّ الْيَهُودَ وَالنَّصَارَى لاَ يَصْبُغُونَ فَخَالِفُوهُمْ ‏\"‏‏.‏",
+"swahili": "Alisimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alisema, \"Wayahudi na Wakristo hawapandi rangi nywele zao kwa hivyo unapaswa kufanya kinyume cha kile wanachofanya.\""
+},
+{
+"number": 5900,
+"arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكُ بْنُ أَنَسٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّهُ سَمِعَهُ يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْسَ بِالطَّوِيلِ الْبَائِنِ، وَلاَ بِالْقَصِيرِ، وَلَيْسَ بِالأَبْيَضِ الأَمْهَقِ، وَلَيْسَ بِالآدَمِ، وَلَيْسَ بِالْجَعْدِ الْقَطَطِ، وَلاَ بِالسَّبْطِ، بَعَثَهُ اللَّهُ عَلَى رَأْسِ أَرْبَعِينَ سَنَةً، فَأَقَامَ بِمَكَّةَ عَشْرَ سِنِينَ، وَبِالْمَدِينَةِ عَشْرَ سِنِينَ، وَتَوَفَّاهُ اللَّهُ عَلَى رَأْسِ سِتِّينَ سَنَةً، وَلَيْسَ فِي رَأْسِهِ وَلِحْيَتِهِ عِشْرُونَ شَعَرَةً بَيْضَاءَ‏.‏",
+"swahili": "Alisimulia Anas bin Malik (radhi za Allah ziwe juu yake):\nMtume (ﷺ) hakuwa mrefu sana, wala mfupi; wala, mweupe sana, wala kahawia. Nywele zake hazikuwa zimepinda sana, wala hazikuwa zimenyooka sana. Mwenyezi Mungu alimtuma (kama Mtume) akiwa na umri wa miaka arobaini (na baada ya hapo) alikaa kwa miaka kumi Makka, na kwa miaka kumi zaidi huko Madina. Mwenyezi Mungu alimchukua kwake akiwa na umri wa miaka sitini, na alikuwa na nywele nyeupe kumi kichwani mwake na ndevuni mwake."
+},
+{
+"number": 5901,
+"arabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، سَمِعْتُ الْبَرَاءَ، يَقُولُ مَا رَأَيْتُ أَحَدًا أَحْسَنَ فِي حُلَّةٍ حَمْرَاءَ مِنَ النَّبِيِّ صلى الله عليه وسلم‏.‏ قَالَ بَعْضُ أَصْحَابِي عَنْ مَالِكٍ إِنَّ جُمَّتَهُ لَتَضْرِبُ قَرِيبًا مِنْ مَنْكِبَيْهِ‏.‏ قَالَ أَبُو إِسْحَاقَ سَمِعْتُهُ يُحَدِّثُهُ غَيْرَ مَرَّةٍ، مَا حَدَّثَ بِهِ قَطُّ إِلاَّ ضَحِكَ‏.‏ تَابَعَهُ شُعْبَةُ شَعَرُهُ يَبْلُغُ شَحْمَةَ أُذُنَيْهِ‏.‏",
+"swahili": "Al-Bara' (radhi za Allah ziwe juu yake) alisimulia:\nSikuona mtu yeyote aliyevaa joho jekundu akionekana mrembo zaidi kuliko Mtume. Alisimulia Malik: Nywele za Mtume (ﷺ) zilikuwa zikining'inia karibu na mabega yake. Abu Ishaq alisema, \"Nilimsikia akisimulia zaidi ya mara moja. Alicheka kila mara aliposimulia.\" Alisimulia Shu`ba: Nywele za Mtume (ﷺ) zilikuwa zikining'inia hadi kwenye ndewe za masikio."
+},
+{
+"number": 5902,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أُرَانِي اللَّيْلَةَ عِنْدَ الْكَعْبَةِ، فَرَأَيْتُ رَجُلاً آدَمَ كَأَحْسَنِ مَا أَنْتَ رَاءٍ مِنْ أُدْمِ الرِّجَالِ، لَهُ لِمَّةٌ كَأَحْسَنِ مَا أَنْتَ رَاءٍ مِنَ اللِّمَمِ، قَدْ رَجَّلَهَا، فَهْىَ تَقْطُرُ مَاءً مُتَّكِئًا عَلَى رَجُلَيْنِ، أَوْ عَلَى عَوَاتِقِ رَجُلَيْنِ، يَطُوفُ بِالْبَيْتِ فَسَأَلْتُ مَنْ هَذَا فَقِيلَ الْمَسِيحُ ابْنُ مَرْيَمَ‏.‏ وَإِذَا أَنَا بِرَجُلٍ جَعْدٍ، قَطَطٍ، أَعْوَرِ الْعَيْنِ الْيُمْنَى كَأَنَّهَا عِنَبَةٌ طَافِيَةٌ، فَسَأَلْتُ مَنْ هَذَا فَقِيلَ الْمَسِيحُ الدَّجَّالُ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Abdullah bin `Umar (radhi za Allah ziwe juu yake):\nMjumbe wa Mwenyezi Mungu (ﷺ) alisema, \"Leo nilijiona katika ndoto karibu na Ka`ba. Nilimwona mtu mweupe wa kahawia, mtu mzuri zaidi wa kahawia ambaye unaweza kumuona. Alikuwa na Limma mrembo zaidi (nywele zikining'inia hadi kwenye ndewe za masikio) ambazo unaweza kuziona. Alikuwa ameichana na ilikuwa ikidondoka maji; na alikuwa akifanya Tawaf kuzunguka Ka`ba akiwa ameegemea watu wawili au mabegani mwa watu wawili. Niliuliza, \"Huyu ni nani?\" Ikasemwa. \"Masihi, mwana wa Mariamu.\" Ghafla nilimwona mwanamume mwenye nywele zilizopinda, kipofu katika jicho la kulia ambalo lilionekana kama zabibu inayotoka. Niliuliza, \"Huyu ni nani?\" Ikasemwa, \"Yeye ni Masihi Ad-Dajjal.\""
+},
+{
+"number": 5903,
+"arabic": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا حَبَّانُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا أَنَسٌ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَضْرِبُ شَعَرُهُ مَنْكِبَيْهِ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nNywele za Mtume (ﷺ) zilikuwa zikining'inia hadi mabegani mwake."
+},
+{
+"number": 5904,
+"arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، كَانَ يَضْرِبُ شَعَرُ النَّبِيِّ صلى الله عليه وسلم مَنْكِبَيْهِ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nNywele za kichwa za Mtume (ﷺ) zilikuwa zikining'inia hadi mabegani mwake."
+},
+{
+"number": 5905,
+"arabic": "حَدَّثَنِي عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ عَنْ شَعَرِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ كَانَ شَعَرُ رَسُولِ اللَّهِ صلى الله عليه وسلم رَجِلاً، لَيْسَ بِالسَّبِطِ، وَلاَ الْجَعْدِ، بَيْنَ أُذُنَيْهِ وَعَاتِقِهِ‏.‏",
+"swahili": "Qatada alisimulia:\nNilimuuliza Anas bin Malik (radhi za Allah ziwe juu yake) kuhusu nywele za Mtume wa Mwenyezi Mungu (ﷺ). Alisema, \"Nywele za Mtume wa Mwenyezi Mungu (ﷺ) hazikuwa zimenyooka sana, wala ilikuwa imepinda sana, na ilikuwa ikining'inia chini hadi kati ya mabega yake na ndewe zake za masikio.\""
+},
+{
+"number": 5906,
+"arabic": "حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا جَرِيرٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم ضَخْمَ الْيَدَيْنِ، لَمْ أَرَ بَعْدَهُ مِثْلَهُ، وَكَانَ شَعَرُ النَّبِيِّ صلى الله عليه وسلم رَجِلاً، لاَ جَعْدَ، وَلاَ سَبِطَ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alikuwa na mikono mikubwa, na sijawahi kumuona mtu kama yeye baada yake. Nywele za Mtume zilikuwa za mawimbi, hazikuwa zimepinda wala zimenyooka."
+},
+{
+"number": 5907,
+"arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم ضَخْمَ الْيَدَيْنِ وَالْقَدَمَيْنِ حَسَنَ الْوَجْهِ، لَمْ أَرَ بَعْدَهُ وَلاَ قَبْلَهُ مِثْلَهُ، وَكَانَ بَسِطَ الْكَفَّيْنِ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alikuwa na mikono mikubwa na miguu mikubwa, na sijaona mtu kama yeye, kabla wala baada yake, na viganja vyake vilikuwa laini."
+},
+{
+"number": "5908, 5909",
+"arabic": "حَدَّثَنِي عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا مُعَاذُ بْنُ هَانِئٍ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسِ بْنِ مَالِكٍ،‏.‏ أَوْ عَنْ رَجُلٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم ضَخْمَ الْقَدَمَيْنِ، حَسَنَ الْوَجْهِ، لَمْ أَرَ بَعْدَهُ مِثْلَهُ‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alikuwa na miguu mikubwa na uso mzuri na sijaona mtu kama yeye baada yake."
+},
+{
+"number": 5910,
+"arabic": "وَقَالَ هِشَامٌ عَنْ مَعْمَرٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، كَانَ النَّبِيُّ صلى الله عليه وسلم شَثْنَ الْقَدَمَيْنِ وَالْكَفَّيْنِ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia:\nNabii (ﷺ) alikuwa na miguu mikubwa na mikono mikubwa."
+},
+{
+"number": "5911, 5912",
+"arabic": "وَقَالَ أَبُو هِلاَلٍ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ،‏.‏ أَوْ جَابِرِ بْنِ عَبْدِ اللَّهِ كَانَ النَّبِيُّ صلى الله عليه وسلم ضَخْمَ الْكَفَّيْنِ وَالْقَدَمَيْنِ، لَمْ أَرَ بَعْدَهُ شَبَهًا لَهُ‏.‏",
+"swahili": "Anas (radhi za Allah ziwe juu yake) alisimulia au Jabir bin `Abdullah (radhi za Allah ziwe juu yake):\nNabii (ﷺ) alikuwa na mikono mikubwa na miguu mikubwa na sijaona mtu kama yeye baada yake."
+},
+{
+"number": 5913,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنِي ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُجَاهِدٍ، قَالَ كُنَّا عِنْدَ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ فَذَكَرُوا الدَّجَّالَ فَقَالَ إِنَّهُ مَكْتُوبٌ بَيْنَ عَيْنَيْهِ كَافِرٌ‏.‏ وَقَالَ ابْنُ عَبَّاسٍ لَمْ أَسْمَعْهُ قَالَ ذَاكَ وَلَكِنَّهُ قَالَ ‏ \"‏ أَمَّا إِبْرَاهِيمُ فَانْظُرُوا إِلَى صَاحِبِكُمْ، وَأَمَّا مُوسَى فَرَجُلٌ آدَمُ جَعْدٌ، عَلَى جَمَلٍ أَحْمَرَ مَخْطُومٍ بِخُلْبَةٍ، كَأَنِّي أَنْظُرُ إِلَيْهِ إِذِ انْحَدَرَ فِي الْوَادِي يُلَبِّي ‏\"‏‏.‏",
+"swahili": "Mujahid alisimulia:\nTulikuwa na Ibn `Abbas (radhi za Allah ziwe juu yake) na watu walimtaja Ad-Dajjal. Mtu mmoja alisema, \"Neno 'Kafir' (kafiri) limeandikwa kati ya macho yake (Ad-Dajjal).\" Ibn `Abbas (radhi za Allah ziwe juu yake) alisema, \"Sijamsikia Nabii akisema hivi, lakini alisema, 'Kuhusu Ibrahimu, anafanana na mwenzako (yaani Nabii, Muhammad), na kuhusu Musa, ni mtu mwenye nywele za kahawia zilizopinda akipanda ngamia na kutawala kwa kamba kali ya jute, kana kwamba sasa ninamtazama akishuka bondeni na kusema, \"Labbaik.\"'"
+},
+{
+"number": 5914,
+"arabic": "حَدَّثَنَا أَبُوالْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، قَالَ سَمِعْتُ عُمَرَ ـ رضى الله عنه ـ يَقُولُ مَنْ ضَفَّرَ فَلْيَحْلِقْ، وَلاَ تَشَبَّهُوا بِالتَّلْبِيدِ‏.‏ وَكَانَ ابْنُ عُمَرَ يَقُولُ لَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم مُلَبِّدًا‏.‏",
+"swahili": "Abdullah bin `Umar (radhi za Allah ziwe juu yake) alisimulia:\nNilimsikia Umar (radhi za Allah ziwe juu yake) akisema, \"Yeyote anayesuka nywele zake anapaswa kuzinyoa (anapomaliza lhram). Afadhali usifanye, kitu kama Talbid.\" Ibn `Umar (radhi za Allah ziwe juu yake) alikuwa akisema: \"Nilimuona Mtume wa Allah (ﷺ) nywele zake zikiwa zimeshikamana na fizi.\""
+},
+{
+"number": 5915,
+"arabic": "حَدَّثَنِي حِبَّانُ بْنُ مُوسَى، وَأَحْمَدُ بْنُ مُحَمَّدٍ، قَالاَ أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُهِلُّ مُلَبِّدًا يَقُولُ ‏ \"‏ لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ لاَ شَرِيكَ لَكَ ‏\"‏‏.‏ لاَ يَزِيدُ عَلَى هَؤُلاَءِ الْكَلِمَاتِ‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nNilimsikia Mtume wa Mwenyezi Mungu (ﷺ), alipokuwa katika hali ya lhram na nywele zake zilikuwa zimeshikamana na fizi, akisema, \"Labbaik, Allahumma Labbaik, Labbaik La Sharika laka Labbaik. Inn-al-Hamda Wan-Ni'mata Laka wal-Mulk, La Sharika Lak.\" Hakuongeza chochote kwenye maneno hayo."
+},
+{
+"number": 5916,
+"arabic": "حَدَّثَنِي إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ حَفْصَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ مَا شَأْنُ النَّاسِ حَلُّوا بِعُمْرَةٍ، وَلَمْ تَحْلِلْ أَنْتَ مِنْ عُمْرَتِكَ قَالَ ‏ \"‏ إِنِّي لَبَّدْتُ رَأْسِي، وَقَلَّدْتُ هَدْيِي، فَلاَ أَحِلُّ حَتَّى أَنْحَرَ ‏\"‏‏.‏",
+"swahili": "Alisimulia Hafsa (radhi za Allah ziwe juu yake):\n(mke wa Mtume) Nikasema, \"Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Kwa nini watu wamemaliza Ihram yao baada ya kufanya `Umra huku wewe hujamaliza lhram yako baada ya `Umra yako?\" Alisema, \"Nimeifanya Talbid (ya nywele zangu) na nimepamba Hadith zangu kwa taji za maua, kwa hivyo sitamaliza lhram yangu hadi nitakapochinja Hadith yangu (mnyama wa kafara)."
+},
+{
+"number": 5917,
+"arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُ» صلى الله عليه وسلم يُحِبُّ مُوَافَقَةَ أَهْلِ الْكِتَابِ فِيمَا لَمْ يُؤْمَرْ فِيهِ، وَكَانَ أَهْلُ الْكِتَابِ يَسْدِلُونَ أَشْعَارَهُمْ، وَكَانَ الْمُشْرِكُونَ يَفْرُقُونَ رُءُوسَهُمْ، فَسَدَلَ النَّبِيُّ صلى الله عليه وسلم نَاصِيَتَهُ، ثُمَّ فَرَقَ بَعْدُ‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alikuwa akinakili watu wa Maandiko katika mambo ambayo hakukuwa na amri kutoka kwa Mwenyezi Mungu. Watu wa Maandiko walikuwa wakiacha nywele zao zining'inie chini huku wapagani wakizigawanya nywele zao. Kwa hivyo Mtume (ﷺ) aliacha nywele zake zining'inie chini kwanza, lakini baadaye akazigawanya."
+},
+{
+"number": 5918,
+"arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، وَعَبْدُ اللَّهِ بْنُ رَجَاءٍ، قَالهَا حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَأَنِّي أَنْظُرُ إِلَى وَبِيصِ الطِّيبِ فِي مَفَارِقِ النَّبِيِّ صلى الله عليه وسلم وَهْوَ مُحْرِمٌ‏.‏ قَالَ عَبْدُ اللَّهِ فِي مَفْرِقِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nKana kwamba sasa ninaangalia mng'ao wa nywele za Mtume (ﷺ) alipokuwa katika hali ya lhram."
+},
+{
+"number": 5919,
+"arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا الْفَضْلُ بْنُ عَنْبَسَةَ، أَخْبَرَنَا هُشَيْمٌ، أَخْبَرَنَا أَبُو بِشْرٍ، ح وَحَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا هُشَيْمٌ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ بِتُّ لَيْلَةً عِنْدَ مَيْمُونَةَ بِنْتِ الْحَارِثِ خَالَتِي، وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَهَا فِي لَيْلَتِهَا ـ قَالَ ـ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي مِنَ اللَّيْلِ، فَقُمْتُ عَنْ يَسَارِهِ ـ قَالَ ـ فَأَخَذَ بِذُؤَابَتِي فَجَعَلَنِي عَنْ يَمِينِهِ‏.‏ حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا أَبُو بِشْرٍ، بِهَذَا، وَقَالَ بِذُؤَابَتِي أَوْ بِرَأْسِي‏.‏",
+"swahili": "Alisimulia Ibn `Abbas (radhi za Allah ziwe juu yake):\nSiku moja nililala usiku kucha nyumbani kwa shangazi yangu Maimuna bint Al-Harith (radhi za Allah ziwe juu yake) na Mtume wa Mwenyezi Mungu (ﷺ) alikuwa naye kwani ilikuwa zamu yake. Mtume wa Mwenyezi Mungu (ﷺ) alisimama kusali sala ya usiku. Nilisimama upande wake wa kushoto lakini alishika nywele zangu mbili na kunisimamisha upande wake wa kulia.\nAbu Bishr alisimulia: (Hadithi hapo juu) lakini alinukuu: Ibn `Abbas (radhi za Allah ziwe juu yake) alisema, (alishika) nywele zangu mbili kichwani mwaku.\""
+},
+{
+"number": 5920,
+"arabic": "حَدَّثَنِي مُحَمَّدٌ، قَالَ أَخْبَرَنِي مَخْلَدٌ، قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنِ حَفْصٍ، أَنَّ عُمَرَ بْنَ نَافِعٍ، أَخْبَرَهُ عَنْ نَافِعٍ، مَوْلَى عَبْدِ اللَّهِ أَنَّهُ سَمِعَ ابْنَ عُمَرَ ـ رضى الله عنهما ـ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنِ الْقَزَعِ‏.‏ قَالَ عُبَيْدُ اللَّهِ قُلْتُ وَمَا الْقَزَعُ فَأَشَارَ لَنَا عُبَيْدُ اللَّهِ قَالَ إِذَا حَلَقَ الصَّبِيَّ وَتَرَكَ هَا هُنَا شَعَرَةً وَهَا هُنَا وَهَا هُنَا‏.‏ فَأَشَارَ لَنَا عُبَيْدُ اللَّهِ إِلَى نَاصِيَتِهِ وَجَانِبَىْ رَأْسِهِ‏.‏ قِيلَ لِعُبَيْدِ اللَّهِ فَالْجَارِيَةُ وَالْغُلاَمُ قَالَ لاَ أَدْرِي هَكَذَا قَالَ الصَّبِيِّ‏.‏ قَالَ عُبَيْدُ اللَّهِ وَعَاوَدْتُهُ فَقَالَ أَمَّا الْقُصَّةُ وَالْقَفَا لِلْغُلاَمِ فَلاَ بَأْسَ بِهِمَا وَلَكِنَّ الْقَزَعَ أَنْ يُتْرَكَ بِنَاصِيَتِهِ شَعَرٌ، وَلَيْسَ فِي رَأْسِهِ غَيْرُهُ، وَكَذَلِكَ شَقُّ رَأْسِهِ هَذَا وَهَذَا‏.‏",
+"swahili": "Alisimulia Ubaidullah bin Hafs:\nkwamba `Umar bin Nafi` alimwambia kwamba Nafi`, Maula `Abdullah alikuwa amemsikia `Umar (radhi za Allah ziwe juu yake) akisema, \"Nilimsikia Mtume wa Mwenyezi Mungu akikataza Al-Qaza'.\" 'Ubaidullah aliongeza: Nikasema, \"Al-Qaza ni nini'?\" 'Ubaidullah alielekeza (kuelekea kichwa chake) kutuonyesha na akaongeza, \"Nafi` alisema, 'Ni wakati mvulana ananyolewa kichwa chake na kuacha sehemu ya nywele hapa na sehemu ya nywele pale.\" Ubaidullah alielekeza kwenye paji la uso wake na pande za kichwa chake. 'Ubaidullah aliulizwa, \"Je, hii inawahusu wasichana na wavulana?\" Akasema, \"Sijui, lakini Nafi` alisema, 'Mvulana.'\" 'Ubaidullah aliongeza, \"Nilimuuliza Nafi` tena, naye akasema, 'Kuhusu kuacha nywele kwenye mahekalu na sehemu ya nyuma ya kichwa cha mvulana, hakuna ubaya, lakini Al-Qaza' ni kuacha kipande cha nywele kwenye paji la uso wake bila kunyolewa huku kukiwa hakuna nywele kwenye sehemu iliyobaki ya kichwa chake, na pia kuacha nywele pande zote mbili za kichwa chake.'\""
+},
+{
+"number": 5921,
+"arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُثَنَّى بْنِ عَبْدِ اللَّهِ بْنِ أَنَسِ بْنِ مَالِكٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْقَزَعِ‏.‏",
+"swahili": "Alisimulia (Abdullah) bin `Umar (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alikataza Al-Qaza' (kuacha kipande cha nywele hapa na pale baada ya kunyoa kichwa.)"
+},
+{
+"number": 5922,
+"arabic": "حَدَّثَنِي أَحْمَدُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا يَحْيَى بْنُ سَعِيدٍ، أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ النَّبِيَّ صلى الله عليه وسلم بِيَدِي لِحُرْمِهِ، وَطَيَّبْتُهُ بِمِنًى قَبْلَ أَنْ يُفِيضَ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nNilimpaka manukato Mtume (ﷺ) kwa mikono yangu mwenyewe alipotaka kuchukua hali ya Ihram, na pia nilimpa manukato Mina kabla hajaondoka hapo (kufanya Tawaf-al-Ifada)."
+},
+{
+"number": 5923,
+"arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَسْوَدِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أُطَيِّبُ النَّبِيَّ صلى الله عليه وسلم بِأَطْيَبِ مَا يَجِدُ، حَتَّى أَجِدَ وَبِيصَ الطِّيبِ فِي رَأْسِهِ وَلِحْيَتِهِ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nNilikuwa nikimpa manukato Mtume wa Mwenyezi Mungu (ﷺ) kwa harufu nzuri zaidi iliyopatikana hadi nilipoona mng'ao wa harufu kichwani mwake na ndevu zake zikimetameta."
+},
+{
+"number": 5924,
+"arabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ رَجُلاً، اطَّلَعَ مِنْ جُحْرٍ فِي دَارِ النَّبِيِّ صلى الله عليه وسلم وَالنَّبِيُّ صلى الله عليه وسلم يَحُكُّ رَأْسَهُ بِالْمِدْرَى فَقَالَ ‏ \"‏ لَوْ عَلِمْتُ أَنَّكَ تَنْظُرُ لَطَعَنْتُ بِهَا فِي عَيْنِكَ، إِنَّمَا جُعِلَ الإِذْنُ مِنْ قِبَلِ الأَبْصَارِ ‏\"‏‏.‏",
+"swahili": "Alisimulia Sa`d (radhi za Allah ziwe juu yake):\nMtu mmoja alichungulia ndani ya nyumba ya Mtume (ﷺ) kupitia shimo huku Mtume (ﷺ) akijikuna kichwa chake kwa kutumia Midrai (aina fulani ya sega). Hapo Mtume (ﷺ) akamwambia, \"Kama ningejua umekuwa ukiangalia, basi ningekutoboa jicho kwa kifaa hicho, kwa sababu kuomba ruhusa kumeamriwa ili mtu asione vitu kinyume cha sheria.\""
+},
+{
+"number": 5925,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كُنْتُ أُرَجِّلُ رَأْسَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَنَا حَائِضٌ‏.‏ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، مِثْلَهُ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nNilikuwa nikichana nywele za Mtume wa Mwenyezi Mungu (ﷺ) wakati wa hedhi zangu. Hadithi hii pia inatufikia kupitia mnyororo mwingine"
+},
+{
+"number": 5926,
+"arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا شُعْبَةُ، عَنْ أَشْعَثَ بْنِ سُلَيْمٍ، عَنْ أَبِيهِ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يُعْجِبُهُ التَّيَمُّنُ مَا اسْتَطَاعَ فِي تَرَجُّلِهِ وَوُضُوئِهِ‏.‏",
+"swahili": "'Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alikuwa akipenda kuanzia upande wa kulia kadri iwezekanavyo katika kuchana na kufanya udhu."
+},
+{
+"number": 5927,
+"arabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامٌ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ كُلُّ عَمَلِ ابْنِ آدَمَ لَهُ، إِلاَّ الصَّوْمَ فَإِنَّهُ لِي، وَأَنَا أَجْزِي بِهِ، وَلَخَلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنْ رِيحِ الْمِسْكِ ‏\"‏‏.‏",
+"swahili": "Alisimulia Abu Huraira (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alisema, \"(Mwenyezi Mungu alisema), 'Kila tendo jema la mwana wa Adamu ni lake isipokuwa kufunga; ni kwa ajili yangu. Nami nitamlipa (mtu aliyefunga) kwa hilo.' Hakika, harufu ya kinywa cha mtu aliyefunga ni bora kwa Mwenyezi Mungu kuliko harufu ya miski.\""
+},
+{
+"number": 5928,
+"arabic": "حَدَّثَنَا مُوسَى، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا هِشَامٌ، عَنْ عُثْمَانَ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كُنْتُ أُطَيِّبُ النَّبِيَّ صلى الله عليه وسلم عِنْدَ إِحْرَامِهِ بِأَطْيَبِ مَا أَجدُ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nalikuwa akimnukia Mtume (ﷺ) manukato kabla ya kujitia katika hali ya harufu nzuri zaidi."
+},
+{
+"number": 5929,
+"arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا عَزْرَةُ بْنُ ثَابِتٍ الأَنْصَارِيُّ، قَالَ حَدَّثَنِي ثُمَامَةُ بْنُ عَبْدِ اللَّهِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّهُ كَانَ لاَ يَرُدُّ الطِّيبَ، وَزَعَمَ أَنَّ النَّبِيُّ صلى الله عليه وسلم كَانَ لاَ يَرُدُّ الطِّيبَ‏.‏",
+"swahili": "Alisimulia Thumama bin `Abdullah;:\nAnas (radhi za Allah ziwe juu yake) hakuwahi kukataa (zawadi ya) harufu na alikuwa akisema kwamba Mtume (ﷺ) hakuwahi kukataa (zawadi ya) harufu."
+},
+{
+"number": 5930,
+"arabic": "حَدَّثَنَا عُثْمَانُ بْنُ الْهَيْثَمِ، أَوْ مُحَمَّدٌ عَنْهُ عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي عُمَرُ بْنُ عَبْدِ اللَّهِ بْنِ عُرْوَةَ، سَمِعَ عُرْوَةَ، وَالْقَاسِمَ، يُخْبِرَانِ عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم بِيَدَىَّ بِذَرِيرَةٍ فِي حَجَّةِ الْوَدَاعِ، لِلْحِلِّ وَالإِحْرَامِ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nWakati wa Hajjat-al-Wada`, nilimnukia Mtume wa Mwenyezi Mungu (ﷺ) manukato kwa mikono yangu mwenyewe, wakati wa kujitia katika Ihram na wakati wa kuimaliza."
+},
+{
+"number": 5931,
+"arabic": "حَدَّثَنَا عُثْمَانُ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، لَعَنَ اللَّهُ الْوَاشِمَاتِ، وَالْمُسْتَوْشِمَاتِ، وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ، الْمُغَيِّرَاتِ خَلْقَ اللَّهِ تَعَالَى، مَالِي لاَ أَلْعَنُ مَنْ لَعَنَ النَّبِيُّ صلى الله عليه وسلم وَهْوَ فِي كِتَابِ اللَّهِ {وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ}‏.‏",
+"swahili": "Alisimulia `Abdullah (radhi za Allah ziwe juu yake):\nMwenyezi Mungu amewalaani wanawake wanaojitia tattoo na wale wanaojitia tattoo, na wale wanaoondoa nywele zao za uso, na wale wanaotengeneza nafasi kati ya meno yao kwa njia bandia ili waonekane warembo, na wanawake kama hao wanaobadilisha sifa zilizoumbwa na Mwenyezi Mungu. Kwa nini basi nisiwalaani wale ambao Mtume (ﷺ) amewalaani? Na hilo liko katika Kitabu cha Mwenyezi Mungu, yaani, Kauli Yake: 'Na anachokupa Mtume kipokee na anachokukataza jiepushe nacho.' (59.7)"
+},
+{
+"number": 5932,
+"arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّهُ سَمِعَ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ، عَامَ حَجَّ وَهْوَ عَلَى الْمِنْبَرِ، وَهْوَ يَقُولُ ـ وَتَنَاوَلَ قُصَّةً مِنْ شَعَرٍ كَانَتْ بِيَدِ حَرَسِيٍّ ـ أَيْنَ عُلَمَاؤُكُمْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْ مِثْلِ هَذِهِ وَيَقُولُ ‏ \"‏ إِنَّمَا هَلَكَتْ بَنُو إِسْرَائِيلَ حِينَ اتَّخَذَ هَذِهِ نِسَاؤُهُمْ ‏\"‏‏.‏",
+"swahili": "Humaid bin `Abdur-Rahman bin `Auf amesimulia:\nkwamba katika mwaka aliofanya Hija. Alimsikia Mu'awiya bin Abi Sufyan (radhi za Allah ziwe juu yake), ambaye alikuwa kwenye mimbari na alikuwa akichukua kipande cha nywele kutoka kwa mmoja wa walinzi wake, akisema, \"Wako wapi wanaume wenu wa kidini? Nilimsikia Mtume wa Mwenyezi Mungu (ﷺ) akikataza hii (nywele bandia) na kusema, 'Wana wa Israeli waliangamizwa wakati wanawake wao walipoanza kuitumia.'\""
+},
+{
+"number": 5933,
+"arabic": "وَقَالَ ابْنُ أَبِي شَيْبَةَ حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا فُلَيْحٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ، وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ ‏\"‏‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alisema, \"Mwenyezi Mungu amemlaani mwanamke anayerefusha nywele (zake au za mtu mwingine) kwa njia bandia na yule anayerefusha nywele zake na yule anayejichora (mwenyewe au mtu mwingine) na yule anayejichora tattoo\""
+},
+{
+"number": 5934,
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، قَالَ سَمِعْتُ الْحَسَنَ بْنَ مُسْلِمِ بْنِ يَنَّاقٍ، يُحَدِّثُ عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ جَارِيَةً، مِنَ الأَنْصَارِ تَزَوَّجَتْ، وَأَنَّهَا مَرِضَتْ فَتَمَعَّطَ شَعَرُهَا، فَأَرَادُوا أَنْ يَصِلُوهَا فَسَأَلُوا النَّبِيَّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ ‏\"‏‏.‏ تَابَعَهُ ابْنُ إِسْحَاقَ عَنْ أَبَانَ بْنِ صَالِحٍ عَنِ الْحَسَنِ عَنْ صَفِيَّةَ عَنْ عَائِشَةَ‏.‏",
+"swahili": "Aisha (radhi za Allah ziwe juu yake) alisimulia:\nMsichana wa Ansari alikuwa ameolewa na akawa mgonjwa na nywele zake zote zikaanguka akikusudia kumpa nywele bandia. Walimuuliza Mtume (ﷺ) ambaye alisema, \"Mwenyezi Mungu amemlaani mwanamke anayerefusha nywele (zake au za mtu mwingine) kwa njia bandia na pia yule anayerefusha nywele zake.\""
+},
+{
+"number": 5935,
+"arabic": "حَدَّثَنِي أَحْمَدُ بْنُ الْمِقْدَامِ، حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ، حَدَّثَنَا مَنْصُورُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَتْنِي أُمِّي، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّ امْرَأَةً، جَاءَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ إِنِّي أَنْكَحْتُ ابْنَتِي، ثُمَّ أَصَابَهَا شَكْوَى فَتَمَرَّقَ رَأْسُهَا، وَزَوْجُهَا يَسْتَحِثُّنِي بِهَا أَفَأَصِلُ رَأْسَهَا فَسَبَّ رَسُولُ اللَّهِ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ‏.‏",
+"swahili": "Asma (radhi za Allah ziwe juu yake) alisimulia:\n(binti wa Abu' Bakr) Mwanamke mmoja alikuja kwa Mtume wa Mwenyezi Mungu (ﷺ) na kusema, \"Nilimuoza binti yangu kwa mtu, lakini akawa mgonjwa na nywele zake zote zikatoka, na (kwa sababu hiyo) mumewe hampendi. Je, nimruhusu atumie nywele bandia?\" Kwa hilo Mtume (ﷺ) alimlaani mwanamke kama huyo anayerefusha nywele (zake au za mtu mwingine) kwa njia bandia au kurefusha nywele zake kwa njia bandia.\""
+},
+{
+"number": 5936,
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنِ امْرَأَتِهِ، فَاطِمَةَ عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ، قَالَتْ لَعَنَ النَّبِيُّ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ‏.‏",
+"swahili": "Amesimulia Asma' (radhi za Allah ziwe juu yake):\n(binti wa Abu Bakr (radhi za Allah ziwe juu yake)) Mtume wa Mwenyezi Mungu (ﷺ) amemlaani mwanamke kama vile kurefusha nywele (zake au za mtu mwingine) au kurefusha nywele zake."
+},
+{
+"number": 5937,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ، وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ ‏\"‏‏.‏ قَالَ نَافِعٌ الْوَشْمُ فِي اللِّثَةِ‏.‏",
+"swahili": "Amesimulia Ibn `Umar (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alisema, \"Mwenyezi Mungu amemlaani mwanamke kama vile kurefusha nywele (zake au za mtu mwingine) au kurefusha nywele, na pia mwanamke anayejichora (mwenyewe au mtu mwingine) au kujichora tattoo."
+},
+{
+"number": 5938,
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَمْرُو بْنُ مُرَّةَ، سَمِعْتُ سَعِيدَ بْنَ الْمُسَيَّبِ، قَالَ قَدِمَ مُعَاوِيَةُ الْمَدِينَةَ آخِرَ قَدْمَةٍ قَدِمَهَا، فَخَطَبَنَا فَأَخْرَجَ كُبَّةً مِنْ شَعَرٍ قَالَ مَا كُنْتُ أَرَى أَحَدًا يَفْعَلُ هَذَا غَيْرَ الْيَهُودِ، إِنَّ النَّبِيَّ صلى الله عليه وسلم سَمَّاهُ الزُّورَ‏.‏ يَعْنِي الْوَاصِلَةَ فِي الشَّعَرِ‏.‏",
+"swahili": "Amesimulia Sa`id bin Al-Musaiyab:\nMu'awiya (radhi za Allah ziwe juu yake) alikuja Madina kwa mara ya mwisho na kutoa hotuba. Alitoa kipande cha nywele na kusema, \"Nilidhani kwamba hakuna mtu aliyekuwa akifanya hivi (yaani kutumia nywele bandia) isipokuwa Wayahudi. Mtume (ﷺ) aliita tabia hiyo, (yaani matumizi ya nywele bandia), kama udanganyifu."
+},
+{
+"number": 5939,
+"arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، قَالَ لَعَنَ عَبْدُ اللَّهِ الْوَاشِمَاتِ، وَالْمُتَنَمِّصَاتِ، وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ، الْمُغَيِّرَاتِ خَلْقَ اللَّهِ‏.‏ فَقَالَتْ أُمُّ يَعْقُوبَ مَا هَذَا قَالَ عَبْدُ اللَّهِ وَمَا لِيَ لاَ أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ، وَفِي كِتَابِ اللَّهِ‏.‏ قَالَتْ وَاللَّهِ لَقَدْ قَرَأْتُ مَا بَيْنَ اللَّوْحَيْنِ فَمَا وَجَدْتُهُ‏.‏ قَالَ وَاللَّهِ لَئِنْ قَرَأْتِيهِ لَقَدْ وَجَدْتِيهِ ‏{‏وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا‏}‏‏.‏",
+"swahili": "Alisimulia 'Alqama:\n'Abdullah (radhi za Allah ziwe juu yake) aliwalaani wanawake wale waliojichora tatoo na wale walioondoa nywele kwenye nyuso zao na wale waliotengeneza nafasi kati ya meno yao kwa njia bandia ili waonekane warembo, wanawake kama wale waliobadilisha kile ambacho Mwenyezi Mungu ameumba. Um Ya'qub akasema, \"Ni nini hicho?\" 'Abdullah (radhi za Allah ziwe juu yake) akasema, \"Kwa nini nisiwalaani wale waliolaaniwa na Mtume wa Mwenyezi Mungu (ﷺ) na kutajwa katika Kitabu cha Mwenyezi Mungu?\" Akamwambia \"Wallahi, nimesoma Qur'ani yote lakini sijapata kitu kama hicho. 'Abdullah (radhi za Allah ziwe juu yake) akasema, \"Wallahi, kama ungelisoma (kwa uangalifu) ungelilipata. (Mwenyezi Mungu anasema:) 'Na kile Mtume anachokupa kichukue na kile anachokukataza jiepushe nacho.' (59.7)"
+},
+{
+"number": 5940,
+"arabic": "حَدَّثَنِي مُحَمَّدٌ، حَدَّثَنَا عَبْدَةُ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ لَعَنَ النَّبِيُّ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ، وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) amemlaani mwanamke anayerefusha nywele zake kwa njia ya bandia na yule anayerefusha nywele zake, na pia mwanamke anayejichora (mwenyewe au wengine) na yule anayejichora mwenyewe kwa njia ya bandia."
+},
+{
+"number": 5941,
+"arabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا هِشَامٌ، أَنَّهُ سَمِعَ فَاطِمَةَ بِنْتَ الْمُنْذِرِ، تَقُولُ سَمِعْتُ أَسْمَاءَ، قَالَتْ سَأَلَتِ امْرَأَةٌ النَّبِيَّ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ ابْنَتِي أَصَابَتْهَا الْحَصْبَةُ، فَامَّرَقَ شَعَرُهَا، وَإِنِّي زَوَّجْتُهَا أَفَأَصِلُ فِيهِ فَقَالَ ‏ \"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمَوْصُولَةَ ‏\"‏‏.‏",
+"swahili": "Asma' (radhi za Allah ziwe juu yake) alisimulia:\nMwanamke mmoja alimuuliza Mtume (ﷺ) akisema, \"Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Binti yangu alipata surua na nywele zake zikaanguka. Sasa kwa kuwa nimemuoa, je, nimruhusu atumie nywele bandia?\" Akasema (kwake), \"Mwenyezi Mungu amemlaani mwanamke anayerefusha nywele zake kwa njia ya bandia na yule anayerefusha nywele zake kwa njia ya bandia.\""
+},
+{
+"number": 5942,
+"arabic": "حَدَّثَنِي يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ سَمِعْتُ النَّبِيُّ صلى الله عليه وسلم أَوْ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الْوَاشِمَةُ وَالْمُوتَشِمَةُ، وَالْوَاصِلَةُ وَالْمُسْتَوْصِلَةُ ‏\"‏‏.‏ يَعْنِي لَعَنَ النَّبِيُّ صلى الله عليه وسلم‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nNilimsikia Mtume (ﷺ) akisema, (au Mtume (ﷺ) alisema), \"Mwenyezi Mungu amemlaani mwanamke anayejichora tattoo na anayejichora mwenyewe, na pia mwanamke anayerefusha nywele bandia na anayerefusha nywele zake bandia.\" Mtume (ﷺ) amewalaani wanawake kama hao."
+},
+{
+"number": 5943,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنِ ابْنِ مَسْعُودٍ ـ رضى الله عنه ـ قَالَ لَعَنَ اللَّهُ الْوَاشِمَاتِ، وَالْمُسْتَوْشِمَاتِ، وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ، الْمُغَيِّرَاتِ خَلْقَ اللَّهِ، مَا لِي لاَ أَلْعَنُ مَنْ لَعَنَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهْوَ فِي كِتَابِ اللَّهِ‏.‏",
+"swahili": "Ibn Mas`ud (radhi za Allah ziwe juu yake) alisimulia:\nMwenyezi Mungu amewalaani wanawake wanaojichora tattoo au wanaojichora wenyewe, na wale wanaoondoa nywele kwenye nyuso zao, na wale wanaotengeneza nafasi kati ya meno yao bandia ili waonekane wazuri, wanawake kama vile wanaobadilisha sifa zilizoumbwa na Mwenyezi Mungu. Kwa nini basi nisiwalaani wale ambao Mtume wa Mwenyezi Mungu (ﷺ) amewalaani na ambao pia wamelaaniwa katika Kitabu cha Mwenyezi Mungu?"
+},
+{
+"number": 5944,
+"arabic": "حَدَّثَنِي يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعَيْنُ حَقٌّ ‏\"‏‏.‏ وَنَهَى عَنِ الْوَشْمِ‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nMjumbe wa Mwenyezi Mungu (ﷺ) alisema, \"Jicho baya ni ukweli,\" na akakataza kujichora tattoo."
+},
+{
+"number": 5945,
+"arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، قَالَ رَأَيْتُ أَبِي فَقَالَ إِنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الدَّمِ، وَثَمَنِ الْكَلْبِ، وَآكِلِ الرِّبَا وَمُوكِلِهِ، وَالْوَاشِمَةِ وَالْمُسْتَوْشِمَةِ‏.‏",
+"swahili": "Amesimulia Abu Juhaifa (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alikataza matumizi ya bei ya damu na bei ya mbwa, yule anayekula riba, yule anayetoa riba, mwanamke anayejichora tatoo na mwanamke anayejichora tatoo."
+},
+{
+"number": 5946,
+"arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُتِيَ عُمَرُ بِامْرَأَةٍ تَشِمُ فَقَامَ فَقَالَ أَنْشُدُكُمْ بِاللَّهِ مَنْ سَمِعَ مِنَ النَّبِيِّ صلى الله عليه وسلم فِي الْوَشْمِ فَقَالَ أَبُو هُرَيْرَةَ فَقُمْتُ فَقُلْتُ يَا أَمِيرَ الْمُؤْمِنِينَ أَنَا سَمِعْتُ‏.‏ قَالَ مَا سَمِعْتَ قَالَ سَمِعْتُ النَّبِيُّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ تَشِمْنَ وَلاَ تَسْتَوْشِمْنَ ‏\"‏‏.‏",
+"swahili": "Abu Huraira (radhi za Allah ziwe juu yake) alisimulia:\nMwanamke aliyekuwa akichora tatoo aliletwa kwa Umar (radhi za Allah ziwe juu yake). Umar (radhi za Allah ziwe juu yake) alisimama na kusema, \"Nakuomba kwa jina la Mwenyezi Mungu, ni nani kati yenu aliyemsikia Mtume (ﷺ) akisema kitu kuhusu kujichora tatoo?\" Nilisimama na kusema, \"Ewe mkuu wa Waumini! Nilisikia kitu.\" Akasema, \"Umesikia nini?\" Nikasema, \"Nilimsikia Mtume (akiwahutubia wanawake), akisema, 'Msijichore tattoo na msijichore tattoo.'\""
+},
+{
+"number": 5947,
+"arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ لَعَنَ النَّبِيُّ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ، وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ‏.‏",
+"swahili": "Ibn `Umar (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) amemlaani mwanamke anayerefusha nywele kwa njia ya bandia na yule anayerefusha nywele zake kwa njia hiyo, na mwanamke anayejichore tattoo na yule anayejichoresha mwenyewe."
+},
+{
+"number": 5948,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ لَعَنَ اللَّهُ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ، وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ، الْمُغَيِّرَاتِ خَلْقَ اللَّهِ‏.‏ مَا لِي لاَ أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهْوَ فِي كِتَابِ اللَّهِ‏.‏",
+"swahili": "Alisimulia `Abdullah (radhi za Allah ziwe juu yake):\nMwenyezi Mungu amewalaani wanawake wanaojichoresha tattoo na wale wanaojichoresha wenyewe, na wale wanaoondoa nywele kwenye nyuso zao, na wale wanaotengeneza nafasi kati ya meno yao kwa njia ya bandia ili waonekane wazuri, wanawake kama vile wanaobadilisha sifa zilizoumbwa na Mwenyezi Mungu. Kwa nini basi nisiwalaani wale ambao Mtume wa Mwenyezi Mungu (ﷺ) amewalaani na hilo liko katika Kitabu cha Mwenyezi Mungu?"
+},
+{
+"number": 5949,
+"arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَبِي طَلْحَةَ ـ رضى الله عنهم ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ تَصَاوِيرُ ‏\"‏‏.‏ وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُبَيْدُ اللَّهِ، سَمِعَ ابْنَ عَبَّاسٍ، سَمِعْتُ أَبَا طَلْحَةَ، سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم‏.‏",
+"swahili": "Alisimulia Abu Talha (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alisema, \"Malaika hawaingii katika nyumba ambayo kuna mbwa au kuna picha.\""
+},
+{
+"number": 5950,
+"arabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الأَعْمَشُ، عَنْ مُسْلِمٍ، قَالَ كُنَّا مَعَ مَسْرُوقٍ فِي دَارِ يَسَارِ بْنِ نُمَيْرٍ، فَرَأَى فِي صُفَّتِهِ تَمَاثِيلَ فَقَالَ سَمِعْتُ عَبْدَ اللَّهِ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ أَشَدَّ النَّاسِ عَذَابًا عِنْدَ اللَّهِ يَوْمَ الْقِيَامَةِ الْمُصَوِّرُونَ ‏\"‏‏.‏",
+"swahili": "Muslim alisimulia:\nTulikuwa na Masruq nyumbani kwa Yasar bin Numair. Masruq aliona picha kwenye mtaro wake na akasema, \"Nilimsikia `Abdullah (radhi za Allah ziwe juu yake) akisema kwamba alimsikia Mtume (ﷺ) akisema, \"Watu watakaopata adhabu kali zaidi kutoka kwa Mwenyezi Mungu ndio watakaotengeneza picha.\""
+},
+{
+"number": 5951,
+"arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، أَنَّ عَبْدُ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الَّذِينَ يَصْنَعُونَ هَذِهِ الصُّوَرَ يُعَذَّبُونَ يَوْمَ الْقِيَامَةِ يُقَالُ لَهُمْ أَحْيُوا مَا خَلَقْتُمْ ‏\"‏‏.‏",
+"swahili": "Abdullah bin Umar (radhi za Allah ziwe juu yake) alisimulia:\nMjumbe wa Mwenyezi Mungu (ﷺ) alisema, \"Wale watakaotengeneza picha hizi wataadhibiwa Siku ya Kiyama, na wataambiwa.\" 'Kifanye hai kile ulichokiumba.'\""
+},
+{
+"number": 5952,
+"arabic": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ عِمْرَانَ بْنِ حِطَّانَ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ حَدَّثَتْهُ أَنَّ النَّبِيُّ صلى الله عليه وسلم لَمْ يَكُنْ يَتْرُكُ فِي بَيْتِهِ شَيْئًا فِيهِ تَصَالِيبُ إِلاَّ نَقَضَهُ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nSikuwahi kuacha ndani ya nyumba ya Mtume (ﷺ) chochote kilichobeba sanamu au misalaba lakini alikifuta."
+},
+{
+"number": 5953,
+"arabic": "حَدَّثَنَا مُوسَى، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا عُمَارَةُ، حَدَّثَنَا أَبُو زُرْعَةَ، قَالَ دَخَلْتُ مَعَ أَبِي هُرَيْرَةَ دَارًا بِالْمَدِينَةِ فَرَأَى أَعْلاَهَا مُصَوِّرًا يُصَوِّرُ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ وَمَنْ أَظْلَمُ مِمَّنْ ذَهَبَ يَخْلُقُ كَخَلْقِي، فَلْيَخْلُقُوا حَبَّةً، وَلْيَخْلُقُوا ذَرَّةً ‏\"‏‏.‏ ثُمَّ دَعَا بِتَوْرٍ مِنْ مَاءٍ فَغَسَلَ يَدَيْهِ حَتَّى بَلَغَ إِبْطَهُ فَقُلْتُ يَا أَبَا هُرَيْرَةَ أَشَىْءٌ سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ مُنْتَهَى الْحِلْيَةِ‏.‏",
+"swahili": "Alisimulia Abu Zur'a:\nNiliingia katika nyumba moja huko Madina na Abu Huraira (radhi za Allah ziwe juu yake), na akamwona mtu akitengeneza picha juu ya nyumba. Abu Huraira (radhi za Allah ziwe juu yake) alisema, \"Nilimsikia Mtume wa Mwenyezi Mungu (ﷺ) akisema kwamba Mwenyezi Mungu alisema, 'Nani atakuwa dhalimu zaidi kuliko yule anayejaribu kuumba kama viumbe Wangu? Waache waumbe punje: waache waumbe mbu.' \"Kisha Abu Huraira (radhi za Allah ziwe juu yake) akaomba chombo cha maji na akaosha mikono yake hadi kwapani. Nikasema, \"Ewe Abu Huraira (radhi za Allah ziwe juu yake)! Je, hili ni jambo ambalo umesikia kutoka kwa Mtume wa Mwenyezi Mungu (ﷺ)?\" Akasema, \"Kikomo cha kutawadha ni hadi mahali ambapo mapambo yatafikia Siku ya Kiyama.\""
+},
+{
+"number": 5954,
+"arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ عَبْدُ الرَّحْمَنِ بْنَ الْقَاسِمِ ـ وَمَا بِالْمَدِينَةِ يَوْمَئِذٍ أَفْضَلُ مِنْهُ ـ قَالَ سَمِعْتُ أَبِي قَالَ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ سَفَرٍ وَقَدْ سَتَرْتُ بِقِرَامٍ لِي عَلَى سَهْوَةٍ لِي فِيهَا تَمَاثِيلُ، فَلَمَّا رَآهُ رَسُولُ اللَّهِ صلى الله عليه وسلم هَتَكَهُ وَقَالَ ‏ \"‏ أَشَدُّ النَّاسِ عَذَابًا يَوْمَ الْقِيَامَةِ الَّذِينَ يُضَاهُونَ بِخَلْقِ اللَّهِ ‏\"‏‏.‏ قَالَتْ فَجَعَلْنَاهُ وِسَادَةً أَوْ وِسَادَتَيْنِ‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nMjumbe wa Mwenyezi Mungu (ﷺ) alirudi kutoka safarini nilipokuwa nimeweka pazia langu lenye picha juu ya (mlango wa) chumba changu. Mtume wa Mwenyezi Mungu (ﷺ) alipoliona, alilirarua na kusema, \"Watu watakaopata adhabu kali zaidi Siku ya Kiyama ni wale watakaojaribu kutengeneza mfano wa viumbe vya Mwenyezi Mungu.\" Kwa hivyo tuliligeuza (yaani, pazia) kuwa mto mmoja au miwili."
+},
+{
+"number": 5955,
+"arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَدِمَ النَّبِيُّ صلى الله عليه وسلم مِنْ سَفَرٍ، وَعَلَّقْتُ دُرْنُوكًا فِيهِ تَمَاثِيلُ، فَأَمَرَنِي أَنْ أَنْزِعَهُ، فَنَزَعْتُهُ‏.‏",
+"swahili": "Alisimulia Aisha (radhi za Allah ziwe juu yake):\nMtume (ﷺ) alirudi kutoka safarini nilipokuwa nimetundika pazia nene lenye picha (mbele ya mlango). Aliniamuru niliondoe na nikaiondoa."
+},
+{
+"number": 5956,
+"arabic": "وَكُنْتُ أَغْتَسِلُ أَنَا وَالنَّبِيُّ، صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ‏.‏",
+"swahili": "Aisha (radhi za Allah ziwe juu yake) aliongeza:\nMimi na Mtume (ﷺ) tulikuwa tukioga kutoka kwenye chombo kimoja (cha maji)."
+},
+{
+"number": 5957,
+"arabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّهَا اشْتَرَتْ نُمْرُقَةً فِيهَا تَصَاوِيرُ، فَقَامَ النَّبِيُ\" صلى الله عليه وسلم بِالْبَابِ فَلَمْ يَدْخُلْ‏.‏ فَقُلْتُ أَتُوبُ إِلَى اللَّهِ مِمَّا أَذْنَبْتُ‏.‏ قَالَ ‏\"‏ مَا هَذِهِ النُّمْرُقَةُ ‏\"‏‏.‏ قُلْتُ لِتَجْلِسَ عَلَيْهَا وَتَوَسَّدَهَا‏.‏ قَالَ ‏\"‏ إِنَّ أَصْحَابَ هَذِهِ الصُّوَرِ يُعَذَّبُونَ يَوْمَ الْقِيَامَةِ، يُقَالُ لَهُمْ أَحْيُوا مَا خَلَقْتُمْ‏.‏ وَإِنَّ الْمَلاَئِكَةَ لاَ تَدْخُلُ بَيْتًا فِيهِ الصُّورَةُ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\nNilinunua mto wenye picha juu yake. Mtume (alikuja na) akasimama mlangoni lakini hakuingia. Nikamwambia, \"Ninatubu kwa Mwenyezi Mungu kwa kosa nililofanya.\" Akasema, \"Mto huu ni nini?\" Nikasema, \"Ni juu yako kukaa na kuegemea.\" Akasema, \"Watengenezaji wa picha hizi wataadhibiwa Siku ya Kiyama na wataambiwa, 'Ufanye uhai ulichokiumba.'\" Zaidi ya hayo, malaika hawaingii katika nyumba yenye picha.'\""
+},
+{
+"number": 5958,
+"arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ بُكَيْرٍ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْدِ بْنِ خَالِدٍ، عَنْ أَبِي طَلْحَةَ، صَاحِبِ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الْمَلاَئِكَةَ لاَ تَدْخُلُ بَيْتًا فِيهِ الصُّورَةُ ‏\"‏‏.‏ قَالَ بُسْرٌ ثُمَّ اشْتَكَى زَيْدٌ فَعُدْنَاهُ، فَإِذَا عَلَى بَابِهِ سِتْرٌ فِيهِ صُورَةٌ فَقُلْتُ لِعُبَيْدِ اللَّهِ رَبِيبِ مَيْمُونَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَلَمْ يُخْبِرْنَا زَيْدٌ عَنِ الصُّوَرِ يَوْمَ الأَوَّلِ‏.‏ فَقَالَ عُبَيْدُ اللَّهِ أَلَمْ تَسْمَعْهُ حِينَ قَالَ إِلاَّ رَقْمًا فِي ثَوْبٍ‏.‏ وَقَالَ ابْنُ وَهْبٍ أَخْبَرَنَا عَمْرٌو ـ هُوَ ابْنُ الْحَارِثِ ـ حَدَّثَهُ بُكَيْرٌ، حَدَّثَهُ بُسْرٌ، حَدَّثَهُ زَيْدٌ، حَدَّثَهُ أَبُو طَلْحَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+"swahili": "Amesimulia Abu Talha (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alisema, \"Malaika (wa rehema) hawaingii katika nyumba yenye picha.'\" Msimulizi mdogo Busr aliongeza: \"Kisha Zaid (radhi za Allah ziwe juu yake) akugua na tukamtembelea. Tazama! Kulikuwa na pazia lililopambwa kwa picha likining'inia mlangoni pake. Nilimwambia 'Ubaidullah Al-Khaulani, mwana wa kambo wa Maimuna (radhi za Allah ziwe juu yake), mke wa Mtume (ﷺ), \"Je, Zaid (radhi za Allah ziwe juu yake) hakutuambia kuhusu picha hiyo jana?\" 'Ubaidullah alisema, \"Je, hukumsikia akisema: 'isipokuwa mchoro katika vazi'?\""
+},
+{
+"number": 5959,
+"arabic": "حَدَّثَنَا عِمْرَانُ بْنُ مَيْسَرَةَ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ كَانَ قِرَاَمٌ لِعَائِشَةَ سَتَرَتْ بِهِ جَانِبَ بَيْتِهَا، فَقَالَ لَهَا النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ أَمِيطِي عَنِّي، فَإِنَّهُ لاَ تَزَالُ تَصَاوِيرُهُ تَعْرِضُ لِي فِي صَلاَتِي ‏\"‏‏.‏",
+"swahili": "Amesimulia Anas (radhi za Allah ziwe juu yake):\nAisha (radhi za Allah ziwe juu yake) alikuwa au pazia nene (lenye picha juu yake) na alifunika upande wa nyumba yake nalo. Mtume (ﷺ) akamwambia, \"Liondoe machoni pangu, kwani picha zake bado zinanijia. \"Ninakumbuka sala zangu.\""
+},
+{
+"number": 5960,
+"arabic": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ حَدَّثَنِي عُمَرُ ـ هُوَ ابْنُ مُحَمَّدٍ ـ عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ وَعَدَ النَّبِيَّ صلى الله عليه وسلم جِبْرِيلُ فَرَاثَ عَلَيْهِ حَتَّى اشْتَدَّ عَلَى النَّبِيِّ صلى الله عليه وسلم فَخَرَجَ النَّبِيُّ صلى الله عليه وسلم فَلَقِيَهُ، فَشَكَا إِلَيْهِ مَا وَجَدَ، فَقَالَ لَهُ ‏ \"‏ إِنَّا لاَ نَدْخُلُ بَيْتًا فِيهِ صُورَةٌ وَلاَ كَلْبٌ ‏\"‏‏.‏",
+"swahili": "Baba yake Salim alisimulia:\nSiku moja Gabrieli aliahidi kumtembelea Mtume (ﷺ) lakini alichelewa na Mtume (ﷺ) akawa na wasiwasi kuhusu hilo. Hatimaye alitoka nje na kumkuta Gabrieli na kumlalamikia kuhusu huzuni yake (kwa kuchelewa kwake). Gabrieli akamwambia, \"Hatuingii mahali ambapo kuna picha au mbwa.\""
+},
+{
+"number": 5961,
+"arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا أَخْبَرَتْهُ أَنَّهَا اشْتَرَتْ نُمْرُقَةً فِيهَا تَصَاوِيرُ، فَلَمَّا رَآهَا رَسُولُ اللَّهِ صلى الله عليه وسلم قَامَ عَلَى الْبَابِ فَلَمْ يَدْخُلْ، فَعَرَفَتْ فِي وَجْهِهِ الْكَرَاهِيَةَ قَالَتْ يَا رَسُولَ اللَّهِ أَتُوبُ إِلَى اللَّهِ وَإِلَى رَسُولِهِ، مَاذَا أَذْنَبْتُ قَالَ ‏\"‏ مَا بَالُ هَذِهِ النُّمْرُقَةِ ‏\"‏‏.‏ فَقَالَتِ اشْتَرَيْتُهَا لِتَقْعُدَ عَلَيْهَا وَتَوَسَّدَهَا‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ أَصْحَابَ هَذِهِ الصُّوَرِ يُعَذَّبُونَ يَوْمَ الْقِيَامَةِ، وَيُقَالُ لَهُمْ أَحْيُوا مَا خَلَقْتُمْ ـ وَقَالَ ـ إِنَّ الْبَيْتَ الَّذِي فِيهِ الصُّوَرُ لاَ تَدْخُلُهُ الْمَلاَئِكَةُ ‏\"‏‏.‏",
+"swahili": "Alisimulia `Aisha (radhi za Allah ziwe juu yake):\n(Mke wa Mtume) Nilinunua mto wenye picha juu yake. Mtume wa Mwenyezi Mungu (ﷺ) alipouona, alisimama langoni na hakuingia. Niligundua dalili za chuki (kwa hilo) usoni mwake! Nikasema, \"Ewe Mtume wa Mwenyezi Mungu (ﷺ)! Ninamgeukia Mwenyezi Mungu na Mtume wake kwa toba! Nimefanya dhambi gani?\" Akasema, \"Vipi kuhusu mto huu?\" Nikasema, 'Nimeununua ili ukae na kuegemea.\" Mtume wa Mwenyezi Mungu (ﷺ) alisema, \"Watengenezaji wa picha hizi wataadhibiwa (vikali) Siku ya Kiyama na wataambiwa, 'Yafanyeni kuwa hai yale mliyoyaumba.'\" Akaongeza, \"Malaika hawaingii katika nyumba ambayo kuna picha.\""
+},
+{
+"number": 5962,
+"arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنِي غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، أَنَّهُ اشْتَرَى غُلاَمًا حَجَّامًا فَقَالَ إِنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الدَّمِ، وَثَمَنِ الْكَلْبِ، وَكَسْبِ الْبَغِيِّ، وَلَعَنَ آكِلَ الرِّبَا وَمُوكِلَهُ وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ وَالْمُصَوِّرَ‏.‏",
+"swahili": "Amesimulia Abu Juhaifa (radhi za Allah ziwe juu yake):\nkwamba alikuwa amemnunua mtumwa ambaye taaluma yake ilikuwa ni unywaji wa vikombe. Mtume (ﷺ) alikataza kuchukua bei ya damu na bei ya mbwa na mapato ya kahaba, na akamlaani yule aliyechukua au kutoa riba (Riba'), na mwanamke aliyechora tattoo kwa wengine au kujichora tattoo, na mchoraji picha."
+},
+{
+"number": 5963,
+"arabic": "حَدَّثَنَا عَيَّاشُ بْنُ الْوَلِيدِ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدٌ، قَالَ سَمِعْتُ النَّضْرَ بْنَ أَنَسِ بْنِ مَالِكٍ، يُحَدِّثُ قَتَادَةَ قَالَ كُنْتُ عِنْدَ ابْنِ عَبَّاسٍ وَهُمْ يَسْأَلُونَهُ وَلاَ يَذْكُرُ النَّبِيَّ صلى الله عليه وسلم حَتَّى سُئِلَ فَقَالَ سَمِعْتُ مُحَمَّدًا صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ صَوَّرَ صُورَةً فِي الدُّنْيَا كُلِّفَ يَوْمَ الْقِيَامَةِ أَنْ يَنْفُخَ فِيهَا الرُّوحَ، وَلَيْسَ بِنَافِخٍ ‏\"‏‏.‏",
+"swahili": "Amesimulia Ibn `Abbas (radhi za Allah ziwe juu yake):\nNilimsikia Muhammad akisema, \"Yeyote anayechora picha katika ulimwengu huu ataombwa kuweka uhai ndani yake Siku ya Kiyama, lakini hataweza kufanya hivyo.\""
+},
+{
+"number": 5964,
+"arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو صَفْوَانَ، عَنْ يُونُسَ بْنِ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَكِبَ عَلَى حِمَارٍ، عَلَى إِكَافٍ عَلَيْهِ قَطِيفَةٌ فَدَكِيَّةٌ، وَأَرْدَفَ أُسَامَةَ وَرَاءَهُ‏.‏",
+"swahili": "Amesimulia Usama bin Zaid (radhi za Allah ziwe juu yake):\nMtume wa Mwenyezi Mungu (ﷺ) alipanda punda aliyewekwa tandiko na tandiko lililofunikwa na shuka la velvet la Fadakiyya, na akanifanya nipande nyuma yake."
+},
+{
+"number": 5965,
+"arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا خَالِدٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ لَمَّا قَدِمَ النَّبِيُّ صلى الله عليه وسلم مَكَّةَ اسْتَقْبَلَهُ أُغَيْلِمَةُ بَنِي عَبْدِ الْمُطَّلِبِ، فَحَمَلَ وَاحِدًا بَيْنَ يَدَيْهِ وَالآخَرَ خَلْفَهُ‏.‏",
+"swahili": "Ibn `Abbas (radhi za Allah ziwe juu yake) alisimulia:\nMtume (ﷺ) alipofika Makka, watoto wa Bani `Abdul Muttalib walimpokea. Kisha akampanda mmoja wao mbele yake na mwingine nyuma yake."
+},
+{
+"number": 5966,
+"arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا أَيُّوبُ، ذُكِرَ الأَشَرُّ الثَّلاَثَةُ عِنْدَ عِكْرِمَةَ فَقَالَ قَالَ ابْنُ عَبَّاسٍ أَتَى رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَدْ حَمَلَ قُثَمَ بَيْنَ يَدَيْهِ، وَالْفَضْلَ خَلْفَهُ، أَوْ قُثَمَ خَلْفَهُ، وَالْفَضْلَ بَيْنَ يَدَيْهِ، فَأَيُّهُمْ شَرٌّ أَوْ أَيُّهُمْ خَيْرٌ‏.‏",
+"swahili": "Aiyub alisimulia:\nMbaya zaidi kati ya watatu (watu waliopanda mmoja, mnyama) alitajwa mbele ya `Ikrima `Ikrima alisema, \"Ibn `Abbas (radhi za Allah ziwe juu yake) alisema, '(Katika mwaka wa kutekwa kwa Makka) Mtume (ﷺ) alikuja na kumpanda Qutham mbele yake na Al-Fadl nyuma yake, au Qutham nyuma yake na Al-Fadl mbele yake.' Sasa ni yupi kati yao aliyekuwa mbaya zaidi na ni yupi aliyekuwa bora zaidi?\""
+},
+{
+"number": 5967,
+"arabic": "حَدَّثَنَا هُدْبَةُ بْنُ خَالِدٍ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، عَنْ مُعَاذِ بْنِ جَبَلٍ ـ رضى الله عنه ـ قَالَ بَيْنَا أَنَا رَدِيفُ النَّبِيِّ، صلى الله عليه وسلم لَيْسَ بَيْنِي وَبَيْنَهُ إِلاَّ أَخِرَةُ الرَّحْلِ فَقَالَ ‏\"‏ يَا مُعَاذُ ‏\"‏‏.‏ قُلْتُ لَبَّيْكَ رَسُولَ اللَّهِ وَسَعْدَيْكَ‏.‏ ثُمَّ سَارَ سَاعَةً ثُمَّ قَالَ ‏\"‏ يَا مُعَاذُ ‏\"‏‏.‏ قُلْتُ لَبَّيْكَ رَسُولَ اللَّهِ وَسَعْدَيْكَ‏.‏ ثُمَّ سَارَ سَاعَةً ثُمَّ قَالَ ‏\"‏ يَا مُعَاذُ ‏\"‏‏.‏ قُلْتُ لَبَّيْكَ رَسُولَ اللَّهِ وَسَعْدَيْكَ‏.‏ قَالَ ‏\"‏ هَلْ تَدْرِي مَا حَقُّ اللَّهِ عَلَى عِبَادِهِ ‏\"‏‏.‏ قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ‏.‏ قَالَ ‏\"‏ حَقُّ اللَّهِ عَلَى عِبَادِهِ أَنْ يَعْبُدُوهُ وَلاَ يُشْرِكُوا بِهِ شَيْئًا ‏\"‏‏.‏ ثُمَّ سَارَ سَاعَةً ثُمَّ قَالَ ‏\"‏ يَا مُعَاذُ بْنَ جَبَلٍ ‏\"‏‏.‏ قُلْتُ لَبَّيْكَ رَسُولَ اللَّهِ وَسَعْدَيْكَ‏.‏ فَقَالَ ‏\"‏ هَلْ تَدْرِي مَا حَقُّ الْعِبَادِ عَلَى اللَّهِ إِذَا فَعَلُوهُ ‏\"‏‏.‏ قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ‏.‏ قَالَ ‏\"‏ حَقُّ الْعِبَادِ عَلَى اللَّهِ أَنْ لاَ يُعَذِّبَهُمْ ‏\"‏‏.‏",
+"swahili": "Amesimulia Mu`adh bin Jabal (radhi za Allah ziwe juu yake):\nNilipokuwa nimeanda nyuma ya Mtume (ﷺ) na kati yangu na yeye na kati yangu na yeye kulikuwa na sehemu ya nyuma ya tandiko tu, alisema, \"Ewe Mu`adh!\" Nikajibu, \"Labbaik, Mtume wa Mwenyezi Mungu (ﷺ), na Sa`daik!\" akasema, \"Je, mnajua haki ya Mwenyezi Mungu juu ya mtumwa wake ni ipi?\" Nikasema, \"Mwenyezi Mungu na Mtume wake wanajua zaidi\" Akasema \"Haki ya Mwenyezi Mungu juu ya watumwa wake ni kwamba wamuabudu Yeye pekee na wasiabudu kingine chochote isipokuwa Yeye.\" Kisha akaendelea kwa muda kisha akasema, \"Ewe Mu`adh bin Jabal (radhi za Allah ziwe juu yake)!\" Nikajibu, \"Labbaik, Ewe Mtume wa Mwenyezi Mungu (ﷺ):, Sa`daik!\" Akasema, \"Je, mnajua haki ya watumwa juu ya Mwenyezi Mungu ikiwa watafanya hivyo?\" Nikajibu, \"Mwenyezi Mungu na Mtume wake wanajua zaidi.\" Akasema, \"Haki ya watumwa juu ya Mwenyezi Mungu ni kwamba hatawaadhibu (ikiwa watafanya hivyo)."
+},
+{
+"number": 5968,
+"arabic": "حَدَّثَنَا الْحَسَنُ بْنُ مُحَمَّدِ بْنِ صَبَّاحٍ، حَدَّثَنَا يَحْيَى بْنُ عَبَّادٍ، حَدَّثَنَا شُعْبَةُ، أَخْبَرَنِي يَحْيَى بْنُ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ قَالَ أَقْبَلْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ خَيْبَرَ، وَإِنِّي لَرَدِيفُ أَبِي طَلْحَةَ وَهْوَ يَسِيرُ وَبَعْضُ نِسَاءِ رَسُولِ اللَّهِ صلى الله عليه وسلم رَدِيفُ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ عَثَرَتِ النَّاقَةُ فَقُلْتُ الْمَرْأَةَ‏.‏ فَنَزَلْتُ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّهَا أُمُّكُمْ ‏\"‏‏.‏ فَشَدَدْتُ الرَّحْلَ وَرَكِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَمَّا دَنَا أَوْ رَأَى الْمَدِينَةَ قَالَ ‏\"‏ آيِبُونَ تَائِبُونَ، عَابِدُونَ لِرَبِّنَا، حَامِدُونَ ‏\"‏‏.‏",
+"swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisimulia:\nTulikuwa tunatoka Khaibar pamoja na Mtume wa Mwenyezi Mungu (ﷺ) nilipokuwa nimepanda farasi nyuma ya Abu Talha (radhi za Allah ziwe juu yake) na alikuwa akiendelea. Wakati mmoja wa wake wa Mtume wa Mwenyezi Mungu (ﷺ) alikuwa amepanda farasi nyuma ya Mtume wa Mwenyezi Mungu (ﷺ), ghafla mguu wa ngamia uliteleza na nikasema, \"Mwanamke!\" na nikashuka (haraka). Mtume wa Mwenyezi Mungu akasema, \"Huyu ndiye mama yako.\" Sol alimpanda ngamia jike na Mtume wa Mwenyezi Mungu (ﷺ) akampanda. Alipokaribia au kuiona Medina, alisema, \"Ayibun, ta'ibun, 'abidun, li-Rabbina hami-dun.\""
+},
+{
+"number": 5969,
+"arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدّ`َثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّهُ أَبْصَرَ النَّبِيَّ صلى الله عليه وسلم يَضْطَجِعُ فِي الْمَسْجِدِ، رَافِعًا إِحْدَى رِجْلَيْهِ عَلَى الأُخْرَى‏.‏",
+"swahili": "Amesimulia mjomba wake `Abbad bin Tamim:\nNilimwona Mtume (ﷺ) amelala msikitini na kuweka mguu mmoja juu ya mwingine."
+}
+  ]
+}

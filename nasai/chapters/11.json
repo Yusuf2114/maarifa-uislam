@@ -1,0 +1,447 @@
+[
+  {
+    "start": "876",
+    "arabic": "باب الْعَمَلِ فِي افْتِتَاحِ الصَّلاَةِ",
+    "swahili": "MLANGO: KINACHOFANYIKA MWANZONI MWA SALA"
+  },
+  {
+    "start": "877",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ قَبْلَ التَّكْبِيرِ",
+    "swahili": "MLANGO: KUINUA MIKONO KABLA YA KUSEMA TAKBIR"
+  },
+  {
+    "start": "878",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ حَذْوَ الْمَنْكِبَيْنِ",
+    "swahili": "MLANGO: KUINUA MIKONO KWA USAWA NA MABEGA"
+  },
+  {
+    "start": "879",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ حِيَالَ الأُذُنَيْنِ",
+    "swahili": "MLANGO: KUINUA MIKONO SAMBAMBA NA MASIKIO"
+  },
+  {
+    "start": "882",
+    "arabic": "باب مَوْضِعِ الإِبْهَامَيْنِ عِنْدَ الرَّفْعِ",
+    "swahili": "MLANGO: MAHALI PA VIDOLE GUMBA WAKATI WA KUINUA MIKONO"
+  },
+  {
+    "start": "883",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ مَدًّا",
+    "swahili": "MLANGO: KUINUA MIKONO, KUPANULIWA"
+  },
+  {
+    "start": "884",
+    "arabic": "باب فَرْضِ التَّكْبِيرَةِ الأُولَى",
+    "swahili": "MLANGO: WAJIBU WA TAKBIR YA KWANZA"
+  },
+  {
+    "start": "885",
+    "arabic": "باب الْقَوْلِ الَّذِي يُفْتَتَحُ بِهِ الصَّلاَةُ",
+    "swahili": "MLANGO: MSEMO UNAOANZA NAO SWALA"
+  },
+  {
+    "start": "887",
+    "arabic": "باب وَضْعِ الْيَمِينِ عَلَى الشِّمَالِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUWEKA MKONO WA KULIA KWENYE MKONO WA KUSHOTO WAKATI WA SALA"
+  },
+  {
+    "start": "888",
+    "arabic": "باب فِي الإِمَامِ إِذَا رَأَى الرَّجُلَ قَدْ وَضَعَ شِمَالَهُ عَلَى يَمِينِهِ",
+    "swahili": "MLANGO: IMAMU AKIMUONA MTU AMEWEKA MKONO WAKE WA KUSHOTO JUU YA KULIA KWAKE"
+  },
+  {
+    "start": "889",
+    "arabic": "باب مَوْضِعِ الْيَمِينِ مِنَ الشِّمَالِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: ENEO LA MKONO WA KULIA UPANDE WA KUSHOTO KATIKA MAOMBI"
+  },
+  {
+    "start": "890",
+    "arabic": "باب النَّهْىِ عَنِ التَّخَصُّرِ، فِي الصَّلاَةِ",
+    "swahili": "MLANGO: UHARAMU WA KUWEKA MKONO KWENYE KIUNO WAKATI WA KUSWALI"
+  },
+  {
+    "start": "892",
+    "arabic": "باب الصَّفِّ بَيْنَ الْقَدَمَيْنِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUSIMAMA NA MIGUU PAMOJA WAKATI WA KUOMBA"
+  },
+  {
+    "start": "894",
+    "arabic": "باب سُكُوتِ الإِمَامِ بَعْدَ افْتِتَاحِهِ الصَّلاَةَ",
+    "swahili": "MLANGO: IMAM AKISIMAMA BAADA YA KUANZA SWALA"
+  },
+  {
+    "start": "895",
+    "arabic": "باب الدُّعَاءِ بَيْنَ التَّكْبِيرَةِ وَالْقِرَاءَةِ",
+    "swahili": "MLANGO: DUA BAINA YA TAKBIRA NA KISOMO"
+  },
+  {
+    "start": "896",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الدُّعَاءِ بَيْنَ التَّكْبِيرِ وَالْقِرَاءَةِ",
+    "swahili": "MLANGO: DUA NYINGINE BAINA YA TAKBIRA NA KISOMO"
+  },
+  {
+    "start": "897",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الذِّكْرِ وَالدُّعَاءِ بَيْنَ التَّكْبِيرِ وَالْقِرَاءَةِ",
+    "swahili": "MLANGO: AINA NYINGINE YA MAWAIDHA NA DUA BAINA YA TAKBIRA NA KISOMO"
+  },
+  {
+    "start": "899",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الذِّكْرِ بَيْنَ افْتِتَاحِ الصَّلاَةِ وَبَيْنَ الْقِرَاءَةِ",
+    "swahili": "MLANGO: AINA NYINGINE YA UKUMBUSHO BAINA YA KUANZA KWA SWALA NA KISOMO"
+  },
+  {
+    "start": "901",
+    "arabic": "باب نَوْعٌ آخَرُ مِنَ الذِّكْرِ بَعْدَ التَّكْبِيرِ",
+    "swahili": "MLANGO: AINA NYINGINE YA UKUMBUSHO BAADA YA TAKBIR"
+  },
+  {
+    "start": "902",
+    "arabic": "باب الْبَدَاءَةِ بِفَاتِحَةِ الْكِتَابِ قَبْلَ السُّورَةِ",
+    "swahili": "MLANGO: KUANZIA NA FATIHATIL-KITAB (UFUNGUZI WA KITABU) KABLA YA SURA NYINGINE"
+  },
+  {
+    "start": "904",
+    "arabic": "باب قِرَاءَةِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+    "swahili": "MLANGO: KUSOMA: \"KWA JINA LA MWENYEZI MUNGU, MWINGI WA REHEMA, MWENYE KUREHEMU\"."
+  },
+  {
+    "start": "906",
+    "arabic": "باب تَرْكِ الْجَهْرِ بِـ ‏{‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ‏}‏",
+    "swahili": "MLANGO: KUTOSEMA “KWA JINA LA MWENYEZI MUNGU, MWINGI WA REHEMA, MWENYE KUREHEMU” KWA SAUTI"
+  },
+  {
+    "start": "909",
+    "arabic": "باب تَرْكِ قِرَاءَةِ ‏{‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ‏}‏ فِي فَاتِحَةِ الْكِتَابِ",
+    "swahili": "MLANGO: KUTOKUSOMA \"KWA JINA LA MWENYEZI MUNGU, MWINGI WA REHEMA, MWENYE KUREHEMU\" KATIKA AL FATIHAH."
+  },
+  {
+    "start": "910",
+    "arabic": "باب إِيجَابِ قِرَاءَةِ فَاتِحَةِ الْكِتَابِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: WAJIBU WA KUSOMA FATIHATIL-KITAB KATIKA SWALAH"
+  },
+  {
+    "start": "912",
+    "arabic": "باب فَضْلِ فَاتِحَةِ الْكِتَابِ",
+    "swahili": "MLANGO: FADHILA ZA FATIHATIL-KITAB"
+  },
+  {
+    "start": "913",
+    "arabic": "باب تَأْوِيلِ قَوْلِ اللَّهِ عَزَّ وَجَلَّ ‏{‏ وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ ‏}‏",
+    "swahili": "MLANGO: TAFSIRI YA KAULI YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU: NA HAKIKA SISI TUNAYO"
+  },
+  {
+    "start": "917",
+    "arabic": "باب تَرْكِ الْقِرَاءَةِ خَلْفَ الإِمَامِ فِيمَا لَمْ يَجْهَرْ فِيهِ",
+    "swahili": "MLANGO: KUTOSOMA NYUMA YA IMAMU KATIKA SWALA AMBAPO HASOMI KWA SAUTI KUBWA"
+  },
+  {
+    "start": "919",
+    "arabic": "باب تَرْكِ الْقِرَاءَةِ خَلْفَ الإِمَامِ فِيمَا جَهَرَ بِهِ",
+    "swahili": "MLANGO: KUTOSOMA NYUMA YA IMAMU KATIKA RAKAA AMBAPO ANASOMA KWA SAUTI"
+  },
+  {
+    "start": "920",
+    "arabic": "باب قِرَاءَةِ الْقُرْآنِ خَلْفَ الإِمَامِ فِيمَا جَهَرَ بِهِ الإِمَامُ",
+    "swahili": "MLANGO: KUSOMA UMMU AL-QURAN (AL-FATIHA) NYUMA YA IMAMU KATIKA RAKAA AMBAPO IMAMU ANASOMA NJE."
+  },
+  {
+    "start": "921",
+    "arabic": "باب تَأْوِيلِ قَوْلِهِ عَزَّ وَجَلَّ ‏{‏ وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ ‏}‏",
+    "swahili": "MLANGO: TAFSIRI YA KAULI YAKE MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU: BASI INAPOKUWA QURAN"
+  },
+  {
+    "start": "923",
+    "arabic": "باب اكْتِفَاءِ الْمَأْمُومِ بِقِرَاءَةِ الإِمَامِ",
+    "swahili": "MLANGO: KISOMO CHA IMAM KINATOSHA KWA ANAYEMFUATA"
+  },
+  {
+    "start": "924",
+    "arabic": "باب مَا يُجْزِئُ مِنَ الْقِرَاءَةِ لِمَنْ لاَ يُحْسِنُ الْقُرْآنَ",
+    "swahili": "MLANGO: NI KISOMO GANI KINACHOMTOSHELEZA ASIYEWEZA KUISOMA QURAN VIZURI"
+  },
+  {
+    "start": "925",
+    "arabic": "باب جَهْرِ الإِمَامِ بِآمِينَ",
+    "swahili": "MLANGO: IMAM AKISEMA AMIN KWA SAUTI"
+  },
+  {
+    "start": "929",
+    "arabic": "باب الأَمْرِ بِالتَّأْمِينِ خَلْفَ الإِمَامِ",
+    "swahili": "MLANGO: AMRI YA KUSEMA AMIN NYUMA YA IMAMU"
+  },
+  {
+    "start": "930",
+    "arabic": "باب فَضْلِ التَّأْمِينِ",
+    "swahili": "MLANGO: FADHILA YA KUSEMA AMIN"
+  },
+  {
+    "start": "931",
+    "arabic": "باب قَوْلِ الْمَأْمُومِ إِذَا عَطَسَ خَلْفَ الإِمَامِ",
+    "swahili": "MLANGO: MTU ASEME NINI AKIPIGA CHAFYA NYUMA YA IMAMU"
+  },
+  {
+    "start": "933",
+    "arabic": "باب جَامِعِ مَا جَاءَ فِي الْقُرْآنِ",
+    "swahili": "MLANGO: MKUSANYIKO WA YALE YALIYOSIMULIWA KUHUSU QURAN"
+  },
+  {
+    "start": "944",
+    "arabic": "باب الْقِرَاءَةِ فِي رَكْعَتَىِ الْفَجْرِ",
+    "swahili": "MLANGO: KUSOMA KATIKA RAKAA MBILI ZA ALFAJIRI"
+  },
+  {
+    "start": "945",
+    "arabic": "باب الْقِرَاءَةِ فِي رَكْعَتَىِ الْفَجْرِ بِـ ‏{‏ قُلْ يَا أَيُّهَا الْكَافِرُونَ ‏}‏ وَ ‏{‏ قُلْ هُوَ اللَّهُ أَحَدٌ ‏}‏‏",
+    "swahili": "MLANGO: KUSOMA: \"SEMA: ENYI MAKAFIRI\" NA \"SEMA: YEYE NI MWENYEZI MUNGU MMOJA\" KATIKA RAKAA MBILI."
+  },
+  {
+    "start": "946",
+    "arabic": "باب تَخْفِيفِ رَكْعَتَىِ الْفَجْرِ",
+    "swahili": "MLANGO: KUFANYA RAKAA MBILI ZA ALFAJIRI KWA UFUPI"
+  },
+  {
+    "start": "947",
+    "arabic": "باب الْقِرَاءَةِ فِي الصُّبْحِ بِالرُّومِ",
+    "swahili": "MLANGO: KUSOMA (SURAT) AR-RUM KATIKA SUBH"
+  },
+  {
+    "start": "948",
+    "arabic": "باب الْقِرَاءَةِ فِي الصُّبْحِ بِالسِّتِّينَ إِلَى الْمِائَةِ",
+    "swahili": "MLANGO: KUSOMA KATI YA AYA SITINI NA MIA MOJA KATIKA SUBH"
+  },
+  {
+    "start": "949",
+    "arabic": "باب الْقِرَاءَةِ فِي الصُّبْحِ بِـ ‏{‏ ق ‏}‏",
+    "swahili": "MLANGO: KUSOMA (SURAH) QAF KATIKA SUBH"
+  },
+  {
+    "start": "951",
+    "arabic": "باب الْقِرَاءَةِ فِي الصُّبْحِ بِـ ‏{‏ إِذَا الشَّمْسُ كُوِّرَتْ ‏}‏‏}‏",
+    "swahili": "MLANGO: KUKARIRI: \"WAKATI JUA LINAZUNGUKA PANDE ZOTE\" KATIKA SUBH"
+  },
+  {
+    "start": "952",
+    "arabic": "باب الْقِرَاءَةِ فِي الصُّبْحِ بِالْمُعَوِّذَتَيْنِ",
+    "swahili": "MLANGO: KUSOMA AL MUA'AWWIDHATAIN KATIKA SUBH"
+  },
+  {
+    "start": "953",
+    "arabic": "باب الْفَضْلِ فِي قِرَاءَةِ الْمُعَوِّذَتَيْنِ",
+    "swahili": "MLANGO: FADHILA YA KUSOMA AL-MU'AWWIDHATAIN"
+  },
+  {
+    "start": "955",
+    "arabic": "باب الْقِرَاءَةِ فِي الصُّبْحِ يَوْمَ الْجُمُعَةِ",
+    "swahili": "MLANGO: KUSOMA KATIKA SUBH SIKU YA IJUMAA"
+  },
+  {
+    "start": "957",
+    "arabic": "باب سُجُودِ الْقُرْآنِ السُّجُودِ فِي ص",
+    "swahili": "MLANGO: SIJDA INAYOHUSIANA NA KUSOMA QURAN: SIJDA KATIKA HUZUNI (38)"
+  },
+  {
+    "start": "958",
+    "arabic": "باب السُّجُودِ فِي ‏{‏ وَالنَّجْمِ ‏}‏",
+    "swahili": "MLANGO: KUSUJUDU KATIKA AN-NAJM (53)"
+  },
+  {
+    "start": "960",
+    "arabic": "باب تَرْكِ السُّجُودِ فِي النَّجْمِ",
+    "swahili": "MLANGO: KUTOSUJUDU KATIKA AN-NAJM"
+  },
+  {
+    "start": "961",
+    "arabic": "باب السُّجُودِ فِي ‏{‏ إِذَا السَّمَاءُ انْشَقَّتْ ‏}‏",
+    "swahili": "MLANGO: KUSUJUDU KATIKA: \"WAKATI MBINGU ITAPASUKA\""
+  },
+  {
+    "start": "966",
+    "arabic": "باب السُّجُودِ فِي ‏{‏ اقْرَأْ بِاسْمِ رَبِّكَ ‏}‏",
+    "swahili": "MLANGO: KUSUJUDU WAKATI: \"SOMA! KWA JINA LA MOLA WAKO MLEZI.\""
+  },
+  {
+    "start": "968",
+    "arabic": "باب السُّجُودِ فِي الْفَرِيضَةِ",
+    "swahili": "MLANGO: KUSUJUDU WAKATI WA SALA ZA FARADHI"
+  },
+  {
+    "start": "969",
+    "arabic": "باب قِرَاءَةِ النَّهَارِ",
+    "swahili": "MLANGO: KUSOMA (KATIKA SALA) MCHANA"
+  },
+  {
+    "start": "971",
+    "arabic": "باب الْقِرَاءَةِ فِي الظُّهْرِ",
+    "swahili": "MLANGO: KUSOMA KATIKA ZUHR"
+  },
+  {
+    "start": "973",
+    "arabic": "باب تَطْوِيلِ الْقِيَامِ فِي الرَّكْعَةِ الأُولَى مِنْ صَلاَةِ الظُّهْرِ",
+    "swahili": "MLANGO: KUREFUSHA KISIMAMO KATIKA RAKAA YA KWANZA YA SWALAH YA ADHUHURI"
+  },
+  {
+    "start": "975",
+    "arabic": "باب إِسْمَاعِ الإِمَامِ الآيَةَ فِي الظُّهْرِ",
+    "swahili": "MLANGO: IMAM AKISEMA AYA KWA SAUTI KATIKA ADHUHURI"
+  },
+  {
+    "start": "976",
+    "arabic": "باب تَقْصِيرِ الْقِيَامِ فِي الرَّكْعَةِ الثَّانِيَةِ مِنَ الظُّهْرِ",
+    "swahili": "MLANGO: KUFANYA KISIMAMO KIFUPI KATIKA RAKAA YA PILI YA ADHUHURI"
+  },
+  {
+    "start": "977",
+    "arabic": "باب الْقِرَاءَةِ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ مِنْ صَلاَةِ الظُّهْرِ",
+    "swahili": "MLANGO: KUSOMA KATIKA RAKAA MBILI ZA MWANZO KATIKA ADHUHURI"
+  },
+  {
+    "start": "978",
+    "arabic": "باب الْقِرَاءَةِ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ مِنْ صَلاَةِ الْعَصْرِ",
+    "swahili": "MLANGO: KUSOMA KATIKA RAKAA MBILI ZA MWANZO ZA 'ASR"
+  },
+  {
+    "start": "981",
+    "arabic": "باب تَخْفِيفِ الْقِيَامِ وَالْقِرَاءَةِ",
+    "swahili": "MLANGO: KUFANYA MSIMAMO NA USOMAJI KUWA NYEPESI"
+  },
+  {
+    "start": "983",
+    "arabic": "باب الْقِرَاءَةِ فِي الْمَغْرِبِ بِقِصَارِ الْمُفَصَّلِ",
+    "swahili": "MLANGO: KUSOMA SURAH FUPI ZA MUFASSAL HUKO MAGHRIB"
+  },
+  {
+    "start": "984",
+    "arabic": "باب الْقِرَاءَةِ فِي الْمَغْرِبِ بِـ ‏{‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏}‏",
+    "swahili": "MLANGO: KUSOMA: \"LITUKUZE JINA LA MOLA WAKO MLEZI ALIYE JUU\" KATIKA MAGHRIB"
+  },
+  {
+    "start": "985",
+    "arabic": "باب الْقِرَاءَةِ فِي الْمَغْرِبِ بِالْمُرْسَلاَتِ",
+    "swahili": "MLANGO: KUSOMA AL-MURSALAT (77) KATIKA MAGHRIB"
+  },
+  {
+    "start": "987",
+    "arabic": "باب الْقِرَاءَةِ فِي الْمَغْرِبِ بِالطُّورِ",
+    "swahili": "MLANGO: KUSOMA AT-TUR (52) KATIKA MAGHRIB"
+  },
+  {
+    "start": "988",
+    "arabic": "باب الْقِرَاءَةِ فِي الْمَغْرِبِ بِـ ‏{‏ حم ‏}‏ الدُّخَانِ",
+    "swahili": "MLANGO: KUSOMA AD-DUHKAN (44) KATIKA MAGHRIB"
+  },
+  {
+    "start": "989",
+    "arabic": "باب الْقِرَاءَةِ فِي الْمَغْرِبِ بِـ ‏{‏ المص ‏}‏",
+    "swahili": "MLANGO: KUSOMA \"ALIF-LAM-MIM-SAD\" KATIKA MAGHRIB"
+  },
+  {
+    "start": "992",
+    "arabic": "باب الْقِرَاءَةِ فِي الرَّكْعَتَيْنِ بَعْدَ الْمَغْرِبِ",
+    "swahili": "MLANGO: KUSOMA KATIKA RAKAA MBILI BAADA YA MAGHRIB"
+  },
+  {
+    "start": "993",
+    "arabic": "باب الْفَضْلِ فِي قِرَاءَةِ ‏{‏ قُلْ هُوَ اللَّهُ أَحَدٌ ‏}‏",
+    "swahili": "MLANGO: UBORA WA KUSOMA \"SEMA: YEYE NI MWENYEZI MUNGU MMOJA.\""
+  },
+  {
+    "start": "997",
+    "arabic": "باب الْقِرَاءَةِ فِي الْعِشَاءِ الآخِرَةِ بِـ ‏{‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏}‏",
+    "swahili": "MLANGO: KUSOMA: \"LITUKUZE JINA LA MOLA WAKO MLEZI ALIYE JUU\" KATIKA ISHAA'."
+  },
+  {
+    "start": "998",
+    "arabic": "باب الْقِرَاءَةِ فِي الْعِشَاءِ الآخِرَةِ بِالشَّمْسِ وَضُحَاهَا",
+    "swahili": "MLANGO: KUSOMA: \"NAAPA KWA JUA NA MWANGAZA WAKE\" KATIKA ISHAA."
+  },
+  {
+    "start": "1000",
+    "arabic": "باب الْقِرَاءَةِ فِيهَا بِالتِّينِ وَالزَّيْتُونِ",
+    "swahili": "MLANGO: KUSOMA \"KWA MTINI NA MZEITUNI\" KATIKA ISHA'"
+  },
+  {
+    "start": "1001",
+    "arabic": "باب الْقِرَاءَةِ فِي الرَّكْعَةِ الأُولَى مَنْ صَلاَةِ الْعِشَاءِ الآخِرَةِ",
+    "swahili": "MLANGO: KUSOMA KATIKA RAKAA YA KWANZA YA ISHAA"
+  },
+  {
+    "start": "1002",
+    "arabic": "باب الرُّكُودِ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ",
+    "swahili": "MLANGO: KUCHUKUA MUDA KATIKA RAKAA MBILI ZA MWANZO"
+  },
+  {
+    "start": "1004",
+    "arabic": "باب قِرَاءَةِ سُورَتَيْنِ فِي رَكْعَةٍ",
+    "swahili": "MLANGO: KUSOMA SURAH MBILI KATIKA RAKAA MOJA"
+  },
+  {
+    "start": "1007",
+    "arabic": "باب قِرَاءَةِ بَعْضِ السُّورَةِ",
+    "swahili": "MLANGO: KUSOMA SEHEMU YA SURAH"
+  },
+  {
+    "start": "1008",
+    "arabic": "باب تَعَوُّذِ الْقَارِئِ إِذَا مَرَّ بِآيَةِ عَذَابٍ",
+    "swahili": "MLANGO: MWENYE KUSOMA AKIOMBA HIFADHI KWA MWENYEZI MUNGU IKIWA ANASOMA AYA INAYOTAJA ADHABU"
+  },
+  {
+    "start": "1009",
+    "arabic": "باب مَسْأَلَةِ الْقَارِئِ إِذَا مَرَّ بِآيَةِ رَحْمَةٍ",
+    "swahili": "MLANGO: MSOMAJI AKIMUOMBA MWENYEZI MUNGU ANAPOFIKIA AYA INAYOTAJA REHEMA"
+  },
+  {
+    "start": "1010",
+    "arabic": "باب تَرْدِيدِ الآيَةِ",
+    "swahili": "MLANGO: KURUDIA MSTARI"
+  },
+  {
+    "start": "1011",
+    "arabic": "باب قَوْلِهِ عَزَّ وَجَلَّ ‏{‏ وَلاَ تَجْهَرْ بِصَلاَتِكَ وَلاَ تُخَافِتْ بِهَا ‏}‏",
+    "swahili": "MLANGO: KAULI YA MWENYEZI MUNGU MTUKUFU: \"WALA USISWALI KWA SAUTI."
+  },
+  {
+    "start": "1013",
+    "arabic": "باب رَفْعِ الصَّوْتِ بِالْقُرْآنِ",
+    "swahili": "MLANGO: KUSOMA QURAN KWA SAUTI KUBWA"
+  },
+  {
+    "start": "1014",
+    "arabic": "باب مَدِّ الصَّوْتِ بِالْقِرَاءَةِ",
+    "swahili": "MLANGO: KUREFUSHA SAUTI WAKATI WA KUSOMA QURAN"
+  },
+  {
+    "start": "1015",
+    "arabic": "باب تَزْيِينِ الْقُرْآنِ بِالصَّوْتِ",
+    "swahili": "MLANGO: KUFANYA SAUTI YA MTU KUWA NZURI WAKATI WA KUSOMA QURAN"
+  },
+  {
+    "start": "1023",
+    "arabic": "باب التَّكْبِيرِ لِلرُّكُوعِ",
+    "swahili": "MLANGO: KUSEMA TAKBIR KABLA YA KUSUJUDU"
+  },
+  {
+    "start": "1024",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ لِلرُّكُوعِ حِذَاءَ فُرُوعِ الأُذُنَيْنِ",
+    "swahili": "MLANGO: KUINUA MIKONO KABLA YA KUINAMA HADI IWE SAMBAMBA NA SEHEMU YA JUU YA MASIKIO"
+  },
+  {
+    "start": "1025",
+    "arabic": "باب رَفْعِ الْيَدَيْنِ لِلرُّكُوعِ حِذَاءَ الْمَنْكِبَيْنِ",
+    "swahili": "MLANGO: KUINUA MIKONO SAMBAMBA NA MABEGA KABLA YA KUINAMA"
+  },
+  {
+    "start": "1026",
+    "arabic": "باب تَرْكِ ذَلِكَ",
+    "swahili": "MLANGO: SI KUFANYA HIVYO"
+  },
+  {
+    "start": "1027",
+    "arabic": "باب إِقَامَةِ الصُّلْبِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: KULETA MGONGO WA MTU KUPUMZIKA WAKATI WA KUINAMA"
+  },
+  {
+    "start": "1028",
+    "arabic": "باب الاِعْتِدَالِ فِي الرُّكُوعِ",
+    "swahili": "MLANGO: KUWA WASTANI KATIKA KUINAMA"
+  }
+]

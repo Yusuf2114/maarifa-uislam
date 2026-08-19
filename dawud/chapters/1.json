@@ -1,0 +1,722 @@
+[
+  {
+    "start": 1,
+    "arabic": "باب التَّخَلِّي عِنْدَ قَضَاءِ الْحَاجَةِ",
+    "swahili": "MLANGO : KUJITENGA HUKU UNAJITAMBUA"
+  },
+  {
+    "start": 3,
+    "arabic": "باب الرَّجُلِ يَتَبَوَّأُ لِبَوْلِهِ",
+    "swahili": "MLANGO : KUCHAGUA SEHEMU INAYOFAA PA KUKOJOA"
+  },
+  {
+    "start": 4,
+    "arabic": "باب مَا يَقُولُ الرَّجُلُ إِذَا دَخَلَ الْخَلاَءَ",
+    "swahili": "MLANGO : MTU ASEMEJE ANAPOINGIA ENEO AMBALO ANAJITOA MWENYEWE."
+  },
+  {
+    "start": 7,
+    "arabic": "باب كَرَاهِيَةِ اسْتِقْبَالِ الْقِبْلَةِ عِنْدَ قَضَاءِ الْحَاجَةِ",
+    "swahili": "MLANGO : NI KUPENDEZA KUKABILIANA NA QIBLAH WAKATI UNAJISUMBUA"
+  },
+  {
+    "start": 12,
+    "arabic": "باب الرُّخْصَةِ فِي ذَلِكَ",
+    "swahili": "MLANGO : KUBALI KUHUSU HILI"
+  },
+  {
+    "start": 14,
+    "arabic": "باب كَيْفَ التَّكَشُّفُ عِنْدَ الْحَاجَةِ",
+    "swahili": "MLANGO : JINSI GANI MTU ANAPASWA KUVUA NGUO HUKU AKIJITOA MWENYEWE"
+  },
+  {
+    "start": 15,
+    "arabic": "باب كَرَاهِيَةِ الْكَلاَمِ عِنْدَ الْحَاجَةِ",
+    "swahili": "MLANGO : KUPENDWA NA MAZUNGUMZO HUKU UNAJITOA"
+  },
+  {
+    "start": 16,
+    "arabic": "باب أَيَرُدُّ السَّلاَمَ وَهُوَ يَبُولُ",
+    "swahili": "MLANGO : KURUDISHA SALAAM AKIKOJOA ?"
+  },
+  {
+    "start": 18,
+    "arabic": "باب فِي الرَّجُلِ يَذْكُرُ اللَّهَ تَعَالَى عَلَى غَيْرِ طُهْرٍ",
+    "swahili": "MLANGO : RUHUSA YA KUMKUMBUKA MWENYEZI MUNGU ALIYE JUU WAKATI HAYUKO KATIKA HALI YA UTAKATIFU."
+  },
+  {
+    "start": 19,
+    "arabic": "باب الْخَاتَمِ يَكُونُ فِيهِ ذِكْرُ اللَّهِ يَدْخُلُ بِهِ الْخَلاَءَ",
+    "swahili": "MLANGO : KUINGIA ENEO AMBALO MTU HUJIPUNGUZA NA PETE AMBAYO JINA LA ALLAH LIMECHONGWA."
+  },
+  {
+    "start": 20,
+    "arabic": "باب الاِسْتِبْرَاءِ مِنَ الْبَوْلِ",
+    "swahili": "MLANGO : KUEPUKA (MWANZO) WA MKOJO"
+  },
+  {
+    "start": 23,
+    "arabic": "باب الْبَوْلِ قَائِمًا",
+    "swahili": "MLANGO : KUKOJOA UKISIMAMA"
+  },
+  {
+    "start": 24,
+    "arabic": "باب فِي الرَّجُلِ يَبُولُ بِاللَّيْلِ فِي الإِنَاءِ ثُمَّ يَضَعُهُ عِنْدَهُ",
+    "swahili": "MLANGO : RUHUSA YA MWANAUME KUKOJOA NDANI YA CHOMBO WAKATI WA USIKU, NA KUWEKA KARIBU NAKE."
+  },
+  {
+    "start": 25,
+    "arabic": "باب الْمَوَاضِعِ الَّتِي نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ الْبَوْلِ فِيهَا",
+    "swahili": "MLANGO : SEHEMU AMBAZO NI MARUFUKU KUKOJOA"
+  },
+  {
+    "start": 27,
+    "arabic": "باب فِي الْبَوْلِ فِي الْمُسْتَحَمِّ",
+    "swahili": "MLANGO : KUKOJOA NDANI YA AL-MUSTAHAM (SEHEMU YA KUOGA)"
+  },
+  {
+    "start": 29,
+    "arabic": "باب النَّهْىِ عَنِ الْبَوْلِ، فِي الْجُحْرِ",
+    "swahili": "MLANGO : MARUFUKU YA KUKOJOA KWENYE MICHIRI"
+  },
+  {
+    "start": 30,
+    "arabic": "باب مَا يَقُولُ الرَّجُلُ إِذَا خَرَجَ مِنَ الْخَلاَءِ",
+    "swahili": "MLANGO : NINI KISEMWE MTU ANAPOTOKA KWENYE CHOO ALICHOJISUMBUA?"
+  },
+  {
+    "start": 31,
+    "arabic": "باب كَرَاهِيَةِ مَسِّ الذَّكَرِ بِالْيَمِينِ فِي الاِسْتِبْرَاءِ",
+    "swahili": "MLANGO : KUKATAA KUGUSA SEHEMU YA MTU KWA MKONO WA KULIA WAKATI WA KUTAKASA."
+  },
+  {
+    "start": 35,
+    "arabic": "باب الاِسْتِتَارِ فِي الْخَلاَءِ",
+    "swahili": "MLANGO : KUFUNIKA HUKU UNAJISAHIHI"
+  },
+  {
+    "start": 36,
+    "arabic": "باب مَا يُنْهَى عَنْهُ أَنْ يُسْتَنْجَى بِهِ",
+    "swahili": "MLANGO : VITU AMBAVYO IMEKATAZWA KUTAKASA"
+  },
+  {
+    "start": 40,
+    "arabic": "باب الاِسْتِنْجَاءِ بِالْحِجَارَةِ",
+    "swahili": "MLANGO : KUJITAKASA KWA MAWE"
+  },
+  {
+    "start": 42,
+    "arabic": "باب فِي الاِسْتِبْرَاءِ",
+    "swahili": "MLANGO : AL-ISTIBRA'"
+  },
+  {
+    "start": 43,
+    "arabic": "باب فِي الاِسْتِنْجَاءِ بِالْمَاءِ",
+    "swahili": "MLANGO : KUSAFISHA KWA MAJI BAADA YA KUJITOA"
+  },
+  {
+    "start": 45,
+    "arabic": "باب الرَّجُلِ يُدَلِّكُ يَدَهُ بِالأَرْضِ إِذَا اسْتَنْجَى",
+    "swahili": "MLANGO : MWANAUME ACHUKUE MIKONO YAKE CHINI BAADA YA KUFANYA ISTINJA'"
+  },
+  {
+    "start": 46,
+    "arabic": "باب السِّوَاكِ",
+    "swahili": "MLANGO : WASIWAK"
+  },
+  {
+    "start": 49,
+    "arabic": "باب كَيْفَ يَسْتَاكُ",
+    "swahili": "MLANGO : JINSI YA KUTUMIA SIWAK"
+  },
+  {
+    "start": 50,
+    "arabic": "باب فِي الرَّجُلِ يَسْتَاكُ بِسِوَاكِ غَيْرِهِ",
+    "swahili": "MLANGO : KWENYE KUTUMIA SIWAK YA MWINGINE"
+  },
+  {
+    "start": 52,
+    "arabic": "باب غَسْلِ السِّوَاكِ",
+    "swahili": "MLANGO : KUOSHA SIWAK"
+  },
+  {
+    "start": 53,
+    "arabic": "باب السِّوَاكِ مِنَ الْفِطْرَةِ",
+    "swahili": "MLANGO : (MATUMIZI YA) SIWAK YANATOKA KWA FITRAH (MATENDO YA ASILI)"
+  },
+  {
+    "start": 55,
+    "arabic": "باب السِّوَاكِ لِمَنْ قَامَ مِنَ اللَّيْلِ",
+    "swahili": "MLANGO : KUTUMIA SIWAK WAKATI WA KUSALI DUA YA USIKU (YA HIARI)."
+  },
+  {
+    "start": 59,
+    "arabic": "باب فَرْضِ الْوُضُوءِ",
+    "swahili": "MLANGO : HALI YA WAJIBU YA WUDHU'"
+  },
+  {
+    "start": 62,
+    "arabic": "باب الرَّجُلِ يُجَدِّدُ الْوُضُوءَ مِنْ غَيْرِ حَدَثٍ",
+    "swahili": "MLANGO : RUHUSA YA MTU KURUDISHA WUDHU WAKE BILA KUUVUNJA."
+  },
+  {
+    "start": 63,
+    "arabic": "باب مَا يُنَجِّسُ الْمَاءَ",
+    "swahili": "MLANGO : NINI KINACHAFUA MAJI"
+  },
+  {
+    "start": 66,
+    "arabic": "باب مَا جَاءَ فِي بِئْرِ بُضَاعَةَ",
+    "swahili": "MLANGO : YALIYOSIRIWA KUHUSU KISIMA CHA BUDA'AH"
+  },
+  {
+    "start": 68,
+    "arabic": "باب الْمَاءِ لاَ يَجْنُبُ",
+    "swahili": "MLANGO : MAJI HAYAWI JUNUB (CHAFU)"
+  },
+  {
+    "start": 69,
+    "arabic": "باب الْبَوْلِ فِي الْمَاءِ الرَّاكِدِ",
+    "swahili": "MLANGO : KUKOJOA KWENYE MAJI YANAYOSIMAMA"
+  },
+  {
+    "start": 71,
+    "arabic": "باب الْوُضُوءِ بِسُؤْرِ الْكَلْبِ",
+    "swahili": "MLANGO : WUDHU KUTOKA KWENYE MAJI KUSHOTO (NDANI YA KONTENA) BAADA YA MBWA KULEWA NDANI YAKE."
+  },
+  {
+    "start": 75,
+    "arabic": "باب سُؤْرِ الْهِرَّةِ",
+    "swahili": "MLANGO : MAJI YALIYOACHWA NA PAKA"
+  },
+  {
+    "start": 77,
+    "arabic": "باب الْوُضُوءِ بِفَضْلِ وَضُوءِ الْمَرْأَةِ",
+    "swahili": "MLANGO : WUDHU' KUTOKA MAJINI ALIYOACHWA NA MWANAMKE"
+  },
+  {
+    "start": 81,
+    "arabic": "باب النَّهْىِ عَنْ ذَلِكَ",
+    "swahili": "MLANGO : MARUFUKU YA HILO"
+  },
+  {
+    "start": 83,
+    "arabic": "باب الْوُضُوءِ بِمَاءِ الْبَحْرِ",
+    "swahili": "MLANGO : WUDHU' NA MAJI YA BAHARI"
+  },
+  {
+    "start": 84,
+    "arabic": "باب الْوُضُوءِ بِالنَّبِيذِ",
+    "swahili": "MLANGO : WUDHU' KWA KUTUMIA AN-NABIDH"
+  },
+  {
+    "start": 88,
+    "arabic": "باب أَيُصَلِّي الرَّجُلُ وَهُوَ حَاقِنٌ",
+    "swahili": "MLANGO : MTU ANAPASWA KUTOA SALAMA ANAPO ADA YA KUSISITIZA AJISUMBUE MWENYEWE."
+  },
+  {
+    "start": 92,
+    "arabic": "باب مَا يُجْزِئُ مِنَ الْمَاءِ فِي الْوُضُوءِ",
+    "swahili": "MLANGO : KIASI CHA MAJI KINACHOKUBALIKA KWA KUFANYA WUDHU'"
+  },
+  {
+    "start": 96,
+    "arabic": "باب الإِسْرَافِ فِي الْوَضُوءِ",
+    "swahili": "MLANGO : KUPINDUKIA KATIKA MAJI KWA KUTAWADHI"
+  },
+  {
+    "start": 97,
+    "arabic": "باب فِي إِسْبَاغِ الْوُضُوءِ",
+    "swahili": "MLANGO : KUHUSU ISBAGH (KUKAMILISHA) AL-WUDHU'"
+  },
+  {
+    "start": 98,
+    "arabic": "باب الْوُضُوءِ فِي آنِيَةِ الصُّفْرِ",
+    "swahili": "MLANGO : KUFANYA UDU' KUTOKA KWENYE MAKONTENA YA SHABA"
+  },
+  {
+    "start": 101,
+    "arabic": "باب التَّسْمِيَةِ عَلَى الْوُضُوءِ",
+    "swahili": "MLANGO : KUSEMA 'BISMILLAH' HUKU AKIANZA UDU'"
+  },
+  {
+    "start": 103,
+    "arabic": "باب فِي الرَّجُلِ يُدْخِلُ يَدَهُ فِي الإِنَاءِ قَبْلَ أَنْ يَغْسِلَهَا",
+    "swahili": "MLANGO : MWANAUME AKIWEKA MKONO KWENYE KONTINEA KABLA YA KUNAWA"
+  },
+  {
+    "start": 106,
+    "arabic": "باب صِفَةِ وُضُوءِ النَّبِيِّ صلى الله عليه وسلم",
+    "swahili": "MLANGO : NAMNA YA WUDHU WA MTUME."
+  },
+  {
+    "start": 135,
+    "arabic": "باب الْوُضُوءِ ثَلاَثًا ثَلاَثًا",
+    "swahili": "MLANGO : KUTENDA [MATENDO YA] WUDHU' MARA TATU"
+  },
+  {
+    "start": 136,
+    "arabic": "باب الْوُضُوءِ مَرَّتَيْنِ",
+    "swahili": "MLANGO : KUTENDA [MATENDO YA] WUDHU' MARA MBILI"
+  },
+  {
+    "start": 138,
+    "arabic": "باب الْوُضُوءِ مَرَّةً مَرَّةً",
+    "swahili": "MLANGO : KUTENDA [MATENDO YA] WUDHU' MARA MOJA"
+  },
+  {
+    "start": 139,
+    "arabic": "باب فِي الْفَرْقِ بَيْنَ الْمَضْمَضَةِ وَالاِسْتِنْشَاقِ",
+    "swahili": "MLANGO : KUTENGA KATI YA MADMADAH NA ISTINSHAQ"
+  },
+  {
+    "start": 140,
+    "arabic": "باب فِي الاِسْتِنْثَارِ",
+    "swahili": "MLANGO : JUU YA AL-ISTINTHAR (KUPULIZA MAJI KUTOKA PUA)"
+  },
+  {
+    "start": 145,
+    "arabic": "باب تَخْلِيلِ اللِّحْيَةِ",
+    "swahili": "MLANGO : KUACHANA VIDOLE VYA MTU KUPITIA NDEVU"
+  },
+  {
+    "start": 146,
+    "arabic": "باب الْمَسْحِ عَلَى الْعِمَامَةِ",
+    "swahili": "MLANGO : KUPAKA JUU YA IMAMAH (KIMBA)"
+  },
+  {
+    "start": 148,
+    "arabic": "باب غَسْلِ الرِّجْلَيْنِ",
+    "swahili": "MLANGO : KUOSHA MIGUU"
+  },
+  {
+    "start": 149,
+    "arabic": "باب الْمَسْحِ عَلَى الْخُفَّيْنِ",
+    "swahili": "MLANGO : KUFUTA JUU YA KHUFF"
+  },
+  {
+    "start": 157,
+    "arabic": "باب التَّوْقِيتِ فِي الْمَسْحِ",
+    "swahili": "MLANGO : KIPINDI (KINACHORUHUSIWA) CHA KUFUTA"
+  },
+  {
+    "start": 159,
+    "arabic": "باب الْمَسْحِ عَلَى الْجَوْرَبَيْنِ",
+    "swahili": "MLANGO : KUFUTA JUU YA SOKSI"
+  },
+  {
+    "start": 160,
+    "arabic": "باب",
+    "swahili": "MLANGO : UTHIBITISHO MWINGINE WA KUFUTA"
+  },
+  {
+    "start": 161,
+    "arabic": "باب كَيْفَ الْمَسْحُ",
+    "swahili": "MLANGO : JINSI GANI MTU AJIFUTE"
+  },
+  {
+    "start": 166,
+    "arabic": "باب فِي الاِنْتِضَاحِ",
+    "swahili": "MLANGO : MAJI YA MICHAPISHO (KWENYE SEHEMU ZA SIRI)"
+  },
+  {
+    "start": 169,
+    "arabic": "باب مَا يَقُولُ الرَّجُلُ إِذَا تَوَضَّأَ",
+    "swahili": "MLANGO : MTU ASEMEJE BAADA YA KUMALIZA WUDHU'"
+  },
+  {
+    "start": 171,
+    "arabic": "باب الرَّجُلِ يُصَلِّي الصَّلَوَاتِ بِوُضُوءٍ وَاحِدٍ",
+    "swahili": "MLANGO : MTU AKISALI DUA (ZOTE) KWA WUDHU MOJA."
+  },
+  {
+    "start": 173,
+    "arabic": "باب تَفْرِيقِ الْوُضُوءِ",
+    "swahili": "MLANGO : KUTENGA VITENDO VYA WUDHU'"
+  },
+  {
+    "start": 176,
+    "arabic": "باب إِذَا شَكَّ فِي الْحَدَثِ",
+    "swahili": "MLANGO : MTU ASIYE NA UHAKIKA WA KUVUNJA WUDHU WAKE."
+  },
+  {
+    "start": 178,
+    "arabic": "باب الْوُضُوءِ مِنَ الْقُبْلَةِ",
+    "swahili": "MLANGO : WUDHU' KUTOKA KUBUSU"
+  },
+  {
+    "start": 181,
+    "arabic": "باب الْوُضُوءِ مِنْ مَسِّ الذَّكَرِ",
+    "swahili": "MLANGO : UDU' KUTOKA KUGUSA UUME"
+  },
+  {
+    "start": 182,
+    "arabic": "باب الرُّخْصَةِ فِي ذَلِكَ",
+    "swahili": "MLANGO : KUBALI KUHUSU HILI"
+  },
+  {
+    "start": 184,
+    "arabic": "باب الْوُضُوءِ مِنْ لُحُومِ الإِبِلِ",
+    "swahili": "MLANGO : WUDHU' KUTOKA KULA NYAMA YA NGAMIA"
+  },
+  {
+    "start": 185,
+    "arabic": "باب الْوُضُوءِ مِنْ مَسِّ اللَّحْمِ النِّيءِ وَغَسْلِهِ",
+    "swahili": "MLANGO : WUDHU' KUTOKANA NA KUGUSA NA KUOSHA NYAMA MBICHI"
+  },
+  {
+    "start": 186,
+    "arabic": "باب تَرْكِ الْوُضُوءِ مِنْ مَسِّ الْمَيْتَةِ",
+    "swahili": "MLANGO : KUTOFANYA UDU' KUTOKANA NA KUGUSA MZOGA"
+  },
+  {
+    "start": 187,
+    "arabic": "باب فِي تَرْكِ الْوُضُوءِ مِمَّا مَسَّتِ النَّارُ",
+    "swahili": "MLANGO : KUTOFANYA UDU' KUTOKA [CHAKULA KILICHOPIKIWA] KWA MOTO."
+  },
+  {
+    "start": 194,
+    "arabic": "باب التَّشْدِيدِ فِي ذَلِكَ",
+    "swahili": "MLANGO : UKALI KATIKA HILI"
+  },
+  {
+    "start": 196,
+    "arabic": "باب فِي الْوُضُوءِ مِنَ اللَّبَنِ",
+    "swahili": "MLANGO : WUDHU' KUTOKA (KUNYWA) MAZIWA"
+  },
+  {
+    "start": 197,
+    "arabic": "باب الرُّخْصَةِ فِي ذَلِكَ",
+    "swahili": "MLANGO : KUBALI KUHUSU HILI"
+  },
+  {
+    "start": 198,
+    "arabic": "باب الْوُضُوءِ مِنَ الدَّمِ",
+    "swahili": "MLANGO : WUDHU' KUTOKANA NA DAMU"
+  },
+  {
+    "start": 199,
+    "arabic": "باب الْوُضُوءِ مِنَ النَّوْمِ",
+    "swahili": "MLANGO : WUDHU' KUTOKA KULALA"
+  },
+  {
+    "start": 204,
+    "arabic": "باب فِي الرَّجُلِ يَطَأُ الأَذَى بِرِجْلِهِ",
+    "swahili": "MLANGO : MTU ANAYECHUKUA KITU KICHAFU"
+  },
+  {
+    "start": 205,
+    "arabic": "باب مَنْ يُحْدِثُ فِي الصَّلاَةِ",
+    "swahili": "MLANGO : MWENYE KUVUNJA WUDHU WAKE WAKATI WA SWALA"
+  },
+  {
+    "start": 206,
+    "arabic": "باب فِي الْمَذْىِ",
+    "swahili": "MLANGO : KUHUSU FLUID YA KABLA YA SEMINAL (MADHI)"
+  },
+  {
+    "start": 212,
+    "arabic": "باب فِي مُبَاشَرَةِ الْحَائِضِ وَمُؤَاكَلَتِهَا",
+    "swahili": "MLANGO : KWA MAWASILIANO YA PAMOJA NA KULA NA MWANAMKE MWENYE HEDHI"
+  },
+  {
+    "start": 214,
+    "arabic": "باب فِي الإِكْسَالِ",
+    "swahili": "MLANGO : KUPIGANA BILA KUTOA NINI"
+  },
+  {
+    "start": 218,
+    "arabic": "باب فِي الْجُنُبِ يَعُودُ",
+    "swahili": "MLANGO : MTU MCHAFU WA KINGONO ANAYETAKA KURUDIA (TENDO)"
+  },
+  {
+    "start": 219,
+    "arabic": "باب الْوُضُوءِ لِمَنْ أَرَادَ أَنْ يَعُودَ",
+    "swahili": "MLANGO : KUFANYA UDU' KWA ANAYETAKA KURUDIA (KITENDO)"
+  },
+  {
+    "start": 221,
+    "arabic": "باب فِي الْجُنُبِ يَنَامُ",
+    "swahili": "MLANGO : MTU MCHAFU WA KINGONO AKILALA"
+  },
+  {
+    "start": 222,
+    "arabic": "باب الْجُنُبِ يَأْكُلُ",
+    "swahili": "MLANGO : MWENYE NAFUSI YA KINGONO AKILA"
+  },
+  {
+    "start": 224,
+    "arabic": "باب مَنْ قَالَ يَتَوَضَّأُ الْجُنُبُ",
+    "swahili": "MLANGO : WALIOSEMA WACHAFU WA NDOA WAFANYE WUDHU'."
+  },
+  {
+    "start": 226,
+    "arabic": "باب فِي الْجُنُبِ يُؤَخِّرُ الْغُسْلَ",
+    "swahili": "MLANGO : MWENYE NAFUSI YA KINGONO AKICHELEWA GHUSL"
+  },
+  {
+    "start": 229,
+    "arabic": "باب فِي الْجُنُبِ يَقْرَأُ الْقُرْآنَ",
+    "swahili": "MLANGO : MWENYE NAFUSI YA NGONO AKISOMA QUR-AN"
+  },
+  {
+    "start": 230,
+    "arabic": "باب فِي الْجُنُبِ يُصَافِحُ",
+    "swahili": "MLANGO : MTU ALIYE NACHAFU WA KINGONO AKIPEANA MIKONO"
+  },
+  {
+    "start": 232,
+    "arabic": "باب فِي الْجُنُبِ يَدْخُلُ الْمَسْجِدَ",
+    "swahili": "MLANGO : MTU ALIYE NA UCHAFU WA KINGONO AKIINGIA MASJID"
+  },
+  {
+    "start": 233,
+    "arabic": "باب فِي الْجُنُبِ يُصَلِّي بِالْقَوْمِ وَهُوَ نَاسٍ",
+    "swahili": "MLANGO : MWENYE UCHAFU WA KIZINI AKIONGOZA DUA KATIKA HALI YA KUSAHAU."
+  },
+  {
+    "start": 236,
+    "arabic": "باب فِي الرَّجُلِ يَجِدُ الْبِلَّةَ فِي مَنَامِهِ",
+    "swahili": "MLANGO : MTU ANAYEONA ULOVU (JUU YA NGUO ZAKE) BAADA YA KULALA."
+  },
+  {
+    "start": 237,
+    "arabic": "باب فِي الْمَرْأَةِ تَرَى مَا يَرَى الرَّجُلُ",
+    "swahili": "MLANGO : MWANAMKE ANA NDOTO KAMA MWANAUME ANA NDOTO"
+  },
+  {
+    "start": 238,
+    "arabic": "باب فِي مِقْدَارِ الْمَاءِ الَّذِي يُجْزِئُ فِي الْغُسْلِ",
+    "swahili": "MLANGO : KIASI CHA MAJI AMBACHO GHUSL INAWEZA KUFANYIKA NAYO"
+  },
+  {
+    "start": 239,
+    "arabic": "باب الْغُسْلِ مِنَ الْجَنَابَةِ",
+    "swahili": "MLANGO : KUHUSU GHUSL KWA JANABAH"
+  },
+  {
+    "start": 250,
+    "arabic": "باب فِي الْوُضُوءِ بَعْدَ الْغُسْلِ",
+    "swahili": "MLANGO : KUFANYA WUDHU' BAADA YA GHUSL"
+  },
+  {
+    "start": 251,
+    "arabic": "باب فِي الْمَرْأَةِ هَلْ تَنْقُضُ شَعَرَهَا عِنْدَ الْغُسْلِ",
+    "swahili": "MLANGO : MWANAMKE AKIFUNGUA (BRAIDS YA) NYWELE ZAKE WAKATI AKIFANYA GHUSL."
+  },
+  {
+    "start": 256,
+    "arabic": "باب فِي الْجُنُبِ يَغْسِلُ رَأْسَهُ بِالْخِطْمِيِّ أَيُجْزِئُهُ ذَلِكَ",
+    "swahili": "MLANGO : MTU ALIYE NA UCHAFU WA NDOA AKIOSHA KICHWA KWA KHITMI"
+  },
+  {
+    "start": 257,
+    "arabic": "باب فِيمَا يَفِيضُ بَيْنَ الرَّجُلِ وَالْمَرْأَةِ مِنَ الْمَاءِ",
+    "swahili": "MLANGO : MAJIMAJI YANAYOTIRIRIKA KATI YA MWANAUME NA MWANAMKE (NA MAFUPI HUBAKI KWENYE VAZI AU MWILI WA MTU)"
+  },
+  {
+    "start": 258,
+    "arabic": "باب فِي مُؤَاكَلَةِ الْحَائِضِ وَمُجَامَعَتِهَا",
+    "swahili": "MLANGO : KULA NA MWANAMKE MWENYE HEDHI NA KUWA KARIBU NAYE"
+  },
+  {
+    "start": 261,
+    "arabic": "باب فِي الْحَائِضِ تُنَاوِلُ مِنَ الْمَسْجِدِ",
+    "swahili": "MLANGO : MWANAMKE MWENYE HEDHI AKABIDHI KITU KUTOKA MASJID"
+  },
+  {
+    "start": 262,
+    "arabic": "باب فِي الْحَائِضِ لاَ تَقْضِي الصَّلاَةَ",
+    "swahili": "MLANGO : MWANAMKE MWENYE HEDHI HATIMIZI MAOMBI (YA KUKOSA)"
+  },
+  {
+    "start": 264,
+    "arabic": "باب فِي إِتْيَانِ الْحَائِضِ",
+    "swahili": "MLANGO : KUINGILIA NA WANAWAKE WANAOPEWA HEDHI"
+  },
+  {
+    "start": 267,
+    "arabic": "باب فِي الرَّجُلِ يُصِيبُ مِنْهَا مَا دُونَ الْجِمَاعِ",
+    "swahili": "MLANGO : MTU ANA MAHUSIANO NA WAKE ZAIDI YA MAPENZI"
+  },
+  {
+    "start": 274,
+    "arabic": "باب فِي الْمَرْأَةِ تُسْتَحَاضُ وَمَنْ قَالَ تَدَعُ الصَّلاَةَ فِي عِدَّةِ الأَيَّامِ الَّتِي كَانَتْ تَحِيضُ",
+    "swahili": "MLANGO : KUHUSU MWANAMKE MWENYE ISTIHADAH, NA (WALE WANAZUONI) WALIOSEMA KUWA ACHENI SWALA KWA IDADI YA SIKU ALIZOKUWA AKIPEWA HEDHI."
+  },
+  {
+    "start": 282,
+    "arabic": "باب مَنْ رَوَى أَنَّ الْحَيْضَةَ إِذَا أَدْبَرَتْ لاَ تَدَعُ الصَّلاَةَ",
+    "swahili": "MLANGO : WALE WALIOSOMA KUWA ASIWACHE SWALA BAADA YA HEDHI ZAKE KUMALIZA."
+  },
+  {
+    "start": 284,
+    "arabic": "باب مَنْ قَالَ إِذَا أَقْبَلَتِ الْحَيْضَةُ تَدَعُ الصَّلاَةَ",
+    "swahili": "MLANGO : HEDHI INAPOANZA ACHANE NA MAOMBI"
+  },
+  {
+    "start": 288,
+    "arabic": "باب مَنْ رَوَى أَنَّ الْمُسْتَحَاضَةَ تَغْتَسِلُ لِكُلِّ صَلاَةٍ",
+    "swahili": "MLANGO : RIWAYA ZINAZOTAMBUA MWANAMKE MWENYE ISTIHADAH AFANYE GHUSL KWA KILA SWALA."
+  },
+  {
+    "start": 294,
+    "arabic": "باب مَنْ قَالَ تَجْمَعُ بَيْنَ الصَّلاَتَيْنِ وَتَغْتَسِلُ لَهُمَا غُسْلاً",
+    "swahili": "MLANGO : WALE AMBAO WANASEMA: ANAPASWA KUUNGANA KATI YA SWALA MBILI, NA AFANYE GHUSL MOJA MBELE YA ZOTE MBILI."
+  },
+  {
+    "start": 297,
+    "arabic": "باب مَنْ قَالَ تَغْتَسِلُ مَنْ طُهْرٍ إِلَى طُهْرٍ",
+    "swahili": "MLANGO : WALE WALIOSEMA: AFANYE GHUSL KUTOKA USAFI MMOJA HADI MWINGINE."
+  },
+  {
+    "start": 301,
+    "arabic": "باب مَنْ قَالَ الْمُسْتَحَاضَةُ تَغْتَسِلُ مَنْ ظُهْرٍ إِلَى ظُهْرٍ",
+    "swahili": "MLANGO : WALE WALIOSEMA: AFANYE GHUSL KUTOKA ZUHR MOJA (SALA) HADI ZUHR IJAYO (SALA)."
+  },
+  {
+    "start": 302,
+    "arabic": "باب مَنْ قَالَ تَغْتَسِلُ كُلَّ يَوْمٍ مَرَّةً وَلَمْ يَقُلْ عِنْدَ الظُّهْرِ",
+    "swahili": "MLANGO : WALE WALIOSEMA: AFANYE GHUSL MARA MOJA KWA SIKU, LAKINI HAJATAJA ZUHR."
+  },
+  {
+    "start": 303,
+    "arabic": "باب مَنْ قَالَ تَغْتَسِلُ بَيْنَ الأَيَّامِ",
+    "swahili": "MLANGO : WALE WALIO SEMA: AFANYE GHUSL KATI YA SIKU (ZA HEDHI ZAKE)."
+  },
+  {
+    "start": 304,
+    "arabic": "باب مَنْ قَالَ تَوَضَّأُ لِكُلِّ صَلاَةٍ",
+    "swahili": "MLANGO : WALIOSEMA: AFANYE WUDHU KWA KILA SWALA."
+  },
+  {
+    "start": 305,
+    "arabic": "باب مَنْ لَمْ يَذْكُرِ الْوُضُوءَ إِلاَّ عِنْدَ الْحَدَثِ",
+    "swahili": "MLANGO : WALE AMBAO HAWAKUTAJA WUDHU ILA IKIWA IMEBATILISHWA."
+  },
+  {
+    "start": 307,
+    "arabic": "باب فِي الْمَرْأَةِ تَرَى الْكُدْرَةَ وَالصُّفْرَةَ بَعْدَ الطُّهْرِ",
+    "swahili": "MLANGO : KUHUSU KUTOKWA NA MANJANO NA RANGI BAADA YA KUTAKASWA"
+  },
+  {
+    "start": 309,
+    "arabic": "باب الْمُسْتَحَاضَةِ يَغْشَاهَا زَوْجُهَا",
+    "swahili": "MLANGO : KUPIGANA MUME NA MWANAMKE KATIKA HALI YA ISTIHADAH"
+  },
+  {
+    "start": 311,
+    "arabic": "باب مَا جَاءَ فِي وَقْتِ النُّفَسَاءِ",
+    "swahili": "MLANGO : NINI KIMESIMULIWA KUHUSU MUDA (KIKOMO) WA KUTOKWA NA DAMU BAADA YA SEHEMU"
+  },
+  {
+    "start": 313,
+    "arabic": "باب الاِغْتِسَالِ مِنَ الْحَيْضِ",
+    "swahili": "MLANGO : KUFANYA GHUSL BAADA YA HEDHI"
+  },
+  {
+    "start": 317,
+    "arabic": "باب التَّيَمُّمِ",
+    "swahili": "MLANGO : TAYAMMUM"
+  },
+  {
+    "start": 329,
+    "arabic": "باب التَّيَمُّمِ فِي الْحَضَرِ",
+    "swahili": "MLANGO : TAYAMMUM WAKATI WA UAKAZI"
+  },
+  {
+    "start": 332,
+    "arabic": "باب الْجُنُبِ يَتَيَمَّمُ",
+    "swahili": "MLANGO : MTU ALIYE NA UCHAFU WA KINGONO AKIFANYA TAYAMMUM"
+  },
+  {
+    "start": 334,
+    "arabic": "باب إِذَا خَافَ الْجُنُبُ الْبَرْدَ أَيَتَيَمَّمُ",
+    "swahili": "MLANGO : MTU ALIYE NA UCHAFU WA KINGONO ANAPOOGOPA KUTESWA NA BARIDI JE HUFANYA TAYAMMUM?"
+  },
+  {
+    "start": 336,
+    "arabic": "باب فِي الْمَجْرُوحِ يَتَيَمَّمُ",
+    "swahili": "MLANGO : ALIYEJERUHIWA AKIFANYA TAYAMMUM"
+  },
+  {
+    "start": 338,
+    "arabic": "باب فِي الْمُتَيَمِّمِ يَجِدُ الْمَاءَ بَعْدَ مَا يُصَلِّي فِي الْوَقْتِ",
+    "swahili": "MLANGO : ALIYEFANYA TAYAMMUM (BAADAYE) ANAPATA MAJI WAKATI WA MAOMBI, LAKINI BAADA YA KUSALI."
+  },
+  {
+    "start": 340,
+    "arabic": "باب فِي الْغُسْلِ يَوْمَ الْجُمُعَةِ",
+    "swahili": "MLANGO : KUFANYA GHUSL KWA AJILI YA SWALA YA IJUMAA"
+  },
+  {
+    "start": 352,
+    "arabic": "باب فِي الرُّخْصَةِ فِي تَرْكِ الْغُسْلِ يَوْمَ الْجُمُعَةِ",
+    "swahili": "MLANGO : RUHUSI YA KUTOFANYA GHUSL SIKU YA IJUMAA"
+  },
+  {
+    "start": 355,
+    "arabic": "باب فِي الرَّجُلِ يُسْلِمُ فَيُؤْمَرُ بِالْغُسْلِ",
+    "swahili": "MLANGO : MTU ANAKUBALI UISLAMU, NA ANAAMRISHWA KUFANYA GHUSL"
+  },
+  {
+    "start": 357,
+    "arabic": "باب الْمَرْأَةِ تَغْسِلُ ثَوْبَهَا الَّذِي تَلْبَسُهُ فِي حَيْضِهَا",
+    "swahili": "MLANGO : MWANAMKE AKIFUA VAZI LAKE ANALOVAA WAKATI WA HEDHI ZAKE [KUSALI]"
+  },
+  {
+    "start": 366,
+    "arabic": "باب الصَّلاَةِ فِي الثَّوْبِ الَّذِي يُصِيبُ أَهْلَهُ فِيهِ",
+    "swahili": "MLANGO : AKISALI AKIWA NA VAZI AMBALO AMESHIRIKI KATIKA MAOMBI"
+  },
+  {
+    "start": 367,
+    "arabic": "باب الصَّلاَةِ فِي شُعُرِ النِّسَاءِ",
+    "swahili": "MLANGO : KUSALI KWA SHU'UR YA WANAWAKE (MAVAZI)"
+  },
+  {
+    "start": 369,
+    "arabic": "باب فِي الرُّخْصَةِ فِي ذَلِكَ",
+    "swahili": "MLANGO : KUBALI KUHUSU HILI"
+  },
+  {
+    "start": 371,
+    "arabic": "باب الْمَنِيِّ يُصِيبُ الثَّوْبَ",
+    "swahili": "MLANGO : VAZI LILILO NA KIWAZI CHA SEMINAL JUU YAKE"
+  },
+  {
+    "start": 374,
+    "arabic": "باب بَوْلِ الصَّبِيِّ يُصِيبُ الثَّوْبَ",
+    "swahili": "MLANGO : MKOJO WA MTOTO WAMWAGA KWENYE VAZI"
+  },
+  {
+    "start": 380,
+    "arabic": "باب الأَرْضِ يُصِيبُهَا الْبَوْلُ",
+    "swahili": "MLANGO : UDONGO ULIOCHAFUA (KUCHAFUA) NA MKOJO"
+  },
+  {
+    "start": 382,
+    "arabic": "باب فِي طُهُورِ الأَرْضِ إِذَا يَبِسَتْ",
+    "swahili": "MLANGO : NCHI HUWA SAFI KUKAUKA"
+  },
+  {
+    "start": 383,
+    "arabic": "باب فِي الأَذَى يُصِيبُ الذَّيْلَ",
+    "swahili": "MLANGO : UCHAFU UNAOGUSA PINDI (YA NGUO ZA MTU)"
+  },
+  {
+    "start": 385,
+    "arabic": "باب فِي الأَذَى يُصِيبُ النَّعْلَ",
+    "swahili": "MLANGO : UCHAFU UNAOGUSA VIATU VYA MTU"
+  },
+  {
+    "start": 388,
+    "arabic": "باب الإِعَادَةِ مِنَ النَّجَاسَةِ تَكُونُ فِي الثَّوْبِ",
+    "swahili": "MLANGO : KURUDIA (SALA) KWA KUTOKANA NA UCHAFU JUU YA VAZI."
+  },
+  {
+    "start": 389,
+    "arabic": "باب الْبُصَاقِ يُصِيبُ الثَّوْبَ",
+    "swahili": "MLANGO : MATE KUANGUKA JUU YA VAZI"
+  }
+]

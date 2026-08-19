@@ -1,0 +1,167 @@
+[
+  {
+    "start": "4985",
+    "arabic": "باب ذِكْرِ أَفْضَلِ الأَعْمَالِ ‏‏",
+    "swahili": "MLANGO: KUTAJA MATENDO BORA"
+  },
+  {
+    "start": "4987",
+    "arabic": "باب طَعْمِ الإِيمَانِ ‏‏",
+    "swahili": "MLANGO: LADHA YA IMANI"
+  },
+  {
+    "start": "4988",
+    "arabic": "باب حَلاَوَةِ الإِيمَانِ ‏‏",
+    "swahili": "MLANGO: UTAMU WA IMANI"
+  },
+  {
+    "start": "4989",
+    "arabic": "باب حَلاَوَةِ الإِسْلاَمِ ‏‏",
+    "swahili": "MLANGO: UTAMU WA UISLAMU"
+  },
+  {
+    "start": "4990",
+    "arabic": "باب نَعْتِ الإِسْلاَمِ ‏‏",
+    "swahili": "MLANGO: MAELEZO YA UISLAMU"
+  },
+  {
+    "start": "4991",
+    "arabic": "باب صِفَةِ الإِيمَانِ وَالإِسْلاَمِ ‏‏",
+    "swahili": "MLANGO: MAELEZO YA IMANI NA UISLAMU"
+  },
+  {
+    "start": "4992",
+    "arabic": "باب تَأْوِيلِ قَوْلِهِ عَزَّ وَجَلَّ ‏{‏ قَالَتِ الأَعْرَابُ آمَنَّا قُلْ لَمْ تُؤْمِنُوا وَلَكِنْ قُولُوا أَسْلَمْنَا ‏}‏ ‏‏",
+    "swahili": "MLANGO: IMEFASIRI KAULI YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU: “MABEDUI WANASEMA: TUMEAMINI."
+  },
+  {
+    "start": "4995",
+    "arabic": "باب صِفَةِ الْمُؤْمِنِ ‏‏",
+    "swahili": "MLANGO: MAELEZO YA MUUMINI"
+  },
+  {
+    "start": "4996",
+    "arabic": "باب صِفَةِ الْمُسْلِمِ ‏‏",
+    "swahili": "MLANGO: MAELEZO YA MUISLAMU"
+  },
+  {
+    "start": "4998",
+    "arabic": "باب حُسْنِ إِسْلاَمِ الْمَرْءِ ‏‏",
+    "swahili": "MLANGO: MTU AKIWA MWEMA KATIKA UISLAMU WAKE"
+  },
+  {
+    "start": "4999",
+    "arabic": "باب أَىُّ الإِسْلاَمِ أَفْضَلُ ‏‏",
+    "swahili": "MLANGO: UISLAMU WA NANI NI MWEMA ZAIDI?"
+  },
+  {
+    "start": "5000",
+    "arabic": "باب أَىُّ الإِسْلاَمِ خَيْرٌ ‏‏",
+    "swahili": "MLANGO: NI (UBORA) UPI WA UISLAMU ULIO BORA ZAIDI?"
+  },
+  {
+    "start": "5001",
+    "arabic": "باب عَلَى كَمْ بُنِيَ الإِسْلاَمُ ‏‏",
+    "swahili": "MLANGO: UISLAMU UNAJENGWA JUU YA (NGUZO) NGAPI?"
+  },
+  {
+    "start": "5002",
+    "arabic": "باب الْبَيْعَةِ عَلَى الإِسْلاَمِ ‏‏",
+    "swahili": "MLANGO: KUJITOLEA KUFUATA UISLAMU"
+  },
+  {
+    "start": "5003",
+    "arabic": "باب عَلَى مَا يُقَاتَلُ النَّاسُ ‏‏",
+    "swahili": "MLANGO: KWA AJILI YA WATU GANI WAPIGANIWE"
+  },
+  {
+    "start": "5004",
+    "arabic": "باب ذِكْرِ شُعَبِ الإِيمَانِ ‏‏",
+    "swahili": "MLANGO: AKITAJA MATAWI YA IMANI"
+  },
+  {
+    "start": "5007",
+    "arabic": "باب تَفَاضُلِ أَهْلِ الإِيمَانِ ‏‏",
+    "swahili": "MLANGO: TOFAUTI KATIKA KIWANGO CHA IMANI CHA WATU"
+  },
+  {
+    "start": "5010",
+    "arabic": "زِيَادَةُ الْإِيمَانِ",
+    "swahili": "MLANGO: KUONGEZA IMANI"
+  },
+  {
+    "start": "5013",
+    "arabic": "عَلَامَةُ الْإِيمَانِ",
+    "swahili": "MLANGO: ISHARA YA IMANI"
+  },
+  {
+    "start": "5020",
+    "arabic": "عَلَامَةُ الْمُنَافِقِ",
+    "swahili": "MLANGO: ISHARA YA MNAFIKI"
+  },
+  {
+    "start": "5024",
+    "arabic": "قِيَامُ رَمَضَانَ",
+    "swahili": "MLANGO: KUSWALI QIYAM KATIKA RAMADHANI"
+  },
+  {
+    "start": "5027",
+    "arabic": "قِيَامُ لَيْلَةِ الْقَدْرِ",
+    "swahili": "MLANGO: KUTUMIA LAILAT AL-QADR KATIKA SWALA"
+  },
+  {
+    "start": "5028",
+    "arabic": "الزَّكَاةِ",
+    "swahili": "MLANGO: ZAKAH"
+  },
+  {
+    "start": "5029",
+    "arabic": "الْجِهَادُ",
+    "swahili": "MLANGO: JIHAD"
+  },
+  {
+    "start": "5031",
+    "arabic": "أَدَاءُ الْخُمُس",
+    "swahili": "MLANGO: KULIPA KHUMUS"
+  },
+  {
+    "start": "5032",
+    "arabic": "شُهُودُ الْجَنَائِز",
+    "swahili": "MLANGO: KUHUDHURIA MAZISHI"
+  },
+  {
+    "start": "5033",
+    "arabic": "الْحَيَاء",
+    "swahili": "MLANGO: UNYENYEKEVU (AL-HAYA')"
+  },
+  {
+    "start": "5034",
+    "arabic": "الدِّينُ يُسْرٌ",
+    "swahili": "MLANGO: DINI NI RAHISI"
+  },
+  {
+    "start": "5035",
+    "arabic": "أحب الدين إلى الله عز وج",
+    "swahili": "MLANGO: SEHEMU INAYOPENDWA ZAIDI YA DINI KWA MWENYEZI MUNGU"
+  },
+  {
+    "start": "5036",
+    "arabic": "الْفِرَارُ بِالدِّينِ مِنْ الْفِتَن",
+    "swahili": "MLANGO: KUKIMBIA NA DINI NA DHIKI"
+  },
+  {
+    "start": "5037",
+    "arabic": "مَثَلُ الْمُنَافِق",
+    "swahili": "MLANGO: MFANO WA MNAFIKI"
+  },
+  {
+    "start": "5038",
+    "arabic": "مَثَلُ الَّذِي يَقْرَأُ الْقُرْآنَ مِنْ مُؤْمِنٍ وَمُنَافِق",
+    "swahili": "MLANGO: MFANO WA MUUMINI NA MNAFIKI MWENYE KUSOMA QUR-AAN"
+  },
+  {
+    "start": "5039",
+    "arabic": "عَلَامَةُ الْمُؤْمِن",
+    "swahili": "MLANGO: ISHARA YA MUUMINI"
+  }
+]

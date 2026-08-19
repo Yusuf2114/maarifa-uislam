@@ -1,0 +1,182 @@
+[
+  {
+    "start": "1556",
+    "arabic": "باب",
+    "swahili": "MLANGO:"
+  },
+  {
+    "start": "1557",
+    "arabic": "باب الْخُرُوجِ إِلَى الْعِيدَيْنِ مِنَ الْغَدِ",
+    "swahili": "MLANGO: KWENDA NJE KWA AJILI YA 'IYD MBILI (ASUBUHI YA) SIKU INAYOFUATA"
+  },
+  {
+    "start": "1558",
+    "arabic": "باب خُرُوجِ الْعَوَاتِقِ وَذَوَاتِ الْخُدُورِ فِي الْعِيدَيْنِ",
+    "swahili": "MLANGO: WASICHANA WALIOBALEHE NA WANAWAKE WAKIWA WAMEJITENGA WAKIENDA NJE KWA AJILI YA 'EIDS MBILI"
+  },
+  {
+    "start": "1559",
+    "arabic": "باب اعْتِزَالِ الْحُيَّضِ مُصَلَّى النَّاسِ",
+    "swahili": "MLANGO: WANAWAKE WENYE HEDHI WAKIJIWEKA MBALI NA MAHALI PA KUSWALI WATU"
+  },
+  {
+    "start": "1560",
+    "arabic": "باب الزِّينَةِ لِلْعِيدَيْنِ",
+    "swahili": "MLANGO: KUJIPAMBA KWA AJILI YA 'IYD MBILI"
+  },
+  {
+    "start": "1561",
+    "arabic": "باب الصَّلاَةِ قَبْلَ الإِمَامِ يَوْمَ الْعِيدِ",
+    "swahili": "MLANGO: KUSWALI MBELE YA IMAMU SIKU YA 'IYD"
+  },
+  {
+    "start": "1562",
+    "arabic": "باب تَرْكِ الأَذَانِ لِلْعِيدَيْنِ",
+    "swahili": "MLANGO: KUTOSEMA ADHANA KWA 'IYD MBILI"
+  },
+  {
+    "start": "1563",
+    "arabic": "باب الْخُطْبَةِ يَوْمَ الْعِيدِ",
+    "swahili": "MLANGO: KHUTBAH SIKU YA 'IYD"
+  },
+  {
+    "start": "1564",
+    "arabic": "باب صَلاَةِ الْعِيدَيْنِ قَبْلَ الْخُطْبَةِ",
+    "swahili": "MLANGO: SWALA YA 'IYD KABLA YA KHUTBAH"
+  },
+  {
+    "start": "1565",
+    "arabic": "باب صَلاَةِ الْعِيدَيْنِ إِلَى الْعَنَزَةِ",
+    "swahili": "MLANGO: SALI SWALAH YA 'IYD UKITAZAMANA NA 'ANAZAH (MKUKI MFUPI)"
+  },
+  {
+    "start": "1566",
+    "arabic": "باب عَدَدِ صَلاَةِ الْعِيدَيْنِ",
+    "swahili": "MLANGO: IDADI (YA RAKAA) KATIKA SWALA YA 'IYD"
+  },
+  {
+    "start": "1567",
+    "arabic": "باب الْقِرَاءَةِ فِي الْعِيدَيْنِ بِـ ‏{‏ ق ‏}‏ وَ{‏ اقْتَرَبَتْ ‏}‏",
+    "swahili": "MLANGO: KUSOMA \"QAF\" NA \"(SAA) IMEKARIBIA.\" KATIKA SWALA YA 'IYD"
+  },
+  {
+    "start": "1568",
+    "arabic": "باب الْقِرَاءَةِ فِي الْعِيدَيْنِ بِـ ‏{‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏}‏ وَ{‏ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ ‏}‏‏",
+    "swahili": "MLANGO: KUSOMA “LITUKUZE JINA LA MOLA WAKO MLEZI ALIYETUKUKA” NA “JE! KWENYE EID MBILI"
+  },
+  {
+    "start": "1569",
+    "arabic": "باب الْخُطْبَةِ فِي الْعِيدَيْنِ بَعْدَ الصَّلاَةِ",
+    "swahili": "MLANGO: KHUTBAH SIKU YA 'IYD BAADA YA SWALA"
+  },
+  {
+    "start": "1571",
+    "arabic": "باب التَّخْيِيرِ بَيْنَ الْجُلُوسِ فِي الْخُطْبَةِ لِلْعِيدَيْنِ",
+    "swahili": "MLANGO: KUWAPA WATU CHAGUO LA KUKETI NA KUSIKILIZA 'KHUTBAH YA EID"
+  },
+  {
+    "start": "1572",
+    "arabic": "باب الزِّينَةِ لِلْخُطْبَةِ لِلْعِيدَيْنِ",
+    "swahili": "MLANGO: KUJIPAMBA KWA AJILI YA KHUTBA YA 'IYD"
+  },
+  {
+    "start": "1573",
+    "arabic": "باب الْخُطْبَةِ عَلَى الْبَعِيرِ",
+    "swahili": "MLANGO: KUTOA KHUTBAH KUTOKA JUU YA NGAMIA"
+  },
+  {
+    "start": "1574",
+    "arabic": "باب قِيَامِ الإِمَامِ فِي الْخُطْبَةِ",
+    "swahili": "MLANGO: IMAMU AKIWA AMESIMAMA WAKATI WA KHUTBAH"
+  },
+  {
+    "start": "1575",
+    "arabic": "باب قِيَامِ الإِمَامِ فِي الْخُطْبَةِ مُتَوَكِّئًا عَلَى إِنْسَانٍ",
+    "swahili": "MLANGO: IMAMU AKIWA AMESIMAMA WAKATI WA KHUTBAH, AMEEGEMEA MTU MWINGINE"
+  },
+  {
+    "start": "1576",
+    "arabic": "باب اسْتِقْبَالِ الإِمَامِ النَّاسَ بِوَجْهِهِ فِي الْخُطْبَةِ",
+    "swahili": "MLANGO: IMAMU AKIGEUKA KUWATAZAMA WATU WAKATI WA KHUTBAH"
+  },
+  {
+    "start": "1577",
+    "arabic": "باب الإِنْصَاتِ لِلْخُطْبَةِ",
+    "swahili": "MLANGO: KUSIKIZA KWA MAKINI KHUTBAH"
+  },
+  {
+    "start": "1578",
+    "arabic": "باب كَيْفَ الْخُطْبَةُ",
+    "swahili": "MLANGO: JINSI KHUTBAH ITATOLEWA"
+  },
+  {
+    "start": "1579",
+    "arabic": "باب حَثِّ الإِمَامِ عَلَى الصَّدَقَةِ فِي الْخُطْبَةِ",
+    "swahili": "MLANGO: IMAM AKIWAHIMIZA (WATU) KUTOA SADAKA"
+  },
+  {
+    "start": "1582",
+    "arabic": "باب الْقَصْدِ فِي الْخُطْبَةِ",
+    "swahili": "MLANGO: KIASI KATIKA KHUTBAH"
+  },
+  {
+    "start": "1583",
+    "arabic": "باب الْجُلُوسِ بَيْنَ الْخُطْبَتَيْنِ وَالسُّكُوتِ فِيهِ",
+    "swahili": "MLANGO: KUKAA KATI YA KHUTBAH MBILI NA KUKAA KIMYA WAKATI WA KUKAA"
+  },
+  {
+    "start": "1584",
+    "arabic": "باب الْقِرَاءَةِ فِي الْخُطْبَةِ الثَّانِيَةِ وَالذِّكْرِ فِيهَا",
+    "swahili": "MLANGO: KUSOMA NA KUKUMBUKA WAKATI WA KHUTBA YA PILI"
+  },
+  {
+    "start": "1585",
+    "arabic": "باب نُزُولِ الإِمَامِ عَنِ الْمِنْبَرِ، قَبْلَ فَرَاغِهِ مِنَ الْخُطْبَةِ",
+    "swahili": "MLANGO: IMAMU AKISHUKA KUTOKA KWENYE MINBAR KABLA YA KUMALIZA KHUTBAH"
+  },
+  {
+    "start": "1586",
+    "arabic": "باب مَوْعِظَةِ الإِمَامِ النِّسَاءَ بَعْدَ الْفَرَاغِ مِنَ الْخُطْبَةِ وَحَثِّهِنَّ عَلَى الصَّدَقَةِ",
+    "swahili": "MLANGO: IMAM AKIWAUSIA WANAWAKE BAADA YA KUMALIZA KHUTBAH YAKE NA KUWAHIMIZA KUTOA SADAKA"
+  },
+  {
+    "start": "1587",
+    "arabic": "باب الصَّلاَةِ قَبْلَ الْعِيدَيْنِ وَبَعْدَهَا",
+    "swahili": "MLANGO: KUSWALI KABLA NA BAADA YA SWALAH YA 'IYD"
+  },
+  {
+    "start": "1588",
+    "arabic": "باب ذَبْحِ الإِمَامِ يَوْمَ الْعِيدِ وَعَدَدِ مَا يَذْبَحُ",
+    "swahili": "MLANGO: IMAMU AKITOA KAFARA SIKU YA 'IYD NA IDADI (YA WANYAMA) ANAYOWEZA KUCHINJA"
+  },
+  {
+    "start": "1590",
+    "arabic": "باب اجْتِمَاعِ الْعِيدَيْنِ وَشُهُودِهِمَا",
+    "swahili": "MLANGO: EID MBILI ZINAPOKUTANA (IDI IFIKAPO SIKU YA IJUMAA) NA KUHUDHURIA ZOTE MBILI"
+  },
+  {
+    "start": "1591",
+    "arabic": "باب الرُّخْصَةِ فِي التَّخَلُّفِ عَنِ الْجُمُعَةِ، لِمَنْ شَهِدَ الْعِيدَ",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOWARUHUSU WALE WALIOHUDHURIA SWALAH YA 'IYD KUTOHUDHURIA JUMU'AH"
+  },
+  {
+    "start": "1593",
+    "arabic": "باب ضَرْبِ الدُّفِّ يَوْمَ الْعِيدِ",
+    "swahili": "MLANGO: KUPIGA DUFF SIKU YA 'IYD"
+  },
+  {
+    "start": "1594",
+    "arabic": "باب اللَّعِبِ بَيْنَ يَدَىِ الإِمَامِ يَوْمَ الْعِيدِ",
+    "swahili": "MLANGO: KUCHEZA MBELE YA IMAMU SIKU YA 'IYD"
+  },
+  {
+    "start": "1595",
+    "arabic": "باب اللَّعِبِ فِي الْمَسْجِدِ يَوْمَ الْعِيدِ وَنَظَرِ النِّسَاءِ إِلَى ذَلِكَ",
+    "swahili": "MLANGO: WAKICHEZA MSIKITINI SIKU YA 'IYD NA WANAWAKE WAKITAZAMA HILO"
+  },
+  {
+    "start": "1597",
+    "arabic": "باب الرُّخْصَةِ فِي الاِسْتِمَاعِ إِلَى الْغِنَاءِ وَضَرْبِ الدُّفِّ يَوْمَ الْعِيدِ",
+    "swahili": "MLANGO: MAKUBALIANO YA KURUHUSU KUSIKILIZA KUIMBA NA KUPIGA DUFU SIKU YA 'EID"
+  }
+]

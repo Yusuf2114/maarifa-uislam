@@ -1,0 +1,422 @@
+[
+  {
+    "start": 3089,
+    "arabic": "باب الأَمْرَاضِ الْمُكَفِّرَةِ لِلذُّنُوبِ",
+    "swahili": "MLANGO : UGONJWA AMBAO HUONDOA DHAMBI"
+  },
+  {
+    "start": 3091,
+    "arabic": "باب إِذَا كَانَ الرَّجُلُ يَعْمَلُ عَمَلاً صَالِحًا فَشَغَلَهُ عَنْهُ مَرَضٌ أَوْ سَفَرٌ",
+    "swahili": "MLANGO : IKIWA MWANAUME ALIKUWA AKIFANYA TENDO LA HAKI BASI ANAKATIZWA NA UGONJWA AU SAFARI."
+  },
+  {
+    "start": 3092,
+    "arabic": "باب عِيَادَةِ النِّسَاءِ",
+    "swahili": "MLANGO : KUTEMBELEA WANAWAKE WAGONJWA"
+  },
+  {
+    "start": 3094,
+    "arabic": "باب فِي الْعِيَادَةِ",
+    "swahili": "MLANGO : KUWATEMBELEA WAGONJWA"
+  },
+  {
+    "start": 3095,
+    "arabic": "باب فِي عِيَادَةِ الذِّمِّيِّ",
+    "swahili": "MLANGO : KUTEMBELEA DHIMMI MWENYE UGONJWA"
+  },
+  {
+    "start": 3096,
+    "arabic": "باب الْمَشْىِ فِي الْعِيَادَةِ",
+    "swahili": "MLANGO : KWENDA KWA MIGUU KUWATEMBELEA WAGONJWA"
+  },
+  {
+    "start": 3097,
+    "arabic": "باب فِي فَضْلِ الْعِيَادَةِ عَلَى وُضُوءٍ",
+    "swahili": "MLANGO : FADHILA YA KUWATEMBELEA WAGONJWA AKIWA KATIKA HALI YA WUDHU'."
+  },
+  {
+    "start": 3101,
+    "arabic": "باب فِي الْعِيَادَةِ مِرَارًا",
+    "swahili": "MLANGO : KUTEMBELEA RUDIWA (KWA MGONJWA)"
+  },
+  {
+    "start": 3102,
+    "arabic": "باب فِي الْعِيَادَةِ مِنَ الرَّمَدِ",
+    "swahili": "MLANGO : KUMTEMBELEA MWENYE MATESO YA RAMAD (EYESORE)"
+  },
+  {
+    "start": 3103,
+    "arabic": "باب الْخُرُوجِ مِنَ الطَّاعُونِ",
+    "swahili": "MLANGO : KUKIMBIA TAUNI"
+  },
+  {
+    "start": 3104,
+    "arabic": "باب الدُّعَاءِ لِلْمَرِيضِ بِالشِّفَاءِ عِنْدَ الْعِيَادَةِ",
+    "swahili": "MLANGO : KUMUOMBEA MGONJWA APONYWE WAKATI WA KUMTEMBELEA"
+  },
+  {
+    "start": 3106,
+    "arabic": "باب الدُّعَاءِ لِلْمَرِيضِ عِنْدَ الْعِيَادَةِ",
+    "swahili": "MLANGO : KUMUOMBEA MGONJWA WAKATI WA KUMTEMBELEA"
+  },
+  {
+    "start": 3108,
+    "arabic": "باب فِي كَرَاهِيَةِ تَمَنِّي الْمَوْتِ",
+    "swahili": "MLANGO : HAIPENDEKI KUTAKIA KIFO"
+  },
+  {
+    "start": 3110,
+    "arabic": "باب مَوْتِ الْفَجْأَةِ",
+    "swahili": "MLANGO : KIFO CHA GHAFLA"
+  },
+  {
+    "start": 3111,
+    "arabic": "باب فِي فَضْلِ مَنْ مَاتَ فِي الطَّاعُونِ",
+    "swahili": "MLANGO : FADHILA ZA MWENYE KUFA KWA TAUNI"
+  },
+  {
+    "start": 3112,
+    "arabic": "باب الْمَرِيضِ يُؤْخَذُ مِنْ أَظْفَارِهِ وَعَانَتِهِ",
+    "swahili": "MLANGO : KUCHUKUA KUCHA NA KUNYOA MIPAFU YA MGONJWA"
+  },
+  {
+    "start": 3113,
+    "arabic": "باب مَا يُسْتَحَبُّ مِنْ حُسْنِ الظَّنِّ بِاللَّهِ عِنْدَ الْمَوْتِ",
+    "swahili": "MLANGO : INAPENDEKEZWA KUMFIKIRIA MWENYEZI MUNGU WAKATI WA KUFA."
+  },
+  {
+    "start": 3114,
+    "arabic": "باب مَا يُسْتَحَبُّ مِنْ تَطْهِيرِ ثِيَابِ الْمَيِّتِ عِنْدَ الْمَوْتِ",
+    "swahili": "MLANGO : INASHAURIWA KUTAKASA NGUO ZA MTU ALIYEKUFA WAKATI WA KUFA."
+  },
+  {
+    "start": 3115,
+    "arabic": "باب مَا يُسْتَحَبُّ أَنْ يُقَالَ عِنْدَ الْمَيِّتِ مِنَ الْكَلاَمِ",
+    "swahili": "MLANGO : NINI KISEMWE WAKATI WA KUFA"
+  },
+  {
+    "start": 3116,
+    "arabic": "باب فِي التَّلْقِينِ",
+    "swahili": "MLANGO : KUHAMASISHA MTU ANAYEKUFA"
+  },
+  {
+    "start": 3118,
+    "arabic": "باب تَغْمِيضِ الْمَيِّتِ",
+    "swahili": "MLANGO : KUFUNGA MACHO YA MAREHEMU"
+  },
+  {
+    "start": 3119,
+    "arabic": "باب فِي الاِسْتِرْجَاعِ",
+    "swahili": "MLANGO : KUSEMA INNA LILLAHI WA INNA ILAIHI RAJI'UN (HAKIKA SISI NI WA ALLAH NA NI KWAKE MAREJEO YETU)."
+  },
+  {
+    "start": 3120,
+    "arabic": "باب فِي الْمَيِّتِ يُسَجَّى",
+    "swahili": "MLANGO : KUMFUNIKA MAREHEMU"
+  },
+  {
+    "start": 3121,
+    "arabic": "باب الْقِرَاءَةِ عِنْدَ الْمَيِّتِ",
+    "swahili": "MLANGO : KUSOMA QUR-AN KWA ANAYEKUFA"
+  },
+  {
+    "start": 3122,
+    "arabic": "باب الْجُلُوسِ عِنْدَ الْمُصِيبَةِ",
+    "swahili": "MLANGO : KUKAA CHINI MSIBA UNAPOTOKEA"
+  },
+  {
+    "start": 3123,
+    "arabic": "باب فِي التَّعْزِيَةِ",
+    "swahili": "MLANGO : KUTOA RAHA"
+  },
+  {
+    "start": 3124,
+    "arabic": "باب الصَّبْرِ عِنْدَ الصَّدْمَةِ",
+    "swahili": "MLANGO : UVUMILIVU WAKATI WA MSIBA"
+  },
+  {
+    "start": 3125,
+    "arabic": "باب فِي الْبُكَاءِ عَلَى الْمَيِّتِ",
+    "swahili": "MLANGO : KULIA KWA MAREHEMU"
+  },
+  {
+    "start": 3127,
+    "arabic": "باب فِي النَّوْحِ",
+    "swahili": "MLANGO : KULIA"
+  },
+  {
+    "start": 3132,
+    "arabic": "باب صَنْعَةِ الطَّعَامِ لأَهْلِ الْمَيِّتِ",
+    "swahili": "MLANGO : KUANDAA CHAKULA KWA AJILI YA FAMILIA YA MAREHEMU"
+  },
+  {
+    "start": 3133,
+    "arabic": "باب فِي الشَّهِيدِ يُغَسَّلُ",
+    "swahili": "MLANGO : JE, MWENYE MASHAHIDI AOSHWE"
+  },
+  {
+    "start": 3140,
+    "arabic": "باب فِي سَتْرِ الْمَيِّتِ عِنْدَ غَسْلِهِ",
+    "swahili": "MLANGO : KUMFUNIKA MAREHEMU WAKATI WA KUMUOSHA"
+  },
+  {
+    "start": 3142,
+    "arabic": "باب كَيْفَ غُسْلُ الْمَيِّتِ",
+    "swahili": "MLANGO : JINSI MAREHEMU ANAVYOOSHWA"
+  },
+  {
+    "start": 3148,
+    "arabic": "باب فِي الْكَفَنِ",
+    "swahili": "MLANGO : KUHUSU KUCHUNGUA"
+  },
+  {
+    "start": 3154,
+    "arabic": "باب كَرَاهِيَةِ الْمُغَالاَةِ فِي الْكَفَنِ",
+    "swahili": "MLANGO : HAIPENDWI KUWA NA MABADILIKO KATIKA KUSANDA"
+  },
+  {
+    "start": 3157,
+    "arabic": "باب فِي كَفَنِ الْمَرْأَةِ",
+    "swahili": "MLANGO : KUMFUNGA MWANAMKE"
+  },
+  {
+    "start": 3158,
+    "arabic": "باب فِي الْمِسْكِ لِلْمَيِّتِ",
+    "swahili": "MLANGO : MISIKI KWA MAREHEMU"
+  },
+  {
+    "start": 3159,
+    "arabic": "باب التَّعْجِيلِ بِالْجَنَازَةِ وَكَرَاهِيَةِ حَبْسِهَا",
+    "swahili": "MLANGO : KUFANYA HARAKA NA JANAZAH, NA HAIPENDWI KUCHELEWA"
+  },
+  {
+    "start": 3160,
+    "arabic": "باب فِي الْغُسْلِ مِنْ غَسْلِ الْمَيِّتِ",
+    "swahili": "MLANGO : GHUSL KWA ALIYEMUOSHA MAREHEMU"
+  },
+  {
+    "start": 3163,
+    "arabic": "باب فِي تَقْبِيلِ الْمَيِّتِ",
+    "swahili": "MLANGO : KUMBUSU MAREHEMU"
+  },
+  {
+    "start": 3164,
+    "arabic": "باب فِي الدَّفْنِ بِاللَّيْلِ",
+    "swahili": "MLANGO : MAZISHI YA USIKU"
+  },
+  {
+    "start": 3165,
+    "arabic": "باب فِي الْمَيِّتِ يُحْمَلُ مِنْ أَرْضٍ إِلَى أَرْضٍ وَكَرَاهَةِ ذَلِكَ",
+    "swahili": "MLANGO : KUWAHAMISHA MAREHEMU KUTOKA ARDHI MOJA HADI NYINGINE - AMBAYO HAIPENDWI"
+  },
+  {
+    "start": 3166,
+    "arabic": "باب فِي الصُّفُوفِ عَلَى الْجَنَازَةِ",
+    "swahili": "MLANGO : SAFU KATIKA DUA YA MAZISHI"
+  },
+  {
+    "start": 3167,
+    "arabic": "باب اتِّبَاعِ النِّسَاءِ الْجَنَائِزَ",
+    "swahili": "MLANGO : WANAWAKE WAKIAMBATANA NA JANAZAH"
+  },
+  {
+    "start": 3168,
+    "arabic": "باب فَضْلِ الصَّلاَةِ عَلَى الْجَنَائِزِ وَتَشْيِيعِهَا",
+    "swahili": "MLANGO : FADHILA YA KUFANYA SWALA YA MAZISHI NA KUAMBATANA NA JANAZAH."
+  },
+  {
+    "start": 3171,
+    "arabic": "باب فِي النَّارِ يُتْبَعُ بِهَا الْمَيِّتُ",
+    "swahili": "MLANGO : KUBEBA MOTO NA JANAZAH"
+  },
+  {
+    "start": 3172,
+    "arabic": "باب الْقِيَامِ لِلْجَنَازَةِ",
+    "swahili": "MLANGO : KUSIMAMA KWA MAZISHI"
+  },
+  {
+    "start": 3177,
+    "arabic": "باب الرُّكُوبِ فِي الْجَنَازَةِ",
+    "swahili": "MLANGO : KUPANDA WAKATI WA MAZISHI"
+  },
+  {
+    "start": 3179,
+    "arabic": "باب الْمَشْىِ أَمَامَ الْجَنَازَةِ",
+    "swahili": "MLANGO : KUTEMBEA MBELE YA JANAZAH"
+  },
+  {
+    "start": 3181,
+    "arabic": "باب الإِسْرَاعِ بِالْجَنَازَةِ",
+    "swahili": "MLANGO : KUFANYA HARAKA NA JANAZAH"
+  },
+  {
+    "start": 3185,
+    "arabic": "باب الإِمَامِ لاَ يُصَلِّي عَلَى مَنْ قَتَلَ نَفْسَهُ",
+    "swahili": "MLANGO : MTAWALA HATAKIWI KUFANYA DUA YA MAZISHI KWA ALIYEJIUA."
+  },
+  {
+    "start": 3186,
+    "arabic": "باب الصَّلاَةِ عَلَى مَنْ قَتَلَتْهُ الْحُدُودُ",
+    "swahili": "MLANGO : DUA YA MAZISHI KWA YULE ALIYETEKELEZWA KUWA NI ADHABU KISHERIA."
+  },
+  {
+    "start": 3187,
+    "arabic": "باب فِي الصَّلاَةِ عَلَى الطِّفْلِ",
+    "swahili": "MLANGO : DUA YA MAZISHI KWA MTOTO"
+  },
+  {
+    "start": 3189,
+    "arabic": "باب الصَّلاَةِ عَلَى الْجَنَازَةِ فِي الْمَسْجِدِ",
+    "swahili": "MLANGO : AKISALI DUA YA MAZISHI MASJID"
+  },
+  {
+    "start": 3192,
+    "arabic": "باب الدَّفْنِ عِنْدَ طُلُوعِ الشَّمْسِ وَعِنْدَ غُرُوبِهَا",
+    "swahili": "MLANGO : MAZISHI MCHANA NA JUA"
+  },
+  {
+    "start": 3193,
+    "arabic": "باب إِذَا حَضَرَ جَنَائِزَ رِجَالٍ وَنِسَاءٍ مَنْ يُقَدِّمُ",
+    "swahili": "MLANGO : IKIWA KUNA JANAZAHA YA WANAUME NA WANAWAKE, NANI ANAWEKA MBELE?"
+  },
+  {
+    "start": 3194,
+    "arabic": "باب أَيْنَ يَقُومُ الإِمَامُ مِنَ الْمَيِّتِ إِذَا صَلَّى عَلَيْهِ",
+    "swahili": "MLANGO : IMAM ASIMAME WAPI KUHUSIANA NA MAREHEMU ANAPOSALI SWALA YA MAZISHI ?"
+  },
+  {
+    "start": 3196,
+    "arabic": "باب التَّكْبِيرِ عَلَى الْجَنَازَةِ",
+    "swahili": "MLANGO : AKISEMA TAKBIR JUU YA MAREHEMU"
+  },
+  {
+    "start": 3198,
+    "arabic": "باب مَا يُقْرَأُ عَلَى الْجَنَازَةِ",
+    "swahili": "MLANGO : NINI KINACHOSOMA JUU YA MAREHEMU"
+  },
+  {
+    "start": 3199,
+    "arabic": "باب الدُّعَاءِ لِلْمَيِّتِ",
+    "swahili": "MLANGO : DUA KWA MAREHEMU"
+  },
+  {
+    "start": 3203,
+    "arabic": "باب الصَّلاَةِ عَلَى الْقَبْرِ",
+    "swahili": "MLANGO : KUOMBA MAKABURINI"
+  },
+  {
+    "start": 3204,
+    "arabic": "باب فِي الصَّلاَةِ عَلَى الْمُسْلِمِ يَمُوتُ فِي بِلاَدِ الشِّرْكِ",
+    "swahili": "MLANGO : KUFANYA SWALA YA MAZISHI KWA MUISLAMU ALIYEKUFA KATIKA ARDHI YA SHIRIKI."
+  },
+  {
+    "start": 3206,
+    "arabic": "باب فِي جَمْعِ الْمَوْتَى فِي قَبْرٍ وَالْقَبْرُ يُعَلَّمُ",
+    "swahili": "MLANGO : KUWAWEKA KABURINI ZAIDI YA MAREHEMU MMOJA NA KUWEKA ALAMA YA KABURI"
+  },
+  {
+    "start": 3207,
+    "arabic": "باب فِي الْحَفَّارِ يَجِدُ الْعَظْمَ هَلْ يَتَنَكَّبُ ذَلِكَ الْمَكَانَ",
+    "swahili": "MLANGO : IKIWA MCHUNGAJI AKIPATA MIFUPA, JE, AONDOKE MAHALI HAPO?"
+  },
+  {
+    "start": 3208,
+    "arabic": "باب فِي اللَّحْدِ",
+    "swahili": "MLANGO : LAHD (NICHE)"
+  },
+  {
+    "start": 3209,
+    "arabic": "باب كَمْ يَدْخُلُ الْقَبْرَ",
+    "swahili": "MLANGO : WATU WANGAPI WANATAKIWA KUINGIA KABURINI ?"
+  },
+  {
+    "start": 3211,
+    "arabic": "باب فِي الْمَيِّتِ يُدْخَلُ مِنْ قِبَلِ رِجْلَيْهِ",
+    "swahili": "MLANGO : JINSI MAREHEMU ANATAKIWA KUWEKA KABURI LAKE"
+  },
+  {
+    "start": 3212,
+    "arabic": "باب الْجُلُوسِ عِنْدَ الْقَبْرِ",
+    "swahili": "MLANGO : JINSI YA KUKAA KABURINI"
+  },
+  {
+    "start": 3213,
+    "arabic": "باب فِي الدُّعَاءِ لِلْمَيِّتِ إِذَا وُضِعَ فِي قَبْرِهِ",
+    "swahili": "MLANGO : AKIMUOMBEA MAREHEMU PINDI AKIWEKWA KABURINI KWAKE"
+  },
+  {
+    "start": 3214,
+    "arabic": "باب الرَّجُلِ يَمُوتُ لَهُ قَرَابَةُ مُشْرِكٍ",
+    "swahili": "MLANGO : IKIWA JAMAA WA MTU MUABUDU SANAMU AKIFA"
+  },
+  {
+    "start": 3215,
+    "arabic": "باب فِي تَعْمِيقِ الْقَبْرِ",
+    "swahili": "MLANGO : KULIFANYA KABURI NDANI"
+  },
+  {
+    "start": 3218,
+    "arabic": "باب فِي تَسْوِيَةِ الْقَبْرِ",
+    "swahili": "MLANGO : KUSAWAZISHA KABURI"
+  },
+  {
+    "start": 3221,
+    "arabic": "باب الاِسْتِغْفَارِ عِنْدَ الْقَبْرِ لِلْمَيِّتِ فِي وَقْتِ الاِنْصِرَافِ",
+    "swahili": "MLANGO : KUWAOMBEA MSAMAHA MAREHEMU AKIWA KABURINI WAKATI WA KUONDOKA (MAZISHI)"
+  },
+  {
+    "start": 3222,
+    "arabic": "باب كَرَاهِيَةِ الذَّبْحِ عِنْدَ الْقَبْرِ",
+    "swahili": "MLANGO : HAIPENDWI KUCHINJA (MNYAMA) PALE KABURINI"
+  },
+  {
+    "start": 3223,
+    "arabic": "باب الْمَيِّتِ يُصَلَّى عَلَى قَبْرِهِ بَعْدَ حِينٍ",
+    "swahili": "MLANGO : AKITOA DUA YA MAZISHI MAKABURINI BAADA YA MUDA"
+  },
+  {
+    "start": 3225,
+    "arabic": "باب فِي الْبِنَاءِ عَلَى الْقَبْرِ",
+    "swahili": "MLANGO : KUJENGA MIUNDO JUU YA MAKABURI"
+  },
+  {
+    "start": 3228,
+    "arabic": "باب فِي كَرَاهِيَةِ الْقُعُودِ عَلَى الْقَبْرِ",
+    "swahili": "MLANGO : HAIPENDI KUKAA MAKABURINI"
+  },
+  {
+    "start": 3230,
+    "arabic": "باب الْمَشْىِ فِي النَّعْلِ بَيْنَ الْقُبُورِ",
+    "swahili": "MLANGO : KUTEMBEA KATI YA MAKABURI HUKU AMEVAA VIATU"
+  },
+  {
+    "start": 3232,
+    "arabic": "باب فِي تَحْوِيلِ الْمَيِّتِ مِنْ مَوْضِعِهِ لِلأَمْرِ يَحْدُثُ",
+    "swahili": "MLANGO : KUHAMA MAREHEMU KUTOKA MAZISHI YAKE KWA JAMBO LILILOTOKEA."
+  },
+  {
+    "start": 3233,
+    "arabic": "باب فِي الثَّنَاءِ عَلَى الْمَيِّتِ",
+    "swahili": "MLANGO : AKIMSIFU MAREHEMU"
+  },
+  {
+    "start": 3234,
+    "arabic": "باب فِي زِيَارَةِ الْقُبُورِ",
+    "swahili": "MLANGO : KUTEMBELEA MAKABURI"
+  },
+  {
+    "start": 3236,
+    "arabic": "باب فِي زِيَارَةِ النِّسَاءِ الْقُبُورَ",
+    "swahili": "MLANGO : WANAWAKE WATEMBELEA MAKABURI"
+  },
+  {
+    "start": 3237,
+    "arabic": "باب مَا يَقُولُ إِذَا زَارَ الْقُبُورَ أَوْ مَرَّ بِهَا",
+    "swahili": "MLANGO : NINI CHA KUSEMA WAKATI WA KUPITA MAKABURI"
+  },
+  {
+    "start": 3238,
+    "arabic": "باب الْمُحْرِمِ يَمُوتُ كَيْفَ يُصْنَعُ بِهِ",
+    "swahili": "MLANGO : JE, MUHRIM AKIFA AFANYEJE?"
+  }
+]

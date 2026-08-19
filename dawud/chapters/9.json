@@ -1,0 +1,232 @@
+[
+  {
+    "start": 1556,
+    "arabic": "باب وُجُوبِ الزَّكَاةِ",
+    "swahili": "MLANGO : ZAKA"
+  },
+  {
+    "start": 1558,
+    "arabic": "باب مَا تَجِبُ فِيهِ الزَّكَاةُ",
+    "swahili": "MLANGO : MALI AMBAYO ZAKA INALIPWA"
+  },
+  {
+    "start": 1562,
+    "arabic": "باب الْعُرُوضِ إِذَا كَانَتْ لِلتِّجَارَةِ هَلْ فِيهَا مِنْ زَكَاةٍ",
+    "swahili": "MLANGO : IKIWA MALI INAKUSUDIWA KWA BIASHARA, JE, ZAKA ITATOZWA JUU YAKE?"
+  },
+  {
+    "start": 1563,
+    "arabic": "باب الْكَنْزِ مَا هُوَ وَزَكَاةِ الْحُلِيِّ",
+    "swahili": "MLANGO : JUU YA MAANA YA KANZ (HAZINA) NA ZAKA JUU YA VITO"
+  },
+  {
+    "start": 1567,
+    "arabic": "باب فِي زَكَاةِ السَّائِمَةِ",
+    "swahili": "MLANGO : ZAKA JUU YA KULISHA WANYAMA"
+  },
+  {
+    "start": 1586,
+    "arabic": "باب رِضَا الْمُصَدِّقِ",
+    "swahili": "MLANGO : JUU YA KUMPENDEZA MKUKUZA ZAKA"
+  },
+  {
+    "start": 1590,
+    "arabic": "باب دُعَاءِ الْمُصَدِّقِ لأَهْلِ الصَّدَقَةِ",
+    "swahili": "MLANGO : BARAKA YA MSUKUZA ZAKA KWA WALIPAJI"
+  },
+  {
+    "start": 1591,
+    "arabic": "باب أَيْنَ تُصَدَّقُ الأَمْوَالُ",
+    "swahili": "MLANGO : MAHALI AMBAPO ZAKA INATAKIWA KULIPWA"
+  },
+  {
+    "start": 1593,
+    "arabic": "باب الرَّجُلِ يَبْتَاعُ صَدَقَتَهُ",
+    "swahili": "MLANGO : JUU YA MTU ANAYENUNUA ZAKA YAKE BAADA YA MALIPO YAKE"
+  },
+  {
+    "start": 1594,
+    "arabic": "باب صَدَقَةِ الرَّقِيقِ",
+    "swahili": "MLANGO : ZAKA JUU YA WATUMWA"
+  },
+  {
+    "start": 1596,
+    "arabic": "باب صَدَقَةِ الزَّرْعِ",
+    "swahili": "MLANGO : ZAKA KUHUSU MAZAO YA KILIMO"
+  },
+  {
+    "start": 1600,
+    "arabic": "باب زَكَاةِ الْعَسَلِ",
+    "swahili": "MLANGO : ZAKA JUU YA ASALI"
+  },
+  {
+    "start": 1603,
+    "arabic": "باب فِي خَرْصِ الْعِنَبِ",
+    "swahili": "MLANGO : KUKADIRIA MIZABIBU KWA ZAKA"
+  },
+  {
+    "start": 1605,
+    "arabic": "باب فِي الْخَرْصِ",
+    "swahili": "MLANGO : JUU YA KUKADIRIA MATUNDA KWENYE MITI"
+  },
+  {
+    "start": 1606,
+    "arabic": "باب مَتَى يُخْرَصُ التَّمْرُ",
+    "swahili": "MLANGO : WAKATI MTENDE INAPASWA KUKADIRIWA"
+  },
+  {
+    "start": 1607,
+    "arabic": "باب مَا لاَ يَجُوزُ مِنَ الثَّمَرَةِ فِي الصَّدَقَةِ",
+    "swahili": "MLANGO : MATUNDA GANI HAYAPASWI KUKUBALIWA KUWA ZAKA"
+  },
+  {
+    "start": 1609,
+    "arabic": "باب زَكَاةِ الْفِطْرِ",
+    "swahili": "MLANGO : ZAKA YA KUFUNGA FUNGA MWISHO WA RAMADHANI"
+  },
+  {
+    "start": 1610,
+    "arabic": "باب مَتَى تُؤَدَّى",
+    "swahili": "MLANGO : WAKATI SADAQAH MWISHO WA RAMADHAN ITATOLEWA"
+  },
+  {
+    "start": 1611,
+    "arabic": "باب كَمْ يُؤَدَّى فِي صَدَقَةِ الْفِطْرِ",
+    "swahili": "MLANGO : NI SADAQAH NGAPI INAPASWA KUTOLEWA MWISHO WA RAMADHANI"
+  },
+  {
+    "start": 1619,
+    "arabic": "باب مَنْ رَوَى نِصْفَ، صَاعٍ مِنْ قَمْحٍ",
+    "swahili": "MLANGO : MAONI YA KWAMBA NUSU SA' YA NGANO INATAKIWA KUTOLEWA KUWA SADAQAH"
+  },
+  {
+    "start": 1623,
+    "arabic": "باب فِي تَعْجِيلِ الزَّكَاةِ",
+    "swahili": "MLANGO : MALIPO YA ZAKA MAPEMA KABLA HAIJAFIKISHWA"
+  },
+  {
+    "start": 1625,
+    "arabic": "باب فِي الزَّكَاةِ هَلْ تُحْمَلُ مِنْ بَلَدٍ إِلَى بَلَدٍ",
+    "swahili": "MLANGO : UHAMISHO WA ZAKA YA MJI MMOJA KWENDA MJI MWINGINE"
+  },
+  {
+    "start": 1626,
+    "arabic": "باب مَنْ يُعْطَى مِنَ الصَّدَقَةِ وَحَدِّ الْغِنَى",
+    "swahili": "MLANGO : AMBAYE ZAKA INATAKIWA KULIPWA NA UFAFANUZI WA MTAJIRI"
+  },
+  {
+    "start": 1635,
+    "arabic": "باب مَنْ يَجُوزُ لَهُ أَخْذُ الصَّدَقَةِ وَهُوَ غَنِيٌّ",
+    "swahili": "MLANGO : TAJIRI AMBAYE ANARUHUSIWA KUKUBALI SADAQAH"
+  },
+  {
+    "start": 1638,
+    "arabic": "باب كَمْ يُعْطَى الرَّجُلُ الْوَاحِدُ مِنَ الزَّكَاةِ",
+    "swahili": "MLANGO : NI ZAKA NGAPI INAWEZA KUPEWA MTU MMOJA"
+  },
+  {
+    "start": 1639,
+    "arabic": "باب مَا تَجُوزُ فِيهِ الْمَسْأَلَةُ",
+    "swahili": "MLANGO : HALI AMBAPO KUOMBA KUNARUHUSIWA NA AMBAPO HAIRUHUSIWI"
+  },
+  {
+    "start": 1642,
+    "arabic": "باب كَرَاهِيَةِ الْمَسْأَلَةِ",
+    "swahili": "MLANGO : KUKATAA KUOMBA"
+  },
+  {
+    "start": 1644,
+    "arabic": "باب فِي الاِسْتِعْفَافِ",
+    "swahili": "MLANGO : JUU YA KUJIZUIA KUOMBA OMBA"
+  },
+  {
+    "start": 1650,
+    "arabic": "باب الصَّدَقَةِ عَلَى بَنِي هَاشِمٍ",
+    "swahili": "MLANGO : JUU YA KUTOA SADAQAH KWA BANU HASHIM"
+  },
+  {
+    "start": 1655,
+    "arabic": "باب الْفَقِيرِ يُهْدِي لِلْغَنِيِّ مِنَ الصَّدَقَةِ",
+    "swahili": "MLANGO : MASIKINI ANAWEZA KUTOA ZAWADI KUTOKA SADAQAH KWA TAJIRI"
+  },
+  {
+    "start": 1656,
+    "arabic": "باب مَنْ تَصَدَّقَ بِصَدَقَةٍ ثُمَّ وَرِثَهَا",
+    "swahili": "MLANGO : JUU YA MTU ANAYETOA SADAQAH NA AKARITHI BAADAE"
+  },
+  {
+    "start": 1657,
+    "arabic": "باب فِي حُقُوقِ الْمَالِ",
+    "swahili": "MLANGO : HAKI KUHUSIANA NA MALI"
+  },
+  {
+    "start": 1665,
+    "arabic": "باب حَقِّ السَّائِلِ",
+    "swahili": "MLANGO : HAKI YA OMBAOMBA"
+  },
+  {
+    "start": 1668,
+    "arabic": "باب الصَّدَقَةُ عَلَى أَهْلِ الذِّمَّةِ",
+    "swahili": "MLANGO : KUTOA SADAQAH (SADAKA) KWA WASIO WAISLAM"
+  },
+  {
+    "start": 1669,
+    "arabic": "باب مَا لاَ يَجُوزُ مَنْعُهُ",
+    "swahili": "MLANGO : MAMBO YASIYOTAKIWA KUKATAA UNAPOOMBWA"
+  },
+  {
+    "start": 1670,
+    "arabic": "باب الْمَسْأَلَةِ فِي الْمَسَاجِدِ",
+    "swahili": "MLANGO : KUOMBA MISIKITINI"
+  },
+  {
+    "start": 1671,
+    "arabic": "باب كَرَاهِيَةِ الْمَسْأَلَةِ بِوَجْهِ اللَّهِ تَعَالَى",
+    "swahili": "MLANGO : KARIBU KUOMBA KWA JINA LA MWENYEZI MUNGU MTUKUFU"
+  },
+  {
+    "start": 1672,
+    "arabic": "باب عَطِيَّةِ مَنْ سَأَلَ بِاللَّهِ",
+    "swahili": "MLANGO : JUU YA KUMTOA MTU ANAYEOMBA KWA JINA LA ALLAH"
+  },
+  {
+    "start": 1673,
+    "arabic": "باب الرَّجُلِ يَخْرُجُ مِنْ مَالِهِ",
+    "swahili": "MLANGO : JUU YA KUTOA MALI ZOTE KAMA SADAQAH NA MAMA"
+  },
+  {
+    "start": 1677,
+    "arabic": "باب فِي الرُّخْصَةِ فِي ذَلِكَ",
+    "swahili": "MLANGO : MADHUBUTI YA KUTOA MALI ZOTE KAMA SADAQAH"
+  },
+  {
+    "start": 1679,
+    "arabic": "باب فِي فَضْلِ سَقْىِ الْمَاءِ",
+    "swahili": "MLANGO : KUHUSU UBORA WA KUTOA MAJI YA KUNYWA"
+  },
+  {
+    "start": 1683,
+    "arabic": "باب فِي الْمَنِيحَةِ",
+    "swahili": "MLANGO : JUU YA KUKOPESHA KITU"
+  },
+  {
+    "start": 1684,
+    "arabic": "باب أَجْرِ الْخَازِنِ",
+    "swahili": "MLANGO : THAWABU KWA MDHAMINI"
+  },
+  {
+    "start": 1685,
+    "arabic": "باب الْمَرْأَةِ تَتَصَدَّقُ مِنْ بَيْتِ زَوْجِهَا",
+    "swahili": "MLANGO : SADAQAH ALIYOPEWA NA MWANAMKE KUTOKA KWA MALI YA MUMEWE"
+  },
+  {
+    "start": 1689,
+    "arabic": "باب فِي صِلَةِ الرَّحِمِ",
+    "swahili": "MLANGO : JUU YA KUFANYA WEMA KWA NDUGU WA KARIBU"
+  },
+  {
+    "start": 1698,
+    "arabic": "باب فِي الشُّحِّ",
+    "swahili": "MLANGO : KUKATAA AVARICE"
+  }
+]

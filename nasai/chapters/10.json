@@ -1,0 +1,327 @@
+[
+  {
+    "start": "777",
+    "arabic": "باب ذِكْرِ الإِمَامَةِ وَالْجَمَاعَةِ إِمَامَةِ أَهْلِ الْعِلْمِ وَالْفَضْلِ",
+    "swahili": "MLANGO: UTAJO WA AL-IMAMAH NA MKUSANYIKO"
+  },
+  {
+    "start": "778",
+    "arabic": "باب الصَّلاَةِ مَعَ أَئِمَّةِ الْجَوْرِ",
+    "swahili": "MLANGO: KUOMBA NA VIONGOZI DHALIMU"
+  },
+  {
+    "start": "780",
+    "arabic": "باب مَنْ أَحَقُّ بِالإِمَامَةِ",
+    "swahili": "MLANGO: NANI ANA HAKI ZAIDI YA UIMAMU"
+  },
+  {
+    "start": "781",
+    "arabic": "باب تَقْدِيمِ ذَوِي السِّنِّ",
+    "swahili": "MLANGO: WALE WALIO WAKUBWA KWENDA MBELE (KUSWALI)"
+  },
+  {
+    "start": "782",
+    "arabic": "باب اجْتِمَاعِ الْقَوْمِ فِي مَوْضِعٍ هُمْ فِيهِ سَوَاءٌ",
+    "swahili": "MLANGO: WAKATI WATU WAKO PAMOJA NA WOTE WAKO KATIKA HALI SAWA"
+  },
+  {
+    "start": "783",
+    "arabic": "باب اجْتِمَاعِ الْقَوْمِ وَفِيهِمُ الْوَالِي",
+    "swahili": "MLANGO: WAKATI WATU WAKO PAMOJA NA MMOJA WAO NI MTAWALA"
+  },
+  {
+    "start": "784",
+    "arabic": "باب إِذَا تَقَدَّمَ الرَّجُلُ مِنَ الرَّعِيَّةِ ثُمَّ جَاءَ الْوَالِي هَلْ يَتَأَخَّرُ",
+    "swahili": "MLANGO: ANAPOJITOKEZA MTU KATIKA WATU (KUONGOZA SWALAH) BASI ANAKUJA MTAWALA - JE, ARUDI NYUMA?"
+  },
+  {
+    "start": "785",
+    "arabic": "باب صَلاَةِ الإِمَامِ خَلْفَ رَجُلٍ مِنْ رَعِيَّتِهِ",
+    "swahili": "MLANGO: SWALA YA IMAM NYUMA YA MTU KATIKA WATU WAKE"
+  },
+  {
+    "start": "787",
+    "arabic": "باب إِمَامَةِ الزَّائِرِ",
+    "swahili": "MLANGO: MGENI AKIONGOZA MAOMBI"
+  },
+  {
+    "start": "788",
+    "arabic": "باب إِمَامَةِ الأَعْمَى",
+    "swahili": "MLANGO: KIPOFU AKIONGOZA SALA"
+  },
+  {
+    "start": "789",
+    "arabic": "باب إِمَامَةِ الْغُلاَمِ قَبْلَ أَنْ يَحْتَلِمَ",
+    "swahili": "MLANGO: KIJANA AKIONGOZA SWALA KABLA YA BALEGHE"
+  },
+  {
+    "start": "790",
+    "arabic": "باب قِيَامِ النَّاسِ إِذَا رَأَوُا الإِمَامَ",
+    "swahili": "MLANGO: WATU WAMESIMAMA WANAPOMUONA IMAM"
+  },
+  {
+    "start": "791",
+    "arabic": "باب الإِمَامِ تَعْرِضُ لَهُ الْحَاجَةُ بَعْدَ الإِقَامَةِ",
+    "swahili": "MLANGO: IWAPO KITU KITAMJIA IMAMU BAADA YA IQAMAH KUSEMWA"
+  },
+  {
+    "start": "792",
+    "arabic": "باب الإِمَامِ يَذْكُرُ بَعْدَ قِيَامِهِ فِي مُصَلاَّهُ أَنَّهُ عَلَى غَيْرِ طَهَارَةٍ",
+    "swahili": "MLANGO: BAADA YA KUSIMAMA KATIKA SEHEMU ANAYOSWALI, IMAM ANAKUMBUKA KWAMBA HAYUKO KATIKA HALI YA USAFI"
+  },
+  {
+    "start": "793",
+    "arabic": "باب اسْتِخْلاَفِ الإِمَامِ إِذَا غَابَ",
+    "swahili": "MLANGO: IMAMU AKIMTEUA MTU MWINGINE KUONGOZA SWALA AKIWA HAYUPO"
+  },
+  {
+    "start": "794",
+    "arabic": "باب الاِئْتِمَامِ بِالإِمَامِ",
+    "swahili": "MLANGO: KUMFUATA IMAM KATIKA SWALA"
+  },
+  {
+    "start": "795",
+    "arabic": "باب الاِئْتِمَامِ بِمَنْ يَأْتَمُّ بِالإِمَامِ",
+    "swahili": "MLANGO: KUFUATIA WALE WANAOMFUATA IMAMU"
+  },
+  {
+    "start": "799",
+    "arabic": "باب مَوْقِفِ الإِمَامِ إِذَا كَانُوا ثَلاَثَةً وَالاِخْتِلاَفِ فِي ذَلِكَ",
+    "swahili": "MLANGO: AMBAPO IMAM ANAPASWA KUSIMAMA WAKATI KUNA WATATU, NA HITILAFU KUHUSU HILO"
+  },
+  {
+    "start": "801",
+    "arabic": "باب إِذَا كَانُوا ثَلاَثَةً وَامْرَأَةً",
+    "swahili": "MLANGO: WAKATI WANAUME WATATU NA MWANAMKE MMOJA WANAOMBA PAMOJA"
+  },
+  {
+    "start": "802",
+    "arabic": "باب إِذَا كَانُوا رَجُلَيْنِ وَامْرَأَتَيْنِ",
+    "swahili": "MLANGO: WAKATI KUNA WANAUME WAWILI NA WANAWAKE WAWILI"
+  },
+  {
+    "start": "804",
+    "arabic": "باب مَوْقِفِ الإِمَامِ إِذَا كَانَ مَعَهُ صَبِيٌّ وَامْرَأَةٌ",
+    "swahili": "MLANGO: AMBAPO IMAM ANAPASWA KUSIMAMA WAKATI KUNA MVULANA NA MWANAMKE PAMOJA NAYE"
+  },
+  {
+    "start": "806",
+    "arabic": "باب مَوْقِفِ الإِمَامِ وَالْمَأْمُومُ صَبِيٌّ",
+    "swahili": "MLANGO: AMBAPO IMAM ANAPASWA KUSIMAMA WAKATI MTU ANAYESWALI NAYE NI MVULANA"
+  },
+  {
+    "start": "807",
+    "arabic": "باب مَنْ يَلِي الإِمَامَ ثُمَّ الَّذِي يَلِيهِ",
+    "swahili": "MLANGO: NANI ASIMAME MARA MOJA NYUMA YA IMAM NA NANI ASIMAME NYUMA YAO"
+  },
+  {
+    "start": "809",
+    "arabic": "باب إِقَامَةِ الصُّفُوفِ قَبْلَ خُرُوجِ الإِمَامِ",
+    "swahili": "MLANGO: KUWEKA SAFU KABLA IMAM HAJATOKA"
+  },
+  {
+    "start": "810",
+    "arabic": "باب كَيْفَ يُقَوِّمُ الإِمَامُ الصُّفُوفَ",
+    "swahili": "MLANGO: JINSI IMAM ANAVYOPASWA KUNYOOSHA SAFU"
+  },
+  {
+    "start": "812",
+    "arabic": "باب مَا يَقُولُ الإِمَامُ إِذَا تَقَدَّمَ فِي تَسْوِيَةِ الصُّفُوفِ",
+    "swahili": "MLANGO: IMAMU ASEME NINI KUHUSU KUNYOOSHA SAFU ANAPOKUJA MBELE"
+  },
+  {
+    "start": "813",
+    "arabic": "باب كَمْ مَرَّةٍ يَقُولُ اسْتَوُوا",
+    "swahili": "MLANGO: JE, MARA NYINGI ANAPASWA KUSEMA \"WEKA SAFU ZAKO SAWA?\""
+  },
+  {
+    "start": "814",
+    "arabic": "باب حَثِّ الإِمَامِ عَلَى رَصِّ الصُّفُوفِ وَالْمُقَارَبَةِ بَيْنَهَا",
+    "swahili": "MLANGO: IMAMU AKIWAHIMIZA (WAABUDUO) KUZIFANYA SAFU KUWA IMARA NA ZISIMAME KWA KARIBU"
+  },
+  {
+    "start": "817",
+    "arabic": "باب فَضْلِ الصَّفِّ الأَوَّلِ عَلَى الثَّانِي",
+    "swahili": "MLANGO: UBORA WA SAFU YA KWANZA JUU YA YA PILI"
+  },
+  {
+    "start": "818",
+    "arabic": "باب الصَّفِّ الْمُؤَخَّرِ",
+    "swahili": "MLANGO: SAFU YA MWISHO"
+  },
+  {
+    "start": "819",
+    "arabic": "باب مَنْ وَصَلَ صَفًّا",
+    "swahili": "MLANGO: MTU ANAYEMALIZA SAFU"
+  },
+  {
+    "start": "820",
+    "arabic": "باب ذِكْرِ خَيْرِ صُفُوفِ النِّسَاءِ وَشَرِّ صُفُوفِ الرِّجَالِ",
+    "swahili": "MLANGO: SAFU BORA KWA WANAWAKE NA SAFU MBAYA ZAIDI KWA WANAUME"
+  },
+  {
+    "start": "821",
+    "arabic": "باب الصَّفِّ بَيْنَ السَّوَارِي",
+    "swahili": "MLANGO: SAFU KATI YA NGUZO MBILI"
+  },
+  {
+    "start": "822",
+    "arabic": "باب الْمَكَانِ الَّذِي يُسْتَحَبُّ مِنَ الصَّفِّ",
+    "swahili": "MLANGO: MAHALI KWENYE SAFU INAYOPENDEKEZWA"
+  },
+  {
+    "start": "823",
+    "arabic": "باب مَا عَلَى الإِمَامِ مِنَ التَّخْفِيفِ",
+    "swahili": "MLANGO: IMAMU AFANYE SWALA KUWA FUPI"
+  },
+  {
+    "start": "826",
+    "arabic": "باب الرُّخْصَةِ لِلإِمَامِ فِي التَّطْوِيلِ",
+    "swahili": "MLANGO: MAKUBALIANO YA KUMRUHUSU IMAM KUSWALI SWALA NDEFU"
+  },
+  {
+    "start": "827",
+    "arabic": "باب مَا يَجُوزُ لِلإِمَامِ مِنَ الْعَمَلِ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: YALE AMBAYO YANAJUZU KWA IMAMU KUYAFANYA WAKATI WA SWALA"
+  },
+  {
+    "start": "828",
+    "arabic": "باب مُبَادَرَةِ الإِمَامِ",
+    "swahili": "MLANGO: KUMTANGULIA IMAMU"
+  },
+  {
+    "start": "831",
+    "arabic": "باب خُرُوجِ الرَّجُلِ مِنْ صَلاَةِ الإِمَامِ وَفَرَاغِهِ مِنْ صَلاَتِهِ فِي نَاحِيَةِ الْمَسْجِدِ",
+    "swahili": "MLANGO: MTU AKITOKA KWENYE SWALA NYUMA YA IMAM NA KWENDA KUSWALI PEKE YAKE KWENYE KONA YA MSIKITI"
+  },
+  {
+    "start": "832",
+    "arabic": "باب الاِئْتِمَامِ بِالإِمَامِ يُصَلِّي قَاعِدًا",
+    "swahili": "MLANGO: KUMFUATA IMAMU ANAYESWALI AKIWA AMEKAA"
+  },
+  {
+    "start": "835",
+    "arabic": "باب اخْتِلاَفِ نِيَّةِ الإِمَامِ وَالْمَأْمُومِ",
+    "swahili": "MLANGO: TOFAUTI KATIKA NIA YA IMAM NA ANAYEMFUATA"
+  },
+  {
+    "start": "837",
+    "arabic": "باب فَضْلِ الْجَمَاعَةِ",
+    "swahili": "MLANGO: FADHILA YA (MAOMBI KATIKA) MKUSANYIKO"
+  },
+  {
+    "start": "840",
+    "arabic": "باب الْجَمَاعَةُ إِذَا كَانُوا ثَلاَثَةً",
+    "swahili": "MLANGO: KUSANYIKO WAKATI KUNA WATU WATATU"
+  },
+  {
+    "start": "841",
+    "arabic": "باب الْجَمَاعَةُ إِذَا كَانُوا ثَلاَثَةً رَجُلٌ وَصَبِيٌّ وَامْرَأَةٌ",
+    "swahili": "MLANGO: KUSANYIKO WAKATI KUNA WATU WATATU"
+  },
+  {
+    "start": "842",
+    "arabic": "باب الْجَمَاعَةُ إِذَا كَانُوا اثْنَيْنِ",
+    "swahili": "MLANGO: KUSANYIKO IKIWA KUNA WATU WAWILI"
+  },
+  {
+    "start": "844",
+    "arabic": "باب الْجَمَاعَةُ لِلنَّافِلَةِ",
+    "swahili": "MLANGO: KUTOA SALA YA HIARI KATIKA JAMAA"
+  },
+  {
+    "start": "845",
+    "arabic": "باب الْجَمَاعَةُ لِلْفَائِتِ مِنَ الصَّلاَةِ",
+    "swahili": "MLANGO: KUFANYA MAOMBI YALIYOKOSA KATIKA JAMAA"
+  },
+  {
+    "start": "847",
+    "arabic": "باب التَّشْدِيدِ فِي تَرْكِ الْجَمَاعَةِ",
+    "swahili": "MLANGO: ONYO KALI DHIDI YA KUSHINDWA KUSALI KATIKA JAMAA"
+  },
+  {
+    "start": "848",
+    "arabic": "باب التَّشْدِيدِ فِي التَّخَلُّفِ عَنِ الْجَمَاعَةِ،",
+    "swahili": "MLANGO: ONYO KALI DHIDI YA KUBAKI NYUMA NA SALA KATIKA JAMAA"
+  },
+  {
+    "start": "849",
+    "arabic": "باب الْمُحَافَظَةِ عَلَى الصَّلَوَاتِ حَيْثُ يُنَادَى بِهِنَّ",
+    "swahili": "MLANGO: KUHUDHURIA MAOMBI MARA KWA MARA WAKATI WITO UNATOLEWA"
+  },
+  {
+    "start": "852",
+    "arabic": "باب الْعُذْرِ فِي تَرْكِ الْجَمَاعَةِ",
+    "swahili": "MLANGO: UDHURU KWA KUTOOMBA KATIKA MKUTANO"
+  },
+  {
+    "start": "855",
+    "arabic": "باب حَدِّ إِدْرَاكِ الْجَمَاعَةِ",
+    "swahili": "MLANGO: \"KUKAMATA KUSANYIKO\" (WAKATI MTU ANACHUKULIWA KUWA AMESHIKA KUTANIKO)"
+  },
+  {
+    "start": "857",
+    "arabic": "باب إِعَادَةِ الصَّلاَةِ مَعَ الْجَمَاعَةِ بَعْدَ صَلاَةِ الرَّجُلِ لِنَفْسِهِ",
+    "swahili": "MLANGO: KURUDIA SALA PAMOJA NA JAMAA WAKATI MWANAMUME TAYARI AMESALI PEKE YAKE"
+  },
+  {
+    "start": "858",
+    "arabic": "باب إِعَادَةِ الْفَجْرِ مَعَ الْجَمَاعَةِ لِمَنْ صَلَّى وَحْدَهُ",
+    "swahili": "MLANGO: KURUDIA FAJR PAMOJA NA MKUSANYIKO KWA YULE AMBAYE TAYARI AMESHASWALI PEKE YAKE"
+  },
+  {
+    "start": "859",
+    "arabic": "باب إِعَادَةِ الصَّلاَةِ بَعْدَ ذَهَابِ وَقْتِهَا مَعَ الْجَمَاعَةِ",
+    "swahili": "MLANGO: KURUDIA SALA PAMOJA NA MKUSANYIKO BAADA YA MUDA WAKE KWISHA"
+  },
+  {
+    "start": "860",
+    "arabic": "باب سُقُوطِ الصَّلاَةِ عَمَّنْ صَلَّى مَعَ الإِمَامِ فِي الْمَسْجِدِ جَمَاعَةً",
+    "swahili": "MLANGO: WAJIBU WA SWALA HUONDOLEWA KWA YULE ALIYEISALI MSIKITINI PAMOJA NA IMAMU KATIKA JAMAA"
+  },
+  {
+    "start": "861",
+    "arabic": "باب السَّعْىِ إِلَى الصَّلاَةِ",
+    "swahili": "MLANGO: KUKIMBILIA KUOMBA"
+  },
+  {
+    "start": "862",
+    "arabic": "باب الإِسْرَاعِ إِلَى الصَّلاَةِ مِنْ غَيْرِ سَعْىٍ",
+    "swahili": "MLANGO: KUHARAKISHA KUOMBA BILA KUHARAKISHA KUPITA KIASI"
+  },
+  {
+    "start": "864",
+    "arabic": "باب التَّهْجِيرِ إِلَى الصَّلاَةِ",
+    "swahili": "MLANGO: KUJA KWA MAOMBI MAPEMA (KABLA YA WENGINE)"
+  },
+  {
+    "start": "865",
+    "arabic": "باب مَا يُكْرَهُ مِنَ الصَّلاَةِ عِنْدَ الإِقَامَةِ",
+    "swahili": "MLANGO: KUTOKUKUBALI KUSWALI INAPOSEMWA IQHMAH"
+  },
+  {
+    "start": "868",
+    "arabic": "باب فِيمَنْ يُصَلِّي رَكْعَتَىِ الْفَجْرِ وَالإِمَامُ فِي الصَّلاَةِ",
+    "swahili": "MLANGO: KUHUSU MWENYE KUSWALI RAKAA MBILI (ZA SUNNAH) ZA ALFAJIRI NA IMAMU ANASWALI."
+  },
+  {
+    "start": "869",
+    "arabic": "باب الْمُنْفَرِدِ خَلْفَ الصَّفِّ",
+    "swahili": "MLANGO: MTU ANAYESWALI PEKE YAKE NYUMA YA SAFU"
+  },
+  {
+    "start": "871",
+    "arabic": "باب الرُّكُوعِ دُونَ الصَّفِّ",
+    "swahili": "MLANGO: KUINAMA NJE YA SAFU"
+  },
+  {
+    "start": "873",
+    "arabic": "باب الصَّلاَةِ بَعْدَ الظُّهْرِ",
+    "swahili": "MLANGO: KUSWALI BAADA YA ADHUHURI"
+  },
+  {
+    "start": "874",
+    "arabic": "باب الصَّلاَةِ قَبْلَ الْعَصْرِ وَذِكْرِ اخْتِلاَفِ النَّاقِلِينَ عَنْ أَبِي إِسْحَاقَ فِي ذَلِكَ",
+    "swahili": "MLANGO: SWALA KABLA YA ASR NA RIWAYA TOFAUTI KUTOKA KWA ABU ISHAQ KUHUSU HILO"
+  }
+]

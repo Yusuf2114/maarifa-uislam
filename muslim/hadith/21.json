@@ -1,0 +1,789 @@
+{
+  "hadiths": [
+    {
+      "number": "1511a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ، حَبَّانَ عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُلاَمَسَةِ وَالْمُنَابَذَةِ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza (aina mbili za biashara) al-Mulamasa na al-Munabadha."
+    },
+    {
+      "number": "1511b",
+      "arabic": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti kama hivi kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam)."
+    },
+    {
+      "number": "1511c",
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ ح وَحَدَّثَنَا مُحَمَّدُ، بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، كُلُّهُمْ عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) hadithi kama hii kupitia mlolongo mwingine wa wapokezi."
+    },
+    {
+      "number": "1511d",
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - عَنْ سُهَيْلِ، بْنِ أَبِي صَالِحٍ عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ مِثْلَهُ ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya Abu Huraira (radhi za Allah ziwe juu yake) kupitia mlolongo mwingine wa wapokezi."
+    },
+    {
+      "number": "1511e",
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو، بْنُ دِينَارٍ عَنْ عَطَاءِ بْنِ مِينَاءَ، أَنَّهُ سَمِعَهُ يُحَدِّثُ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ نُهِيَ عَنْ بَيْعَتَيْنِ، الْمُلاَمَسَةِ وَالْمُنَابَذَةِ ‏.‏ أَمَّا الْمُلاَمَسَةُ فَأَنْ يَلْمِسَ كُلُّ وَاحِدٍ مِنْهُمَا ثَوْبَ صَاحِبِهِ بِغَيْرِ تَأَمُّلٍ وَالْمُنَابَذَةُ أَنْ يَنْبِذَ كُلُّ وَاحِدٍ مِنْهُمَا ثَوْبَهُ إِلَى الآخَرِ وَلَمْ يَنْظُرْ وَاحِدٌ مِنْهُمَا إِلَى ثَوْبِ صَاحِبِهِ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti: Aina mbili za biashara zimekatazwa (na Mtume Mtukufu), al-Mulamasa na al-Munabadha. Kuhusu biashara ya al-Mulamasa, ni kwamba kila mmoja wao (pande zinazoingia katika biashara) anapaswa kugusa vazi la mwenzake bila ya uchunguzi wa kina, na al-Munabadha ni kwamba kila mmoja wao anapaswa kutupa vazi lake kwa mwenzake na mmoja wao asione vazi la mwenzake."
+    },
+    {
+      "number": "1512a",
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، - وَاللَّفْظُ لِحَرْمَلَةَ - قَالاَ أَخْبَرَنَا ابْنُ، وَهْبٍ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عَامِرُ بْنُ سَعْدِ بْنِ أَبِي وَقَّاصٍ، أَنَّ أَبَا سَعِيدٍ، الْخُدْرِيَّ قَالَ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعَتَيْنِ وَلِبْسَتَيْنِ نَهَى عَنِ الْمُلاَمَسَةِ وَالْمُنَابَذَةِ فِي الْبَيْعِ ‏.‏ وَالْمُلاَمَسَةُ لَمْسُ الرَّجُلِ ثَوْبَ الآخَرِ بِيَدِهِ بِاللَّيْلِ أَوْ بِالنَّهَارِ وَلاَ يَقْلِبُهُ إِلاَّ بِذَلِكَ وَالْمُنَابَذَةُ أَنْ يَنْبِذَ الرَّجُلُ إِلَى الرَّجُلِ بِثَوْبِهِ وَيَنْبِذَ الآخَرُ إِلَيْهِ ثَوْبَهُ وَيَكُونُ ذَلِكَ بَيْعَهُمَا مِنْ غَيْرِ نَظَرٍ وَلاَ تَرَاضٍ ‏.‏",
+      "swahili": "Abu Sa'id al-Khudri (radhi za Allah ziwe juu yake) aliripoti: Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alitukataza (sisi) aina mbili za biashara na njia mbili za uvaaji. Alikataza al-Mulamasa na al-Munabadha katika biashara. al-Mulamasa ina maana ya kugusa vazi la mwingine kwa mkono wake, iwe usiku au mchana, bila ya kuligeuza isipokuwa kiasi hiki tu. al-Munabadha ina maana kwamba mtu anatupa vazi lake kwa mwingine na mwingine anatupa vazi lake kwake, na hivyo kuthibitisha mkataba wao bila ya ukaguzi wa makubaliano ya pamoja."
+    },
+    {
+      "number": "1512b",
+      "arabic": "وَحَدَّثَنِيهِ عَمْرٌو النَّاقِدُ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الإِسْنَادِ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Ibn Shihab kupitia mlolongo uleule wa wapokezi."
+    },
+    {
+      "number": "1513",
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، وَيَحْيَى بْنُ سَعِيدٍ، وَأَبُو أُسَامَةَ عَنْ عُبَيْدِ اللَّهِ، ح وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، حَدَّثَنِي أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الْحَصَاةِ وَعَنْ بَيْعِ الْغَرَرِ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza biashara iliyoamuliwa kwa kurusha mawe, na aina inayohusisha kutokuwa na uhakika (al-Gharar)."
+    },
+    {
+      "number": "1514a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ رُمْحٍ، قَالاَ أَخْبَرَنَا اللَّيْثُ، ح وَحَدَّثَنَا قُتَيْبَةُ بْنُ، سَعِيدٍ حَدَّثَنَا لَيْثٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ نَهَى عَنْ بَيْعِ حَبَلِ الْحَبَلَةِ ‏.‏",
+      "swahili": "'Abdullah (b. 'Umar) (radhi za Allah ziwe juu yao wote wawili) alisema kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza biashara inayoitwa habal al-habala."
+    },
+    {
+      "number": "1514b",
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، - وَاللَّفْظُ لِزُهَيْرٍ - قَالاَ حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ أَهْلُ الْجَاهِلِيَّةِ يَتَبَايَعُونَ لَحْمَ الْجَزُورِ إِلَى حَبَلِ الْحَبَلَةِ ‏.‏ وَحَبَلُ الْحَبَلَةِ أَنْ تُنْتَجَ النَّاقَةُ ثُمَّ تَحْمِلَ الَّتِي نُتِجَتْ فَنَهَاهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ ذَلِكَ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti kuwa watu wa zama za ujahilia walikuwa wakiuza nyama ya ngamia aliyechinjwa hadi habal al-habala. Na habal al-habala ina maana kwamba ngamia jike anapaswa kuzaa kisha yule (aliyezalishwa anapaswa kukua) na kuwa na mimba. Mtume wa Allah (swalla Allahu 'alayhi wa sallam) aliwakataza (biashara hii)."
+    },
+    {
+      "number": "1412e",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema hivi: Mmoja wenu asifanye biashara wakati mwingine anapofanya biashara (bargaining)."
+    },
+    {
+      "number": "1412f",
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، - وَاللَّفْظُ لِزُهَيْرٍ - قَالاَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَبِعِ الرَّجُلُ عَلَى بَيْعِ أَخِيهِ وَلاَ يَخْطُبْ عَلَى خِطْبَةِ أَخِيهِ إِلاَّ أَنْ يَأْذَنَ لَهُ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Mtu asifanye biashara wakati ndugu yake anapokuwa tayari anafanya biashara, na asitoe posa ya ndoa wakati ndugu yake ameshatoa posa isipokuwa pale anapompa ruhusa."
+    },
+    {
+      "number": "1515a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ، حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ جَعْفَرٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَسُمِ الْمُسْلِمُ عَلَى سَوْمِ أَخِيهِ ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Mwislamu asifanye biashara (kushindana) na ndugu yake."
+    },
+    {
+      "number": "1515b",
+      "arabic": "وَحَدَّثَنِيهِ أَحْمَدُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، حَدَّثَنِي عَبْدُ الصَّمَدِ، حَدَّثَنَا شُعْبَةُ، عَنِ الْعَلاَءِ، وَسُهَيْلٍ عَنْ أَبِيهِمَا، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح. وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا شُعْبَةُ، عَنِ الأَعْمَشِ، عَنْ أَبِي، صَالِحٍ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح. وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ، - وَهُوَ ابْنُ ثَابِتٍ - عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ يَسْتَامَ الرَّجُلُ عَلَى سَوْمِ أَخِيهِ ‏.‏ وَفِي رِوَايَةِ الدَّوْرَقِيِّ عَلَى سِيمَةِ أَخِيهِ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Abu Huraira (radhi za Allah ziwe juu yake) kupitia mlolongo mwingine wa wapokezi lakini kwa mabadiliko kidogo ya maneno."
+    },
+    {
+      "number": "1515c",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يُتَلَقَّى الرُّكْبَانُ لِبَيْعٍ وَلاَ يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ وَلاَ تَنَاجَشُوا وَلاَ يَبِعْ حَاضِرٌ لِبَادٍ وَلاَ تُصَرُّوا الإِبِلَ وَالْغَنَمَ فَمَنِ ابْتَاعَهَا بَعْدَ ذَلِكَ فَهُوَ بِخَيْرِ النَّظَرَيْنِ بَعْدَ أَنْ يَحْلُبَهَا فَإِنْ رَضِيَهَا أَمْسَكَهَا وَإِنْ سَخِطَهَا رَدَّهَا وَصَاعًا مِنْ تَمْرٍ ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Msitoke kwenda kukutana na wasafiri (biashara); mmoja wenu asiuze biashara juu ya biashara ya mwingine, wala msishindane kwa bei (al-Najash); mkaazi wa mjini asimuuzee mtu wa jangwani, na msifunge matiti ya ngamia na kondoo; na yeyote anayeyanunua baada ya hayo kufanyika ana njia mbili zilizo wazi kwake: baada ya kuyaakama anaweza kuyabakiza ikiwa anaridhika nayo, au anaweza kuyarejesha pamoja na pishi (sa') ya tende ikiwa hajaridhika nayo."
+    },
+    {
+      "number": "1515d",
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ، - وَهُوَ ابْنُ ثَابِتٍ - عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ التَّلَقِّي لِلرُّكْبَانِ وَأَنْ يَبِيعَ حَاضِرٌ لِبَادٍ وَأَنْ تَسْأَلَ الْمَرْأَةُ طَلاَقَ أُخْتِهَا وَعَنِ النَّجْشِ وَالتَّصْرِيَةِ وَأَنْ يَسْتَامَ الرَّجُلُ عَلَى سَوْمِ أَخِيهِ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza (watu) kukutana na misafara (kwa ajili ya kufanya biashara nao), na kuuza bidhaa na mtu wa mjini kwa niaba ya mtu wa jangwani, na mwanamke kutaka talaka ya dada yake (kutoka kwa mumewe), na kushindana kwa bei (al-Najash), na kufunga matiti (ya wanyama), na kununua (vitu) kinyume na ndugu yake."
+    },
+    {
+      "number": "1515e",
+      "arabic": "وَحَدَّثَنِيهِ أَبُو بَكْرِ بْنُ نَافِعٍ، حَدَّثَنَا غُنْدَرٌ، ح وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا وَهْبُ، بْنُ جَرِيرٍ ح وَحَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ عَبْدِ الصَّمَدِ، حَدَّثَنَا أَبِي قَالُوا، جَمِيعًا حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ ‏.‏ فِي حَدِيثِ غُنْدَرٍ وَوَهْبٍ نُهِيَ ‏.‏ وَفِي حَدِيثِ عَبْدِ الصَّمَدِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى ‏.‏ بِمِثْلِ حَدِيثِ مُعَاذٍ عَنْ شُعْبَةَ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kupitia mlolongo mwingine wa wapokezi. Katika hadithi ya Ghundar na Wahb (maneno ni) 'alikataza'. Na katika hadithi ya 'Abd al-Samad (maneno ni) 'kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza'. Kama hadithi ya Mu'adh kutoka kwa Shu'ba."
+    },
+    {
+      "number": "1516",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ النَّجْشِ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza al-Najash (kushindana kwa bei bila nia ya kununua)."
+    },
+    {
+      "number": "1517a",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، ح وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى يَعْنِي ابْنَ سَعِيدٍ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي كُلُّهُمْ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ تُتَلَقَّى السِّلَعُ حَتَّى تَبْلُغَ الأَسْوَاقَ ‏.‏ وَهَذَا لَفْظُ ابْنِ نُمَيْرٍ ‏.‏ وَقَالَ الآخَرَانِ إِنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ التَّلَقِّي ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Msitoke nje kwenda kukutana na bidhaa njiani, (subiri) mpaka iletwe sokoni. Hadithi hii imeripotiwa kwa mamlaka ya Ibn Numair lakini kwa mabadiliko kidogo ya maneno. Na wengine wawili walisema kuwa Mtume wa Allah (swalla Allahu alayhi wa sallam) alikataza kukutana na bidhaa (al-Talaqqi)."
+    },
+    {
+      "number": "1517b",
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، جَمِيعًا عَنِ ابْنِ مَهْدِيٍّ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِ حَدِيثِ ابْنِ نُمَيْرٍ عَنْ عُبَيْدِ اللَّهِ ‏.‏",
+      "swahili": "Hadithi hii imeripotiwa kwa mamlaka ya 'Ubaidullah."
+    },
+    {
+      "number": "1518",
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُبَارَكٍ، عَنِ التَّيْمِيِّ، عَنْ أَبِي، عُثْمَانَ عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ نَهَى عَنْ تَلَقِّي الْبُيُوعِ ‏.‏",
+      "swahili": "'Abdullah (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Msikutane na wafanyabiashara (njiani)."
+    },
+    {
+      "number": "1519a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ هِشَامٍ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُتَلَقَّى الْجَلَبُ ‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Msikutane na bidhaa (njiani)."
+    },
+    {
+      "number": "1519b",
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا هِشَامُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي هِشَامٌ، الْقُرْدُوسِيُّ عَنِ ابْنِ سِيرِينَ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تَلَقَّوُا الْجَلَبَ ‏.‏ فَمَنْ تَلَقَّاهُ فَاشْتَرَى مِنْهُ فَإِذَا أَتَى سَيِّدُهُ السُّوقَ فَهُوَ بِالْخِيَارِ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Msikutane na mfanyabiashara njiani na kuingia naye katika mkataba wa biashara, na yeyote anayekutana naye na kununua kutoka kwake (na ikiwa imefanyika, angalia) kwamba wakati mmiliki wa (bidhaa) anapokuja sokoni (na kugundua kuwa amelipwa bei ndogo) anakuwa na chaguo (la kutangaza mkataba kuwa batili)."
+    },
+    {
+      "number": "1520",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالُوا حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَبِعْ حَاضِرٌ لِبَادٍ ‏\"‏ ‏.‏ وَقَالَ زُهَيْرٌ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ نَهَى أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ ‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti moja kwa moja kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam): Mkaazi wa mjini asimuuzee mtu wa jangwani (kwa lengo la kuchukua faida ya ujinga wake kuhusu hali ya soko la mjini). Na Zuhair aliripoti kutoka kwa Mtume wa Allah (swalla Allahu alayhi wa sallam) kwamba alikataza mkaazi wa mjini kuuza kwa niaba ya mtu wa jangwani."
+    },
+    {
+      "number": "1521",
+      "arabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تُتَلَقَّى الرُّكْبَانُ وَأَنْ يَبِيعَ حَاضِرٌ لِبَادٍ ‏.‏ قَالَ فَقُلْتُ لاِبْنِ عَبَّاسٍ مَا قَوْلُهُ حَاضِرٌ لِبَادٍ قَالَ لاَ يَكُنْ لَهُ سِمْسَارًا",
+      "swahili": "Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Wasafiri (wanaobeba bidhaa) hawapaswi kukutana nao njiani, na mkaazi wa mjini asimuuzee mtu wa jangwani. Msimulizi aliripoti: Nilimwambia Ibn 'Abbas: Je, maneno haya yanamaanisha nini hasa - \"Mkaazi wa mjini kwa mtu wa jangwani\"? Akasema: Kwamba anapaswa kufanya kazi kama dalali (broker) kwa niaba yake."
+    },
+    {
+      "number": "1522a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، ح. وَحَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ يَبِعْ حَاضِرٌ لِبَادٍ دَعُوا النَّاسَ يَرْزُقِ اللَّهُ بَعْضَهُمْ مِنْ بَعْضٍ‏\"‏ ‏.‏ غَيْرَ أَنَّ فِي رِوَايَةِ يَحْيَى ‏\"‏ يُرْزَقُ ‏\"‏ ‏.‏",
+      "swahili": "Jabir (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Mkaazi wa mjini asimuuzee mtu wa jangwani, waacheni watu peke yao, Allah atawapa riziki baadhi yao kupitia wengine. Yahya aliripoti kwa mabadiliko kidogo ya maneno."
+    },
+    {
+      "number": "1522b",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "swahili": "Jabir (radhi za Allah ziwe juu yake) aliripoti hadithi kama hiyo kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) kupitia mlolongo mwingine wa wapokezi."
+    },
+    {
+      "number": "1523a",
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ يُونُسَ، عَنِ ابْنِ سِيرِينَ، عَنْ أَنَسِ، بْنِ مَالِكٍ قَالَ نُهِينَا أَنْ يَبِيعَ، حَاضِرٌ لِبَادٍ ‏.‏ وَإِنْ كَانَ أَخَاهُ أَوْ أَبَاهُ ‏.‏",
+      "swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) aliripoti: Tulikatazwa kuwa mkaazi wa mjini asimuuzee mtu wa jangwani. Hata kama yeye ni kaka yake au baba yake."
+    },
+    {
+      "number": "1523b",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ،ح ‏.‏ وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذٌ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ مُحَمَّدٍ، قَالَ قَالَ أَنَسُ بْنُ مَالِكٍ نُهِينَا عَنْ أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ ‏.‏",
+      "swahili": "Anas bin Malik (radhi za Allah ziwe juu yake) alisema: Tulikatazwa kuwa mkaazi wa mjini asimuuzee mtu wa jangwani."
+    },
+    {
+      "number": "1524a",
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ، عَنْ مُوسَى بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنِ اشْتَرَى شَاةً مُصَرَّاةً فَلْيَنْقَلِبْ بِهَا فَلْيَحْلُبْهَا فَإِنْ رَضِيَ حِلاَبَهَا أَمْسَكَهَا وَإِلاَّ رَدَّهَا وَمَعَهَا صَاعٌ مِنْ تَمْرٍ ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote aliyenunua mbuzi aliye na matiti yaliyofungwa (ili kuonesha maziwa mengi) anapaswa kurudi naye, amkamue, na ikiwa anaridhika na maziwa yake, anapaswa kumbakiza, la sivyo anapaswa kumrejesha pamoja na pishi (sa') ya tende."
+    },
+    {
+      "number": "1524b",
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ - عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنِ ابْتَاعَ شَاةً مُصَرَّاةً فَهُوَ فِيهَا بِالْخِيَارِ ثَلاَثَةَ أَيَّامٍ إِنْ شَاءَ أَمْسَكَهَا وَإِنْ شَاءَ رَدَّهَا وَرَدَّ مَعَهَا صَاعًا مِنْ تَمْرٍ ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayenunua mbuzi aliye na matiti yaliyofungwa ana chaguo la kumbakiza mbuzi ikiwa anataka hivyo au kumrejesha ndani ya siku tatu, na ikiwa atamrejesha anapaswa kufanya hivyo pamoja na pishi (sa') ya tende."
+    },
+    {
+      "number": "1524c",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرِو بْنِ جَبَلَةَ بْنِ أَبِي رَوَّادٍ، حَدَّثَنَا أَبُو عَامِرٍ، - يَعْنِي الْعَقَدِيَّ - حَدَّثَنَا قُرَّةُ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنِ اشْتَرَى شَاةً مُصَرَّاةً فَهُوَ بِالْخِيَارِ ثَلاَثَةَ أَيَّامٍ فَإِنْ رَدَّهَا رَدَّ مَعَهَا صَاعًا مِنْ طَعَامٍ لاَ سَمْرَاءَ ‏\"‏‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayenunua mbuzi aliye na matiti yaliyofungwa ana chaguo la kumrejesha ndani ya siku tatu. Ikiwa atamrejesha anapaswa kulipa pishi (sa') ya tende. Ngano si lazima."
+    },
+    {
+      "number": "1524d",
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنِ اشْتَرَى شَاةً مُصَرَّاةً فَهُوَ بِخَيْرِ النَّظَرَيْنِ إِنْ شَاءَ أَمْسَكَهَا وَإِنْ شَاءَ رَدَّهَا وَصَاعًا مِنْ تَمْرٍ لاَ سَمْرَاءَ ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayenunua mbuzi aliye na matiti yaliyofungwa ana njia mbili zilizo wazi kwake. Anaweza kumbakiza, na ikiwa anataka anaweza kumrejesha pamoja na pishi (sa') ya tende na si ngano."
+    },
+    {
+      "number": "1524e",
+      "arabic": "وَحَدَّثَنَاهُ ابْنُ أَبِي عُمَرَ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ أَيُّوبَ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ قَالَ ‏ \"‏ مَنِ اشْتَرَى مِنَ الْغَنَمِ فَهُوَ بِالْخِيَارِ ‏\"‏ ‏.‏",
+      "swahili": "Ayyub alisimulia kwa mlolongo uleule wa wapokezi lakini kwa mabadiliko haya ya maneno: \"Yeyote anayenunua mbuzi ana chaguo\"."
+    },
+    {
+      "number": "1524f",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا مَا أَحَدُكُمُ اشْتَرَى لِقْحَةً مُصَرَّاةً أَوْ شَاةً مُصَرَّاةً فَهُوَ بِخَيْرِ النَّظَرَيْنِ بَعْدَ أَنْ يَحْلُبَهَا إِمَّا هِيَ وَإِلاَّ فَلْيَرُدَّهَا وَصَاعًا مِنْ تَمْرٍ ‏\"‏ ‏.‏",
+      "swahili": "Hammam bin Munabbih alisema: Kati ya hadithi ambazo Abu Huraira (radhi za Allah ziwe juu yake) alituripoti kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) moja ni hii kwamba Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alisema: Ikiwa mmoja wenu atanunua ngamia jike aliye na matiti yaliyofungwa au mbuzi aliye na matiti yaliyofungwa ana chaguo mbili baada ya kumkamua aidha (kumbakiza) au kumrejesha pamoja na pishi (sa') ya tende."
+    },
+    {
+      "number": "1525a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، ح وَحَدَّثَنَا أَبُو الرَّبِيعِ الْعَتَكِيُّ، وَقُتَيْبَةُ، قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ ‏\"‏ ‏.‏ قَالَ ابْنُ عَبَّاسٍ وَأَحْسِبُ كُلَّ شَىْءٍ مِثْلَهُ ‏.‏",
+      "swahili": "Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayenunua chakula (foodgrain) asikiuze mpaka awe amekimiliki kikamilifu."
+    },
+    {
+      "number": "1525b",
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، وَأَحْمَدُ بْنُ عَبْدَةَ، قَالاَ حَدَّثَنَا سُفْيَانُ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ، أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، - وَهُوَ الثَّوْرِيُّ - كِلاَهُمَا عَنْ عَمْرِو، بْنِ دِينَارٍ بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kupitia mlolongo uleule wa wapokezi."
+    },
+    {
+      "number": "1525c",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَ ابْنُ رَافِعٍ حَدَّثَنَا وَقَالَ الآخَرَانِ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَقْبِضَهُ ‏\"‏ ‏.‏ قَالَ ابْنُ عَبَّاسٍ وَأَحْسِبُ كُلَّ شَىْءٍ بِمَنْزِلَةِ الطَّعَامِ ‏.‏",
+      "swahili": "Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayenunua chakula (foodgrain) asikiuze mpaka awe amekimiliki. Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili) alisema: Ninachukulia kila kitu kama chakula (kuhusiana na kanuni hii)."
+    },
+    {
+      "number": "1526a",
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، حَدَّثَنَا مَالِكٌ، ح وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayenunua chakula (foodgrain) asikiuze mpaka awe amekimiliki kikamilifu."
+    },
+    {
+      "number": "1527a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنَّا فِي زَمَانِ رَسُولِ اللَّهِ صلى الله عليه وسلم نَبْتَاعُ الطَّعَامَ فَيَبْعَثُ عَلَيْنَا مَنْ يَأْمُرُنَا بِانْتِقَالِهِ مِنَ الْمَكَانِ الَّذِي ابْتَعْنَاهُ فِيهِ إِلَى مَكَانٍ سِوَاهُ قَبْلَ أَنْ نَبِيعَهُ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti: Tulikuwa tulinunua chakula wakati wa uhai wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam). Yeye (Mtume Mtukufu) angatutumia yule anayetuamuru kukipeleka (chakula hicho) mahali pengine nje ya pale tulipokinunulia kabla ya kukiuza."
+    },
+    {
+      "number": "1526c",
+      "arabic": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنِي عُمَرُ بْنُ مُحَمَّدٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنِ اشْتَرَى طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ وَيَقْبِضَهُ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote aliyenunua chakula (foodgrain) asikiuze mpaka awe amekimiliki kikamilifu (baada ya kukipima)."
+    },
+    {
+      "number": "1526d",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَعَلِيُّ بْنُ حُجْرٍ، قَالَ يَحْيَى أَخْبَرَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، وَقَالَ عَلِيٌّ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَقْبِضَهُ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote aliyenunua chakula (foodgrain) asikiuze mpaka awe amekimiliki."
+    },
+    {
+      "number": "1527d",
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، أَنَّ أَبَاهُ، قَالَ قَدْ رَأَيْتُ النَّاسَ فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذَا ابْتَاعُوا الطَّعَامَ جِزَافًا يُضْرَبُونَ فِي أَنْ يَبِيعُوهُ فِي مَكَانِهِمْ وَذَلِكَ حَتَّى يُئْوُوهُ إِلَى رِحَالِهِمْ ‏.‏ قَالَ ابْنُ شِهَابٍ وَحَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّ أَبَاهُ كَانَ يَشْتَرِي الطَّعَامَ جِزَافًا فَيَحْمِلُهُ إِلَى أَهْلِهِ ‏.‏",
+      "swahili": "Salim bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti baba yake akisema hivi: Niliona watu wakipigwa wakati wa uhai wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) ikiwa wamenunua chakula kwa jumla, na kisha wakakiuza papo hapo kabla ya kukipeleka kwenye makazi yao. Hadithi hii imesimuliwa kwa mamlaka ya 'Ubaidullah bin 'Abdullah bin 'Umar kupitia mlolongo mwingine wa wapokezi (na maneno ni): \"Baba yake (Ibn 'Umar) alikuwa akinunua chakula kwa jumla na kisha akakibeba hadi kwa watu wake.\""
+    },
+    {
+      "number": "1528a",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ، نُمَيْرٍ وَأَبُو كُرَيْبٍ قَالُوا حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أَبِي، هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ اشْتَرَى طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَكْتَالَهُ ‏\"‏ ‏.‏ وَفِي رِوَايَةِ أَبِي بَكْرٍ ‏\"‏ مَنِ ابْتَاعَ ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote aliyenunua chakula (foodgrain) asikiuze mpaka awe amekipima. Katika simulizi ya Abu Bakr neno lililotumika ni Ibta' badala ya Ishtara."
+    },
+    {
+      "number": "1528b",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْحَارِثِ الْمَخْزُومِيُّ، حَدَّثَنَا الضَّحَّاكُ، بْنُ عُثْمَانَ عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ لِمَرْوَانَ أَحْلَلْتَ بَيْعَ الرِّبَا ‏.‏ فَقَالَ مَرْوَانُ مَا فَعَلْتُ ‏.‏ فَقَالَ أَبُو هُرَيْرَةَ أَحْلَلْتَ بَيْعَ الصِّكَاكِ وَقَدْ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الطَّعَامِ حَتَّى يُسْتَوْفَى ‏.‏ قَالَ فَخَطَبَ مَرْوَانُ النَّاسَ فَنَهَى عَنْ بَيْعِهَا ‏.‏ قَالَ سُلَيْمَانُ فَنَظَرْتُ إِلَى حَرَسٍ يَأْخُذُونَهَا مِنْ أَيْدِي النَّاسِ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) inaripotiwa kuwa alimwambia Marwan: Je, umehalalisha biashara zinazohusisha riba? Hapo Marwan akasema: Sijafanya hivyo. Hapo Abu Huraira (radhi za Allah ziwe juu yake) akasema: Umehalalisha biashara kwa kutumia hati pekee, wakati Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza biashara ya chakula mpaka umiliki kamili upatikane. Marwan kisha akawahutubia watu na kuwakataza kuingia katika biashara hizo (zinazofanyika kwa kutumia hati). Sulaiman alisema: Niliona walinzi wakiinyang'anya (hati hizo) kutoka mikononi mwa watu."
+    },
+    {
+      "number": "1529",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا رَوْحٌ، حَدَّثَنَا ابْنُ جُرَيْجٍ، حَدَّثَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِذَا ابْتَعْتَ طَعَامًا فَلاَ تَبِعْهُ حَتَّى تَسْتَوْفِيَهُ ‏\"‏ ‏.‏",
+      "swahili": "Jabir bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Unaponunua chakula (foodgrains), usikiuze mpaka uwe umekimiliki."
+    },
+    {
+      "number": "1530a",
+      "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، أَحْمَدُ بْنُ عَمْرِو بْنِ سَرْحٍ أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي ابْنُ جُرَيْجٍ، أَنَّ أَبَا الزُّبَيْرِ، أَخْبَرَهُ قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الصُّبْرَةِ مِنَ التَّمْرِ لاَ يُعْلَمُ مَكِيلَتُهَا بِالْكَيْلِ الْمُسَمَّى مِنَ التَّمْرِ ‏.‏",
+      "swahili": "Jabir bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) inaripotiwa kuwa alisema kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza uuzaji wa rundo la tende ambalo uzito wake haujulikani kulingana na uzito unaojulikana wa tende."
+    },
+    {
+      "number": "1530b",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ غَيْرَ أَنَّهُ لَمْ يَذْكُرْ مِنَ التَّمْرِ ‏.‏ فِي آخِرِ الْحَدِيثِ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Jabir bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) lakini kwa tofauti hii kwamba hakuna kutajwa kwa tende (ambayo mtu anaipata) mwishoni mwa hadithi iliyotangulia."
+    },
+    {
+      "number": "1531a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الْبَيِّعَانِ كُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ عَلَى صَاحِبِهِ مَا لَمْ يَتَفَرَّقَا إِلاَّ بَيْعَ الْخِيَارِ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Pande zote mbili katika mkataba wa biashara zina haki ya kuuvunja (annul) mradi bado hazijatengana; isipokuwa katika mikataba ambayo imefanywa kwa sharti la haki ya pande zote kuivunja."
+    },
+    {
+      "number": "1531b",
+      "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا يَحْيَى، وَهُوَ الْقَطَّانُ ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي كُلُّهُمْ، عَنْ عُبَيْدِ، اللَّهِ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح. وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَعَلِيُّ بْنُ حُجْرٍ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، ح وَحَدَّثَنَا أَبُو الرَّبِيعِ وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا حَمَّادٌ، - وَهُوَ ابْنُ زَيْدٍ - جَمِيعًا عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح. وَحَدَّثَنَا ابْنُ الْمُثَنَّى، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا عَبْدُ الْوَهَّابِ، قَالَ سَمِعْتُ يَحْيَى، بْنُ سَعِيدٍ ح وَحَدَّثَنَا ابْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنَا الضَّحَّاكُ، كِلاَهُمَا عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ نَحْوَ حَدِيثِ مَالِكٍ عَنْ نَافِعٍ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) kupitia mlolongo mwingine wa wapokezi."
+    },
+    {
+      "number": "1531c",
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ \"‏ إِذَا تَبَايَعَ الرَّجُلاَنِ فَكُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا وَكَانَا جَمِيعًا أَوْ يُخَيِّرُ أَحَدُهُمَا الآخَرَ فَإِنْ خَيَّرَ أَحَدُهُمَا الآخَرَ فَتَبَايَعَا عَلَى ذَلِكَ فَقَدْ وَجَبَ الْبَيْعُ وَإِنْ تَفَرَّقَا بَعْدَ أَنْ تَبَايَعَا وَلَمْ يَتْرُكْ وَاحِدٌ مِنْهُمَا الْبَيْعَ فَقَدْ وَجَبَ الْبَيْعُ ‏\"‏ ‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Watu wawili wanapoingia katika mkataba, kila mmoja wao ana haki ya kuuvunja mradi bado hawajatengana na wako pamoja (katika eneo la biashara); au ikiwa mmoja atampa mwenzake haki (ya kuuvunja mkataba). Lakini ikiwa mmoja atampa mwenzake chaguo hilo, mkataba unafanywa kwa sharti hilo (yaani mmoja ana haki ya kuuvunja mkataba), basi unakuwa wa lazima (binding). Na ikiwa wametengana baada ya kufanya biashara na hakuna yeyote kati yao aliyeuvunja, hata hivyo mkataba huo unakuwa wa lazima."
+    },
+    {
+      "number": "1531d",
+      "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَابْنُ أَبِي عُمَرَ، كِلاَهُمَا عَنْ سُفْيَانَ، - قَالَ زُهَيْرٌ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، - عَنِ ابْنِ جُرَيْجٍ، قَالَ أَمْلَى عَلَىَّ نَافِعٌ سَمِعَ عَبْدَ اللَّهِ بْنَ عُمَرَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا تَبَايَعَ الْمُتَبَايِعَانِ بِالْبَيْعِ فَكُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ مِنْ بَيْعِهِ مَا لَمْ يَتَفَرَّقَا أَوْ يَكُونُ بَيْعُهُمَا عَنْ خِيَارٍ فَإِذَا كَانَ بَيْعُهُمَا عَنْ خِيَارٍ فَقَدْ وَجَبَ ‏\"‏ ‏.‏ زَادَ ابْنُ أَبِي عُمَرَ فِي رِوَايَتِهِ قَالَ نَافِعٌ فَكَانَ إِذَا بَايَعَ رَجُلاً فَأَرَادَ أَنْ لاَ يُقِيلَهُ قَامَ فَمَشَى هُنَيَّةً ثُمَّ رَجَعَ إِلَيْهِ ‏.‏",
+      "swahili": "'Abdullah bin 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Watu wawili wanapoingia katika mkataba, kila mmoja wao ana haki ya kuuvunja mradi bado hawajatengana, au mkataba wao unampa mmoja wao (kama sharti) haki ya kuuvunja, na ikiwa mkataba wao una haki ya kuuvunja basi mkataba unakuwa wa lazima. Ibn Abi 'Umar aliongeza kuwa kila alipokuwa akiingia katika mkataba na mtu kwa nia ya kutouvivunja, alitembea kwa muda kisha akamrudia."
+    },
+    {
+      "number": "1531e",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، و يَحْيَى بْنُ أَيُّوبَ وَقُتَيْبَةُ وَابْنُ حُجْرٍ قَالَ يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، أَنَّهُ سَمِعَ ابْنَ، عُمَرَ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ كُلُّ بَيِّعَيْنِ لاَ بَيْعَ بَيْنَهُمَا حَتَّى يَتَفَرَّقَا إِلاَّ بَيْعُ الْخِيَارِ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Hakuna mkataba kati ya watu wawili wanaoanza biashara mpaka watengane, isipokuwa pale ambapo kuna chaguo la kuuvunja."
+    },
+    {
+      "number": "1532a",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ شُعْبَةَ، ح وَحَدَّثَنَا عَمْرُو بْنُ، عَلِيٍّ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي الْخَلِيلِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ حَكِيمِ بْنِ حِزَامٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا وَإِنْ كَذَبَا وَكَتَمَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا ‏\"‏ ‏.‏",
+      "swahili": "Hakim bin Hizam (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Pande zote mbili katika mkataba wa biashara zina haki ya kuuvunja mradi bado hazijatengana; na ikiwa watasema kweli na kuweka kila kitu wazi watapewa baraka katika biashara yao; lakini ikiwa watasema uongo na kuficha kitu chochote, baraka juu ya biashara yao itafutwa."
+    },
+    {
+      "number": "1532b",
+      "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا هَمَّامٌ، عَنْ أَبِي التَّيَّاحِ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ الْحَارِثِ، يُحَدِّثُ عَنْ حَكِيمِ بْنِ حِزَامٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ ‏.‏ قَالَ مُسْلِمُ بْنُ الْحَجَّاجِ وُلِدَ حَكِيمُ بْنُ حِزَامٍ فِي جَوْفِ الْكَعْبَةِ وَعَاشَ مِائَةً وَعِشْرِينَ سَنَةً ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya Hakim bin Hizam (radhi za Allah ziwe juu yake). Imam Muslim (Mwenyezi Mungu amrehemu) alisema: Hakim bin Hizam alizaliwa ndani ya Ka'ba na aliishi miaka mia moja na ishirini."
+    },
+    {
+      "number": "1533a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالَ يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، أَنَّهُ سَمِعَ ابْنَ، عُمَرَ يَقُولُ ذَكَرَ رَجُلٌ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ يُخْدَعُ فِي الْبُيُوعِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ بَايَعْتَ فَقُلْ لاَ خِلاَبَةَ ‏\"‏ ‏.‏ فَكَانَ إِذَا بَايَعَ يَقُولُ لاَ خِيَابَةَ‏.‏",
+      "swahili": "'Abdullah bin Dinar alisimulia kuwa alimsikia Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) akisema: Mtu mmoja alimtaja kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) kwamba alikuwa akidanganywa katika mkataba wa biashara, ambapo Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akasema: Unapoingia katika mkataba, sema: Hapaswi kuwepo na jaribio la kudanganya (La khilabata). Basi alipokuwa akifanya biashara alikuwa akisema: Hapaswi kuwepo na jaribio la kudanganya."
+    },
+    {
+      "number": "1533b",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ، الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، كِلاَهُمَا عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ وَلَيْسَ فِي حَدِيثِهِمَا فَكَانَ إِذَا بَايَعَ يَقُولُ لاَ خِيَابَةَ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya 'Abdullah bin Dinar kwa mlolongo uleule wa wapokezi lakini maneno haya hayamo ndani yake: \"Unaponunua anapaswa kusema: Hapaswi kuwepo na jaribio la kudanganya.\""
+    },
+    {
+      "number": "1534a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الثَّمَرِ حَتَّى يَبْدُوَ صَلاَحُهَا نَهَى الْبَائِعَ وَالْمُبْتَاعَ",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza uuzaji wa matunda mpaka yawe dhahiri katika hali nzuri, alikataza hivyo kwa muuzaji na mnunuzi."
+    },
+    {
+      "number": "1534b",
+      "arabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+      "swahili": "Mlolongo mwingine kwa mamlaka ya Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) ulimsimulia hadithi hiyo hiyo kama hapo juu."
+    },
+    {
+      "number": "1535",
+      "arabic": "وَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ النَّخْلِ حَتَّى يَزْهُوَ وَعَنِ السُّنْبُلِ حَتَّى يَبْيَضَّ وَيَأْمَنَ الْعَاهَةَ نَهَى الْبَائِعَ وَالْمُشْتَرِيَ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza uuzaji wa mitende (yaani matunda yake) mpaka tende zianze kuiva, na masuke ya nafaka mpaka yawe meupe na yawe salama dhidi ya ugonjwa (blight). Alikataza muuzaji na mnunuzi."
+    },
+    {
+      "number": "1534c",
+      "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَبْتَاعُوا الثَّمَرَ حَتَّى يَبْدُوَ صَلاَحُهُ وَتَذْهَبَ عَنْهُ الآفَةُ قَالَ يَبْدُوَ صَلاَحُهُ حُمْرَتُهُ وَصُفْرَتُهُ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Usinunue matunda mpaka hali yake nzuri iwe dhahiri na (hatari) ya ugonjwa (blight) isiwe tena. Akasema: Hali yake nzuri kuwa dhahiri ina maana kwamba inakuwa nyekundu au ya manjano."
+    },
+    {
+      "number": "1534d",
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ يَحْيَى، بِهَذَا الإِسْنَادِ حَتَّى يَبْدُوَ صَلاَحُهُ لَمْ يَذْكُرْ مَا بَعْدَهُ",
+      "swahili": "Hadithi hii imeripotiwa kwa mamlaka ya Yahya kupitia mlolongo uleule wa wapokezi mpaka \"mpaka hali yake nzuri iwe dhahiri,\" lakini hakutaja kinachofuata (maneno haya)."
+    },
+    {
+      "number": "1534e",
+      "arabic": "حَدَّثَنَا ابْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنَا الضَّحَّاكُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ عَبْدِ الْوَهَّابِ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) kupitia mlolongo mwingine wa wapokezi kama hadithi ya 'Abd al-Wahhab."
+    },
+    {
+      "number": "1534f",
+      "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا حَفْصُ بْنُ مَيْسَرَةَ، حَدَّثَنِي مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ مَالِكٍ وَعُبَيْدِ اللَّهِ ‏.‏",
+      "swahili": "Nafi' aliripoti kwa mamlaka ya Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) hadithi kama ile iliyosimuliwa awali."
+    },
+    {
+      "number": "1534g",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالَ يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ جَعْفَرٍ - عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَبِيعُوا الثَّمَرَ حَتَّى يَبْدُوَ صَلاَحُهُ ‏\"‏ ‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Usinunue matunda (yaliyo mitini) mpaka hali yake nzuri iwe dhahiri."
+    },
+    {
+      "number": "1534h",
+      "arabic": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، ح وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، كِلاَهُمَا عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، بِهَذَا الإِسْنَادِ وَزَادَ فِي حَدِيثِ شُعْبَةَ فَقِيلَ لاِبْنِ عُمَرَ مَا صَلاَحُهُ قَالَ تَذْهَبُ عَاهَتُهُ ‏.‏",
+      "swahili": "Katika hadithi iliyosimuliwa kwa mamlaka ya Shu'ba ilielezwa kuwa Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliulizwa hali nzuri inamaanisha nini. Akasema: Wakati (hatari) ya ugonjwa (blight) haipo tena."
+    },
+    {
+      "number": "1536a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، ح. وَحَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نَهَى - أَوْ نَهَانَا - رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الثَّمَرِ حَتَّى يَطِيبَ ‏.‏",
+      "swahili": "Jabir (radhi za Allah ziwe juu yake) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza (au alitukataza) uuzaji wa matunda mpaka yawe yameiva katika hali nzuri."
+    },
+    {
+      "number": "1536b",
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عُثْمَانَ النَّوْفَلِيُّ، حَدَّثَنَا أَبُو عَاصِمٍ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا رَوْحٌ، قَالاَ حَدَّثَنَا زَكَرِيَّاءُ بْنُ إِسْحَاقَ، حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الثَّمَرِ حَتَّى يَبْدُوَ صَلاَحُهُ ‏.‏",
+      "swahili": "Jabir bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akimkataza uuzaji wa matunda mpaka hali yake nzuri iwe dhahiri."
+    },
+    {
+      "number": "1536c",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالُوا جَمِيعًا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ وَالْمُخَابَرَةِ وَعَنْ بَيْعِ الثَّمَرِ حَتَّى يَبْدُوَ صَلاَحُهُ وَلاَ يُبَاعُ إِلاَّ بِالدِّينَارِ وَالدِّرْهَمِ إِلاَّ الْعَرَايَا ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti kwamba Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikuwa amekataza Muhaqala, na Muzabana, Mukhabara na uuzaji wa matunda mpaka hali yake nzuri iwe dhahiri, na (akaamrisha) kwamba (bidhaa) zisiziuzwe isipokuwa kwa dinari na dirham isipokuwa katika kesi ya 'araya."
+    },
+    {
+      "number": "1536d",
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا أَبُو عَاصِمٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، وَأَبِي، الزُّبَيْرِ أَنَّهُمَا سَمِعَا جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم فَذَكَرَ بِمِثْلِهِ ‏.‏",
+      "swahili": "Jabir bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti kwamba Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza aina za mauzo kama ilivyoelezwa hapo awali."
+    },
+    {
+      "number": "1536e",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا مَخْلَدُ بْنُ يَزِيدَ الْجَزَرِيُّ، حَدَّثَنَا ابْنُ، جُرَيْجٍ أَخْبَرَنِي عَطَاءٌ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُخَابَرَةِ وَالْمُحَاقَلَةِ وَالْمُزَابَنَةِ وَعَنْ بَيْعِ الثَّمَرَةِ حَتَّى تُطْعِمَ وَلاَ تُبَاعُ إِلاَّ بِالدَّرَاهِمِ وَالدَّنَانِيرِ إِلاَّ الْعَرَايَا ‏.‏ قَالَ عَطَاءٌ فَسَّرَ لَنَا جَابِرٌ قَالَ أَمَّا الْمُخَابَرَةُ فَالأَرْضُ الْبَيْضَاءُ يَدْفَعُهَا الرَّجُلُ إِلَى الرَّجُلِ فَيُنْفِقُ فِيهَا ثُمَّ يَأْخُذُ مِنَ الثَّمَرِ ‏.‏ وَزَعَمَ أَنَّ الْمُزَابَنَةَ بَيْعُ الرُّطَبِ فِي النَّخْلِ بِالتَّمْرِ كَيْلاً ‏.‏ وَالْمُحَاقَلَةُ فِي الزَّرْعِ عَلَى نَحْوِ ذَلِكَ يَبِيعُ الزَّرْعَ الْقَائِمَ بِالْحَبِّ كَيْلاً ‏.‏",
+      "swahili": "Jabir bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti kwamba Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza Mukhabara na Muhaqala, na Muzabana, na uuzaji wa matunda mpaka yawe yanafaa kwa kuliwa, na uuzaji wake isipokuwa kwa dirham na dinari. Isipokuwa (concession) inafanywa katika kesi ya 'araya. 'Ata' alisema: Jabir alifafanua (istilahi hizi) kwa ajili yetu. Kuhusu Mukhabara ni kwamba ardhi iliyopo (wasteland) inatolewa na mtu kwa mwingine na yeye anafanya uwekezaji ndani yake kisha anapata sehemu ya mavuno. Kulingana na yeye (Jabir), Muzabana ni uuzaji wa tende bichi kwenye mti kwa tende kavu kwa kipimo, na Muhaqala katika kilimo inamaanisha kwamba mtu anapaswa kuuza zao lililosimama kwa nafaka kwa kipimo."
+    },
+    {
+      "number": "1536f",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ، كِلاَهُمَا عَنْ زَكَرِيَّاءَ، قَالَ ابْنُ أَبِي خَلَفٍ حَدَّثَنَا زَكَرِيَّاءُ بْنُ عَدِيٍّ، أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ، حَدَّثَنَا أَبُو الْوَلِيدِ الْمَكِّيُّ، وَهُوَ جَالِسٌ عِنْدَ عَطَاءِ بْنِ أَبِي رَبَاحٍ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ وَالْمُخَابَرَةِ وَأَنْ تُشْتَرَى النَّخْلُ حَتَّى تُشْقِهَ - وَالإِشْقَاهُ أَنْ يَحْمَرَّ أَوْ يَصْفَرَّ أَوْ يُؤْكَلَ مِنْهُ شَىْءٌ - وَالْمُحَاقَلَةُ أَنْ يُبَاعَ الْحَقْلُ بِكَيْلٍ مِنَ الطَّعَامِ مَعْلُومٍ وَالْمُزَابَنَةُ أَنْ يُبَاعَ النَّخْلُ بِأَوْسَاقٍ مِنَ التَّمْرِ وَالْمُخَابَرَةُ الثُّلُثُ وَالرُّبُعُ وَأَشْبَاهُ ذَلِكَ ‏.‏ قَالَ زَيْدٌ قُلْتُ لِعَطَاءِ بْنِ أَبِي رَبَاحٍ أَسَمِعْتَ جَابِرَ بْنَ عَبْدِ اللَّهِ يَذْكُرُ هَذَا عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ نَعَمْ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akikataza Muhaqala, na Muzabana, na Mukhabara, na ununuzi wa mitende mpaka matunda yake yawe yameiva (kuiva kunamaanisha kuwa rangi yake inakuwa nyekundu au ya manjano, au kitu chochote kinakuliwa kutoka humo). Na Muhaqala inamaanisha kwamba mazao shambani yanunuliwe kwa nafaka kulingana na kipimo cha kawaida. Muzabana inamaanisha kwamba mitende inapaswa kuuzwa kwa tende kavu kwa kuzipima kwa wisqs (kipimo), na al-Mukhabara ni (sehemu), labda moja ya tatu au moja ya nne (katika mavuno) au kitu kama hicho. Zaid (mmoja wa wasimulizi) alimwambia 'Ata' bin Abu Rabah (msimulizi mwingine): Je, ulimsikia Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) akitaja kuwa aliyasikia hayo moja kwa moja kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam)? Alisema: Ndiyo."
+    },
+    {
+      "number": "1536g",
+      "arabic": "وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ هَاشِمٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا سَلِيمُ بْنُ حَيَّانَ، حَدَّثَنَا سَعِيدُ بْنُ، مِينَاءَ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُزَابَنَةِ وَالْمُحَاقَلَةِ وَالْمُخَابَرَةِ وَعَنْ بَيْعِ الثَّمَرَةِ حَتَّى تُشْقِحَ ‏.‏ قَالَ قُلْتُ لِسَعِيدٍ مَا تُشْقِحُ قَالَ تَحْمَارُّ وَتَصْفَارُّ وَيُؤْكَلُ مِنْهَا ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akikataza Muzabana na Muhaqala, na Mukhabara, na uuzaji wa matunda mpaka yawe yameiva. Mimi (msimulizi) nilimwambia Sa'id (msimulizi mwingine): Kuiva kunamaanisha nini? Alisema: Inamaanisha kuwa yanakuwa mekundu au yanakuwa ya manjano na yanafaa kwa kuliwa."
+    },
+    {
+      "number": "1536h",
+      "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، وَمُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، - وَاللَّفْظُ لِعُبَيْدِ اللَّهِ - قَالاَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي الزُّبَيْرِ، وَسَعِيدِ بْنِ مِينَاءَ، عَنْ جَابِرِ بْنِ، عَبْدِ اللَّهِ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ وَالْمُعَاوَمَةِ وَالْمُخَابَرَةِ - قَالَ أَحَدُهُمَا بَيْعُ السِّنِينَ هِيَ الْمُعَاوَمَةُ - وَعَنِ الثُّنْيَا وَرَخَّصَ فِي الْعَرَايَا ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akikataza Muhaqala na Muzabana na Mu'awama na Mukhabara. (Mmoja wa wasimulizi) alisema: Uuzaji wa miaka mingi (years ahead) ni Mu'awama, na kufanya isipokuwa (exceptional) lakini alitoa msamaha (exemption) katika 'araya."
+    },
+    {
+      "number": "1536i",
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ حُجْرٍ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ عُلَيَّةَ - عَنْ أَيُّوبَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ غَيْرَ أَنَّهُ لاَ يَذْكُرُ بَيْعُ السِّنِينَ هِيَ الْمُعَاوَمَةُ ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya Jabir (radhi za Allah ziwe juu yake) kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam), lakini hakutaja uuzaji wa miaka (ahead) inayoashiria Mu'awama."
+    },
+    {
+      "number": "1536j",
+      "arabic": "وَحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْمَجِيدِ، حَدَّثَنَا رَبَاحُ بْنُ، أَبِي مَعْرُوفٍ قَالَ سَمِعْتُ عَطَاءً، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ كِرَاءِ الأَرْضِ وَعَنْ بَيْعِهَا السِّنِينَ وَعَنْ بَيْعِ الثَّمَرِ حَتَّى يَطِيبَ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti kwamba Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza kupangisha ardhi, na kuuza kabla ya miaka na uuzaji wa matunda kabla hayajaiva."
+    },
+    {
+      "number": "1536k",
+      "arabic": "وَحَدَّثَنِي أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - عَنْ مَطَرٍ الْوَرَّاقِ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ كِرَاءِ الأَرْضِ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza upangishaji wa ardhi."
+    },
+    {
+      "number": "1536l",
+      "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ الْفَضْلِ، - لَقَبُهُ عَارِمٌ وَهُوَ أَبُو النُّعْمَانِ السَّدُوسِيُّ - حَدَّثَنَا مَهْدِيُّ بْنُ مَيْمُونٍ، حَدَّثَنَا مَطَرٌ الْوَرَّاقُ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَزْرَعْهَا فَإِنْ لَمْ يَزْرَعْهَا فَلْيُزْرِعْهَا أَخَاهُ ‏\"‏ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote mwenye ardhi anapaswa kuilima mwenyewe, lakini ikiwa haitaimili yeye mwenyewe, basi anapaswa kumruhusu ndugu yake ailiime."
+    },
+    {
+      "number": "1536m",
+      "arabic": "حَدَّثَنَا الْحَكَمُ بْنُ مُوسَى، حَدَّثَنَا هِقْلٌ، - يَعْنِي ابْنَ زِيَادٍ - عَنِ الأَوْزَاعِيِّ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كَانَ لِرِجَالٍ فُضُولُ أَرَضِينَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ كَانَتْ لَهُ فَضْلُ أَرْضٍ فَلْيَزْرَعْهَا أَوْ لِيَمْنَحْهَا أَخَاهُ فَإِنْ أَبَى فَلْيُمْسِكْ أَرْضَهُ ‏\"‏ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti baadhi ya Masahaba wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) walikuwa na ziada ya ardhi. Ambapo Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akasema: Yeyote mwenye ziada ya ardhi (aliyonayo) anapaswa kuilima, au anapaswa kumkopesha ndugu yake kwa manufaa, lakini ikiwa atakataa kuikubali, anapaswa kuibakiza."
+    },
+    {
+      "number": "1536n",
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُعَلَّى بْنُ مَنْصُورٍ الرَّازِيُّ، حَدَّثَنَا خَالِدٌ، أَخْبَرَنَا الشَّيْبَانِيُّ، عَنْ بُكَيْرِ بْنِ الأَخْنَسِ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُؤْخَذَ لِلأَرْضِ أَجْرٌ أَوْ حَظٌّ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza kuchukua kodi au sehemu ya ardhi."
+    },
+    {
+      "number": "1536o",
+      "arabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَبْدُ الْمَلِكِ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَزْرَعْهَا فَإِنْ لَمْ يَسْتَطِعْ أَنْ يَزْرَعَهَا وَعَجَزَ عَنْهَا فَلْيَمْنَحْهَا أَخَاهُ الْمُسْلِمَ وَلاَ يُؤَاجِرْهَا إِيَّاهُ ‏\"‏ ‏.‏",
+      "swahili": "Jabir (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote mwenye ardhi anapaswa kuilima, lakini ikiwa haoni uwezekano wa kuilima, au anajiona hana uwezo wa kufanya hivyo, anapaswa kumkopesha ndugu yake Mwislamu, lakini hapaswi kukubali kodi kutoka kwake."
+    },
+    {
+      "number": "1536p",
+      "arabic": "وَحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا هَمَّامٌ، قَالَ سَأَلَ سُلَيْمَانُ بْنُ مُوسَى عَطَاءً فَقَالَ أَحَدَّثَكَ جَابِرُ بْنُ عَبْدِ اللَّهِ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَزْرَعْهَا أَوْ لِيُزْرِعْهَا أَخَاهُ وَلاَ يُكْرِهَا ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏",
+      "swahili": "Sulaiman bin Musa alimuuliza 'Ata': Je, Jabir bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: \"Yeyote mwenye ardhi anapaswa kuilima mwenyewe, au amruhusu ndugu yake ailiime na hapaswi kutoa kwa kodi\"? Akasema: Ndiyo."
+    },
+    {
+      "number": "1536q",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ الْمُخَابَرَةِ ‏.‏",
+      "swahili": "Jabir (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza Mukhabara."
+    },
+    {
+      "number": "1536r",
+      "arabic": "وَحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْمَجِيدِ، حَدَّثَنَا سَلِيمُ بْنُ، حَيَّانَ حَدَّثَنَا سَعِيدُ بْنُ مِينَاءَ، قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ كَانَ لَهُ فَضْلُ أَرْضٍ فَلْيَزْرَعْهَا أَوْ لِيُزْرِعْهَا أَخَاهُ وَلاَ تَبِيعُوهَا ‏\"‏ ‏.‏ فَقُلْتُ لِسَعِيدٍ مَا قَوْلُهُ وَلاَ تَبِيعُوهَا يَعْنِي الْكِرَاءَ ‏.‏ قَالَ نَعَمْ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) alimsikia Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote mwenye ziada ya ardhi anapaswa kuilima, au amruhusu ndugu yake ailiime na msiuze (ardhi hiyo). Mimi (msimulizi) nikasema kwa Sa'id: Kauli yake \"msiuze\" inamaanisha nini? Je, inamaanisha \"kodi\"? Alisema: Ndiyo."
+    },
+    {
+      "number": "1536s",
+      "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ كُنَّا نُخَابِرُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَنُصِيبُ مِنَ الْقِصْرِيِّ وَمِنْ كَذَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَزْرَعْهَا أَوْ فَلْيُحْرِثْهَا أَخَاهُ وَإِلاَّ فَلْيَدَعْهَا‏\"‏ ‏.‏",
+      "swahili": "Jabir bin 'Abdullah aliripoti: Tulikuwa tukilima ardhi kwa kodi wakati wa uhai wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) na tulipata sehemu kutoka kwenye nafaka zilizobaki katika masuke baada ya kuzipura na kitu kisichotajwa. Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akasema: Yeyote mwenye ardhi anapaswa kuilima au amruhusu ndugu yake ailiime, la sivyo anapaswa kuiacha."
+    },
+    {
+      "number": "1536t",
+      "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَأَحْمَدُ بْنُ عِيسَى، جَمِيعًا عَنِ ابْنِ وَهْبٍ، - قَالَ ابْنُ عِيسَى حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، - حَدَّثَنِي هِشَامُ بْنُ سَعْدٍ، أَنَّ أَبَا الزُّبَيْرِ الْمَكِّيَّ، حَدَّثَهُ قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ كُنَّا فِي زَمَانِ رَسُولِ اللَّهِ صلى الله عليه وسلم نَأْخُذُ الأَرْضَ بِالثُّلُثِ أَوِ الرُّبُعِ بِالْمَاذِيَانَاتِ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي ذَلِكَ فَقَالَ ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَزْرَعْهَا فَإِنْ لَمْ يَزْرَعْهَا فَلْيَمْنَحْهَا أَخَاهُ فَإِنْ لَمْ يَمْنَحْهَا أَخَاهُ فَلْيُمْسِكْهَا ‏\"‏ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti: Tulikuwa tukipata ardhi (kwa kodi) wakati wa uhai wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) kwa sehemu ya moja ya tatu au moja ya nne (ya mavuno kutoka kwenye ardhi iliyonyunyiziwa) kwa msaada wa mifereji. Ambapo Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alisimama (kuhutubia) na kusema: Yeyote mwenye ardhi anapaswa kuilima, na ikiwa haitaimili, anapaswa kumkopesha ndugu yake, na ikiwa hamkopeshi ndugu yake, anapaswa kuibakiza."
+    },
+    {
+      "number": "1536u",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ سُلَيْمَانَ، حَدَّثَنَا أَبُو سُفْيَانَ، عَنْ جَابِرٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَهَبْهَا أَوْ لِيُعِرْهَا ‏\"‏ ‏.‏",
+      "swahili": "Jabir (radhi za Allah ziwe juu yake) aliripoti: Nilimsikia Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote mwenye (ziada ya) ardhi anapaswa kuitoa (kwa wengine), au kuikopesha."
+    },
+    {
+      "number": "1536v",
+      "arabic": "وَحَدَّثَنِيهِ حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا أَبُو الْجَوَّابِ، حَدَّثَنَا عَمَّارُ بْنُ رُزَيْقٍ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ قَالَ ‏ \"‏ فَلْيَزْرَعْهَا أَوْ فَلْيُزْرِعْهَا رَجُلاً ‏\"‏ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya A'mash kwa mlolongo uleule wa wapokezi lakini kwa mabadiliko kidogo ya maneno: \"anapaswa kuilima au anapaswa kumruhusu mtu mwingine ailiime.\""
+    },
+    {
+      "number": "1536w",
+      "arabic": "وَحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، - وَهُوَ ابْنُ الْحَارِثِ - أَنَّ بُكَيْرًا، حَدَّثَهُ أَنَّ عَبْدَ اللَّهِ بْنَ أَبِي سَلَمَةَ حَدَّثَهُ عَنِ النُّعْمَانِ بْنِ أَبِي عَيَّاشٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ كِرَاءِ الأَرْضِ ‏.‏ قَالَ بُكَيْرٌ وَحَدَّثَنِي نَافِعٌ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، يَقُولُ كُنَّا نُكْرِي أَرْضَنَا ثُمَّ تَرَكْنَا ذَلِكَ حِينَ سَمِعْنَا حَدِيثَ رَافِعِ بْنِ خَدِيجٍ ‏.‏",
+      "swahili": "Jabir bin 'Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikuwa amekataza upangishaji wa ardhi. Bukair (mmoja wa wasimulizi) alisema: Nafi' aliripoti kwangu kuwa alimsikia Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) akisema: Tulikuwa tukiipa ardhi yetu kwa kodi; kisha tuliacha desturi hii tulipoisikia hadithi ya Rafi' bin Khadij."
+    },
+    {
+      "number": "1536x",
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الأَرْضِ الْبَيْضَاءِ سَنَتَيْنِ أَوْ ثَلاَثًا ‏.‏",
+      "swahili": "Jabir (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akikataza uuzaji (upangishaji) wa ardhi isiyolimwa kwa miaka miwili au mitatu."
+    },
+    {
+      "number": "1536y",
+      "arabic": "وَحَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَأَبُو بَكْرِ بْنُ شَيْبَةَ وَعَمْرٌو النَّاقِدُ وَزُهَيْرُ بْنُ حَرْبٍ قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ حُمَيْدٍ الأَعْرَجِ، عَنْ سُلَيْمَانَ بْنِ عَتِيقٍ، عَنْ جَابِرٍ، قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ بَيْعِ السِّنِينَ ‏.‏ وَفِي رِوَايَةِ ابْنِ أَبِي شَيْبَةَ عَنْ بَيْعِ الثَّمَرِ سِنِينَ ‏.‏",
+      "swahili": "Jabir (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akikataza uuzaji wa (mavuno) mapema (in advance) kwa miaka miwili. Na katika simulizi ya Ibn Abu Shaiba (maneno ni): \"Uuzaji wa matunda (kwenye mti) mapema kwa miaka miwili.\""
+    },
+    {
+      "number": "1537",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ أَبِي الْبَخْتَرِيِّ، قَالَ سَأَلْتُ ابْنَ عَبَّاسٍ عَنْ بَيْعِ النَّخْلِ، فَقَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ النَّخْلِ حَتَّى يَأْكُلَ مِنْهُ أَوْ يُؤْكَلَ وَحَتَّى يُوزَنَ ‏.‏ قَالَ فَقُلْتُ مَا يُوزَنُ فَقَالَ رَجُلٌ عِنْدَهُ حَتَّى يَحْزَرَ ‏.‏",
+      "swahili": "Abu Bakhtari aliripoti: Nilimuuliza Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili) kuhusu uuzaji wa tende. Akasema: Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza uuzaji wa tende za miti mpaka mtu azile au ziliwe (yaani ziwe zinafaa kuliwa) au mpaka zipimwe (au kupimwa kwa kadiri). Nikasema: Inamaanisha nini: \"Mpaka zipimwe\"? Hapo mtu aliyekuwa naye (Ibn 'Abbas) akasema: Mpaka aweze kuzihifadhi naye (baada ya kuzichuma)."
+    },
+    {
+      "number": "1538a",
+      "arabic": "حَدَّثَنِي أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ أَبِيهِ، عَنِ ابْنِ أَبِي، نُعْمٍ عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَبْتَاعُوا الثِّمَارَ حَتَّى يَبْدُوَ صَلاَحُهَا ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Usiuze matunda mpaka hali yake nzuri iwe dhahiri."
+    },
+    {
+      "number": "1534i",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، ح وَحَدَّثَنَا ابْنُ، نُمَيْرٍ وَزُهَيْرُ بْنُ حَرْبٍ - وَاللَّفْظُ لَهُمَا - قَالاَ حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الثَّمَرِ حَتَّى يَبْدُوَ صَلاَحُهُ وَعَنْ بَيْعِ الثَّمَرِ بِالتَّمْرِ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akimkataza uuzaji wa matunda mpaka hali yake nzuri iwe dhahiri na ununuzi wa tende kwa tende."
+    },
+    {
+      "number": "1539a",
+      "arabic": "قَالَ ابْنُ عُمَرَ وَحَدَّثَنَا زَيْدُ بْنُ ثَابِتٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ فِي بَيْعِ الْعَرَايَا ‏.‏ زَادَ ابْنُ نُمَيْرٍ فِي رِوَايَتِهِ أَنْ تُبَاعَ ‏.‏",
+      "swahili": "Zaid bin Thabit (radhi za Allah ziwe juu yake) alisema kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alitoa ruhusa (concession) katika kesi ya uuzaji unaojulikana kama al-'Ariyya; kuna nyongeza ya neno 'an tuba'a katika hadithi iliyosimuliwa na Ibn Numair."
+    },
+    {
+      "number": "1538b",
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، - وَاللَّفْظُ لِحَرْمَلَةَ - قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، وَأَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَبْتَاعُوا الثَّمَرَ حَتَّى يَبْدُوَ صَلاَحُهُ وَلاَ تَبْتَاعُوا الثَّمَرَ بِالتَّمْرِ ‏\"‏ ‏.‏ قَالَ ابْنُ شِهَابٍ وَحَدَّثَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ سَوَاءً ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Usinunue matunda mpaka hali yake iwe dhahiri, na usinunue tende bichi. Hadithi kama hii imeripotiwa na Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) kupitia mlolongo mwingine wa wapokezi."
+    },
+    {
+      "number": "1539b",
+      "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا حُجَيْنُ بْنُ الْمُثَنَّى، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الْمُزَابَنَةِ وَالْمُحَاقَلَةِ وَالْمُزَابَنَةُ أَنْ يُبَاعَ ثَمَرُ النَّخْلِ بِالتَّمْرِ وَالْمُحَاقَلَةُ أَنْ يُبَاعَ الزَّرْعُ بِالْقَمْحِ وَاسْتِكْرَاءُ الأَرْضِ بِالْقَمْحِ ‏.‏ قَالَ وَأَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ \"‏ لاَ تَبْتَاعُوا الثَّمَرَ حَتَّى يَبْدُوَ صَلاَحُهُ وَلاَ تَبْتَاعُوا الثَّمَرَ بِالتَّمْرِ ‏\"‏ ‏.‏ وَقَالَ سَالِمٌ أَخْبَرَنِي عَبْدُ اللَّهِ، عَنْ زَيْدِ بْنِ ثَابِتٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ رَخَّصَ بَعْدَ ذَلِكَ فِي بَيْعِ الْعَرِيَّةِ بِالرُّطَبِ أَوْ بِالتَّمْرِ وَلَمْ يُرَخِّصْ فِي غَيْرِ ذَلِكَ",
+      "swahili": "Sa'id bin al-Musayyib alisema kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza mkataba wa Muzabana na Muhaqala. Muzabana ina maana kwamba tende bichi kwenye miti zinapaswa kuuzwa dhidi ya tende kavu. Muhaqala ina maana kwamba ngano katika masuke inapaswa kuuzwa dhidi ya ngano na kupangisha ardhi kwa ngano (inayozalishwa ndani yake). Yeye (msimulizi) alisema kuwa Mtume wa Allah (swalla Allahu alayhi wa sallam) alikuwa amesema: Usiuze matunda bichi kwenye miti mpaka hali yake nzuri iwe dhahiri, na usiuze tende bichi kwenye miti dhidi ya tende kavu. Salim alisema: 'Abdullah alinifahamisha kwa mamlaka ya Zaid bin Thabit, kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alitoa ruhusa baadaye katika kesi ya mikataba ya 'Ariyya ambapo tende kavu zinaweza kubadilishana na tende bichi, lakini hakuruhusu katika kesi nyingine."
+    },
+    {
+      "number": "1539c",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ زَيْدِ، بْنِ ثَابِتٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ لِصَاحِبِ الْعَرِيَّةِ أَنْ يَبِيعَهَا بِخَرْصِهَا مِنَ التَّمْرِ ‏.‏",
+      "swahili": "Zaid bin Thabit (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa ametoa ruhusa kwa mwenye 'Ariyya kuuza (matunda hayo) kwa kadiri yake ya tende (kwa makadirio ya tende)."
+    },
+    {
+      "number": "1539d",
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَخْبَرَنِي نَافِعٌ، أَنَّهُ سَمِعَ عَبْدَ اللَّهِ بْنَ عُمَرَ، يُحَدِّثُ أَنَّ زَيْدَ بْنَ ثَابِتٍ، حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ فِي الْعَرِيَّةِ يَأْخُذُهَا أَهْلُ الْبَيْتِ بِخَرْصِهَا تَمْرًا يَأْكُلُونَهَا رُطَبًا ‏.‏",
+      "swahili": "Zaid bin Thabit aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alitoa ruhusa katika kesi ya mikataba ya 'Ariyya ambapo watu wa nyumbani huchukua kwa makadirio yao ya tende ili wale tende bichi (kwa kubadilishana nayo)."
+    },
+    {
+      "number": "1539e",
+      "arabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ، يَقُولُ أَخْبَرَنِي نَافِعٌ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya Nafi' kwa mlolongo uleule wa wapokezi."
+    },
+    {
+      "number": "1539f",
+      "arabic": "وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ قَالَ وَالْعَرِيَّةُ النَّخْلَةُ تُجْعَلُ لِلْقَوْمِ فَيَبِيعُونَهَا بِخَرْصِهَا تَمْرًا ‏.‏",
+      "swahili": "Yahya bin Sa'id aliripoti hadithi hii kwa mlolongo uleule wa wapokezi lakini kwa mabadiliko haya: 'Ariyya ina maana ya mtende ambao hutolewa (donated) kwa watu kisha wanauza kwa kadiri yake ya tende."
+    },
+    {
+      "number": "1539g",
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحِ بْنِ الْمُهَاجِرِ، حَدَّثَنَا اللَّيْثُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، حَدَّثَنِي زَيْدُ بْنُ ثَابِتٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ فِي بَيْعِ الْعَرِيَّةِ بِخَرْصِهَا تَمْرًا ‏.‏ قَالَ يَحْيَى الْعَرِيَّةُ أَنْ يَشْتَرِيَ الرَّجُلُ ثَمَرَ النَّخَلاَتِ لِطَعَامِ أَهْلِهِ رُطَبًا بِخَرْصِهَا تَمْرًا ‏.‏",
+      "swahili": "Zaid bin Thabit (radhi za Allah ziwe juu yake) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alitoa ruhusa katika uuzaji wa 'Ariyya kwa makadirio yake ya tende. Yahya alisema: 'Ariyya ina maana kwamba mtu anapaswa kununua matunda ya mitende kwa ajili ya chakula cha familia yake yakiwa bichi dhidi ya makadirio ya tende kavu."
+    },
+    {
+      "number": "1539h",
+      "arabic": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللَّهِ، حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ فِي الْعَرَايَا أَنْ تُبَاعَ بِخَرْصِهَا كَيْلاً ‏.‏",
+      "swahili": "Zaid bin Thabit (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akitoa ruhusa katika kesi ya mikataba ya 'Ariyya ya kuuzwa kwa makadirio yake kwa kipimo."
+    },
+    {
+      "number": "1539i",
+      "arabic": "وَحَدَّثَنَاهُ ابْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ وَقَالَ أَنْ تُؤْخَذَ بِخَرْصِهَا ‏.‏",
+      "swahili": "Ubaidullah aliripoti hadithi hii kwa mabadiliko kidogo ya maneno kwa mamlaka ileile (kama ilivyonukuliwa hapo juu)."
+    },
+    {
+      "number": "1539j",
+      "arabic": "وَحَدَّثَنَا أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا حَمَّادٌ، ح وَحَدَّثَنِيهِ عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ، كِلاَهُمَا عَنْ أَيُّوبَ، عَنْ نَافِعٍ، بِهَذَا الإِسْنَادِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ فِي بَيْعِ الْعَرَايَا بِخَرْصِهَا ‏.‏",
+      "swahili": "Nafi' aliripoti hadithi hii kwa mlolongo uleule wa wapokezi akisema kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alitoa ruhusa katika uuzaji wa 'Ariyya kwa makadirio yake."
+    },
+    {
+      "number": "1540a",
+      "arabic": "وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ بِلاَلٍ - عَنْ يَحْيَى، - وَهُوَ ابْنُ سَعِيدٍ - عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ بَعْضِ، أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ أَهْلِ دَارِهِمْ مِنْهُمْ سَهْلُ بْنُ أَبِي حَثْمَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الثَّمَرِ بِالتَّمْرِ وَقَالَ ‏ \"‏ ذَلِكَ الرِّبَا تِلْكَ الْمُزَابَنَةُ ‏\"‏ ‏.‏ إِلاَّ أَنَّهُ رَخَّصَ فِي بَيْعِ الْعَرِيَّةِ النَّخْلَةِ وَالنَّخْلَتَيْنِ يَأْخُذُهَا أَهْلُ الْبَيْتِ بِخَرْصِهَا تَمْرًا يَأْكُلُونَهَا رُطَبًا ‏.‏",
+      "swahili": "Bashair bin Yasir aliripoti kwa mamlaka ya baadhi ya Masahaba wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) miongoni mwa wanafamilia yake, mmoja wao akiwa Sahl bin Abu Hathma, kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza ununuzi wa tende mbichi dhidi ya tende kavu na akasema: Hiyo ni riba, hiyo ni Muzabana. Isipokuwa kwamba alitoa msamaha  katika 'Ariyya (michango) ya mti mmoja au miwili ambapo wanafamilia huuza tende kavu na kununua tende bichi kwa ajili ya kuzila."
+    },
+    {
+      "number": "1540b",
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا ابْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ يَحْيَى، بْنِ سَعِيدٍ عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ أَصْحَابِ، رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُمْ قَالُوا رَخَّصَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي بَيْعِ الْعَرِيَّةِ بِخَرْصِهَا تَمْرًا ‏.‏",
+      "swahili": "Bushair bin Yasar aliripoti kwa mamlaka ya baadhi ya Masahaba wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) kwamba alitoa ruhusa katika uuzaji wa 'Ariyya kwa makadirio ya tende (kwa kubadilishana na tende bichi)."
+    },
+    {
+      "number": "1540c",
+      "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنِ الثَّقَفِيِّ، قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ، يَقُولُ أَخْبَرَنِي بُشَيْرُ بْنُ يَسَارٍ، عَنْ بَعْضِ، أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ أَهْلِ دَارِهِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى ‏.‏ فَذَكَرَ بِمِثْلِ حَدِيثِ سُلَيْمَانَ بْنِ بِلاَلٍ عَنْ يَحْيَى غَيْرَ أَنَّ إِسْحَاقَ وَابْنَ الْمُثَنَّى جَعَلاَ مَكَانَ الرِّبَا الزَّبْنَ وَقَالَ ابْنُ أَبِي عُمَرَ الرِّبَا ‏.‏",
+      "swahili": "Bushair bin Yasar aliripoti kwa mamlaka ya baadhi ya Masahaba wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) kutoka miongoni mwa wanafamilia yake kwamba Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza (ubadilishanaji wa moja kwa moja wa bidhaa zenye sifa tofauti) lakini kwa mabadiliko kwamba Ishaq na Ibn al-Muthanna walitumia neno 'Zabn' badala ya 'Riba' na Ibn Abu 'Umar alitumia neno 'Riba' (riba)."
+    },
+    {
+      "number": "1540d",
+      "arabic": "وَحَدَّثَنَاهُ عَمْرٌو النَّاقِدُ، وَابْنُ، نُمَيْرٍ قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ يَحْيَى بْنِ، سَعِيدٍ عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ حَدِيثِهِمْ ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya Sahl bin Abu Hathma."
+    },
+    {
+      "number": "1540e",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَحَسَنٌ الْحُلْوَانِيُّ، قَالاَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ، بْنِ كَثِيرٍ حَدَّثَنِي بُشَيْرُ بْنُ يَسَارٍ، مَوْلَى بَنِي حَارِثَةَ أَنَّ رَافِعَ بْنَ خَدِيجٍ، وَسَهْلَ بْنَ أَبِي حَثْمَةَ، حَدَّثَاهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ الثَّمَرِ بِالتَّمْرِ إِلاَّ أَصْحَابَ الْعَرَايَا فَإِنَّهُ قَدْ أَذِنَ لَهُمْ ‏.‏",
+      "swahili": "Sahl bin Abu Hathma aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza Muzabana, yaani ubadilishanaji wa tende bichi na tende kavu. Isipokuwa wale ambao wametolewa zawadi ya miti fulani. Ni kwa ajili yao ndipo ruhusa imetolewa."
+    },
+    {
+      "number": "1541",
+      "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا مَالِكٌ، ح وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، - وَاللَّفْظُ لَهُ - قَالَ قُلْتُ لِمَالِكٍ حَدَّثَكَ دَاوُدُ بْنُ الْحُصَيْنِ، عَنْ أَبِي سُفْيَانَ، - مَوْلَى ابْنِ أَبِي أَحْمَدَ - عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ فِي بَيْعِ الْعَرَايَا بِخَرْصِهَا فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ أَوْ فِي خَمْسَةِ - يَشُكُّ دَاوُدُ قَالَ خَمْسَةٌ أَوْ دُونَ خَمْسَةٍ - قَالَ نَعَمْ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa ametoa msamaha katika mkataba wa 'Ariyya unaopima chini ya wasq tano au hadi wasq tano (msimulizi Dawud ana shaka ikiwa ni tano au chini ya tano). Akasema: Ndiyo."
+    },
+    {
+      "number": "1542a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ وَالْمُزَابَنَةُ بَيْعُ الثَّمَرِ بِالتَّمْرِ كَيْلاً وَبَيْعُ الْكَرْمِ بِالزَّبِيبِ كَيْلاً ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza Muzabana. Na Muzabana ni uuzaji wa tende bichi kwa tende kavu kwa kipimo, na uuzaji wa zabibu kwa zabibu kavu (raisins) kwa kipimo."
+    },
+    {
+      "number": "1542b",
+      "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ، بِشْرٍ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ، أَخْبَرَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ بَيْعِ ثَمَرِ النَّخْلِ بِالتَّمْرِ كَيْلاً وَبَيْعِ الْعِنَبِ بِالزَّبِيبِ كَيْلاً وَبَيْعِ الزَّرْعِ بِالْحِنْطَةِ كَيْلاً ‏.‏",
+      "swahili": "'Abdullah (b. 'Umar) (radhi za Allah ziwe juu yao wote wawili) aliripoti kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza Muzabana, yaani ununuzi wa tende bichi (kwenye) miti kwa tende kavu kwa kipimo, na ununuzi wa zabibu kwa zabibu kavu kwa kipimo, na uuzaji wa shamba la nafaka kwa nafaka kwa kipimo."
+    },
+    {
+      "number": "1542c",
+      "arabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ مِثْلَهُ",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya 'Ubaidullah kwa mlolongo uleule wa wapokezi."
+    },
+    {
+      "number": "1542d",
+      "arabic": "حَدَّثَنِي يَحْيَى بْنُ مَعِينٍ، وَهَارُونُ بْنُ عَبْدِ اللَّهِ، وَحُسَيْنُ بْنُ عِيسَى، قَالُوا حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُزَابَنَةِ وَالْمُزَابَنَةُ بَيْعُ ثَمَرِ النَّخْلِ بِالتَّمْرِ كَيْلاً وَبَيْعُ الزَّبِيبِ بِالْعِنَبِ كَيْلاً وَعَنْ كُلِّ ثَمَرٍ بِخَرْصِهِ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza Muzabana, na Muzabana ni uuzaji wa tende bichi kwa tende kavu kwa kipimo na uuzaji wa zabibu kavu kwa zabibu kwa kipimo na (uuzaji wa) matunda yote kwa makadirio."
+    },
+    {
+      "number": "1542e",
+      "arabic": "حَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ إِبْرَاهِيمَ - عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ وَالْمُزَابَنَةُ أَنْ يُبَاعَ مَا فِي رُءُوسِ النَّخْلِ بِتَمْرٍ بِكَيْلٍ مُسَمًّى إِنْ زَادَ فَلِي وَإِنْ نَقَصَ فَعَلَىَّ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza Muzabana, na Muzabana ni kuuzwa kwa yale yaliyo juu ya mitende kwa tende kwa kipimo maalum, ikiwa kutaongezeka basi ni kwangu na ikiwa itapungua basi ni dhima yangu."
+    },
+    {
+      "number": "1542f",
+      "arabic": "وَحَدَّثَنَاهُ أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya Ayyub."
+    },
+    {
+      "number": "1542g",
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُزَابَنَةِ أَنْ يَبِيعَ ثَمَرَ حَائِطِهِ إِنْ كَانَتْ نَخْلاً بِتَمْرٍ كَيْلاً وَإِنْ كَانَ كَرْمًا أَنْ يَبِيعَهُ بِزَبِيبٍ كَيْلاً وَإِنْ كَانَ زَرْعًا أَنْ يَبِيعَهُ بِكَيْلِ طَعَامٍ ‏.‏ نَهَى عَنْ ذَلِكَ كُلِّهِ ‏.‏ وَفِي رِوَايَةِ قُتَيْبَةَ أَوْ كَانَ زَرْعًا",
+      "swahili": "'Abdullah (b. 'Umar) (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza Muzabana, (yaani) mtu auze matunda ya bustani yake ikiwa ni mitende kwa tende kwa kipimo, na ikiwa ni mizabibu auze kwa zabibu kavu kwa kipimo, na ikiwa ni nafaka auze kwa nafaka kavu kwa kipimo. Yeye (Mtume Mtukufu) kwa hakika alikataza mikataba yote kama hiyo. Qutaiba ameisimulia kwa mabadiliko madogo ya maneno."
+    },
+    {
+      "number": "1542h",
+      "arabic": "وَحَدَّثَنِيهِ أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي يُونُسُ، ح وَحَدَّثَنَاهُ ابْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنِي الضَّحَّاكُ، ح وَحَدَّثَنِيهِ سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا حَفْصُ بْنُ مَيْسَرَةَ، حَدَّثَنِي مُوسَى بْنُ عُقْبَةَ، كُلُّهُمْ عَنْ نَافِعٍ، بِهَذَا الإِسْنَادِ نَحْوَ حَدِيثِهِمْ",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Nafi' kwa mlolongo mwingine wa wapokezi kama hadithi yao."
+    },
+    {
+      "number": "1543a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ بَاعَ نَخْلاً قَدْ أُبِّرَتْ فَثَمَرَتُهَا لِلْبَائِعِ إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ ‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayenunua mitende baada ya kuchavushwa, matunda yake ni ya muuzaji isipokuwa mnunuzi akiweka sharti (proviso)."
+    },
+    {
+      "number": "1543b",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، جَمِيعًا عَنْ عُبَيْدِ اللَّهِ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أَيُّمَا نَخْلٍ اشْتُرِيَ أُصُولُهَا وَقَدْ أُبِّرَتْ فَإِنَّ ثَمَرَهَا لِلَّذِي أَبَّرَهَا إِلاَّ أَنْ يَشْتَرِطَ الَّذِي اشْتَرَاهَا‏\"‏ ‏.‏",
+      "swahili": "Nafi' aliripoti kwa mamlaka ya Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alisema: Mti wowote unaonunuliwa pamoja na mizizi yake, na ikiwa umechavushwa, matunda yake ni ya yule aliyeuchavusha isipokuwa wakati sharti linawekwa na mnunuzi."
+    },
+    {
+      "number": "1543c",
+      "arabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا ابْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ أَيُّمَا امْرِئٍ أَبَّرَ نَخْلاً ثُمَّ بَاعَ أَصْلَهَا فَلِلَّذِي أَبَّرَ ثَمَرُ النَّخْلِ إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayechavusha mti kisha akauza mizizi yake, matunda yake ni ya yule aliyeuchavusha isipokuwa wakati sharti linawekwa na mnunuzi."
+    },
+    {
+      "number": "1543d",
+      "arabic": "وَحَدَّثَنَاهُ أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا حَمَّادٌ، ح وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ، كِلاَهُمَا عَنْ أَيُّوبَ، عَنْ نَافِعٍ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Nafi' kwa mlolongo uleule wa wapokezi kama ilivyo hapo juu."
+    },
+    {
+      "number": "1543e",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ رُمْحٍ، قَالاَ أَخْبَرَنَا اللَّيْثُ، ح وَحَدَّثَنَا قُتَيْبَةُ بْنُ، سَعِيدٍ حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنِ ابْتَاعَ نَخْلاً بَعْدَ أَنْ تُؤَبَّرَ فَثَمَرَتُهَا لِلَّذِي بَاعَهَا إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ وَمَنِ ابْتَاعَ عَبْدًا فَمَالُهُ لِلَّذِي بَاعَهُ إِلاَّ أَنْ يَشْتَرِطَ الْمُبْتَاعُ ‏\"‏ ‏.‏",
+      "swahili": "'Abdullah bin 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote anayenunua mti baada ya kuchavushwa, matunda yake ni ya yule anayeuuzisha isipokuwa wakati sharti linawekwa na mnunuzi, na yeyote anayenunua mtumwa, mali yake ni ya yule anayeuuzisha isipokuwa wakati sharti linawekwa na mnunuzi (kwamba mali hiyo ihamishwe kwake pamoja na mtumwa)."
+    },
+    {
+      "number": "1543f",
+      "arabic": "وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَزُهَيْرُ بْنُ حَرْبٍ قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya al-Zuhri kwa mlolongo uleule wa wapokezi."
+    },
+    {
+      "number": "1543g",
+      "arabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ أَبَاهُ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ بِمِثْلِهِ ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti kwa mamlaka ya baba yake kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alisema hivyo."
+    },
+    {
+      "number": "1544",
+      "arabic": "حَدَّثَنَا حَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا مُعَاوِيَةُ، عَنْ يَحْيَى بْنِ، أَبِي كَثِيرٍ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَزْرَعْهَا أَوْ لِيَمْنَحْهَا أَخَاهُ فَإِنْ أَبَى فَلْيُمْسِكْ أَرْضَهُ ‏\"‏ ‏.‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote mwenye ardhi anapaswa kuilima au kumkopesha (lend) ndugu yake, lakini ikiwa atakataa, anapaswa kuibakiza ardhi yake."
+    },
+    {
+      "number": "1536z",
+      "arabic": "وَحَدَّثَنَا الْحَسَنُ الْحُلْوَانِيُّ، حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا مُعَاوِيَةُ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، أَنَّ يَزِيدَ بْنَ نُعَيْمٍ، أَخْبَرَهُ أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ أَخْبَرَهُ أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنِ الْمُزَابَنَةِ وَالْحُقُولِ ‏.‏ فَقَالَ جَابِرُ بْنُ عَبْدِ اللَّهِ الْمُزَابَنَةُ الثَّمَرُ بِالتَّمْرِ ‏.‏ وَالْحُقُولُ كِرَاءُ الأَرْضِ ‏.‏",
+      "swahili": "Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) aliripoti: Nilimsikia Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akikataza Muzabana, na Huqul. Jabir bin Abdullah (radhi za Allah ziwe juu yao wote wawili) alisema: Muzabana ina maana ya uuzaji wa matunda kwa ajili ya tende kavu. Na Huqul ni upangishaji wa ardhi."
+    },
+    {
+      "number": "1545",
+      "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ - عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ ‏",
+      "swahili": "Abu Huraira (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akikataza Muhaqala na Muzabana."
+    },
+    {
+      "number": "1546",
+      "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مَالِكُ بْنُ أَنَسٍ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، أَنَّ أَبَا سُفْيَانَ، مَوْلَى ابْنِ أَبِي أَحْمَدَ أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُزَابَنَةِ وَالْمُحَاقَلَةِ ‏.‏ وَالْمُزَابَنَةُ اشْتِرَاءُ الثَّمَرِ فِي رُءُوسِ النَّخْلِ ‏.‏ وَالْمُحَاقَلَةُ كِرَاءُ الأَرْضِ ‏.‏",
+      "swahili": "Abu Sa'id al-Khudri (radhi za Allah ziwe juu yake) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akiwa amekataza Muzabana na Muhaqala. Muzabana ina maana ya ununuzi wa matunda yaliyo mitini (kwenye mitende) na Muhaqala ni upangishaji wa ardhi."
+    },
+    {
+      "number": "1547a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو الرَّبِيعِ الْعَتَكِيُّ، قَالَ أَبُو الرَّبِيعِ حَدَّثَنَا وَقَالَ، يَحْيَى أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَمْرٍو، قَالَ سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ كُنَّا لاَ نَرَى بِالْخِبْرِ بَأْسًا حَتَّى كَانَ عَامُ أَوَّلَ فَزَعَمَ رَافِعٌ أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم نَهَى عَنْهُ ‏.‏",
+      "swahili": "Zaid bin Amr aliripoti: Nilimsikia Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) akisema: Hatukuona ubaya wowote katika upangishaji wa ardhi, lakini mwaka wa kwanza ulipoisha Rafi' alidai kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikuwa amekataza hilo."
+    },
+    {
+      "number": "1547b",
+      "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ، ح وَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ، وَإِبْرَاهِيمُ، بْنُ دِينَارٍ قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ عُلَيَّةَ - عَنْ أَيُّوبَ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، كُلُّهُمْ عَنْ عَمْرِو بْنِ دِينَارٍ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ وَزَادَ فِي حَدِيثِ ابْنِ عُيَيْنَةَ فَتَرَكْنَاهُ مِنْ أَجْلِهِ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya 'Amr bin Dinar kwa mlolongo uleule wa wapokezi lakini (katika) hadithi iliyosimuliwa kwa mamlaka ya 'Uyainah (maneno ni): \"Tuliacha hilo (upangishaji) kwa sababu ya hilo.\""
+    },
+    {
+      "number": "1547c",
+      "arabic": "وَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ أَبِي الْخَلِيلِ، عَنْ مُجَاهِدٍ، قَالَ قَالَ ابْنُ عُمَرَ لَقَدْ مَنَعَنَا رَافِعٌ نَفْعَ أَرْضِنَا ‏.‏",
+      "swahili": "Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) aliripoti: Rafi' alitukataza kufaidika na ardhi yetu (kwa namna ya kodi)."
+    },
+    {
+      "number": "1547d",
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يُكْرِي مَزَارِعَهُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَفِي إِمَارَةِ أَبِي بَكْرٍ وَعُمَرَ وَعُثْمَانَ وَصَدْرًا مِنْ خِلاَفَةِ مُعَاوِيَةَ حَتَّى بَلَغَهُ فِي آخِرِ خِلاَفَةِ مُعَاوِيَةَ أَنَّ رَافِعَ بْنَ خَدِيجٍ يُحَدِّثُ فِيهَا بِنَهْىٍ عَنِ النَّبِيِّ صلى الله عليه وسلم فَدَخَلَ عَلَيْهِ وَأَنَا مَعَهُ فَسَأَلَهُ فَقَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْ كِرَاءِ الْمَزَارِعِ ‏.‏ فَتَرَكَهَا ابْنُ عُمَرَ بَعْدُ ‏.‏ وَكَانَ إِذَا سُئِلَ عَنْهَا بَعْدُ قَالَ زَعَمَ رَافِعُ بْنُ خَدِيجٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْهَا ‏.‏",
+      "swahili": "Nafi' aliripoti kuwa Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) alipangisha ardhi yake wakati wa uhai wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) na wakati wa ukhalifa wa Abu Bakr na ule wa 'Umar na ule wa 'Uthman (radhi za Allah ziwe juu yao) na wakati wa kipindi cha awali cha ukhalifa wa Mu'awiya mpaka mwishoni mwa utawala wa Mu'awiya, ilimfikia (Ibn 'Umar) habari kuwa Rafi' bin Khadij (radhi za Allah ziwe juu yake) alikuwa akisimulia (hadithi) ambamo (kulikuwa na amri) ya katazo kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam). Yeye (Ibn 'Umar) alimwendea yeye (Rafi' bin Khadij) na mimi nilikuwa pamoja naye na alimuuliza, ambapo akasema: Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikuwa akikataza upangishaji wa ardhi. Basi Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) akaacha (upangishaji), na baadaye kila alipoulizwa kuhusu hilo, alikuwa akisema: Rafi' bin Khadij (radhi za Allah ziwe juu yake) alidai kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza hilo."
+    },
+    {
+      "number": "1547e",
+      "arabic": "وَحَدَّثَنَا أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا حَمَّادٌ، ح وَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ، كِلاَهُمَا عَنْ أَيُّوبَ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ وَزَادَ فِي حَدِيثِ ابْنِ عُلَيَّةَ قَالَ فَتَرَكَهَا ابْنُ عُمَرَ بَعْدَ ذَلِكَ فَكَانَ لاَ يُكْرِيهَا ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Ayyub na alifanya nyongeza katika hadithi iliyosimuliwa na Ibn 'Ulayya ambamo alisema: Ibn 'Umar aliacha (upangishaji) baadaye na hakuupangisha (ardhi hiyo)."
+    },
+    {
+      "number": "1547f",
+      "arabic": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، قَالَ ذَهَبْتُ مَعَ ابْنِ عُمَرَ إِلَى رَافِعِ بْنِ خَدِيجٍ حَتَّى أَتَاهُ بِالْبَلاَطِ فَأَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ كِرَاءِ الْمَزَارِعِ ‏.‏",
+      "swahili": "Nafi' aliripoti: Nilienda kwa Rafi' bin Khadij nikiwa pamoja na Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) mpaka alipomfikia yeye (Ibn 'Umar) akiwa Balat (eneo karibu na Msikiti wa Mtume kule Madina) na yeye (Rafi' bin Khadij) alimfahamisha kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikuwa amekataza upangishaji wa ardhi."
+    },
+    {
+      "number": "1547g",
+      "arabic": "وَحَدَّثَنِي ابْنُ أَبِي خَلَفٍ، وَحَجَّاجُ بْنُ الشَّاعِرِ، قَالاَ حَدَّثَنَا زَكَرِيَّاءُ بْنُ عَدِيٍّ، أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ عَمْرٍو، عَنْ زَيْدٍ، عَنِ الْحَكَمِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ أَتَى رَافِعًا فَذَكَرَ هَذَا الْحَدِيثَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "swahili": "Nafi' aliripoti kutoka kwa Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) kuwa alimwendea Rafi' na akasimulia hadithi hii kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam)."
+    },
+    {
+      "number": "1547h",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا حُسَيْنٌ، - يَعْنِي ابْنَ حَسَنِ بْنِ يَسَارٍ - حَدَّثَنَا ابْنُ، عَوْنٍ عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يَأْجُرُ الأَرْضَ - قَالَ - فَنُبِّئَ حَدِيثًا عَنْ رَافِعِ بْنِ خَدِيجٍ - قَالَ - فَانْطَلَقَ بِي مَعَهُ إِلَيْهِ - قَالَ - فَذَكَرَ عَنْ بَعْضِ عُمُومَتِهِ ذَكَرَ فِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ نَهَى عَنْ كِرَاءِ الأَرْضِ ‏.‏ قَالَ فَتَرَكَهُ ابْنُ عُمَرَ فَلَمْ يَأْجُرْهُ ‏.‏",
+      "swahili": "Nafi' aliripoti kuwa Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) alikuwa akipangisha ardhi - alisema - kisha alipewa habari ya hadithi kutoka kwa Rafi' bin Khadij - alisema - basi alinipeleka pamoja naye kwake - alisema - basi alisimulia kutoka kwa baadhi ya ami zake ambamo ilitajwa kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza upangishaji wa ardhi. Alisema: Ibn 'Umar (radhi za Allah ziwe juu yao wote wawili) kisha akaacha desturi hii ya upangishaji na hakuipangisha."
+    },
+    {
+      "number": "1547i",
+      "arabic": "وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا ابْنُ عَوْنٍ، بِهَذَا الإِسْنَادِ وَقَالَ فَحَدَّثَهُ عَنْ بَعْضِ، عُمُومَتِهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kupitia mlolongo mwingine wa wapokezi."
+    },
+    {
+      "number": "1547j",
+      "arabic": "وَحَدَّثَنِي عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ بْنِ سَعْدٍ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، حَدَّثَنِي عُقَيْلُ بْنُ خَالِدٍ، عَنِ ابْنِ شِهَابٍ، أَنَّهُ قَالَ أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يُكْرِي أَرَضِيهِ حَتَّى بَلَغَهُ أَنَّ رَافِعَ بْنَ خَدِيجٍ الأَنْصَارِيَّ كَانَ يَنْهَى عَنْ كِرَاءِ الأَرْضِ فَلَقِيَهُ عَبْدُ اللَّهِ فَقَالَ يَا ابْنَ خَدِيجٍ مَاذَا تُحَدِّثُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي كِرَاءِ الأَرْضِ قَالَ رَافِعُ بْنُ خَدِيجٍ لِعَبْدِ اللَّهِ سَمِعْتُ عَمَّىَّ - وَكَانَا قَدْ شَهِدَا بَدْرًا - يُحَدِّثَانِ أَهْلَ الدَّارِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ كِرَاءِ الأَرْضِ ‏.‏ قَالَ عَبْدُ اللَّهِ لَقَدْ كُنْتُ أَعْلَمُ فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّ الأَرْضَ تُكْرَى ثُمَّ خَشِيَ عَبْدُ اللَّهِ أَنْ يَكُونَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَحْدَثَ فِي ذَلِكَ شَيْئًا لَمْ يَكُنْ عَلِمَهُ فَتَرَكَ كِرَاءَ الأَرْضِ ‏.‏",
+      "swahili": "Salim bin 'Abdullah aliripoti kuwa 'Abdullah bin 'Umar (radhi za Allah ziwe juu yao wote wawili) alikuwa akitoa ardhi yake kwa kodi mpaka ilipomfikia habari kuwa Rafi' bin Khadij al-Ansari alikuwa akikataza kodi ya ardhi. 'Abdullah alikutana naye na akasema: Ewe Ibn Khadij, ni nini hiki unachosimulia kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) kuhusu upangishaji wa ardhi? Rafi' bin Khadij alimwambia 'Abdullah: Nimesikia kutoka kwa ami zangu wawili - na wote walikuwa wameshiriki katika Vita vya Badr - wakisimulia watu wa nyumbani kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza upangishaji wa ardhi. 'Abdullah alisema: Nilijua kuwa ardhi ilikuwa ikipangishwa wakati wa uhai wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam). 'Abdullah kisha alihofia kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) huenda alikuwa amesema jambo jipya katika uhusiano huu (kuhusu katazo la upangishaji) ambalo nilishindwa kulijua. Basi aliacha upangishaji wa ardhi."
+    },
+    {
+      "number": "1548a",
+      "arabic": "وَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ عُلَيَّةَ - عَنْ أَيُّوبَ، عَنْ يَعْلَى بْنِ حَكِيمٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ كُنَّا نُحَاقِلُ الأَرْضَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَنُكْرِيهَا بِالثُّلُثِ وَالرُّبُعِ وَالطَّعَامِ الْمُسَمَّى فَجَاءَنَا ذَاتَ يَوْمٍ رَجُلٌ مِنْ عُمُومَتِي فَقَالَ نَهَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ أَمْرٍ كَانَ لَنَا نَافِعًا وَطَوَاعِيَةُ اللَّهِ وَرَسُولِهِ أَنْفَعُ لَنَا نَهَانَا أَنْ نُحَاقِلَ بِالأَرْضِ فَنُكْرِيَهَا عَلَى الثُّلُثِ وَالرُّبُعِ وَالطَّعَامِ الْمُسَمَّى وَأَمَرَ رَبَّ الأَرْضِ أَنْ يَزْرَعَهَا أَوْ يُزْرِعَهَا وَكَرِهَ كِرَاءَهَا وَمَا سِوَى ذَلِكَ ‏.‏",
+      "swahili": "Rafi' bin Khadij (radhi za Allah ziwe juu yake) aliripoti: Tulikuwa tukitoa ardhi kwa kodi wakati wa uhai wa Mtume wa Allah (swalla Allahu 'alayhi wa sallam). Tulikipangisha kwa sehemu ya moja ya tatu au moja ya nne ya (mavuno) pamoja na kiasi fulani cha nafaka. Siku moja mtu kutoka miongoni mwa ami zangu alitujia na akasema: Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alitukataza tendo hili ambalo lilikuwa chanzo cha manufaa kwetu, lakini utiifu kwa Allah na kwa Mtume Wake (swalla Allahu 'alayhi wa sallam) ni wenye manufaa zaidi kwetu. Alitukataza kuwa tunapaswa kupangisha ardhi kwa moja ya tatu au moja ya nne ya (mavuno) na nafaka kwa kipimo fulani, na akaamrisha mwenye ardhi kwamba anapaswa kuilima au ailiimishe kwa wengine (watu) lakini alionyesha kutokubali kuipangisha au chochote zaidi ya hapo."
+    },
+    {
+      "number": "1548b",
+      "arabic": "وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، قَالَ كَتَبَ إِلَىَّ يَعْلَى بْنُ حَكِيمٍ قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ يَسَارٍ، يُحَدِّثُ عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ كُنَّا نُحَاقِلُ بِالأَرْضِ فَنُكْرِيهَا عَلَى الثُّلُثِ وَالرُّبُعِ ‏.‏ ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِ ابْنِ عُلَيَّةَ ‏.‏",
+      "swahili": "Rafi' bin Khadij (radhi za Allah ziwe juu yake) aliripoti: Tulikuwa tukitoa ardhi kwa kodi, na tukipangisha kwa sehemu ya moja ya tatu au moja ya nne. Sehemu iliyobaki ya hadithi ni ile ile kama ya Ibn 'Ulayya."
+    },
+    {
+      "number": "1548c",
+      "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، ح وَحَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الأَعْلَى، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدَةُ، كُلُّهُمْ عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ يَعْلَى بْنِ حَكِيمٍ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ ‏.‏",
+      "swahili": "Mlolongo mwingine ulimsimulia hadithi hiyo hiyo kama hapo juu."
+    },
+    {
+      "number": "1548d",
+      "arabic": "وَحَدَّثَنِيهِ أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي جَرِيرُ بْنُ حَازِمٍ، عَنْ يَعْلَى بْنِ، حَكِيمٍ بِهَذَا الإِسْنَادِ عَنْ رَافِعِ بْنِ خَدِيجٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَلَمْ يَقُلْ عَنْ بَعْضِ عُمُومَتِهِ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Rafi' bin Khadij na mlolongo uleule wa wapokezi, lakini ndani yake hakuna kutajwa kwa baadhi ya ami zake."
+    },
+    {
+      "number": "1548e",
+      "arabic": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا أَبُو مُسْهِرٍ، حَدَّثَنِي يَحْيَى بْنُ حَمْزَةَ، حَدَّثَنِي أَبُو عَمْرٍو الأَوْزَاعِيُّ، عَنْ أَبِي النَّجَاشِيِّ، مَوْلَى رَافِعِ بْنِ خَدِيجٍ عَنْ رَافِعٍ، أَنَّ ظُهَيْرَ بْنَ رَافِعٍ، - وَهُوَ عَمُّهُ - قَالَ أَتَانِي ظُهَيْرٌ فَقَالَ لَقَدْ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ أَمْرٍ كَانَ بِنَا رَافِقًا ‏.‏ فَقُلْتُ وَمَا ذَاكَ مَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَهُوَ حَقٌّ ‏.‏ قَالَ سَأَلَنِي كَيْفَ تَصْنَعُونَ بِمَحَاقِلِكُمْ فَقُلْتُ نُؤَاجِرُهَا يَا رَسُولَ اللَّهِ عَلَى الرَّبِيعِ أَوِ الأَوْسُقِ مِنَ التَّمْرِ أَوِ الشَّعِيرِ ‏.‏ قَالَ ‏ \"‏ فَلاَ تَفْعَلُوا ازْرَعُوهَا أَوْ أَزْرِعُوهَا أَوْ أَمْسِكُوهَا ‏\"‏ ‏.‏",
+      "swahili": "Rafi' (radhi za Allah ziwe juu yake) aliripoti kuwa Zuhair bin Rafi' (aliyekuwa ami yake) alimjia na akasema: Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza tendo ambalo lilikuwa na manufaa kwetu. Nikasema: Ni nini hilo? (Naamini) kuwa chochote anachosema Mtume wa Allah (swalla Allahu 'alayhi wa sallam) ni kweli kabisa. Yeye (Zuhair) alisema kuwa yeye (Mtume Mtukufu) aliniuliza: Mnafanya nini na ardhi zenu za kilimo? Nikasema: Ewe Mtume wa Allah, tunazipangisha zile zilizonyunyiziwa na mifereji kwa ajili ya tende kavu au shayiri. Akasema: Msifanye hivyo. Zilimeni au zilimishini (na wengine) au zibakizeni ninyi wenyewe."
+    },
+    {
+      "number": "1548f",
+      "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، عَنْ أَبِي النَّجَاشِيِّ، عَنْ رَافِعٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا وَلَمْ يَذْكُرْ عَنْ عَمِّهِ ظُهَيْرٍ",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Rafi' kutoka kwa Mtume wa Allah (swalla Allahu alayhi wa sallam) kuhusu hili, lakini hakutaja kuhusu ami yake Zuhair."
+    },
+    {
+      "number": "1547k",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ حَنْظَلَةَ بْنِ قَيْسٍ، أَنَّهُ سَأَلَ رَافِعَ بْنَ خَدِيجٍ عَنْ كِرَاءِ الأَرْضِ، فَقَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ كِرَاءِ الأَرْضِ قَالَ فَقُلْتُ أَبِالذَّهَبِ وَالْوَرِقِ فَقَالَ أَمَّا بِالذَّهَبِ وَالْوَرِقِ فَلاَ بَأْسَ بِهِ ‏.‏",
+      "swahili": "Hanzala bin Qais aliripoti kuwa alimuuliza Rafi' bin Khadij (radhi za Allah ziwe juu yake) kuhusu upangishaji wa ardhi, ambapo akasema: Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza upangishaji wa ardhi. Akasema nikasema: Je, imekatazwa (hata ikilipwa) kwa dhahabu (dinari) na fedha (dirham)? Ambapo akasema: Ikiwa imelipwa kwa dhahabu na fedha, hakuna ubaya wowote ndani yake."
+    },
+    {
+      "number": "1547l",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ رَبِيعَةَ بْنِ أَبِي، عَبْدِ الرَّحْمَنِ حَدَّثَنِي حَنْظَلَةُ بْنُ قَيْسٍ الأَنْصَارِيُّ، قَالَ سَأَلْتُ رَافِعَ بْنَ خَدِيجٍ عَنْ كِرَاءِ الأَرْضِ، بِالذَّهَبِ وَالْوَرِقِ فَقَالَ لاَ بَأْسَ بِهِ إِنَّمَا كَانَ النَّاسُ يُؤَاجِرُونَ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم عَلَى الْمَاذِيَانَاتِ وَأَقْبَالِ الْجَدَاوِلِ وَأَشْيَاءَ مِنَ الزَّرْعِ فَيَهْلِكُ هَذَا وَيَسْلَمُ هَذَا وَيَسْلَمُ هَذَا وَيَهْلِكُ هَذَا فَلَمْ يَكُنْ لِلنَّاسِ كِرَاءٌ إِلاَّ هَذَا فَلِذَلِكَ زُجِرَ عَنْهُ ‏.‏ فَأَمَّا شَىْءٌ مَعْلُومٌ مَضْمُونٌ فَلاَ بَأْسَ بِهِ ‏.‏",
+      "swahili": "Hanzala bin Qais al-Ansari aliripoti: Nilimuuliza Rafi' bin Khadij kuhusu upangishaji wa ardhi kwa dhahabu na fedha, ambapo akasema: Hakuna ubaya ndani yake kwani watu walikuwa wakipangisha ardhi iliyo karibu na mifereji na kwenye ncha za vijito au sehemu ya mashamba. (Lakini ikawa) kwamba nyakati fulani hii iliharibika na ile ikasalimika, wakati (nyakati nyingine) sehemu hii ilisalimika na nyingine ikaharibika na hivyo hakuna kodi iliyokuwa ikilipika kwa watu (waliopangisha ardhi) isipokuwa hii moja (iliyosalimika). Ni kutokana na hili yeye (Mtume Mtukufu) alilikataza. Lakini ikiwa kuna kitu dhahiri na cha kuaminika (kama pesa), hakuna ubaya wowote ndani yake."
+    },
+    {
+      "number": "1547m",
+      "arabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ حَنْظَلَةَ، الزُّرَقِيِّ أَنَّهُ سَمِعَ رَافِعَ بْنَ خَدِيجٍ، يَقُولُ كُنَّا أَكْثَرَ الأَنْصَارِ حَقْلاً - قَالَ - كُنَّا نُكْرِي الأَرْضَ عَلَى أَنَّ لَنَا هَذِهِ وَلَهُمْ هَذِهِ فَرُبَّمَا أَخْرَجَتْ هَذِهِ وَلَمْ تُخْرِجْ هَذِهِ فَنَهَانَا عَنْ ذَلِكَ وَأَمَّا الْوَرِقُ فَلَمْ يَنْهَنَا ‏.‏",
+      "swahili": "Hanzala aliripoti kuwa alimsikia Rafi' bin Khadij (radhi za Allah ziwe juu yake) akisema: Tulikuwa wakulima wakuu wa Ansar na hivyo tulikuwa tukipangisha ardhi (tukisema): Mazao ya hii (sehemu ya ardhi) yatakuwa yetu na (mazao) ya ile yatakuwa yao. Lakini ikawa kwamba nyakati fulani hii (ardhi) ilitoa mavuno, lakini nyingine haikutoa chochote. Basi yeye (Mtume Mtukufu) alikataza hilo. Lakini kuhusu malipo kwa fedha (dirham, sarafu), hakukataza."
+    },
+    {
+      "number": "1547n",
+      "arabic": "حَدَّثَنَا أَبُو الرَّبِيعِ، حَدَّثَنَا حَمَّادٌ، ح وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، جَمِيعًا عَنْ يَحْيَى بْنِ سَعِيدٍ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+      "swahili": "Hadithi hii imesimuliwa kwa mamlaka ya Yahya bin Sa'id na mlolongo uleule wa wapokezi kama hiyo."
+    },
+    {
+      "number": "1549a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي، شَيْبَةَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، كِلاَهُمَا عَنِ الشَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، قَالَ سَأَلْتُ عَبْدَ اللَّهِ بْنَ مَعْقِلٍ عَنِ الْمُزَارَعَةِ، فَقَالَ أَخْبَرَنِي ثَابِتُ بْنُ الضَّحَّاكِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَارَعَةِ ‏.‏ وَفِي رِوَايَةِ ابْنِ أَبِي شَيْبَةَ نَهَى عَنْهَا ‏.‏ وَقَالَ سَأَلْتُ ابْنَ مَعْقِلٍ ‏.‏ وَلَمْ يُسَمِّ عَبْدَ اللَّهِ ‏.‏",
+      "swahili": "'Abdullah bin al-Sa'ib aliripoti: Nilimuuliza 'Abdullah bin Ma'qil kuhusu Muzara'a (kulima ardhi kwa msingi wa kugawana mavuno). Akasema: Thabit bin Dahhak aliniarifu kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza Muzara'a kama Ibn Abu Shaiba alivyokataza na mabadiliko kidogo ya maneno. Yeye (msimulizi) alisema: Nilimuuliza Ibn Ma'qil lakini hakumtaja 'Abdullah."
+    },
+    {
+      "number": "1549b",
+      "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا يَحْيَى بْنُ حَمَّادٍ، أَخْبَرَنَا أَبُو عَوَانَةَ، عَنْ سُلَيْمَانَ، الشَّيْبَانِيِّ عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، قَالَ دَخَلْنَا عَلَى عَبْدِ اللَّهِ بْنِ مَعْقِلٍ فَسَأَلْنَاهُ عَنِ الْمُزَارَعَةِ، فَقَالَ زَعَمَ ثَابِتٌ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَارَعَةِ وَأَمَرَ بِالْمُؤَاجَرَةِ وَقَالَ ‏ \"‏ لاَ بَأْسَ بِهَا ‏\"‏ ‏.‏",
+      "swahili": "'Abdullah bin al-Sa'ib aliripoti: Tulimtembelea 'Abdullah bin Ma'qil na kumuuliza kuhusu kugawana mazao, ambapo akasema: Thabit alidai kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza Muzara'a na akaamrisha kuipangisha kwa kodi (kwa pesa) na akasema: Hakuna ubaya wowote ndani yake."
+    },
+    {
+      "number": "1550a",
+      "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَمْرٍو، أَنَّ مُجَاهِدًا، قَالَ لِطَاوُسٍ انْطَلِقْ بِنَا إِلَى ابْنِ رَافِعِ بْنِ خَدِيجٍ فَاسْمَعْ مِنْهُ الْحَدِيثَ عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم - قَالَ - فَانْتَهَرَهُ قَالَ إِنِّي وَاللَّهِ لَوْ أَعْلَمُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْهُ مَا فَعَلْتُهُ وَلَكِنْ حَدَّثَنِي مَنْ هُوَ أَعْلَمُ بِهِ مِنْهُمْ - يَعْنِي ابْنَ عَبَّاسٍ - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لأَنْ يَمْنَحَ الرَّجُلُ أَخَاهُ أَرْضَهُ خَيْرٌ لَهُ مِنْ أَنْ يَأْخُذَ عَلَيْهَا خَرْجًا مَعْلُومًا ‏\"‏ ‏.‏",
+      "swahili": "Mujahid alimwambia Tawus: Njoo pamoja nami kwa Ibn Rafi' bin Khadij ili kusikiliza kutoka kwake hadithi iliyosimuliwa kwa mamlaka ya baba yake (inayohusu upangishaji wa ardhi) kutoka kwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam). Yeye (Tawus) alimkemea na akasema: Naapa kwa Allah, kama ningejua kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikuwa amelikataza, nisingefanya hivyo kamwe. Lakini imesimuliwa kwangu na yule ambaye ana ujuzi bora zaidi (wa hadithi hiyo) miongoni mwao (na alimaanisha Ibn 'Abbas) kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alisema: Ni bora ikiwa mtu atamkopesha ardhi yake ndugu yake (kwa ajili ya kilimo) kuliko kupata kodi inayotambulika juu yake."
+    },
+    {
+      "number": "1550b",
+      "arabic": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، وَابْنُ، طَاوُسٍ عَنْ طَاوُسٍ، أَنَّهُ كَانَ يُخَابِرُ قَالَ عَمْرٌو فَقُلْتُ لَهُ يَا أَبَا عَبْدِ الرَّحْمَنِ لَوْ تَرَكْتَ هَذِهِ الْمُخَابَرَةَ فَإِنَّهُمْ يَزْعُمُونَ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ الْمُخَابَرَةِ ‏.‏ فَقَالَ أَىْ عَمْرُو أَخْبَرَنِي أَعْلَمُهُمْ بِذَلِكَ يَعْنِي ابْنَ عَبَّاسٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم لَمْ يَنْهَ عَنْهَا إِنَّمَا قَالَ ‏ \"‏ يَمْنَحُ أَحَدُكُمْ أَخَاهُ خَيْرٌ لَهُ مِنْ أَنْ يَأْخُذَ عَلَيْهَا خَرْجًا مَعْلُومًا ‏\"‏ ‏.‏",
+      "swahili": "Tawus aliripoti kuwa alipangisha ardhi yake, ambapo 'Amr akasema: Nilimwambia: Ewe Abu 'Abd al-Rahman, natamani ungeacha upangishaji huu wa ardhi, kwani wanadai kuwa Mtume wa Allah (swalla Allahu 'alayhi wa sallam) alikataza Mukhabara. Akasema: 'Amr, yule aliyenifahamisha ana ujuzi bora zaidi wa hilo miongoni mwao (alimaanisha Ibn 'Abbas). (Alisema) kwamba Mtume wa Allah (swalla Allahu 'alayhi wa sallam) hakukataza hilo kabisa, bali alisema: Kukopesha ardhi na mmoja wenu kwa ndugu yake ni bora kwake kuliko kupata kiasi fulani cha mavuno kutoka humo."
+    },
+    {
+      "number": "1550c",
+      "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا الثَّقَفِيُّ، عَنْ أَيُّوبَ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ جَمِيعًا عَنْ وَكِيعٍ، عَنْ سُفْيَانَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنِ ابْنِ جُرَيْجٍ، ح وَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ شَرِيكٍ، عَنْ شُعْبَةَ، كُلُّهُمْ عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ نَحْوَ حَدِيثِهِمْ ‏.‏",
+      "swahili": "Hadithi kama hii imesimuliwa kwa mamlaka ya Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili)."
+    },
+    {
+      "number": "1550d",
+      "arabic": "وَحَدَّثَنِي عَبْدُ بْنُ حُمَيْدٍ، وَمُحَمَّدُ بْنُ رَافِعٍ، - قَالَ عَبْدٌ أَخْبَرَنَا وَقَالَ ابْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، - أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ لأَنْ يَمْنَحَ أَحَدُكُمْ أَخَاهُ أَرْضَهُ خَيْرٌ لَهُ مِنْ أَنْ يَأْخُذَ عَلَيْهَا كَذَا وَكَذَا ‏\"‏ ‏.‏ لِشَىْءٍ مَعْلُومٍ ‏.‏ قَالَ وَقَالَ ابْنُ عَبَّاسٍ هُوَ الْحَقْلُ وَهُوَ بِلِسَانِ الأَنْصَارِ الْمُحَاقَلَةُ",
+      "swahili": "Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Ikiwa mmoja wenu atapangisha ardhi kwa ndugu yake, hilo ni bora kwake kuliko ikiwa atapokea hiki na kile (kitu dhahiri). Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili) alisema: Ni Haql, na katika lugha ya Ansar ni Muhaqala."
+    },
+    {
+      "number": "1550e",
+      "arabic": "وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَمْرٍو، عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ، عَنْ عَبْدِ الْمَلِكِ أَبِي زَيْدٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ، عَبَّاسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَإِنَّهُ أَنْ يَمْنَحَهَا أَخَاهُ خَيْرٌ ‏\"‏ ‏.‏",
+      "swahili": "Ibn 'Abbas (radhi za Allah ziwe juu yao wote wawili) aliripoti Mtume wa Allah (swalla Allahu 'alayhi wa sallam) akisema: Yeyote mwenye ardhi, ni bora kwake kwamba aitoe (kwa kodi ya bure) kwa ndugu yake."
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+[
+  {
+    "start": 5373,
+    "arabic": "بَابُ وَقَوْلِ اللَّهِ تَعَالَى: {كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ}",
+    "swahili": "MLANGO: KULENI KATIKA VITU VYA HALALI TULIVYO KURUZUKUNI...\""
+  },
+  {
+    "start": 5376,
+    "arabic": "باب التَّسْمِيَةِ عَلَى الطَّعَامِ وَالأَكْلِ بِالْيَمِينِ",
+    "swahili": "MLANGO: TAJA JINA LA MWENYEZI MUNGU UNAPOANZA KULA, NA KULA KWA MKONO WA KULIA."
+  },
+  {
+    "start": 5377,
+    "arabic": "باب الأَكْلِ مِمَّا يَلِيهِ",
+    "swahili": "MLANGO: KULA KATIKA SAHANI KILE KILICHO KARIBU NA WEWE"
+  },
+  {
+    "start": 5379,
+    "arabic": "باب مَنْ تَتَبَّعَ حَوَالَىِ الْقَصْعَةِ مَعَ صَاحِبِهِ، إِذَا لَمْ يَعْرِفْ مِنْهُ كَرَاهِيَةً",
+    "swahili": "MLANGO: KULA KUTOKA KARIBU NA SAHANI WAKATI UNAKULA CHAKULA NA MTU MWINGINE."
+  },
+  {
+    "start": 5380,
+    "arabic": "باب التَّيَمُّنِ فِي الأَكْلِ وَغَيْرِهِ",
+    "swahili": "MLANGO: KULA KWA MKONO WA KULIA, NA KUANZA NA UPANDE WA KULIA KATIKA KUFANYA MAMBO MENGINE."
+  },
+  {
+    "start": 5381,
+    "arabic": "باب مَنْ أَكَلَ حَتَّى شَبِعَ",
+    "swahili": "MLANGO: YEYOTE ALIYEKULA MPAKA AKASHIBA"
+  },
+  {
+    "start": 5384,
+    "arabic": "بَابُ: {لَيْسَ عَلَى الأَعْمَى حَرَجٌ} إِلَى قَوْلِهِ: {لَعَلَّكُمْ تَعْقِلُونَ}",
+    "swahili": "MLANGO: \"HAKUNA KIZUIZI KWA VIPOFU ...\""
+  },
+  {
+    "start": 5385,
+    "arabic": "باب الْخُبْزِ الْمُرَقَّقِ وَالأَكْلِ عَلَى الْخِوَانِ وَالسُّفْرَةِ",
+    "swahili": "MLANGO: MKATE MWEMBAMBA NA KULA KWENYE MEZA YA KULA."
+  },
+  {
+    "start": 5390,
+    "arabic": "باب السَّوِيقِ",
+    "swahili": "MLANGO: AS-SAWIQ"
+  },
+  {
+    "start": 5391,
+    "arabic": "باب مَا كَانَ النَّبِيُّ صلى الله عليه وسلم لاَ يَأْكُلُ حَتَّى يُسَمَّى لَهُ فَيَعْلَمُ مَا هُوَ",
+    "swahili": "MLANGO: MTUME (SWALLA ALLAAHU ´ALAYHI WA SALLAM) HAKUWAHI KULA CHOCHOTE ISIPOKUWA KIWE KIMEITWA KWA AJILI YAKE ILI AJUE NI NINI"
+  },
+  {
+    "start": 5392,
+    "arabic": "باب طَعَامُ الْوَاحِدِ يَكْفِي الاِثْنَيْنِ‏",
+    "swahili": "MLANGO: CHAKULA CHA MTU MMOJA KINATOSHA WATU WAWILI."
+  },
+  {
+    "start": 5393,
+    "arabic": "باب الْمُؤْمِنُ يَأْكُلُ فِي مِعًى وَاحِدٍ‏",
+    "swahili": "MLANGO: MUUMINI HULA KWA UTUMBO MMOJA"
+  },
+  {
+    "start": 5398,
+    "arabic": "باب الأَكْلِ مُتَّكِئًا‏",
+    "swahili": "MLANGO: KULA HUKU UMEEGEMEA"
+  },
+  {
+    "start": 5400,
+    "arabic": "بَابُ الشِّوَاءِ",
+    "swahili": "MLANGO: KUCHOMWA (NYAMA)."
+  },
+  {
+    "start": 5401,
+    "arabic": "باب الْخَزِيرَةِ",
+    "swahili": "MLANGO: AL-KHAZIRA (SAHANI ILIYOANDALIWA NA UNGA NA MAFUTA)"
+  },
+  {
+    "start": 5402,
+    "arabic": "باب الأَقِطِ",
+    "swahili": "MLANGO: AL-AQIT (MTINDI MKAVU)"
+  },
+  {
+    "start": 5403,
+    "arabic": "باب السِّلْقِ وَالشَّعِيرِ",
+    "swahili": "MLANGO: AS-SALQ (AINA YA BEET) NA SHAYIRI"
+  },
+  {
+    "start": 5404,
+    "arabic": "باب النَّهْسِ وَانْتِشَالِ اللَّحْمِ",
+    "swahili": "MLANGO: KUKAMATA NA KUKAMATA NYAMA KWA MENO (WAKATI WA KULA)."
+  },
+  {
+    "start": 5406,
+    "arabic": "باب تَعَرُّقِ الْعَضُدِ",
+    "swahili": "MLANGO: KULA NYAMA YA MGUU WA MBELE (KWA KUVUA MFUPA WA NYAMA YAKE KWA MENO)."
+  },
+  {
+    "start": 5408,
+    "arabic": "باب قَطْعِ اللَّحْمِ بِالسِّكِّينِ",
+    "swahili": "MLANGO: ILI KUKATA NYAMA KWA KISU"
+  },
+  {
+    "start": 5409,
+    "arabic": "باب مَا عَابَ النَّبِيُّ صلى الله عليه وسلم طَعَامًا",
+    "swahili": "MLANGO: MTUME (SAW) KAMWE HAKUKEMEA CHAKULA CHOCHOTE."
+  },
+  {
+    "start": 5410,
+    "arabic": "باب النَّفْخِ فِي الشَّعِيرِ",
+    "swahili": "MLANGO: KUPULIZA SHAYIRI (KUONDOA MAGANDA)."
+  },
+  {
+    "start": 5411,
+    "arabic": "باب مَا كَانَ النَّبِيُّ صلى الله عليه وسلم وَأَصْحَابُهُ يَأْكُلُونَ",
+    "swahili": "MLANGO: ALICHOKUWA AKILA MTUME (SAW) NA MASWAHABAH ZAKE."
+  },
+  {
+    "start": 5417,
+    "arabic": "باب التَّلْبِينَةِ",
+    "swahili": "MLANGO: AT-TALBINA (AINA YA SAHANI ILIYOANDALIWA KUTOKA KWA UNGA AU PUMBA)"
+  },
+  {
+    "start": 5418,
+    "arabic": "باب الثَّرِيدِ",
+    "swahili": "MLANGO: ATH-THARID (SAHANI ILIYOANDALIWA KWA NYAMA NA MKATE)."
+  },
+  {
+    "start": 5421,
+    "arabic": "باب شَاةٍ مَسْمُوطَةٍ وَالْكَتِفِ وَالْجَنْبِ",
+    "swahili": "MLANGO: KONDOO ALIYECHOMWA."
+  },
+  {
+    "start": 5423,
+    "arabic": "باب مَا كَانَ السَّلَفُ يَدَّخِرُونَ فِي بُيُوتِهِمْ وَأَسْفَارِهِمْ مِنَ الطَّعَامِ وَاللَّحْمِ وَغَيْرِهِ",
+    "swahili": "MLANGO: UHIFADHI WA CHAKULA MAJUMBANI NA SAFARINI"
+  },
+  {
+    "start": 5425,
+    "arabic": "باب الْحَيْسِ",
+    "swahili": "MLANGO: AL-HAIS (SAHANI ILIYOANDALIWA KUTOKA MTINDI KAVU, SIAGI NA TENDE)."
+  },
+  {
+    "start": 5426,
+    "arabic": "باب الأَكْلِ فِي إِنَاءٍ مُفَضَّضٍ",
+    "swahili": "MLANGO: KULA KATIKA SAHANI ILIYOPAMBWA KWA FEDHA"
+  },
+  {
+    "start": 5427,
+    "arabic": "باب ذِكْرِ الطَّعَامِ",
+    "swahili": "MLANGO: KUTAJWA KWA CHAKULA"
+  },
+  {
+    "start": 5430,
+    "arabic": "باب الأُدْمِ",
+    "swahili": "MLANGO: AL-UDM (CHAKULA CHA ZIADA KINACHOCHUKULIWA NA MKATE)."
+  },
+  {
+    "start": 5431,
+    "arabic": "باب الْحَلْوَاءِ وَالْعَسَلِ",
+    "swahili": "MLANGO: VITU VITAMU VYA KULIWA NA ASALI."
+  },
+  {
+    "start": 5433,
+    "arabic": "باب الدُّبَّاءِ",
+    "swahili": "MLANGO: AD-DUBBA' (MTANGO)"
+  },
+  {
+    "start": 5434,
+    "arabic": "باب الرَّجُلِ يَتَكَلَّفُ الطَّعَامَ لإِخْوَانِهِ",
+    "swahili": "MLANGO: KUWAANDALIA CHAKULA (WAISLAMU) NDUGU"
+  },
+  {
+    "start": 5435,
+    "arabic": "باب مَنْ أَضَافَ رَجُلاً إِلَى طَعَامٍ، وَأَقْبَلَ هُوَ عَلَى عَمَلِهِ",
+    "swahili": "MLANGO: YEYOTE ALIYEMWALIKA MWANAMUME KWA CHAKULA KISHA AKAENDA KUENDELEA NA KAZI YAKE."
+  },
+  {
+    "start": 5436,
+    "arabic": "باب الْمَرَقِ",
+    "swahili": "MLANGO: SUPU"
+  },
+  {
+    "start": 5437,
+    "arabic": "باب الْقَدِيدِ",
+    "swahili": "MLANGO: NYAMA ILIYOSAFISHWA."
+  },
+  {
+    "start": 5439,
+    "arabic": "باب مَنْ نَاوَلَ أَوْ قَدَّمَ إِلَى صَاحِبِهِ عَلَى الْمَائِدَةِ شَيْئًا",
+    "swahili": "MLANGO: KUWASILISHA KITU KWA MWANDAMANI KWENYE MEZA YA KULIA CHAKULA."
+  },
+  {
+    "start": 5440,
+    "arabic": "باب الرُّطَبِ بِالْقِثَّاءِ",
+    "swahili": "MLANGO: KULA TANGO LA NYOKA NA TAREHE SAFI"
+  },
+  {
+    "start": 5441,
+    "arabic": "باب",
+    "swahili": "MLANGO: MLANGO"
+  },
+  {
+    "start": 5442,
+    "arabic": "بَابُ الرُّطَبِ وَالتَّمْرِ",
+    "swahili": "MLANGO: TAREHE SAFI NA TAREHE KAVU"
+  },
+  {
+    "start": 5442,
+    "arabic": "باب أَكْلِ الْجُمَّارِ",
+    "swahili": "MLANGO: ULAJI WA SPADIX YA MITENDE."
+  },
+  {
+    "start": 5445,
+    "arabic": "باب الْعَجْوَةِ",
+    "swahili": "MLANGO: AL-'AJWA (AINA MAALUM YA TAREHE)."
+  },
+  {
+    "start": 5446,
+    "arabic": "باب الْقِرَانِ فِي التَّمْرِ",
+    "swahili": "MLANGO: KULA TENDE MBILI KWA WAKATI MMOJA"
+  },
+  {
+    "start": 5447,
+    "arabic": "باب الْقِثَّاءِ",
+    "swahili": "MLANGO: TANGO LA NYOKA"
+  },
+  {
+    "start": 5448,
+    "arabic": "باب بَرَكَةِ النَّخْلِ",
+    "swahili": "MLANGO: UZURI WA MTENDE."
+  },
+  {
+    "start": 5449,
+    "arabic": "باب جَمْعِ اللَّوْنَيْنِ أَوِ الطَّعَامَيْنِ بِمَرَّةٍ",
+    "swahili": "MLANGO: KUCHUKUA AINA MBILI ZA MATUNDA AU CHAKULA KWA WAKATI MMOJA."
+  },
+  {
+    "start": 5450,
+    "arabic": "باب مَنْ أَدْخَلَ الضِّيفَانَ عَشَرَةً عَشَرَةً وَالْجُلُوسِ عَلَى الطَّعَامِ عَشَرَةً عَشَرَةً",
+    "swahili": "MLANGO: AMBAYE ALIWAKARIBISHA WAGENI KATIKA MAKUNDI YA WATU KUMI (KWA ZAMU)."
+  },
+  {
+    "start": 5451,
+    "arabic": "باب مَا يُكْرَهُ مِنَ الثُّومِ وَالْبُقُولِ",
+    "swahili": "MLANGO: KULA KITUNGUU SAUMU AU NYINGINE (MBOGA ZENYE HARUFU MBAYA)."
+  },
+  {
+    "start": 5453,
+    "arabic": "باب الْكَبَاثِ وَهْوَ ثَمَرُ الأَرَاكِ",
+    "swahili": "MLANGO: AL-KABATH, YAANI, MAJANI YA AL-ARAK"
+  },
+  {
+    "start": 5454,
+    "arabic": "باب الْمَضْمَضَةِ بَعْدَ الطَّعَامِ",
+    "swahili": "MLANGO: SUUZA KINYWA BAADA YA KULA"
+  },
+  {
+    "start": 5456,
+    "arabic": "باب لَعْقِ الأَصَابِعِ وَمَصِّهَا قَبْلَ أَنْ تُمْسَحَ بِالْمِنْدِيلِ",
+    "swahili": "MLANGO: KULAMBA NA KUNYONYA VIDOLE"
+  },
+  {
+    "start": 5457,
+    "arabic": "باب الْمِنْدِيلِ",
+    "swahili": "MLANGO: LESO."
+  },
+  {
+    "start": 5458,
+    "arabic": "باب مَا يَقُولُ إِذَا فَرَغَ مِنْ طَعَامِهِ",
+    "swahili": "MLANGO: NINI MTU ANAPASWA KUSEMA BAADA YA KUMALIZA MLO WAKE."
+  },
+  {
+    "start": 5460,
+    "arabic": "باب الأَكْلِ مَعَ الْخَادِمِ",
+    "swahili": "MLANGO: KULA NA MTUMISHI WAKO."
+  },
+  {
+    "start": 5461,
+    "arabic": "بَابُ الطَّاعِمُ الشَّاكِرُ مِثْلُ الصَّائِمِ الصَّابِرِ",
+    "swahili": "MLANGO: MTU ANAYEMSHUKURU MWENYEZI MUNGU BAADA YA KULA CHAKULA CHAKE."
+  },
+  {
+    "start": 5461,
+    "arabic": "باب الرَّجُلِ يُدْعَى إِلَى طَعَامٍ فَيَقُولُ وَهَذَا مَعِي",
+    "swahili": "MLANGO: \"JE, HUYU (MTU) AJE NAMI PIA?\""
+  },
+  {
+    "start": 5462,
+    "arabic": "باب إِذَا حَضَرَ الْعَشَاءُ فَلاَ يَعْجَلْ عَنْ عَشَائِهِ",
+    "swahili": "MLANGO: IWAPO CHAKULA CHA JIONI AU CHA JIONI KITATOLEWA (WAKATI WA SALAT UMEFIKA)."
+  },
+  {
+    "start": 5466,
+    "arabic": "باب قَوْلِ اللَّهِ تَعَالَى ‏{‏فَإِذَا طَعِمْتُمْ فَانْتَشِرُوا‏}",
+    "swahili": "MLANGO: \"NA MKISHA CHUKUA MLO WENU TAWANYIKENI.\""
+  }
+]

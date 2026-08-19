@@ -1,0 +1,487 @@
+[
+  {
+    "start": "1177a",
+    "arabic": "باب مَا يُبَاحُ لِلْمُحْرِمِ بِحَجٍّ أَوْ عُمْرَةٍ وَمَا لاَ يُبَاحُ وَبَيَانِ تَحْرِيمِ الطِّيبِ عَلَيْهِ",
+    "swahili": "MLANGO: Anachoruhusiwa kuvaa aliyeingia Ihram kwa ajili ya Hajj au Umra, najuzu, na manukato ni haramu kwake."
+  },
+  {
+    "start": "1181a",
+    "arabic": "باب مَوَاقِيتِ الْحَجِّ وَالْعُمْرَةِ ‏",
+    "swahili": "MLANGO: Mawaqit ya Hajj"
+  },
+  {
+    "start": "1184a",
+    "arabic": "باب التَّلْبِيَةِ وَصِفَتِهَا وَوَقْتِهَا ‏",
+    "swahili": "MLANGO: Talbiyah, maelezo yake na muda wake"
+  },
+  {
+    "start": "1186a",
+    "arabic": "باب أَمْرِ أَهْلِ الْمَدِينَةِ بِالإِحْرَامِ مِنْ عِنْدِ مَسْجِدِ ذِي الْحُلَيْفَةِ ‏",
+    "swahili": "MLANGO: Amri kwa watu wa Al-Madiynah kuingia Ihram kutoka kwa Msikiti wa Dhul-Hulaifah."
+  },
+  {
+    "start": "1187a",
+    "arabic": "باب الإِهْلاَلِ مِنْ حَيْثُ تَنْبَعِثُ الرَّاحِلَةُ ‏",
+    "swahili": "MLANGO: Kubainisha kuwa ni bora kuingia katika Ihram wakati mlima wa mtu unaondoka naye, kuelekea Makka, sio moja kwa moja baada ya rakaa mbili."
+  },
+  {
+    "start": 1188,
+    "arabic": "باب الصَّلاَةِ فِي مَسْجِدِ ذِي الْحُلَيْفَةِ ‏",
+    "swahili": "MLANGO: Kuswali katika Masjid ya Dhul-Hulaifah"
+  },
+  {
+    "start": "1189a",
+    "arabic": "باب الطِّيبِ لِلْمُحْرِمِ عِنْدَ الإِحْرَامِ ‏",
+    "swahili": "MLANGO: Inashauriwa kupaka manukato kabla tu ya kuingia Ihram, na inapendekezwa kutumia Musk, na haijalishi ikiwa athari zake za kumeta zimebaki."
+  },
+  {
+    "start": "1193a",
+    "arabic": "باب تَحْرِيمِ الصَّيْدِ لِلْمُحْرِمِ",
+    "swahili": "MLANGO: Uharamu wa kuwinda wanyama kwa yule aliyeingia Ihram kwa ajili ya Hajj au Umra au kwa vyote viwili."
+  },
+  {
+    "start": "1198a",
+    "arabic": "باب مَا يُنْدَبُ لِلْمُحْرِمِ وَغَيْرِهِ قَتْلُهُ مِنَ الدَّوَابِّ فِي الْحِلِّ وَالْحَرَمِ ‏",
+    "swahili": "MLANGO: Ni wanyama gani wanapendekezwa kwa Muhrim na kuwaua ndani na nje ya Patakatifu"
+  },
+  {
+    "start": "1201a",
+    "arabic": "باب جَوَازِ حَلْقِ الرَّأْسِ لِلْمُحْرِمِ إِذَا كَانَ بِهِ أَذًى وَوُجُوبِ الْفِدْيَةِ لِحَلْقِهِ وَبَيَانِ قَدْرِهَا",
+    "swahili": "MLANGO: Inajuzu kwa Muhrim kunyoa kichwa ikiwa kuna tatizo, lakini ni wajibu kutoa Fidyah kwa ajili ya kunyoa, na Kubainisha Fidyah ni nini."
+  },
+  {
+    "start": 1202,
+    "arabic": "باب جَوَازِ الْحِجَامَةِ لِلْمُحْرِمِ ‏",
+    "swahili": "MLANGO: Kupika Mungu inaruhusiwa kwa Muhrim (hujaji katika Ihram)"
+  },
+  {
+    "start": "1204a",
+    "arabic": "باب جَوَازِ مُدَاوَاةِ الْمُحْرِمِ عَيْنَيْهِ ‏",
+    "swahili": "MLANGO: Inajuzu kwa Muhrim kutibu macho yake"
+  },
+  {
+    "start": "1205a",
+    "arabic": "باب جَوَازِ غَسْلِ الْمُحْرِمِ بَدَنَهُ وَرَأْسَهُ ‏",
+    "swahili": "MLANGO: Inajuzu kwa Muhrim mwili na kichwa chake"
+  },
+  {
+    "start": "1206a",
+    "arabic": "باب مَا يُفْعَلُ بِالْمُحْرِمِ إِذَا مَاتَ ‏",
+    "swahili": "MLANGO: Nini kifanyike kwa Muhrim iwapo atafariki?"
+  },
+  {
+    "start": "1207a",
+    "arabic": "باب جَوَازِ اشْتِرَاطِ الْمُحْرِمِ التَّحَلُّلَ بِعُذْرِ الْمَرَضِ وَنَحْوِهِ ‏",
+    "swahili": "MLANGO: Inajuzu kwa Muhrim kuweka sharti la kutoka katika Ihraam kwa sababu ya maradhi na mengineyo."
+  },
+  {
+    "start": 1209,
+    "arabic": "باب إِحْرَامِ النُّفَسَاءِ وَاسْتِحْبَابِ اغْتِسَالِهَا لِلإِحْرَامِ وَكَذَا الْحَائِضِ ‏",
+    "swahili": "MLANGO: Usawa wa Ihram kwa mwanamke katika Nifas; Inapendekezwa kufanya kazi ya Ghusl ya kuingia Ihram, na kabla hali kadhalika kwa mwenye hedhi."
+  },
+  {
+    "start": "1211a",
+    "arabic": "باب بَيَانِ وُجُوهِ الإِحْرَامِ وَأَنَّهُ يَجُوزُ إِفْرَادُ الْحَجِّ وَالتَّمَتُّعِ وَالْقِرَانِ وَجَوَازِ إِدْخَالِ الْحَجِّ عَلَى الْعُمْرَةِ وَمَتَى يَحِلُّ الْقَارِنُ مِنْ نُسُكِهِ",
+    "swahili": "MLANGO: Kubainisha aina za Ihram; na kwamba inajuzu kuhiji hiyo ni Ifrad, Tamattu na Qiran. Inajuzu kujiunga na Hijja na Umrah. Na mwenye kuhiji anaposwali atoke Ihram"
+  },
+  {
+    "start": "1217a",
+    "arabic": "باب فِي الْمُتْعَةِ بِالْحَجِّ وَالْعُمْرَةِ ‏",
+    "swahili": "MLANGO: Tamattu kwa Hajj na Umrah"
+  },
+  {
+    "start": "1218a",
+    "arabic": "باب حَجَّةِ النَّبِيِّ صلى الله عليه وسلم ‏",
+    "swahili": "MLANGO: Hajj ya Mtume saw"
+  },
+  {
+    "start": "1218c",
+    "arabic": "باب مَا جَاءَ أَنَّ عَرَفَةَ كُلَّهَا مَوْقِفٌ ‏",
+    "swahili": "MLANGO: Arafat yote ni mahali pa kusimama"
+  },
+  {
+    "start": "1219a",
+    "arabic": "باب فِي الْوُقُوفِ وَقَوْلِهِ تَعَالَى ‏{‏ ثُمَّ أَفِيضُوا مِنْ حَيْث أَفَاضَ النَّاسُ}",
+    "swahili": "MLANGO: Msimamo na kauli ya Mwenyezi Mungu Mtukufu: \"Basi ondokeni mahali watokapo watu wote.\""
+  },
+  {
+    "start": "1221a",
+    "arabic": "باب فِي نَسْخِ التَّحَلُّلِ مِنَ الإِحْرَامِ وَالأَمْرِ بِالتَّمَامِ ‏",
+    "swahili": "MLANGO: Inajuzu kuegemeza nia ya mtu kwa Ihram juu ya nia ya mtu mwingine"
+  },
+  {
+    "start": "1223a",
+    "arabic": "باب جَوَازِ التَّمَتُّعِ",
+    "swahili": "MLANGO: Ruhusa ya Tamattu'"
+  },
+  {
+    "start": 1227,
+    "arabic": "باب وُجُوبِ الدَّمِ عَلَى الْمُتَمَتِّعِ وَأَنَّهُ إِذَا عَدِمَهُ لَزِمَهُ صَوْمُ ثَلاَثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعَ إِلَى أَهْلِهِ",
+    "swahili": "MLANGO: Wajibu Kwa Hujaji anayefanya Tamattu' kutoa dhabihu; Ikiwa hana mnyama wa kutoa dhabihu, ni lazima afunge siku tatu katika Hajj na siku saba anaporudi kwa ahali zake."
+  },
+  {
+    "start": "1229a",
+    "arabic": "باب بَيَانِ أَنَّ الْقَارِنَ لاَ يَتَحَلَّلُ إِلاَّ فِي وَقْتِ تَحَلُّلِ الْحَاجِّ الْمُفْرِدِ ‏",
+    "swahili": "MLANGO: Hujaji hufanya Qiran hatakiwi kutoka nje ya Ihram anayependa pale mahujaji wanaofanya Ifrad wanapotoka katika Ihram."
+  },
+  {
+    "start": "1230a",
+    "arabic": "باب بَيَانِ جَوَازِ التَّحَلُّلِ بِالإِحْصَارِ وَجَوَازِ الْقِرَانِ ‏",
+    "swahili": "MLANGO: Inajuzu kutoka katika Ihram ikiwa mtu amezuiwa kuhiji; Inajuzu kufanya Qiran na mwenye kuhiji anatakiwa kufanya kazi ya Tawaf moja tu na Sa'i moja."
+  },
+  {
+    "start": 1231,
+    "arabic": "باب فِي الإِفْرَادِ وَالْقِرَانِ بِالْحَجِّ وَالْعُمْرَةِ ‏",
+    "swahili": "MLANGO: Ifrad na Qiran"
+  },
+  {
+    "start": "1233a",
+    "arabic": "باب مَا يَلْزَمُ مَنْ أَحْرَمَ بِالْحَجِّ ثُمَّ قَدِمَ مَكَّةَ مِنَ الطَّوَافِ وَالسَّعْىِ ‏",
+    "swahili": "MLANGO: Inapendekezwa kwa mwenye kuhiji kufanya Tawaf Al-Qudum na As-Sa'i baada yake"
+  },
+  {
+    "start": 1235,
+    "arabic": "باب مَا يَلْزَمُ مَنْ طَافَ بِالْبَيْتِ وَسَعَى مِنَ الْبَقَاءِ عَلَى الإِحْرَامِ وَتَرْكِ التَّحَلُّلِ ‏",
+    "swahili": "MLANGO: Akifafanua kwamba mwenye kuhiji aliyeingia Ihram kwa ajili ya Umra asitoke Ihram baada ya kufanya kazi Tawaf kabla ya Sa'i; Na mwenye kuhiji aliyeingia Ihram kwa ajili ya Hijja asitoke Ihram baada ya kufanya kazi Tawaf Al-Qudum, na hali hiyo inamhusu mwenye kuhiji anayefanya Qiran."
+  },
+  {
+    "start": "1238a",
+    "arabic": "باب فِي مُتْعَةِ الْحَجِّ ‏",
+    "swahili": "MLANGO: Tamattu' katika Hajj"
+  },
+  {
+    "start": "1240a",
+    "arabic": "باب جَوَازِ الْعُمْرَةِ فِي أَشْهُرِ الْحَجِّ ‏",
+    "swahili": "MLANGO: Inajuzu kufanya 'Umrah katika miezi ya Hajj"
+  },
+  {
+    "start": "1243a",
+    "arabic": "باب تَقْلِيدِ الْهَدْىِ وَإِشْعَارِهِ عِنْدَ الإِحْرَامِ ‏",
+    "swahili": "MLANGO: Kuweka alama na Kumtia Garland mnyama wa kafara wakati wa kuingia Ihram"
+  },
+  {
+    "start": "1246a",
+    "arabic": "باب التَّقْصِيرِ فِي الْعُمْرَةِ ‏",
+    "swahili": "MLANGO: Inajuzu kwa mwenye kufanya Umra kufupisha nywele zake na wala si lazima azinyoe. Inapendekezwa kwake kunyoa nywele zake au kuzifupisha huko Al-Marwah"
+  },
+  {
+    "start": "1250a",
+    "arabic": "باب إِهْلاَلِ النَّبِيِّ صلى الله عليه وسلم وَهَدْيِهِ ‏",
+    "swahili": "MLANGO: Ihram na Hadithi za Mtume wa Allah (swalla Allahu alayhi wa sallam)"
+  },
+  {
+    "start": "1252c",
+    "arabic": "باب بَيَانِ عَدَدِ عُمَرِ النَّبِيِّ صلى الله عليه وسلم وَزَمَانِهِنَّ ‏",
+    "swahili": "MLANGO: Idadi ya Umra alizozifanya Mtume wa Allah (swalla Allahu alayhi wa sallam) na alipozitekeleza"
+  },
+  {
+    "start": "1255b",
+    "arabic": "باب فَضْلِ الْعُمْرَةِ فِي رَمَضَانَ ‏",
+    "swahili": "MLANGO: Fadhila za Umra zinazofanywa wakati wa Ramadhani"
+  },
+  {
+    "start": "1257a",
+    "arabic": "باب اسْتِحْبَابِ دُخُولِ مَكَّةَ مِنَ الثَّنِيَّةِ الْعُلْيَا وَالْخُرُوجِ مِنْهَا مِنَ الثَّنِيَّةِ السُّفْلَى وَدُخُولِ بَلْدَةٍ مِنْ طَرِيقٍ غَيْرِ الَّتِي خَرَجَ مِنْهَا",
+    "swahili": "MLANGO: Inapendekezwa kuingia Makka kutoka Njia ya Juu ya Mlima na kuondoka kutoka Njia ya Mlima wa Chini; Kuingia katika jiji kupitia njia tofauti na ile unayoiacha"
+  },
+  {
+    "start": "1259a",
+    "arabic": "باب اسْتِحْبَابِ الْمَبِيتِ بِذِي طَوًى عِنْدَ إِرَادَةِ دُخُولِ مَكَّةَ وَالاِغْتِسَالِ لِدُخُولِهَا نَهَارًا",
+    "swahili": "MLANGO: Inapendekezwa kulala Dhu Tuwa usiku unapokusudia kuingia Makka, na kufanya Ghusl kabla ya kuingia humo, na kuingia humo mchana."
+  },
+  {
+    "start": "1261a",
+    "arabic": "باب اسْتِحْبَابِ الرَّمَلِ فِي الطَّوَافِ وَالْعُمْرَةِ وَفِي الطَّوَافِ الأَوَّلِ فِي الْحَجِّ ‏",
+    "swahili": "MLANGO: Raml (kutembea kwa haraka) inapendekezwa katika Tawaf ya Umrah, na katika Tawaf ya kwanza ya Hajj."
+  },
+  {
+    "start": "1267a",
+    "arabic": "باب اسْتِحْبَابِ اسْتِلاَمِ الرُّكْنَيْنِ الْيَمَانِيَيْنِ فِي الطَّوَافِ دُونَ الرُّكْنَيْنِ الآخَرَيْن",
+    "swahili": "MLANGO: Inapendekezwa kugusa Kona mbili za Yemeni katika Tawaf na sio pembe mbili zingine"
+  },
+  {
+    "start": "1270a",
+    "arabic": "باب اسْتِحْبَابِ تَقْبِيلِ الْحَجَرِ الأَسْوَدِ فِي الطَّوَافِ ‏",
+    "swahili": "MLANGO: Inapendekezwa kumbusu jiwe jeusi wakati wa kuzunguka (Tawaf)"
+  },
+  {
+    "start": 1272,
+    "arabic": "باب جَوَازِ الطَّوَافِ عَلَى بَعِيرٍ وَغَيْرِهِ وَاسْتِلاَمِ الْحَجَرِ بِمِحْجَنٍ وَنَحْوِهِ لِلرَّاكِبِ",
+    "swahili": "MLANGO: Inajuzu kuzunguka Al-Ka'aba juu ya ngamia na mfano wa hayo, Na kwa aliyepanda kugusa jiwe (nyeusi) kwa fimbo iliyopotoka na mfano wa hayo."
+  },
+  {
+    "start": "1277a",
+    "arabic": "باب بَيَانِ أَنَّ السَّعْىَ بَيْنَ الصَّفَا وَالْمَرْوَةِ رُكْنٌ لاَ يَصِحُّ الْحَجُّ إِلاَّ بِهِ ‏",
+    "swahili": "MLANGO: Kubainisha kuwa Sa'i baina ya As-safa na Al-Marwah ni nguzo ya Hijja, ambayo bila hiyo Hijja haifai."
+  },
+  {
+    "start": "1279a",
+    "arabic": "باب بَيَانِ أَنَّ السَّعْىَ لاَ يُكَرَّرُ ‏",
+    "swahili": "MLANGO: Kufafanua kwamba Sa'i kurudiwa"
+  },
+  {
+    "start": 1280,
+    "arabic": "باب اسْتِحْبَابِ إِدَامَةِ الْحَاجِّ التَّلْبِيَةَ حَتَّى يَشْرَعَ فِي رَمْىِ جَمْرَةِ الْعَقَبَةِ يَوْمَ النَّحْرِ",
+    "swahili": "MLANGO: Inapendekezwa kwa mwenye kuhiji kuendelea kusoma Talbiyah mpaka aanze kupiga mawe Jamrat Al- ́Aqabah siku ya kafara."
+  },
+  {
+    "start": "1284a",
+    "arabic": "باب التَّلْبِيَةِ وَالتَّكْبِيرِ فِي الذِّهَابِ مِنْ مِنًى إِلَى عَرَفَاتٍ فِي يَوْمِ عَرَفَةَ ‏",
+    "swahili": "MLANGO: Talbiyah na Takbir wakati wa kutoka Mina kwenda Arafat siku ya 'Arafat."
+  },
+  {
+    "start": "1280b",
+    "arabic": "باب الإِفَاضَةِ مِنْ عَرَفَاتٍ إِلَى الْمُزْدَلِفَةِ وَاسْتِحْبَابِ صَلاَتَىِ الْمَغْرِبِ وَالْعِشَاءِ جَمْعًا بِالْمُزْدَلِفَةِ فِي هَذِهِ اللَّيْلَةِ",
+    "swahili": "MLANGO: Kuondoka kutoka 'Arafat kwenda Al-Muzdalifah. Inapendekezwa kuswali Maghrib na ́Ishaa pamoja katika Al-Muzdalifah katika usiku huu"
+  },
+  {
+    "start": "1289a",
+    "arabic": "باب اسْتِحْبَابِ زِيَادَةِ التَّغْلِيسِ بِصَلاَةِ الصُّبْحِ يَوْمَ النَّحْرِ بِالْمُزْدَلِفَةِ وَالْمُبَالَغَةِ فِيهِ بَعْدَ تَحَقُّقِ طُلُوعِ الْفَجْرِ",
+    "swahili": "MLANGO: Inapendekezwa kuswali Swalah kukiwa bado giza siku ya kafara katika Al-Muzdalifah, na kufanya hivyo mapema sana baada ya kubaini kuwa alfajiri imeingia."
+  },
+  {
+    "start": "1290a",
+    "arabic": "باب اسْتِحْبَابِ تَقْدِيمِ دَفْعِ الضَّعَفَةِ مِنَ النِّسَاءِ وَغَيْرِهِنَّ مِنْ مُزْدَلِفَةَ إِلَى مِنًى فِي أَوَاخِرِ اللَّيَالِي قَبْلَ زَحْمَةِ النَّاسِ وَاسْتِحْبَابِ الْمُكْثِ لِغَيْرِهِمْ حَتَّى يُصَلُّوا الصُّبْحَ بِمُزْدَلِفَةَ",
+    "swahili": "MLANGO: Inapendekezwa kuwapeleka wanyonge miongoni mwa wanawake na wengine mbele kutoka Al-Muzdalifah hadi Mina muda mwa usiku, kabla haijajaa watu, lakini inapendekezwa wakae humo mpaka waswali Subh katika Al-Muzdalifah."
+  },
+  {
+    "start": "1296a",
+    "arabic": "باب رَمْىِ جَمْرَةِ الْعَقَبَةِ مِنْ بَطْنِ الْوَادِي وَتَكُونُ مَكَّةُ عَنْ يَسَارِهِ وَيُكَبِّرُ مَعَ كُلِّ حَصَاةٍ",
+    "swahili": "MLANGO: Kupiga mawe Jamrat Al-'Aqabah kutoka chini ya bonde; Makka upande wa kushoto na mtu aseme Takbir kwa kila kurusha"
+  },
+  {
+    "start": 1297,
+    "arabic": "باب اسْتِحْبَابِ رَمْىِ جَمْرَةِ الْعَقَبَةِ يَوْمَ النَّحْرِ رَاكِبًا وَبَيَانِ قَوْلِهِ صَلَّى اللَّهُ تَعَالَى عَلَيْهِ وَسَلَّمَ: «لِتَأْخُذُوا مَنَاسِكَكُمْ»",
+    "swahili": "MLANGO: Inapendekezwa kupiga mawe Jamrat Al-'Aqabah, siku ya dhabihu, akipanda, na Mtume saw akasema: \"Jifunzeni ibada zenu (za Hajj) kutoka kwangu.\""
+  },
+  {
+    "start": "1299a",
+    "arabic": "باب اسْتِحْبَابِ كَوْنِ حَصَى الْجِمَارِ بِقَدْرِ حَصَى الْخَذْفِ ‏",
+    "swahili": "MLANGO: Inapendekezwa kwa kokoto zinazotumika kupiga mawe kuwa ukubwa wa maharagwe mapana"
+  },
+  {
+    "start": "1299b",
+    "arabic": "باب بَيَانِ وَقْتِ اسْتِحْبَابِ الرَّمْىِ ‏",
+    "swahili": "MLANGO: Wakati ambao inapendekezwa kupiga mawe Jamrah"
+  },
+  {
+    "start": 1300,
+    "arabic": "باب بَيَانِ أَنَّ حَصَى الْجِمَارِ سَبْعٌ ‏",
+    "swahili": "MLANGO: Idadi ya kokoto za kuzipiga Jamrah ni saba kwa wakati mmoja"
+  },
+  {
+    "start": "1301a",
+    "arabic": "باب تَفْضِيلِ الْحَلْقِ عَلَى التَّقْصِيرِ وَجَوَازِ التَّقْصِيرِ ‏‏",
+    "swahili": "MLANGO: Kunyoa nywele ni bora kuliko kukata nywele, ingawa nywele kunaruhusiwa"
+  },
+  {
+    "start": "1305a",
+    "arabic": "باب بَيَانِ أَنَّ السُّنَّةَ يَوْمَ النَّحْرِ أَنْ يَرْمِيَ ثُمَّ يَنْحَرَ ثُمَّ يَحْلِقَ وَالاِبْتِدَاءِ فِي الْحَلْقِ بِالْجَانِبِ الأَيْمَنِ مِنْ رَأْسِ الْمَحْلُوقِ",
+    "swahili": "MLANGO: Sunnah siku ya kafara ni kupiga mawe Jamrah, kisha kutoa kafara, kisha kunyoa kichwa, na kunyoa kuanzishwe upande wa kulia wa kichwa."
+  },
+  {
+    "start": "1306a",
+    "arabic": "باب مَنْ حَلَقَ قَبْلَ النَّحْرِ أَوْ نَحَرَ قَبْلَ الرَّمْىِ ‏‏",
+    "swahili": "MLANGO: Inajuzu kutoa dhabihu kabla ya kupigwa mawe Jamrah, au kunyoa kabla ya kutoa sadaka au kupiga mawe Jamrah, au kufanya Tawaf mbele ya yeyote kati yao."
+  },
+  {
+    "start": 1308,
+    "arabic": "باب اسْتِحْبَابِ طَوَافِ الإِفَاضَةِ يَوْمَ النَّحْرِ ‏‏",
+    "swahili": "MLANGO: Inapendekezwa kufanya Tawaf Al-Ifadah siku ya kafara"
+  },
+  {
+    "start": "1310a",
+    "arabic": "باب اسْتِحْبَابِ النُّزُولِ بِالْمُحَصَّبِ يَوْمَ النَّفْرِ وَالصَّلاَةِ بِهِ ‏‏",
+    "swahili": "MLANGO: Inapendekezwa kusimamisha Al-Muhassab siku ya kutoka Mina na kuswali Adhuhuri na baadae huko."
+  },
+  {
+    "start": "1315a",
+    "arabic": "باب وُجُوبِ الْمَبِيتِ بِمِنًى لَيَالِيَ أَيَّامِ التَّشْرِيقِ وَالتَّرْخِيصِ فِي تَرْكِهِ لأَهْلِ السِّقَايَةِ",
+    "swahili": "MLANGO: Ni wajibu kulala Mina katika usiku wa siku za At-Tashriq, na utatanisho unawaruhusu wanaosambaza maji kuondoka."
+  },
+  {
+    "start": "1317a",
+    "arabic": "باب فِي الصَّدَقَةِ بِلُحُومِ الْهَدْىِ وَجُلُودِهَا وَجِلاَلِهَا ‏‏",
+    "swahili": "MLANGO: Kutoa nyama, ngozi na blanketi za Hadi katika sadaka; mchinjaji asipewe chochote; Inajuzu kumkabidhi mtu mwingine kutoa sadaka"
+  },
+  {
+    "start": "1318a",
+    "arabic": "باب الاِشْتِرَاكِ فِي الْهَدْىِ وَإِجْزَاءِ الْبَقَرَةِ وَالْبَدَنَةِ كُلٍّ مِنْهُمَا عَنْ سَبْعَةٍ ‏‏",
+    "swahili": "MLANGO: Inajuzu kushiriki katika sadaka, na ngamia au ng'ombe anatosha watu saba"
+  },
+  {
+    "start": 1320,
+    "arabic": "باب نَحْرِ الْبُدْنِ قِيَامًا مُقَيَّدَةً ‏‏",
+    "swahili": "MLANGO: Inapendekezwa kumchinja ngamia akiwa amesimama na amefungua"
+  },
+  {
+    "start": "1321a",
+    "arabic": "باب اسْتِحْبَابِ بَعْثِ الْهَدْىِ إِلَى الْحَرَمِ لِمَنْ لاَ يُرِيدُ الذَّهَابَ بِنَفْسِهِ وَاسْتِحْبَابِ تَقْلِيدِهِ وَفَتْلِ الْقَلاَئِدِ وَأَنَّ بَاعِثَهُ لاَ يَصِيرُ مُحْرِمًا وَلاَ يَحْرُمُ عَلَيْهِ شيء بِذَلِكَ",
+    "swahili": "MLANGO: Inapendekezwa kupeleka mnyama wa kafara kwenye Haram kwa yule ambaye hataki kwenda huko mwenyewe; Inasihi kukivika taji na kutengeneza taji, lakini mwenye kukipeleka haingii katika hali ya Ihram, na hakuna haramu kwake kwa sababu hiyo."
+  },
+  {
+    "start": "1322a",
+    "arabic": "باب جَوَازِ رُكُوبِ الْبَدَنَةِ الْمُهْدَاةِ لِمَنِ احْتَاجَ إِلَيْهَا ‏‏",
+    "swahili": "MLANGO: Inaruhusiwa kupanda mnyama wa dhabihu ikiwa ni lazima"
+  },
+  {
+    "start": "1325a",
+    "arabic": "باب مَا يُفْعَلُ بِالْهَدْىِ إِذَا عَطِبَ فِي الطَّرِيقِ ‏‏",
+    "swahili": "MLANGO: Nini kifanyike kwa mnyama wa dhabihu ikiwa amejeruhiwa njiani?"
+  },
+  {
+    "start": 1327,
+    "arabic": "باب وُجُوبِ طَوَافِ الْوَدَاعِ وَسُقُوطِهِ عَنِ الْحَائِضِ",
+    "swahili": "MLANGO: Tawaf ya kuaga ni wajibu, lakini inafutwa kwa wanawake wenye hedhi"
+  },
+  {
+    "start": "1329a",
+    "arabic": "باب اسْتِحْبَابِ دُخُولِ الْكَعْبَةِ لِلْحَاجِّ وَغَيْرِهِ وَالصَّلاَةِ فِيهَا وَالدُّعَاءِ فِي نَوَاحِيهَا كُلِّهَا",
+    "swahili": "MLANGO: Imependekezwa kwa mahujaji na wengineo kuingia katika Al-Kaaba na kuswali humo, na kuomba dua katika pembe zake zote."
+  },
+  {
+    "start": "1333a",
+    "arabic": "باب نَقْضِ الْكَعْبَةِ وَبِنَائِهَا ‏‏",
+    "swahili": "MLANGO: Kuibomoa Ka'abah na kuijenga upya"
+  },
+  {
+    "start": "1333j",
+    "arabic": "باب جَدْرِ الْكَعْبَةِ وَبَابِهَا ‏‏",
+    "swahili": "MLANGO: Ukuta na mlango wa Kaaba"
+  },
+  {
+    "start": 1334,
+    "arabic": "باب الْحَجِّ عَنِ الْعَاجِزِ، لِزَمَانَةٍ وَهِرَمٍ وَنَحْوِهِمَا أَوْ لِلْمَوْتِ ‏‏",
+    "swahili": "MLANGO: Hija kwa niaba ya asiyeweza kuhiji kwa sababu ya maradhi ya kudumu, uzee na mengineyo, au kwa niaba ya aliyefariki."
+  },
+  {
+    "start": "1336a",
+    "arabic": "باب صِحَّةِ حَجِّ الصَّبِيِّ وَأَجْرِ مَنْ حَجَّ بِهِ ‏‏",
+    "swahili": "MLANGO: Usahihi wa hajj ya mtoto, na ujira wa mwenye kumpeleka Hijja"
+  },
+  {
+    "start": 1337,
+    "arabic": "باب فَرْضِ الْحَجِّ مَرَّةً فِي الْعُمْرِ ‏‏",
+    "swahili": "MLANGO: Hajj ni wajibu mara moja katika maisha"
+  },
+  {
+    "start": "1338a",
+    "arabic": "باب سَفَرِ الْمَرْأَةِ مَعَ مَحْرَمٍ إِلَى حَجٍّ وَغَيْرِهِ ‏‏",
+    "swahili": "MLANGO: akisafiri na Mahram kwa ajili ya Hajj na malengo mengine"
+  },
+  {
+    "start": 1342,
+    "arabic": "باب مَا يَقُولُ إِذَا رَكِبَ إِلَى سَفَرٍ الْحَجِّ وَغَيْرِهِ ‏‏",
+    "swahili": "MLANGO: Inapendekezwa maneno ya ukumbusho wakati wa kutoka kwa Hajj au kusoma malengo yoyote, na bora zaidi ya ukumbusho huu."
+  },
+  {
+    "start": "1344a",
+    "arabic": "باب مَا يَقُولُ إِذَا قَفَلَ مِنْ سَفَرٍ الْحَجِّ وَغَيْرِهِ ‏‏",
+    "swahili": "MLANGO: Nini kinapaswa kusemwa wakati wa kurudi kutoka kwa Hajj na safari zingine"
+  },
+  {
+    "start": "1257c",
+    "arabic": "باب التَّعْرِيسِ بِذِي الْحُلَيْفَةِ وَالصَّلاَةِ بِهَا إِذَا صَدَرَ مِنَ الْحَجِّ أَوِ الْعُمْرَةِ ‏‏",
+    "swahili": "MLANGO: Inapendekezwa kusimama katika Batha' ya Dhul-Hulaifah na kuswali humo wakati wa kutoka Hajj na 'Umrah, au wakati wowote mtu anapopitia humo."
+  },
+  {
+    "start": 1347,
+    "arabic": "باب لاَ يَحُجُّ الْبَيْتَ مُشْرِكٌ وَلاَ يَطُوفُ بِالْبَيْتِ عُرْيَانٌ وَبَيَانُ يَوْمِ الْحَجِّ الأَكْبَبَرِ",
+    "swahili": "MLANGO: Mshirikina asiizunguke nyumba, wala mtu yeyote asiizunguke nyumba akiwa uchi, na itakapokuwa siku kuu ya Hijja."
+  },
+  {
+    "start": 1348,
+    "arabic": "باب فِي فَضْلِ الْحَجِّ وَالْعُمْرَةِ وَيَوْمِ عَرَفَةَ ‏‏",
+    "swahili": "MLANGO: Fadhila za siku ya 'Arafat"
+  },
+  {
+    "start": "1351a",
+    "arabic": "باب النُّزُولِ بِمَكَّةَ لِلْحَاجِّ وَتَوْرِيثِ دُورِهَا ‏‏",
+    "swahili": "MLANGO: Mahujaji wanaokaa Makka, na Kurithi nyumba zake"
+  },
+  {
+    "start": "1352a",
+    "arabic": "باب جَوَازِ الإِقَامَةِ بِمَكَّةَ لِلْمُهَاجِرِ مِنْهَا بَعْدَ فَرَاغِ الْحَجِّ وَالْعُمْرَةِ ثَلاَثَةَ أَيَّامٍ بِلاَ زِيَادَةٍ",
+    "swahili": "MLANGO: Inajuzu kwa aliyehama kutoka Makka kukaa humo siku tatu baada ya kumaliza Hijja na Umra, na si zaidi ya hapo."
+  },
+  {
+    "start": "1353a",
+    "arabic": "باب تَحْرِيمِ مَكَّةَ وَصَيْدِهَا وَخَلاَهَا وَشَجَرِهَا وَلُقَطَتِهَا إِلاَّ لِمُنْشِدٍ عَلَى الدَّوَام",
+    "swahili": "MLANGO: Utakatifu wa Makka na utakatifu wa wanyama wake wa kufuga, nyasi, miti na mali iliyopotea, isipokuwa mwenye kuitangaza, ni milele."
+  },
+  {
+    "start": 1356,
+    "arabic": "باب النَّهْىِ عَنْ حَمْلِ السِّلاَحِ، بِمَكَّةَ بِلاَ حَاجَةٍ ‏‏",
+    "swahili": "MLANGO: Uharamu wa kubeba silaha huko Makka wakati hakuna haja ya hilo"
+  },
+  {
+    "start": 1357,
+    "arabic": "باب جَوَازِ دُخُولِ مَكَّةَ بِغَيْرِ إِحْرَامٍ ‏‏",
+    "swahili": "MLANGO: Inajuzu kuingia Makka bila ya Ihram"
+  },
+  {
+    "start": "1360a",
+    "arabic": "باب فَضْلِ الْمَدِينَةِ وَدُعَاءِ النَّبِيِّ صلى الله عليه وسلم فِيهَا بِالْبَرَكَةِ وَبَيَانِ تَحْرِيمِها وَتَحْرِيمِ صَيْدِهَا وَشَجَرِهَا وَبَيَانِ حُدُودِ حَرَمِهَا",
+    "swahili": "MLANGO: Fadhila za Al-Madiynah na Swalah ya Mtume ili ibarikiwe. Utakatifu wake na utakatifu wa wanyama wake na miti. Mipaka ya patakatifu pake"
+  },
+  {
+    "start": "1374a",
+    "arabic": "باب التَّرْغِيبِ فِي سُكْنَى الْمَدِينَةِ وَالصَّبْرِ عَلَى لأْوَائِهَا ‏‏",
+    "swahili": "MLANGO: Kuhimizwa kuishi Al-Madiynah na kuwa na subira juu ya kubeba dhiki na dhiki zake."
+  },
+  {
+    "start": 1379,
+    "arabic": "باب صِيَانَةِ الْمَدِينَةِ مِنْ دُخُولِ الطَّاعُونِ وَالدَّجَّالِ إِلَيْهَا ‏‏",
+    "swahili": "MLANGO: Al-Madinah imendwa dhidi ya tauni na Dajjal kuingia humo"
+  },
+  {
+    "start": 1381,
+    "arabic": "باب الْمَدِينَةِ تَنْفِي شِرَارَهَا ‏‏",
+    "swahili": "MLANGO: Al-Madinah inaondoa Taka zake na inaitwa pia Tabah, na Taibah"
+  },
+  {
+    "start": "1386a",
+    "arabic": "باب مَنْ أَرَادَ أَهْلَ الْمَدِينَةِ بِسُوءٍ أَذَابَهُ اللَّهُ ‏‏",
+    "swahili": "MLANGO: Makatazo ya kuwatakia mabaya watu wa Al-Madiynah, na kwamba mwenye kuwatakia mabaya Mwenyezi Mungu atamyeyusha."
+  },
+  {
+    "start": "1388a",
+    "arabic": "باب التَّرْغِيبِ فِي الْمَدِينَةِ عِنْدَ فَتْحِ الأَمْصَارِ ‏‏",
+    "swahili": "MLANGO: Kuwahimiza watu kubaki Al-Madiynah wakati mikoa ilipotekwa"
+  },
+  {
+    "start": "1389a",
+    "arabic": "باب فِي الْمَدِينَةِ حِينَ يَتْرُكُهَا أَهْلُهَا ‏‏",
+    "swahili": "MLANGO: Mtume saw alibashiri kwamba watu wataacha Al-Madiynah itakapokuwa bora zaidi kuwahi kutokea"
+  },
+  {
+    "start": "1390a",
+    "arabic": "باب مَا بَيْنَ الْقَبْرِ وَالْمِنْبَرِ رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ ‏‏",
+    "swahili": "MLANGO: Ubora wa eneo kati ya kaburi la Mtume na Minbar yake, na fadhila ya sehemu ambayo minbar yake iko."
+  },
+  {
+    "start": 1392,
+    "arabic": "باب أُحُدٌ جَبَلٌ يُحِبُّنَا وَنُحِبُّهُ ‏‏",
+    "swahili": "MLANGO: Fadhila za Uhud"
+  },
+  {
+    "start": "1394a",
+    "arabic": "باب فَضْلِ الصَّلاَةِ بِمَسْجِدَىْ مَكَّةَ وَالْمَدِينَةِ ‏‏",
+    "swahili": "MLANGO: Fadhila ya kuswali katika Masajid ya Makka na Al-Madinah"
+  },
+  {
+    "start": "1397a",
+    "arabic": "باب لاَ تُشَدُّ الرِّحَالُ إِلاَّ إِلَى ثَلاَثَةِ مَسَاجِدَ ‏‏",
+    "swahili": "MLANGO: Fadhila za Masajid Tatu"
+  },
+  {
+    "start": "1398a",
+    "arabic": "باب بَيَانِ أَنَّ الْمَسْجِدَ الَّذِي أُسِّسَ عَلَى التَّقْوَى هُوَ مَسْجِدُ النَّبِيِّ صلى الله عليه وسلم بِالْمَدِينَةِ",
+    "swahili": "MLANGO: Msikiti ambao msingi wake ulijengwa juu ya uchamungu ni Msikiti wa Mtume saw huko Al-Madinah."
+  },
+  {
+    "start": "1399a",
+    "arabic": "باب فَضْلِ مَسْجِدِ قُبَاءٍ وَفَضْلِ الصَّلاَةِ فِيهِ وَزِيَارَتِهِ ‏‏",
+    "swahili": "MLANGO: Fadhila za Masjid wa Quba', na fadhila ya kuswali humo na kuuzuru."
+  }
+]

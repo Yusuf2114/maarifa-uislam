@@ -1,0 +1,12 @@
+[
+{ "start": 1806, "arabic": "باب إِذَا أُحْصِرَ الْمُعْتَمِرُ", "swahili": "MLANGO 1: Ikiwa mtu amezuiliwa kufanya Umra" },
+{ "start": 1810, "arabic": "باب الإِحْصَارِ فِي الْحَجِّ", "swahili": "MLANGO 2: Mwenye kuzuiliwa kufanya Hajj" },
+{ "start": 1811, "arabic": "باب النَّحْرِ قَبْلَ الْحَلْقِ فِي الْحَصْرِ", "swahili": "MLANGO 3: Kuchinja kabla ya kunyoa kichwa katika (hali ya) kuzuiliwa" },
+{ "start": -1, "arabic": "باب مَنْ قَالَ لَيْسَ عَلَى الْمُحْصَرِ بَدَلٌ", "swahili": "MLANGO 4: Yule aliyesema kuwa si lazima kwa Muhsar kufanya Umra au Hajj badala ya ile aliyozuiliwa", "ayaArabic": "aya", "ayaSwahili": "aya" },
+{ "start": 1814, "arabic": "بَابُ قَوْلِ اللَّهِ تَعَالَى: {فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ}", "swahili": "MLANGO 5: Kauli ya Mwenyezi Mungu: \"...Na yeyote miongoni mwenu akiwa mgonjwa au ana ugonjwa katika kichwa chake (unaomlazimisha kunyoa), basi lazima atoe Fidya (fidia), iwe ni kufunga (siku tatu), au kutoa Sadaka (chakula kwa maskini sita), au kutoa dhabihu (kondoo mmoja)...\"" },
+{ "start": 1815, "arabic": "بَابُ قَوْلِ اللَّهِ تَعَالَى: {أَوْ صَدَقَةٍ}", "swahili": "MLANGO 6: Kauli ya Mwenyezi Mungu: \"...Au kutoa Sadaka...\"" },
+{ "start": 1816, "arabic": "باب الإِطْعَامُ فِي الْفِدْيَةِ نِصْفُ صَاعٍ", "swahili": "MLANGO 7: Fidya (fidia kwa ajili ya ibada iliyokosekana au iliyofanywa vibaya) katika mfumo wa kulisha (watu sita) kila mmoja nusu Saa (ya chakula)" },
+{ "start": 1817, "arabic": "باب النُّسُكُ شَاةٌ", "swahili": "MLANGO 8: Nusuk (sadaka) ni kondoo mmoja" },
+{ "start": 1819, "arabic": "باب قَوْلِ اللَّهِ تَعَالَى ‏{‏فَلاَ رَفَثَ‏}‏", "swahili": "MLANGO 9: Kauli ya Mwenyezi Mungu: \"...Basi asifanye mahusiano ya kimwili (na mkewe)...\"" },
+{ "start": 1820, "arabic": "بَابُ قَوْلِ اللَّهِ عَزَّ وَجَلَّ: {وَلاَ فُسُوقَ وَلاَ جِدَالَ فِي الْحَجِّ}", "swahili": "MLANGO 10: Kauli ya Mwenyezi Mungu: \"...Wala asifanye madhambi wala kubishana isivyo haki wakati wa Hajj...\"" }
+]

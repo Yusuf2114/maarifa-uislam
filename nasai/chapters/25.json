@@ -1,0 +1,242 @@
+[
+  {
+    "start": "3085",
+    "arabic": "باب وُجُوبِ الْجِهَادِ ‏.‏",
+    "swahili": "MLANGO: WAJIBU WA JIHAD"
+  },
+  {
+    "start": "3097",
+    "arabic": "باب التَّشْدِيدِ فِي تَرْكِ الْجِهَادِ ‏.‏",
+    "swahili": "MLANGO: ONYO KALI DHIDI YA KUACHA JIHAD"
+  },
+  {
+    "start": "3098",
+    "arabic": "باب الرُّخْصَةِ فِي التَّخَلُّفِ عَنِ السَّرِيَّةِ، ‏.‏",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MTU KUTOJIUNGA NA KAMPENI"
+  },
+  {
+    "start": "3099",
+    "arabic": "باب فَضْلِ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ ‏.‏",
+    "swahili": "MLANGO: UBORA WA MUJAHIDINA JUU YA WALE WASIOTOKA KWENDA KUPIGANA"
+  },
+  {
+    "start": "3103",
+    "arabic": "باب الرُّخْصَةِ فِي التَّخَلُّفِ لِمَنْ لَهُ وَالِدَانِ ‏.‏",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MWENYE WAZAZI WAWILI KUBAKI NYUMA"
+  },
+  {
+    "start": "3104",
+    "arabic": "باب الرُّخْصَةِ فِي التَّخَلُّفِ لِمَنْ لَهُ وَالِدَةٌ ‏.‏",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU ALIYE NA MAMA KUBAKI NYUMA"
+  },
+  {
+    "start": "3105",
+    "arabic": "باب فَضْلِ مَنْ يُجَاهِدُ فِي سَبِيلِ اللَّهِ بِنَفْسِهِ وَمَالِهِ ‏.‏",
+    "swahili": "MLANGO: FADHILA ZA MWENYE JIHADI KATIKA NJIA YA MWENYEZI MUNGU PAMOJA NAYE NA MALI YAKE"
+  },
+  {
+    "start": "3106",
+    "arabic": "باب فَضْلِ مَنْ عَمِلَ فِي سَبِيلِ اللَّهِ عَلَى قَدَمِهِ ‏.‏",
+    "swahili": "MLANGO: FADHILA ZA YULE AFANYAYE JIHADI KATIKA NJIA YA MWENYEZI MUNGU KWA MIGUU YAKE"
+  },
+  {
+    "start": "3116",
+    "arabic": "باب ثَوَابِ مَنِ اغْبَرَّتْ قَدَمَاهُ فِي سَبِيلِ اللَّهِ ‏.‏",
+    "swahili": "MLANGO: MALIPO YA YULE AMBAYE MIGUU YAKE INAKUWA NA UVUMBI KATIKA NJIA YA MWENYEZI MUNGU"
+  },
+  {
+    "start": "3117",
+    "arabic": "باب ثَوَابِ عَيْنٍ سَهِرَتْ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: THAWABU YA MACHO YANAYOKESHA USIKU KWA NJIA YA ALLAH, MWENYE NGUVU NA UTUKUFU."
+  },
+  {
+    "start": "3118",
+    "arabic": "باب فَضْلِ غَدْوَةٍ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: FADHILA YA KUTOKA KABLA YA ADHUHURI KWA NJIA YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU"
+  },
+  {
+    "start": "3119",
+    "arabic": "باب فَضْلِ الرَّوْحَةِ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: FADHILA YA KUTOKA BAADA YA ADHUHURI KWA NJIA YA ALLAH, MWENYE NGUVU NA UTUKUFU"
+  },
+  {
+    "start": "3121",
+    "arabic": "باب الْغُزَاةِ وَفْدُ اللَّهِ تَعَالَى ‏.‏",
+    "swahili": "MLANGO: MASHUJAA NI WAGENI WA MWENYEZI MUNGU ALIYE JUU SANA"
+  },
+  {
+    "start": "3122",
+    "arabic": "باب مَا تَكَفَّلَ اللَّهُ عَزَّ وَجَلَّ لِمَنْ يُجَاهِدُ فِي سَبِيلِهِ ‏.‏",
+    "swahili": "MLANGO: ANAYO MDHAMINI MWENYEZI MUNGU, MWENYE NGUVU NA UTUKUFU KWA MWENYE JIHADI KATIKA NJIA YAKE"
+  },
+  {
+    "start": "3125",
+    "arabic": "باب ثَوَابِ السَّرِيَّةِ الَّتِي تُخْفِقُ ‏.‏",
+    "swahili": "MLANGO: THAWABU YA CHAMA CHA UVAMIZI KINACHOSHINDWA KUFIKIA LENGO LAKE"
+  },
+  {
+    "start": "3127",
+    "arabic": "باب مَثَلِ الْمُجَاهِدِ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: MFANO WA MUJAHID (ANAYEFANYA JIHADI KATIKA NJIA YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU)"
+  },
+  {
+    "start": "3128",
+    "arabic": "باب مَا يَعْدِلُ الْجِهَادَ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: JE, NI NINI SAWA NA JIHADI KATIKA NJIA YA ALLAH, MWENYE NGUVU NA UTUKUFU?"
+  },
+  {
+    "start": "3131",
+    "arabic": "باب دَرَجَةِ الْمُجَاهِدِ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: HALI YA MUJAHID (ANAYEFANYA JIHADI KATIKA NJIA YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU)"
+  },
+  {
+    "start": "3133",
+    "arabic": "باب مَا لِمَنْ أَسْلَمَ وَهَاجَرَ وَجَاهَدَ ‏.‏",
+    "swahili": "MLANGO: JE, KUNA THAWABU GANI KWA MWENYE KUSILIMU, KUHAMA NA KUPIGANIA JIHADI?"
+  },
+  {
+    "start": "3135",
+    "arabic": "باب فَضْلِ مَنْ أَنْفَقَ زَوْجَيْنِ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: FADHILA ZA YULE ANAYETUMIA JOZI (VITU) KATIKA NJIA YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU."
+  },
+  {
+    "start": "3136",
+    "arabic": "باب مَنْ قَاتَلَ لِتَكُونَ كَلِمَةُ اللَّهِ هِيَ الْعُلْيَا ‏.‏",
+    "swahili": "MLANGO: ATAKAYEPIGANA ILI NENO LA MWENYEZI MUNGU LIWE JUU"
+  },
+  {
+    "start": "3137",
+    "arabic": "باب مَنْ قَاتَلَ لِيُقَالَ فُلاَنٌ جَرِيءٌ ‏.‏",
+    "swahili": "MLANGO: YULE AMBAYE ANAPIGANA ILI ISEMWE KUWA FULANI NI JASIRI"
+  },
+  {
+    "start": "3138",
+    "arabic": "باب مَنْ غَزَا فِي سَبِيلِ اللَّهِ وَلَمْ يَنْوِ مِنْ غَزَاتِهِ إِلاَّ عِقَالاً ‏.‏",
+    "swahili": "MLANGO: YULE AMBAYE ANAPIGANA KATIKA NJIA YA MWENYEZI MUNGU, KWA KUKUSUDIA TU KUPATA IQAL 1"
+  },
+  {
+    "start": "3140",
+    "arabic": "باب مَنْ غَزَا يَلْتَمِسُ الأَجْرَ وَالذِّكْرَ ‏.‏",
+    "swahili": "MLANGO: ANAYEPIGANA KUTAFUTA THAWABU NA UMAARUFU"
+  },
+  {
+    "start": "3141",
+    "arabic": "باب ثَوَابِ مَنْ قَاتَلَ فِي سَبِيلِ اللَّهِ فُوَاقَ نَاقَةٍ ‏.‏",
+    "swahili": "MLANGO: THAWABU YA MWENYE KUPIGANA KATIKA NJIA YA ALLAH KWA UREFU WA MUDA BAINA YA MAZIWA MAWILI YA NGAMIA"
+  },
+  {
+    "start": "3142",
+    "arabic": "باب ثَوَابِ مَنْ رَمَى بِسَهْمٍ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: MALIPO YA MWENYE KURUSHA MSHALE KWA NJIA YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU."
+  },
+  {
+    "start": "3147",
+    "arabic": "باب مَنْ كُلِمَ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: AMBAYE AMEJERUHIWA KATIKA NJIA YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU"
+  },
+  {
+    "start": "3149",
+    "arabic": "باب مَا يَقُولُ مَنْ يَطْعَنُهُ الْعَدُوُّ ‏.‏",
+    "swahili": "MLANGO: NINI KINACHOSEMWA NA ALIYECHOMWA KISU NA ADUI"
+  },
+  {
+    "start": "3150",
+    "arabic": "باب مَنْ قَاتَلَ فِي سَبِيلِ اللَّهِ فَارْتَدَّ عَلَيْهِ سَيْفُهُ فَقَتَلَهُ ‏.‏",
+    "swahili": "MLANGO: YULE AMBAYE ANAPIGANA KATIKA NJIA YA MWENYEZI MUNGU NA UPANGA WAKE UNAMRUDI NA KUMUUA"
+  },
+  {
+    "start": "3151",
+    "arabic": "باب تَمَنِّي الْقَتْلِ فِي سَبِيلِ اللَّهِ تَعَالَى ‏.‏",
+    "swahili": "MLANGO: WAKITAKA KUUAWA KATIKA NJIA YA MWENYEZI MUNGU"
+  },
+  {
+    "start": "3154",
+    "arabic": "باب ثَوَابِ مَنْ قُتِلَ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: MALIPO YA YULE ALIYEUAWA KWA NJIA YA MWENYEZI MUNGU"
+  },
+  {
+    "start": "3155",
+    "arabic": "باب مَنْ قَاتَلَ فِي سَبِيلِ اللَّهِ تَعَالَى وَعَلَيْهِ دَيْنٌ ‏.‏",
+    "swahili": "MLANGO: MWENYE KUPIGANA KATIKA NJIA YA MWENYEZI MUNGU LAKINI ANA DENI"
+  },
+  {
+    "start": "3159",
+    "arabic": "باب مَا يُتَمَنَّى فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: KUTARAJIA KUFA KATIKA NJIA YA MWENYEZI MUNGU"
+  },
+  {
+    "start": "3160",
+    "arabic": "باب مَا يَتَمَنَّى أَهْلُ الْجَنَّةِ ‏.‏",
+    "swahili": "MLANGO: WANACHOTAMANI WATU WA PEPONI"
+  },
+  {
+    "start": "3161",
+    "arabic": "باب مَا يَجِدُ الشَّهِيدُ مِنَ الأَلَمِ ‏.‏",
+    "swahili": "MLANGO: KILE SHAHIDI ANAHISI UCHUNGU"
+  },
+  {
+    "start": "3162",
+    "arabic": "باب مَسْأَلَةِ الشَّهَادَةِ ‏.‏",
+    "swahili": "MLANGO: KUULIZA KUUAWA"
+  },
+  {
+    "start": "3165",
+    "arabic": "باب اجْتِمَاعِ الْقَاتِلِ وَالْمَقْتُولِ فِي سَبِيلِ اللَّهِ فِي الْجَنَّةِ ‏.‏",
+    "swahili": "MLANGO: KUKUTANA PEPONI KWA ALIYEUWA NA ALIYEUAWA KWA NJIA YA ALLAH"
+  },
+  {
+    "start": "3166",
+    "arabic": "باب تَفْسِيرِ ذَلِكَ ‏.‏",
+    "swahili": "MLANGO: UFAFANUZI WA HILO"
+  },
+  {
+    "start": "3167",
+    "arabic": "باب فَضْلِ الرِّبَاطِ ‏.‏",
+    "swahili": "MLANGO: UZURI WA AR-RIBAT (KULINDA MPAKA)"
+  },
+  {
+    "start": "3171",
+    "arabic": "باب فَضْلِ الْجِهَادِ فِي الْبَحْرِ ‏.‏",
+    "swahili": "MLANGO: FADHILA YA JIHAD KWA BAHARI"
+  },
+  {
+    "start": "3173",
+    "arabic": "باب غَزْوَةِ الْهِنْدِ ‏.‏",
+    "swahili": "MLANGO: MSAFARA WA VITA VYA INDIA"
+  },
+  {
+    "start": "3176",
+    "arabic": "باب غَزْوَةِ التُّرْكِ وَالْحَبَشَةِ ‏.‏",
+    "swahili": "MLANGO: KUPIGANA NA WATURUKI NA WAETHIOPIA"
+  },
+  {
+    "start": "3178",
+    "arabic": "باب الاِسْتِنْصَارِ بِالضَّعِيفِ ‏.‏",
+    "swahili": "MLANGO: KUTAFUTA MSAADA WA MWENYEZI MUNGU KWA DUA ZA WANYONGE"
+  },
+  {
+    "start": "3180",
+    "arabic": "باب فَضْلِ مَنْ جَهَّزَ غَازِيًا ‏.‏",
+    "swahili": "MLANGO: FADHILA ZA YULE ANAYEMTAYARISHA SHUJAA"
+  },
+  {
+    "start": "3183",
+    "arabic": "باب فَضْلِ النَّفَقَةِ فِي سَبِيلِ اللَّهِ تَعَالَى ‏.‏",
+    "swahili": "MLANGO: FADHILA YA KUTUMIA KATIKA NJIA YA MWENYEZI MUNGU"
+  },
+  {
+    "start": "3187",
+    "arabic": "باب فَضْلِ الصَّدَقَةِ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏",
+    "swahili": "MLANGO: FADHILA ZA SADAKA KATIKA NJIA YA MWENYEZI MUNGU"
+  },
+  {
+    "start": "3189",
+    "arabic": "باب حُرْمَةِ نِسَاءِ الْمُجَاهِدِينَ ‏.‏",
+    "swahili": "MLANGO: UTAKATIFU WA WAKE WA MUJAHIDIN"
+  },
+  {
+    "start": "3190",
+    "arabic": "باب مَنْ خَانَ غَازِيًا فِي أَهْلِهِ ‏.‏",
+    "swahili": "MLANGO: YULE ANAYESALITI SHUJAA PAMOJA NA MKEWE"
+  }
+]

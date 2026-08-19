@@ -1,0 +1,22 @@
+[
+{ "start": 1080, "arabic": "باب مَا جَاءَ فِي التَّقْصِIRِ وَكَمْ يُقِيمُ حَتَّى يَقْصُرَ", "swahili": "MLANGO 1: Yaliyokuja kuhusu kupunguza swala na muda gani mtu akae ili apunguze" },
+{ "start": 1082, "arabic": "باب الصَّلاَةِ بِمِنًى", "swahili": "MLANGO 2: Swala huko Mina (wakati wa Hajj)" },
+{ "start": 1085, "arabic": "باب كَمْ أَقَامَ النَّبِيُّ صلى الله عليه وسلم فِي حَجَّتِهِ", "swahili": "MLANGO 3: Muda gani Mtume ﷺ alikaa katika Hija yake" },
+{ "start": 1086, "arabic": "باب فِي كَمْ يَقْصُرُ الصَّلاَةَ", "swahili": "MLANGO 4: Masafa gani ya safari yanaruhusu kupunguza swala" },
+{ "start": 1089, "arabic": "باب يَقْصُرُ إِذَا خَرَجَ مِنْ مَوْضِعِهِ", "swahili": "MLANGO 5: Kupunguza swala anapotoka tu katika sehemu yake (mji wake)" },
+{ "start": 1091, "arabic": "باب يُصَلِّي الْمَغْرِبَ ثَلاَثًا فِي السَّفَرِ", "swahili": "MLANGO 6: Kuswali Maghrib raka tatu safarini" },
+{ "start": 1093, "arabic": "باب صَلاَةِ التَّطَوُّعِ عَلَى الدَّوَابِّ وَحَيْثُمَا تَوَجَّهَتْ بِهِ", "swahili": "MLANGO 7: Swala za nafila juu ya wanyama na popote anapoelekea" },
+{ "start": 1096, "arabic": "باب الإِيمَاءِ عَلَى الدَّابَّةِ", "swahili": "MLANGO 8: Kuswali kwa ishara ukiwa juu ya mnyama" },
+{ "start": 1097, "arabic": "باب يَنْزِلُ لِلْمَكْتُوبَةِ", "swahili": "MLANGO 9: Kushuka (kwenye mnyama) kwa ajili ya swala za faradhi" },
+{ "start": 1100, "arabic": "باب صَلاَةِ التَّطَوُّعِ عَلَى الْحِمَارِ", "swahili": "MLANGO 10: Swala za nafila ukiwa juu ya punda" },
+  { "start": 1101, "arabic": "باب مَنْ لَم_ يَتَطَوَّعْ فِي السَّفَرِ دُبُرَ الصَّلاَةِ وَقَبْلَهَا", "swahili": "MLANGO 11: Mwenye kutoleta nafila safarini baada ya swala (ya faradhi) na kabla yake" },
+  { "start": 1103, "arabic": "باب مَنْ تَطَوَّعَ فِي السَّفَرِ فِي غَيْرِ دُبُرِ الصَّلَوَاتِ وَقَبْلَهَا", "swahili": "MLANGO 12: Mwenye kuswali nafila safarini wakati mwingine tofauti na kabla au baada ya swala za faradhi" },
+  { "start": 1106, "arabic": "باب الْجَمْعِ فِي السَّفَرِ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ", "swahili": "MLANGO 13: Kukusanya swala za Maghrib na Isha katika safari" },
+  { "start": 1109, "arabic": "باب هَلْ يُؤَذِّنُ أَوْ يُقِيمُ إِذَا جَمَعَ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ", "swahili": "MLANGO 14: Je, itolewe Adhana au Ikama wakati wa kukusanya swala za Maghrib na Isha?" },
+  { "start": 1111, "arabic": "باب يُؤَخِّرُ الظُّهْرَ إِلَى الْعَصْرِ إِذَا ارْتَحَلَ قَبْلَ أَنْ تَزِيغَ الشَّمْسُ", "swahili": "MLANGO 15: Kuchelewesha Adhuhuri hadi wakati wa Alasiri ikiwa safari imeanza kabla ya jua kupinduka" },
+  { "start": 1112, "arabic": "باب إِذَا ارْتَحَلَ بَعْدَ مَا زَاغَتِ الشَّمْسُ صَلَّى الظُّهْرَ ثُمَّ رَكِبَ", "swahili": "MLANGO 16: Ikiwa safari imeanza baada ya jua kupinduka, aswali Adhuhuri kisha ndipo apande mnyama" },
+  { "start": 1113, "arabic": "باب صَلاَةِ الْقَاعِدِ", "swahili": "MLANGO 17: Swala ya aliyeketi" },
+  { "start": 1116, "arabic": "باب صَلاَةِ الْقَاعِدِ بِالإِيمَاءِ", "swahili": "MLANGO 18: Swala ya aliyeketi kwa kutumia ishara" },
+  { "start": 1117, "arabic": "باب إِذَا لَمْ يُطِقْ قَاعِدًا صَلَّى عَلَى جَنْبٍ", "swahili": "MLANGO 19: Ikiwa hawezi kuketi, aswali kwa kulalia upande wake" },
+  { "start": 1118, "arabic": "باب إِذَا صَلَّى قَاعِدًا ثُمَّ صَحَّ أَوْ وَجَدَ خِفَّةً تَمَّمَ مَا بَقِيَ", "swahili": "MLANGO 20: Akiswali huku ameketi kisha akapata nafuu au akawa mzima, amalizie sehemu iliyobaki (huku amesimama)" }
+]

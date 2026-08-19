@@ -1,0 +1,422 @@
+[
+  {
+    "start": "3196",
+    "arabic": "باب ذِكْرِ أَمْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي النِّكَاحِ وَأَزْوَاجِهِ وَمَا أَبَاحَ اللَّهُ عَزَّ وَجَلَّ لِنَبِيِّهِ صلى الله عليه وسلم وَحَظَرَهُ عَلَى خَلْقِهِ زِيَادَةً فِي كَرَامَتِهِ وَتَنْبِيهًا لِفَضِيلَتِهِ ‏.‏",
+    "swahili": "MLANGO: KUTAJA AMRI YA Mtume wa Allah (swalla Allahu alayhi wa sallam)KUHUSU NDOA, WAKE ZAKE NA ALIYOMRUHUSU MWENYEZI MUNGU, MWENYE NGUVU NA UTUKUFU, KWA NABII WAKE INAPOHARAMISHWA KWA WATU WENGINE, KWA SABABU YA FADHILA ZAKE NA HADHI YAKE YA JUU."
+  },
+  {
+    "start": "3201",
+    "arabic": "باب مَا افْتَرَضَ اللَّهُ عَزَّ وَجَلَّ عَلَى رَسُولِهِ عَلَيْهِ السَّلاَمُ وَحَرَّمَهُ عَلَى خَلْقِهِ لِيَزِيدَهُ إِنْ شَاءَ اللَّهُ قُرْبَةً إِلَيْهِ ‏.‏",
+    "swahili": "MLANGO: YALE ALIYOMUUSIA MWENYEZI MUNGU NABII WAKE NA AKAYAKATAZA KWA WATU WENGINE ILI KUMKURUBISHA KWAKE"
+  },
+  {
+    "start": "3206",
+    "arabic": "باب الْحَثِّ عَلَى النِّكَاحِ ‏.‏",
+    "swahili": "MLANGO: KUHIMIZA KUOA"
+  },
+  {
+    "start": "3212",
+    "arabic": "باب النَّهْىِ عَنِ التَّبَتُّلِ، ‏.‏",
+    "swahili": "MLANGO: MARUFUKU YA USEJA"
+  },
+  {
+    "start": "3218",
+    "arabic": "باب مَعُونَةِ اللَّهِ النَّاكِحَ الَّذِي يُرِيدُ الْعَفَافَ ‏.‏",
+    "swahili": "MLANGO: MWENYEZI MUNGU ATAMSAIDIA MWENYE KUOA, AKITAKA KUJIWEKA NAFSI"
+  },
+  {
+    "start": "3219",
+    "arabic": "باب نِكَاحِ الأَبْكَارِ ‏.‏",
+    "swahili": "MLANGO: KUOA WANAWALI"
+  },
+  {
+    "start": "3221",
+    "arabic": "باب تَزَوُّجِ الْمَرْأَةِ مِثْلَهَا فِي السِّنِّ ‏.‏",
+    "swahili": "MLANGO: MWANAMKE KUOLEWA NA MTU ANAYEFANANA NAE KIUMRI"
+  },
+  {
+    "start": "3222",
+    "arabic": "باب تَزَوُّجِ الْمَوْلَى الْعَرَبِيَّةَ ‏.‏",
+    "swahili": "MLANGO: MTUMWA ALIYEACHIWA AKIOA MWANAMKE MWARABU"
+  },
+  {
+    "start": "3225",
+    "arabic": "باب الْحَسَبِ ‏.‏",
+    "swahili": "MLANGO: UTUKUFU"
+  },
+  {
+    "start": "3226",
+    "arabic": "باب عَلَى مَا تُنْكَحُ الْمَرْأَةُ ‏.‏",
+    "swahili": "MLANGO: KWA NINI MWANAMKE AOLEWE?"
+  },
+  {
+    "start": "3227",
+    "arabic": "باب كَرَاهِيَةِ تَزْوِيجِ الْعَقِيمِ ‏.‏",
+    "swahili": "MLANGO: HAIPENDEZWI KUOA MTU ASIYEWEZA KUZAA"
+  },
+  {
+    "start": "3228",
+    "arabic": "باب تَزْوِيجِ الزَّانِيَةِ ‏.‏",
+    "swahili": "MLANGO: KUOA MWANAMKE MZINZI"
+  },
+  {
+    "start": "3230",
+    "arabic": "باب كَرَاهِيَةِ تَزْوِيجِ الزُّنَاةِ ‏.‏",
+    "swahili": "MLANGO: MARUFUKU YA KUOA WAZINZI"
+  },
+  {
+    "start": "3231",
+    "arabic": "باب أَىُّ النِّسَاءِ خَيْرٌ ‏.‏",
+    "swahili": "MLANGO: MWANAMKE GANI ALIYE BORA?"
+  },
+  {
+    "start": "3232",
+    "arabic": "باب الْمَرْأَةِ الصَّالِحَةِ ‏.‏",
+    "swahili": "MLANGO: MWANAMKE MWADILIFU"
+  },
+  {
+    "start": "3233",
+    "arabic": "باب الْمَرْأَةِ الْغَيْرَاءِ ‏.‏",
+    "swahili": "MLANGO: MWANAMKE MWENYE WIVU"
+  },
+  {
+    "start": "3234",
+    "arabic": "باب إِبَاحَةِ النَّظَرِ قَبْلَ التَّزْوِيجِ ‏.‏",
+    "swahili": "MLANGO: INAJUZU KUANGALIA KABLA YA NDOA"
+  },
+  {
+    "start": "3236",
+    "arabic": "باب التَّزْوِيجِ فِي شَوَّالٍ ‏.‏",
+    "swahili": "MLANGO: KUFUNGA NDOA KATIKA SHAWWAL"
+  },
+  {
+    "start": "3237",
+    "arabic": "باب الْخِطْبَةِ فِي النِّكَاحِ ‏.‏",
+    "swahili": "MLANGO: PENDEKEZO LA NDOA"
+  },
+  {
+    "start": "3238",
+    "arabic": "باب النَّهْىِ أَنْ يَخْطُبَ الرَّجُلُ عَلَى خِطْبَةِ أَخِيهِ ‏.‏",
+    "swahili": "MLANGO: MARUFUKU YA KUPENDEKEZA NDOA KWA MWANAMKE WAKATI MTU MWINGINE TAYARI AMEMCHUMBIA."
+  },
+  {
+    "start": "3243",
+    "arabic": "باب خِطْبَةِ الرَّجُلِ إِذَا تَرَكَ الْخَاطِبُ أَوْ أَذِنَ لَهُ ‏.‏",
+    "swahili": "MLANGO: KUPENDEKEZA NDOA WAKATI MCHUMBA MWINGINE ANAPOACHA WAZO AU KUTOA RUHUSA"
+  },
+  {
+    "start": "3245",
+    "arabic": "باب إِذَا اسْتَشَارَتِ الْمَرْأَةُ رَجُلاً فِيمَنْ يَخْطُبُهَا هَلْ يُخْبِرُهَا بِمَا يَعْلَمُ ‏.‏",
+    "swahili": "MLANGO: MWANAMKE AKIMSHAURI MWANAUME KUHUSU YULE ALIYEMCHUMBIA, JE, AMWELEZE ANACHOJUA?"
+  },
+  {
+    "start": "3246",
+    "arabic": "باب إِذَا اسْتَشَارَ رَجُلٌ رَجُلاً فِي الْمَرْأَةِ هَلْ يُخْبِرُهُ بِمَا يَعْلَمُ ‏.‏",
+    "swahili": "MLANGO: MWANAUME AKIMSHAURI MWANAUME MWINGINE KUHUSU MWANAMKE, JE, AMWAMBIE ANACHOJUA?"
+  },
+  {
+    "start": "3248",
+    "arabic": "باب عَرْضِ الرَّجُلِ ابْنَتَهُ عَلَى مَنْ يَرْضَى ‏.‏",
+    "swahili": "MLANGO: MWANAUME AKIMTOA BINTI YAKE AOLEWE NA MTU ANAYEMPENDA"
+  },
+  {
+    "start": "3249",
+    "arabic": "باب عَرْضِ الْمَرْأَةِ نَفْسَهَا عَلَى مَنْ تَرْضَى ‏.‏",
+    "swahili": "MLANGO: MWANAMKE ANAYEJITOA KUOLEWA NA ANAYEMPENDA"
+  },
+  {
+    "start": "3251",
+    "arabic": "باب صَلاَةِ الْمَرْأَةِ إِذَا خُطِبَتْ وَاسْتِخَارَتِهَا رَبَّهَا ‏.‏",
+    "swahili": "MLANGO: MWANAMKE ANAYEFANYA ISTIKHARAH AKIPOKEA PENDEKEZO LA KUOLEWA"
+  },
+  {
+    "start": "3253",
+    "arabic": "باب كَيْفَ الاِسْتِخَارَةُ ‏.‏",
+    "swahili": "MLANGO: JINSI YA KUFANYA ISTIKHARAH"
+  },
+  {
+    "start": "3254",
+    "arabic": "باب إِنْكَاحِ الاِبْنِ أُمَّهُ ‏.‏",
+    "swahili": "MLANGO: MTOTO WA KIUME AKIENDESHA NDOA KWA MAMA YAKE"
+  },
+  {
+    "start": "3255",
+    "arabic": "باب إِنْكَاحِ الرَّجُلِ ابْنَتَهُ الصَّغِيرَةَ ‏.‏",
+    "swahili": "MLANGO: MWANAUME ANAYEMUOA BINTI YAKE MDOGO"
+  },
+  {
+    "start": "3259",
+    "arabic": "باب إِنْكَاحِ الرَّجُلِ ابْنَتَهُ الْكَبِيرَةَ ‏.‏",
+    "swahili": "MLANGO: MWANAUME AKIMUOA BINTI YAKE MZIMA"
+  },
+  {
+    "start": "3260",
+    "arabic": "باب اسْتِئْذَانِ الْبِكْرِ فِي نَفْسِهَا ‏.‏",
+    "swahili": "MLANGO: KUOMBA RUHUSA KWA BIKIRA KUHUSIANA NA NDOA"
+  },
+  {
+    "start": "3264",
+    "arabic": "باب اسْتِئْمَارِ الأَبِ الْبِكْرَ فِي نَفْسِهَا ‏.‏",
+    "swahili": "MLANGO: BABA KUTAFUTA RIDHAA YA BIKIRA KUHUSIANA NA NDOA"
+  },
+  {
+    "start": "3265",
+    "arabic": "باب اسْتِئْمَارِ الثَّيِّبِ فِي نَفْسِهَا ‏.‏",
+    "swahili": "MLANGO: KUTAFUTA RIDHAA YA MWANAMKE ALIYEOLEWA AWALI KUHUSIANA NA KUOLEWA"
+  },
+  {
+    "start": "3266",
+    "arabic": "باب إِذْنِ الْبِكْرِ ‏.‏",
+    "swahili": "MLANGO: RUHUSA YA BIKIRA"
+  },
+  {
+    "start": "3268",
+    "arabic": "باب الثَّيِّبِ يُزَوِّجُهَا أَبُوهَا وَهِيَ كَارِهَةٌ ‏.‏",
+    "swahili": "MLANGO: BABA KUOA MWANAMKE ALIYEOLEWA HAPO AWALI WAKATI HATAKI"
+  },
+  {
+    "start": "3269",
+    "arabic": "باب الْبِكْرِ يُزَوِّجُهَا أَبُوهَا وَهِيَ كَارِهَةٌ ‏.‏",
+    "swahili": "MLANGO: BABA KUOA BIKIRA ASIPOTAKA"
+  },
+  {
+    "start": "3271",
+    "arabic": "باب الرُّخْصَةِ فِي نِكَاحِ الْمُحْرِمِ ‏.‏",
+    "swahili": "MLANGO: MAKUBALIANO YANAYOMRUHUSU MUHRIM KUOA"
+  },
+  {
+    "start": "3275",
+    "arabic": "باب النَّهْىِ عَنْ نِكَاحِ الْمُحْرِمِ، ‏.‏",
+    "swahili": "MLANGO: MARUFUKU YA NDOA KWA MUHRIM"
+  },
+  {
+    "start": "3277",
+    "arabic": "باب مَا يُسْتَحَبُّ مِنَ الْكَلاَمِ عِنْدَ النِّكَاحِ ‏.‏",
+    "swahili": "MLANGO: NINI INAPENDEKEZWA KUSEMA WAKATI WA NDOA"
+  },
+  {
+    "start": "3279",
+    "arabic": "باب مَا يُكْرَهُ مِنَ الْخُطْبَةِ ‏.‏",
+    "swahili": "MLANGO: NI NINI KINACHOCHUKIWA KATIKA KHUTBAH"
+  },
+  {
+    "start": "3280",
+    "arabic": "باب الْكَلاَمِ الَّذِي يَنْعَقِدُ بِهِ النِّكَاحُ ‏.‏",
+    "swahili": "MLANGO: MANENO AMBAYO NDOA INAKAMILIKA"
+  },
+  {
+    "start": "3281",
+    "arabic": "باب الشُّرُوطِ فِي النِّكَاحِ ‏.‏",
+    "swahili": "MLANGO: MASHARTI KATIKA NDOA"
+  },
+  {
+    "start": "3283",
+    "arabic": "باب النِّكَاحِ الَّذِي تَحِلُّ بِهِ الْمُطَلَّقَةُ ثَلاَثًا لِمُطَلِّقِهَا ‏.‏",
+    "swahili": "MLANGO: AINA YA NDOA AMBAYO BAADA YA MWANAMKE ALIYEACHWA MARA TATU ANAWEZA KURUDI KWA MUME WAKE WA KWANZA"
+  },
+  {
+    "start": "3284",
+    "arabic": "باب تَحْرِيمِ الرَّبِيبَةِ الَّتِي فِي حَجْرِهِ ‏.‏",
+    "swahili": "MLANGO: BINTI WA KAMBO AMBAYE YUKO CHINI YA UANGALIZI WA MTU NI MARUFUKU KWA NDOA"
+  },
+  {
+    "start": "3285",
+    "arabic": "باب تَحْرِيمِ الْجَمْعِ بَيْنَ الأُمِّ وَالْبِنْتِ ‏.‏",
+    "swahili": "MLANGO: MARUFUKU YA KUOLEWA NA MAMA NA BINTI"
+  },
+  {
+    "start": "3287",
+    "arabic": "باب تَحْرِيمِ الْجَمْعِ بَيْنَ الأُخْتَيْنِ ‏.‏",
+    "swahili": "MLANGO: MARUFUKU YA KUOLEWA NA DADA WAWILI"
+  },
+  {
+    "start": "3288",
+    "arabic": "باب الْجَمْعِ بَيْنَ الْمَرْأَةِ وَعَمَّتِهَا ‏.‏",
+    "swahili": "MLANGO: AKIWA AMEOLEWA NA MWANAMKE NA SHANGAZI YAKE MZAZI KWA WAKATI MMOJA"
+  },
+  {
+    "start": "3295",
+    "arabic": "باب تَحْرِيمِ الْجَمْعِ بَيْنَ الْمَرْأَةِ وَخَالَتِهَا ‏.‏",
+    "swahili": "MLANGO: MARUFUKU YA KUOLEWA NA MWANAMKE NA SHANGAZI YAKE MZAZI KWA WAKATI MMOJA"
+  },
+  {
+    "start": "3300",
+    "arabic": "باب مَا يَحْرُمُ مِنَ الرَّضَاعِ ‏.‏",
+    "swahili": "MLANGO: KILE KINACHOKUWA HARAMU KUTOKANA NA KUNYONYESHA"
+  },
+  {
+    "start": "3304",
+    "arabic": "باب تَحْرِيمِ بِنْتِ الأَخِ مِنَ الرَّضَاعَةِ ‏.‏",
+    "swahili": "MLANGO: BINTI YA KAKA YA MTU KUPITIA KUNYONYESHA NI HARAMU KWA NDOA"
+  },
+  {
+    "start": "3307",
+    "arabic": "باب الْقَدْرِ الَّذِي يُحَرِّمُ مِنَ الرَّضَاعَةِ ‏.‏",
+    "swahili": "MLANGO: KIASI CHA KUNYONYESHA KINACHOFANYA NDOA IWE MARUFUKU"
+  },
+  {
+    "start": "3313",
+    "arabic": "باب لَبَنِ الْفَحْلِ ‏.‏",
+    "swahili": "MLANGO: MAZIWA YA MATITI NI YA MUME"
+  },
+  {
+    "start": "3319",
+    "arabic": "باب رَضَاعِ الْكَبِيرِ ‏.‏",
+    "swahili": "MLANGO: KUNYONYESHA MTU MZIMA"
+  },
+  {
+    "start": "3326",
+    "arabic": "باب الْغِيلَةِ ‏.‏",
+    "swahili": "MLANGO: AL-GHILAH (KUJAMIIANA NA MWANAMKE ANAYENYONYESHA)"
+  },
+  {
+    "start": "3327",
+    "arabic": "باب الْعَزْلِ ‏.‏",
+    "swahili": "MLANGO: KUKATIZA KWA COITUS"
+  },
+  {
+    "start": "3329",
+    "arabic": "باب حَقِّ الرَّضَاعِ وَحُرْمَتِهِ ‏.‏",
+    "swahili": "MLANGO: HAKI NA HADHI YA MAMA ANAYENYONYESHA"
+  },
+  {
+    "start": "3330",
+    "arabic": "باب الشَّهَادَةِ فِي الرَّضَاعِ ‏.‏",
+    "swahili": "MLANGO: USHUHUDA KUHUSU KUNYONYESHA"
+  },
+  {
+    "start": "3331",
+    "arabic": "باب نِكَاحِ مَا نَكَحَ الآبَاءُ ‏.‏",
+    "swahili": "MLANGO: KUOA WALE AMBAO BABA YAKE ALIWAOA"
+  },
+  {
+    "start": "3333",
+    "arabic": "باب تَأْوِيلِ قَوْلِ اللَّهِ عَزَّ وَجَلَّ ‏{‏ وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلاَّ مَا مَلَكَتْ أَيْمَانُكُمْ ‏}‏ ‏.‏",
+    "swahili": "MLANGO: MAANA YA KAULI YA MWENYEZI MUNGU MTUKUFU: \"PIA (HARAMU) WANAWAKE WALIOKWISHA KUOLEWA. ISIPOKUWA WALE (WATUMWA) ILIYOWAMILIKI MIKONO YENU YA KUUME.\""
+  },
+  {
+    "start": "3334",
+    "arabic": "باب الشِّغَارِ ‏.‏",
+    "swahili": "MLANGO: ASH-SHIGHAR"
+  },
+  {
+    "start": "3337",
+    "arabic": "باب تَفْسِيرِ الشِّغَارِ ‏.‏",
+    "swahili": "MLANGO: UFAFANUZI WA ASH-SHIGHAR"
+  },
+  {
+    "start": "3339",
+    "arabic": "باب التَّزْوِيجِ عَلَى سُوَرٍ مِنَ الْقُرْآنِ ‏.‏",
+    "swahili": "MLANGO: NDOA KWA SURA ZA QUR'AN"
+  },
+  {
+    "start": "3340",
+    "arabic": "باب التَّزْوِيجِ عَلَى الإِسْلاَمِ ‏.‏",
+    "swahili": "MLANGO: NDOA KWA UISLAMU"
+  },
+  {
+    "start": "3342",
+    "arabic": "باب التَّزْوِيجِ عَلَى الْعِتْقِ ‏.‏",
+    "swahili": "MLANGO: NDOA KWA MANUMISSION"
+  },
+  {
+    "start": "3344",
+    "arabic": "باب عِتْقِ الرَّجُلِ جَارِيَتَهُ ثُمَّ يَتَزَوَّجُهَا ‏.‏",
+    "swahili": "MLANGO: MWANAMUME AKIMCHUNA MWANAMKE MTUMWA WAKE, KISHA KUMUOA"
+  },
+  {
+    "start": "3346",
+    "arabic": "باب الْقِسْطِ فِي الأَصْدِقَةِ ‏.‏",
+    "swahili": "MLANGO: UADILIFU KATIKA KUTOA MAHARI"
+  },
+  {
+    "start": "3351",
+    "arabic": "باب التَّزْوِيجِ عَلَى نَوَاةٍ مِنْ ذَهَبٍ ‏.‏",
+    "swahili": "MLANGO: NDOA KWA NAWAH YA DHAHABU (DIRHAM TANO)"
+  },
+  {
+    "start": "3354",
+    "arabic": "باب إِبَاحَةِ التَّزَوُّجِ بِغَيْرِ صَدَاقٍ ‏.‏",
+    "swahili": "MLANGO: RUHUSA YA KUFUNGA NDOA BILA MAHARI"
+  },
+  {
+    "start": "3359",
+    "arabic": "باب هِبَةِ الْمَرْأَةِ نَفْسَهَا لِرَجُلٍ بِغَيْرِ صَدَاقٍ ‏.‏",
+    "swahili": "MLANGO: MWANAMKE AKIJITOA KWENYE NDOA NA MWANAUME ASIYE NA MAHARI"
+  },
+  {
+    "start": "3360",
+    "arabic": "باب إِحْلاَلِ الْفَرْجِ ‏.‏",
+    "swahili": "MLANGO: KURUHUSU UKARIBU"
+  },
+  {
+    "start": "3365",
+    "arabic": "باب تَحْرِيمِ الْمُتْعَةِ ‏.‏",
+    "swahili": "MLANGO: KUHARAMISHWA KWA MUT'AH (NDOA YA MUDA)"
+  },
+  {
+    "start": "3369",
+    "arabic": "باب إِعْلاَنِ النِّكَاحِ بِالصَّوْتِ وَضَرْبِ الدُّفِّ ‏.‏",
+    "swahili": "MLANGO: AKITANGAZA HARUSI KWA KUIMBA NA KUPIGA DUFF"
+  },
+  {
+    "start": "3371",
+    "arabic": "باب كَيْفَ يُدْعَى لِلرَّجُلِ إِذَا تَزَوَّجَ ‏.‏",
+    "swahili": "MLANGO: JINSI YA KUMPONGEZA MWANAUME ANAPOFUNGA NDOA"
+  },
+  {
+    "start": "3372",
+    "arabic": "باب دُعَاءِ مَنْ لَمْ يَشْهَدِ التَّزْوِيجَ ‏.‏",
+    "swahili": "MLANGO: DUA YA YULE AMBAYE HAKUHUDHURIA HARUSI"
+  },
+  {
+    "start": "3373",
+    "arabic": "باب الرُّخْصَةِ فِي الصُّفْرَةِ عِنْدَ التَّزْوِيجِ ‏.‏",
+    "swahili": "MLANGO: MAKUBALIANO YANAYORUHUSU PERFUME YA NJANO WAKATI WA NDOA"
+  },
+  {
+    "start": "3375",
+    "arabic": "باب تَحِلَّةِ الْخَلْوَةِ ‏.‏",
+    "swahili": "MLANGO: ZAWADI IMETOLEWA KABLA YA KUKAMILIKA KWA NDOA"
+  },
+  {
+    "start": "3377",
+    "arabic": "باب الْبِنَاءِ فِي شَوَّالٍ ‏.‏",
+    "swahili": "MLANGO: KUKAMILISHA NDOA KATIKA SHAWWAL"
+  },
+  {
+    "start": "3378",
+    "arabic": "باب الْبِنَاءِ بِابْنَةِ تِسْعٍ ‏.‏",
+    "swahili": "MLANGO: UTIMILIFU WA NDOA NA MSICHANA WA MIAKA TISA"
+  },
+  {
+    "start": "3380",
+    "arabic": "باب الْبِنَاءِ فِي السَّفَرِ ‏.‏",
+    "swahili": "MLANGO: UTIMILIFU WA NDOA WAKATI UNASAFIRI"
+  },
+  {
+    "start": "3383",
+    "arabic": "باب اللَّهْوِ وَالْغِنَاءِ عِنْدَ الْعُرْسِ ‏.‏",
+    "swahili": "MLANGO: BURUDANI NA KUIMBA KWENYE HARUSI"
+  },
+  {
+    "start": "3384",
+    "arabic": "باب جَهَازِ الرَّجُلِ ابْنَتَهُ ‏.‏",
+    "swahili": "MLANGO: MWANAUME AKIMFAA BINTI YAKE (KWA AJILI YA NDOA)"
+  },
+  {
+    "start": "3385",
+    "arabic": "باب الْفُرُشِ ‏.‏",
+    "swahili": "MLANGO: VITANDA"
+  },
+  {
+    "start": "3386",
+    "arabic": "باب الأَنْمَاطِ ‏.‏",
+    "swahili": "MLANGO: ANMAT"
+  },
+  {
+    "start": "3387",
+    "arabic": "باب الْهَدِيَّةِ لِمَنْ عَرَّسَ ‏.‏",
+    "swahili": "MLANGO: KUTOA ZAWADI KWA YULE ALIYEFUNGA NDOA"
+  }
+]

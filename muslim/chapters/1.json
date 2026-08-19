@@ -1,0 +1,492 @@
+[
+  {
+    "start": "8a",
+    "arabic": "باب بيان الإيمان والإسلام والإحسان ووجوب الإيمان بإثبات قدر الله سبحانه وتعالى وبيان الدليل على التبري ممن لا يؤمن بالقدر وإغلاظ القول في حقه",
+    "swahili": "MLANGO: Akifafanua Al-Iman (Imani), Uislamu, na Al-Ihsan, na Wajibu wa Al-Iman Kwa Uthibitisho wa Qadar ya Mwenyezi Mungu, Mtukufu na Aliye juu. Na Kufafanua Ushahidi Wa Kutangaza Kutokuwa Na Hatia Kwa Mtu Ambaye Haamini Al-Qadar, Na Kuwa Na Mtazamo Mkali Wa Kesi Yake."
+  },
+  {
+    "start": "8e",
+    "arabic": "باب الإِيمَانُ مَا هُوَ وَبَيَانُ خِصَالِهِ",
+    "swahili": "MLANGO: Al-Iman (Imani) ni nini? Akielezea Tabia Zake"
+  },
+  {
+    "start": 10,
+    "arabic": "باب الإِسْلاَمُ مَا هُوَ وَبَيَانُ خِصَالِهِ ‏",
+    "swahili": "MLANGO: Uislamu ni nini? Kuelezea sifa zake."
+  },
+  {
+    "start": "11a",
+    "arabic": "باب بَيَانِ الصَّلَوَاتِ الَّتِي هِيَ أَحَدُ أَرْكَانِ الإِسْلاَمِ ‏",
+    "swahili": "MLANGO: Akielezea maombi ambayo ni moja ya nguzo za Uislamu"
+  },
+  {
+    "start": "12a",
+    "arabic": "باب السُّؤَالِ عَنْ أَرْكَانِ الْإِسْلَامِ",
+    "swahili": "MLANGO: Kuuliza kuhusu nguzo za Uislamu"
+  },
+  {
+    "start": "13a",
+    "arabic": "باب بَيَانِ الإِيمَانِ الَّذِي يُدْخَلُ بِهِ الْجَنَّةُ وَأَنَّ مَنْ تَمَسَّكَ بِمَا أُمِرَ بِهِ دَخَلَ الجَنَّةَ",
+    "swahili": "MLANGO: Inabainisha imani ambayo kwayo mtu huingizwa peponi, na kwamba mwenye kushikamana na yale aliyoamrishwa ataingia peponi."
+  },
+  {
+    "start": "16a",
+    "arabic": "باب بَيَانِ أَرْكَانِ الْإِسْلَامِ وَدَعَائِمِهِ الْعِظَامِ",
+    "swahili": "MLANGO: Kubainisha nguzo za Uislamu na mihimili yake mikuu"
+  },
+  {
+    "start": "17a",
+    "arabic": "باب الْأَمْرِ بِالْإِيمَانِ بِاللَّهِ تَعَالَى وَرَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَشَرَائِعِ الدِّينِ",
+    "swahili": "MLANGO: Amri ya kumwamini Mwenyezi Mungu na Mtume wake na sheria za Uislamu, kuwalingania watu, na kuulizia, kuuhifadhi na kuufikisha kwa wale ambao hawakusikia ujumbe huo."
+  },
+  {
+    "start": "19a",
+    "arabic": "باب الدُّعَاءِ إِلَى الشَّهَادَتَيْنِ وَشَرَائِعِ الإِسْلاَمِ",
+    "swahili": "MLANGO: Kuwaita watu kwenye tamko pacha la imani na sheria za Uislamu"
+  },
+  {
+    "start": 20,
+    "arabic": "باب الأَمْرِ بِقِتَالِ النَّاسِ حَتَّى يَقُولُوا لاَ إِلَهَ إِلاَّ اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ ‏‏ويقيموا الصلاة ويؤتوا الزكاة ويؤمنوا بجميع ما جاء به النبي صلى الله عليه وسلم وأن من فعل ذلك عصم نفسه وماله إلا بحقها ووكلت سريرته إلى الله تعالى وقتال من منع الزكاة أو غيرها من حقوق الإسلام واهتمام الإمام بشعائر الإسلام",
+    "swahili": "MLANGO: Amri ya kupigana watu mpaka waseme \"La ilaha illallah Muhammad Rasul-Allah\", na kusimamisha Swala, na kutoa Zaka, na kuamini kila alicholeta Mtume wa Allah (swalla Allahu alayhi wa sallam). Mwenye kufanya hivyo maisha yake na mali yake vinalindwa isipokuwa zimetolewa kwa haki yake, na siri kabidhiwa kwa Mwenyezi Mungu Mtukufu. Kupigana na wale wanaozuia Zaka au nyingine isiyokuwa hiyo ni miongoni mwa wajibu wa Uislamu na Imam ajishughulishe na Sheria za Kiislamu."
+  },
+  {
+    "start": "24a",
+    "arabic": "باب الدليل على صحة إسلام من حضره الموت ما لم يشرع في النزع وهو الغرغرة ونسخ جواز الاستغفار للمشركين والدليل على أن من مات على الشرك فهو في أصحاب الجحيم ولا ينقذه من ذلك شيء من الوسائل",
+    "swahili": "MLANGO: Ushahidi kwamba Uislamu wa mtu ambaye anakuwa Muislamu kwenye kitanda chake cha kufa ni halali, mradi kifo hakijaanza; Kufutwa kwa ruhusa ya kuomba msamaha washirikina; Ushahidi aliyekufa akiwa muabudu masanamu ni miongoni mwa watu wa motoni na hakuna uingiliaji unaoweza kumwokoa na hayo."
+  },
+  {
+    "start": "26a",
+    "arabic": "باب مَنْ لَقِيَ اللَّهَ بِالإِيمَانِ وَهُوَ غَيْرُ شَاكٍّ فِيهِ دَخَلَ الْجَنَّةَ وَحَرُمَ عَلَى النَّارِ",
+    "swahili": "MLANGO: Dalili ya kwamba mwenye kufa akiwa na imani katika tawhid bila shaka ataingia peponi"
+  },
+  {
+    "start": 34,
+    "arabic": "بَاب الدَّلِيلِ عَلَى أَنَّ مَنْ رَضِيَ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ رَسُولًا فَهُوَ مُؤْمِنٌ وَإِنْ ارْتَكَبَ الْمَعَاصِيَ الْكَبَائِرَ",
+    "swahili": "MLANGO: Ushahidi kwamba mwenye kuridhika na Mwenyezi Mungu kuwa ni Mola wake, Uislamu ndiyo dini yake na Muhammad (ﷺ) ni Mtume wake, basi huyo ni Muumini, hata akifanya madhambi makubwa."
+  },
+  {
+    "start": "35a",
+    "arabic": "باب بَيَانِ عَدَدِ شُعَبِ الْإِيمَانِ وَأَفْضَلِهَا وَأَدْنَاهَا وَفَضِيلَةِ الْحَيَاءِ وَكَوْنِهِ مِنْ الْإِيمَانِ",
+    "swahili": "MLANGO: Kubainisha idadi ya matawi ya imani, iliyo bora na ndogo, fadhila kati yao (Al-Haya') na ukweli kwamba ni sehemu ya imani."
+  },
+  {
+    "start": 38,
+    "arabic": "باب جَامِعِ أَوْصَافِ الإِسْلاَمِ ‏‏",
+    "swahili": "MLANGO: Maneno ambayo yanajumlisha Uislamu"
+  },
+  {
+    "start": 39,
+    "arabic": "باب بَيَانِ تَفَاضُلِ الإِسْلاَمِ وَأَىِّ أُمُورِهِ أَفْضَلُ ‏‏",
+    "swahili": "MLANGO: Kubainisha ubora wa Uislamu, na ni sehemu gani iliyo bora zaidi"
+  },
+  {
+    "start": "43a",
+    "arabic": "باب بَيَانِ خِصَالٍ مَنِ اتَّصَفَ بِهِنَّ وَجَدَ حَلاَوَةَ الإِيمَانِ",
+    "swahili": "MLANGO: Ufafanuzi wa sifa hizo ambazo mtu akizipata atapata utamu wa imani"
+  },
+  {
+    "start": "44a",
+    "arabic": "باب وُجُوبِ مَحَبَّةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَكْثَرَ مِنَ الأَهْلِ وَالْوَلَدِ وَالْوَالِدِ وَالنَّاسِ أَجْمَعِينَ وَإِطْلاَقِ عَدَمِ الإِيمَانِ عَلَى مَنْ لَمْ يُحِبَّهُ هَذِهِ الْمَحَبَّةَ",
+    "swahili": "MLANGO: Wajibu wa kumpenda Mtume wa Allah (swalla Allahu alayhi wa sallam) zaidi ya familia ya mtu, mwana, baba, na watu wengine wote; Na inataja kutokuwepo kabisa kwa imani juu ya mtu ambaye handi kwa upendo kama huo"
+  },
+  {
+    "start": "45a",
+    "arabic": "باب الدَّلِيلِ عَلَى أَنَّ مِنْ خِصَالِ الإِيمَانِ أَنْ يُحِبَّ لأَخِيهِ الْمُسْلِمِ مَا يُحِبُّ لِنَفْسِه مِنَ الْخَيْرِ",
+    "swahili": "MLANGO: Ushahidi kwamba moja ya sifa za imani ni kumpenda nduguye muislamu kwamba mtu anajipenda kwa wema."
+  },
+  {
+    "start": 46,
+    "arabic": "باب بَيَانِ تَحْرِيمِ إِيذَاءِ الْجَارِ ‏‏",
+    "swahili": "MLANGO: Kubainisha uharamu wa kumuudhi jirani"
+  },
+  {
+    "start": "47a",
+    "arabic": "باب الْحَثِّ عَلَى إِكْرَامِ الْجَارِ وَالضَّيْفِ وَلُزُومِ الصَّمْتِ إِلاَّ مِنَ الْخَيْرِ وَكَوْنِ ذَلِكَ كُلِّهِ مِنَ الإِيمَانِ",
+    "swahili": "MLANGO: Kuhimizwa kuheshimu jirani na mgeni wake, na wajibu wa kukaa kimya mtu ana jambo zuri la kusema, na ukweli kwamba yote hayo ni sehemu ya imani."
+  },
+  {
+    "start": "49a",
+    "arabic": "باب بَيَانِ كَوْنِ النَّهْىِ عَنِ الْمُنْكَرِ، مِنَ الإِيمَانِ وَأَنَّ الإِيمَانَ يَزِيدُ وَيَنْقُصُ وَأَنَّ الأَمْرَ بِالْمَعْرُوفِ وَالنَّهْيَ عَنِ الْمُنْكَرِ وَاجِبَانِ",
+    "swahili": "MLANGO: Kubainisha kuwa kukataza maovu ni sehemu ya imani, imani huongezeka na mawasiliano; Kufurahia mema na kukataza maovu ni wajibu"
+  },
+  {
+    "start": 51,
+    "arabic": "باب تَفَاضُلِ أَهْلِ الإِيمَانِ فِيهِ وَرُجْحَانِ أَهْلِ الْيَمَنِ فِيهِ ‏",
+    "swahili": "MLANGO: Watu wanashindana katika imani, na ubora wa watu wa Yemen katika imani"
+  },
+  {
+    "start": "54a",
+    "arabic": "باب بَيَانِ أَنَّهُ لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ الْمُؤْمِنُونَ وَأَنَّ مَحَبَّةَ الْمُؤْمِنِينَ مِنَ الإِيمَانِ وَأَنَّ إِفْشَاءَ السَّلاَمِ سَبَبٌ لِحُصُولِهَا",
+    "swahili": "MLANGO: Akibainisha kuwa hataingia peponi ila Waumini; kuwapenda waumini ni sehemu ya imani na kueneza Salam ni njia ya mawazo hayo"
+  },
+  {
+    "start": "55a",
+    "arabic": "باب بَيَانِ أَنَّ الدِّينَ النَّصِيحَةُ",
+    "swahili": "MLANGO: Kubainisha kuwa dini ni ikhlasi"
+  },
+  {
+    "start": "57a",
+    "arabic": "باب بَيَانِ نُقْصَانِ الإِيمَانِ بِالْمَعَاصِي وَنَفْيِهِ عَنِ الْمُتَلَبِّسِ بِالْمَعْصِيَةِ عَلَى إِرَادَةِ نَفْيِ كَمَالِهِ",
+    "swahili": "MLANGO: Kubainisha imani inapungua kwa sababu ya kuasi na kuikanusha kutoka kwa kitendo cha kitendo, kwa maana ya kukanusha kukamilishwa kwake."
+  },
+  {
+    "start": 58,
+    "arabic": "باب بَيَانِ خِصَالِ الْمُنَافِقِ ‏‏",
+    "swahili": "MLANGO: Sifa za mnafiki"
+  },
+  {
+    "start": "60a",
+    "arabic": "باب بَيَانِ حَالِ إِيمَانِ مَنْ قَالَ لأَخِيهِ الْمُسْلِمِ يَا كَافِرُ ‏‏",
+    "swahili": "MLANGO: Kubainisha hali ya imani kwa yule anayemwambia ndugu yake Mwislamu: \"Ewe Kafir (Kafiri).\""
+  },
+  {
+    "start": 61,
+    "arabic": "باب بَيَانِ حَالِ إِيمَانِ مَنْ رَغِبَ عَنْ أَبِيهِ وَهُوَ يَعْلَمُ ‏‏",
+    "swahili": "MLANGO: Kubainisha hali ya uzao wa mwenye kumkanusha baba yake kwa kujua"
+  },
+  {
+    "start": "64a",
+    "arabic": "باب بَيَانِ قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏\"‏ ‏",
+    "swahili": "MLANGO: Kubainisha maneno ya Mtume wa Allah (swalla Allahu alayhi wa sallam): \"Kumtukana Mwislamu ni kitendo kiovu na kupigana naye ni ukafiri.\""
+  },
+  {
+    "start": 65,
+    "arabic": "باب ‏\"‏ لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكمْ رِقَابَ بَعْضٍ ‏\"‏ ‏‏",
+    "swahili": "MLANGO: Kubainisha maana ya Kauli ya Mtume wa Allah (swalla Allahu alayhi wa sallam): “Msirudi kwenye ukafiri (Kufar) baada ya kuondoka mkipigana shingo zenu”."
+  },
+  {
+    "start": 67,
+    "arabic": "باب إِطْلاَقِ اسْمِ الْكُفْرِ عَلَى الطَّعْنِ فِي النَّسَبِ وَالنِّيَاحَةِ عَلَى الْمَيِّتِ ‏‏",
+    "swahili": "MLANGO: Matumizi ya neno Kufr na kukashifu nasaba ya watu na kuomboleza"
+  },
+  {
+    "start": 68,
+    "arabic": "باب تَسْمِيَةِ الْعَبْدِ الآبِقِ كَافِرًا ‏‏",
+    "swahili": "MLANGO: Kumwita mtumwa mtoro kafirg"
+  },
+  {
+    "start": 71,
+    "arabic": "باب بَيَانِ كُفْرِ مَنْ قَالَ مُطِرْنَا بِالنَّوْءِ ‏",
+    "swahili": "MLANGO: Kubainisha Kufr ya mwenye kusema: \"Tulipata mvua kwa sababu ya nyota.\""
+  },
+  {
+    "start": "74a",
+    "arabic": "باب الدَّلِيلِ عَلَى أَنَّ حُبَّ الأَنْصَارِ وَعَلِيٍّ رَضِيَ اللَّهُ عَنْهُمْ مِنَ الإِيمَانِ وَعَلاَمَاتِهِ وَبُغْضَهُمْ مِنْ عَلاَمَاتِ النِّفَاقِ",
+    "swahili": "MLANGO: Ushahidi kwamba mapenzi ya Ansari na Ali (r.a.) ni sehemu ya imani na dalili zake; Kuwachukia ni ishara ya unafiki"
+  },
+  {
+    "start": "79a",
+    "arabic": "باب بَيَانِ نُقْصَانِ الإِيمَانِ بِنَقْصِ الطَّاعَاتِ وَبَيَانِ إِطْلاَقِ لَفْظِ الْكُفْرِ عَلَى غَيْرِ الْكُفْرِ بِاللَّهِ كَكُفْرِ النِّعْمَةِ وَالْحُقُوقِ",
+    "swahili": "MLANGO: Kubainisha kwamba imani ina maana kwa upungufu katika utiifu, na neno Kufrpungua safu na mambo yasiyokuwa ya kumuamini Mwenyezi Mungu, kama vile kutoamini Mwenyezi Mungu, kama vile kutokuamini kwa baraka na kutotimiza wajibu."
+  },
+  {
+    "start": "81a",
+    "arabic": "باب بَيَانِ إِطْلاَقِ اسْمِ الْكُفْرِ عَلَى مَنْ تَرَكَ الصَّلاَةَ ‏‏",
+    "swahili": "MLANGO: Kubainisha matumizi ya neno Kafir kwa mwenye kuacha Swala"
+  },
+  {
+    "start": 83,
+    "arabic": "باب بَيَانِ كَوْنِ الإِيمَانِ بِاللَّهِ تَعَالَى أَفْضَلَ الأَعْمَالِ ‏‏",
+    "swahili": "MLANGO: Kubainisha kuwa imani kwa Mwenyezi Mungu Mtukufu ni bora ya vitendo"
+  },
+  {
+    "start": "86a",
+    "arabic": "باب كَوْنِ الشِّرْكِ أَقْبَحَ الذُّنُوبِ وَبَيَانِ أَعْظَمِهَا بَعْدَهُ ‏‏",
+    "swahili": "MLANGO: Kubainisha kwamba Shirki ni dhambi mbaya zaidi, na dhambi mbaya zaidi baada ya Shirki"
+  },
+  {
+    "start": 87,
+    "arabic": "باب بَيَانِ الْكَبَائِرِ وَأَكْبَرِهَا ‏‏",
+    "swahili": "MLANGO: Madhambi makubwa na makubwa zaidi"
+  },
+  {
+    "start": "91a",
+    "arabic": "باب تَحْرِيمِ الْكِبْرِ وَبَيَانِهِ ‏",
+    "swahili": "MLANGO: Marufuku ya kiburi na ufafanuzi wake"
+  },
+  {
+    "start": 92,
+    "arabic": "باب مَنْ مَاتَ لاَ يُشْرِكُ بِاللَّهِ شَيْئًا دَخَلَ الْجَنَّةَ وَمَنْ مَاتَ مُشْرِكًا دَخَلَ النَّارَ ‏‏",
+    "swahili": "MLANGO: Dalili ya kwamba mwenye kufa bila ya kumshirikisha Mwenyezi Mungu ataingia peponi, na mwenye kufa akiwa mshirikina ataingia Motoni."
+  },
+  {
+    "start": "95a",
+    "arabic": "باب تَحْرِيمِ قَتْلِ الْكَافِرِ بَعْدَ أَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏‏",
+    "swahili": "MLANGO: Uharamu wa kumuua kafiri baada ya kusema La ilaha illallah"
+  },
+  {
+    "start": 98,
+    "arabic": "باب قَوْلِ النَّبِيِّ - صلى الله تعالى عليه وسلم - ‏\"‏ مَنْ حَمَل عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏\"‏ ‏",
+    "swahili": "MLANGO: Kauli ya Mtume wa Allah (swalla Allahu alayhi wa sallam): \"Mwenye kubeba silaha dhidi yetu katika sisi.\""
+  },
+  {
+    "start": 101,
+    "arabic": "باب قَوْلِ النَّبِيِّ - صلى الله تعالى عليه وسلم - ‏\"‏ مَنْ غَشَّنَا فَلَيْسَ مِنَّا ‏\"‏",
+    "swahili": "MLANGO: Kauli ya Mtume wa Allah (swalla Allahu alayhi wa sallam): \"Yeyote anayetuhadaa si katika sisi.\""
+  },
+  {
+    "start": "103a",
+    "arabic": "باب تَحْرِيمِ ضَرْبِ الْخُدُودِ وَشَقِّ الْجُيُوبِ وَالدُّعَاءِ بِدَعْوَى الْجَاهِلِيَّةِ ‏‏",
+    "swahili": "MLANGO: Makatazo ya mtu kupiga hundi, kurarua nguo zake na kuita kwa miito ya Jahiliyyah."
+  },
+  {
+    "start": "105a",
+    "arabic": "باب بَيَانِ غِلَظِ تَحْرِيمِ النَّمِيمَةِ ‏‏",
+    "swahili": "MLANGO: Kufafanua uharamu mkazo wa An-Namimah (Uvumi mbaya)"
+  },
+  {
+    "start": "106a",
+    "arabic": "باب بَيَانِ غِلَظِ تَحْرِيمِ إِسْبَالِ الإِزَارِ وَالْمَنِّ بِالْعَطِيَّةِ وَتَنْفِيقِ السِّلْعَةِ بِالْحَلِفِ وَبَيَانِ الثَّلاَثَةِ الَّذِينَ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلاَ يَنْظُرُ إِلَيْهِمْ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "swahili": "MLANGO: Kubainisha uharamu uliokithiri wa nguo kuning'inia chini ya vifundo vya (isbal), kuwakumbusha miguu wengine na kuuza bidhaa kwa njia ya kiapo cha uwongo; Utajo wa wale watatu ambao Mwenyezi Mungu Mtukufu hatasema nao Siku ya Kiyama, wala hatawatazama, wala hatawatakasa, na watapata adhabu chungu."
+  },
+  {
+    "start": "109a",
+    "arabic": "باب غِلَظِ تَحْرِيمِ قَتْلِ الإِنْسَانِ نَفْسَهُ وَإِنَّ مَنْ قَتَلَ نَفْسَهُ بِشَيْءٍ عُذِّبَ بِهِ فِي النَّارِ وَأَنَّهُ لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ نَفْسٌ مُسْلِمَةٌ",
+    "swahili": "MLANGO: Kubainisha katazo kali la kujiua; Mwenye kujiua kwa kitu ataadhibiwa nacho motoni; Na kwamba hataingia Peponi ila Mwislamu"
+  },
+  {
+    "start": 114,
+    "arabic": "باب غِلَظِ تَحْرِيمِ الْغُلُولِ وَأَنَّهُ لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ الْمُؤْمِنُونَ ‏‏",
+    "swahili": "MLANGO: Kukataza kwa nguvu dhidi ya kuiba kutoka kwa nyara za vita; na kwamba hataingia Peponi isipokuwa Waumini"
+  },
+  {
+    "start": 116,
+    "arabic": "باب الدَّلِيلِ عَلَى أَنَّ قَاتِلَ نَفْسِهِ لاَ يَكْفُرُ",
+    "swahili": "MLANGO: Ushahidi kwamba mwenye kujiua hachukuliwi kuwa ni kafiri"
+  },
+  {
+    "start": 117,
+    "arabic": "باب فِي الرِّيحِ الَّتِي تَكُونُ قُرْبَ الْقِيَامَةِ تَقْبِضُ مَنْ فِي قَلْبِهِ شَىْءٌ مِنَ الإِيمَانِ",
+    "swahili": "MLANGO: Kuhusiana na upepo ambao utakuja kabla tu ya ufufuo na kuchukua roho ya mtu yeyote ambaye ana imani yoyote moyoni mwake"
+  },
+  {
+    "start": 118,
+    "arabic": "باب الْحَثِّ عَلَى الْمُبَادَرَةِ بِالأَعْمَالِ قَبْلَ تَظَاهُرِ الْفِتَنِ",
+    "swahili": "MLANGO: Kuhimizwa kuharakisha kutenda mema kabla ya kudhihiri Fitnah"
+  },
+  {
+    "start": "119a",
+    "arabic": "باب مَخَافَةِ الْمُؤْمِنِ أَنْ يَحْبَطَ عَمَلُهُ",
+    "swahili": "MLANGO: Hofu ya Muumini kwamba matendo yake mema kupotea"
+  },
+  {
+    "start": "120a",
+    "arabic": "باب هَلْ يُؤَاخَذُ بِأَعْمَالِ الْجَاهِلِيَّةِ",
+    "swahili": "MLANGO: Je, mtu ataadhibiwa kwa matendo yake wakati wa Jahlilliyyah?"
+  },
+  {
+    "start": 121,
+    "arabic": "باب كَوْنِ الإِسْلاَمِ يَهْدِمُ مَا قَبْلَهُ وَكَذَا الْهِجْرَةُ وَالْحَجُّ ‏‏",
+    "swahili": "MLANGO: Uislamu unaangamiza yale yaliyotangulia, kama vile Hijrah (Kuhama) na Hijja"
+  },
+  {
+    "start": "123a",
+    "arabic": "باب بَيَانِ حُكْمِ عَمَلِ الْكَافِرِ إِذَا أَسْلَمَ بَعْدَهُ ‏‏",
+    "swahili": "MLANGO: Kubainisha hukumu ya kitendo cha kafiri ikiwa ataukubali Uislamu baada yake"
+  },
+  {
+    "start": "124a",
+    "arabic": "باب صِدْقِ الإِيمَانِ وَإِخْلاَصِهِ ‏‏",
+    "swahili": "MLANGO: Ikhlasi ya Imani na Usafi wake"
+  },
+  {
+    "start": 125,
+    "arabic": "باب بَيَانِ أَنَّهُ سُبْحَانَهُ وَتَعَالَى لَمْ يُكَلِّفْ إِلَّا مَا يُطَاقُ",
+    "swahili": "MLANGO: Ufafanuzi kwamba Mwenyezi Mungu Mtukufu anaruhusu mawazo ya mtu na yanayotokea moyoni mwake, maadamu hayasimami, na ubainifu kuwa, mtukufu ni yeye na aliye juu zaidi, hamtwiki yeye kwa zaidi ya uwezo wake, na kubainisha hukumu ya kufikiri mema na mabaya."
+  },
+  {
+    "start": "127a",
+    "arabic": "باب تَجَاوُزِ اللَّهِ عَنْ حَدِيثِ النَّفْسِ، وَالْخَوَاطِرِ، بِالْقَلْبِ إِذَا لَمْ تَسْتَقِرَّ ‏‏",
+    "swahili": "MLANGO: Mwenyezi Mungu huruhusu fikira za mtu na chochote kinachotokea moyoni mwake ili mradi tu zisithibitike"
+  },
+  {
+    "start": "128a",
+    "arabic": "باب إِذَا هَمَّ الْعَبْدُ بِحَسَنَةٍ كُتِبَتْ وَإِذَا هَمَّ بِسَيِّئَةٍ لَمْ تُكْتَبْ ‏‏",
+    "swahili": "MLANGO: Mtu akifikiria kufanya jambo jema litaandikiwa yeye, na akifikiria kufanya jambo baya halitaandikiwa kwake."
+  },
+  {
+    "start": "132a",
+    "arabic": "باب بَيَانِ الْوَسْوَسَةِ فِي الإِيمَانِ وَمَا يَقُولُهُ مَنْ وَجَدَهَا ‏‏",
+    "swahili": "MLANGO: Kubainisha Waswasah (Minong'ono, Mawazo Mabaya) ufafanuzi na Imani, na aseme nini mwenye huo."
+  },
+  {
+    "start": "137a",
+    "arabic": "باب وَعِيدِ مَنِ اقْتَطَعَ حَقَّ مُسْلِمٍ بِيَمِينٍ فَاجِرَةٍ بِالنَّارِ ‏‏",
+    "swahili": "MLANGO: Onyo la Moto kwa mwenye kuapa kwa uwongo ili kuchukua haki ya Muislamu mwingine isivyo halali."
+  },
+  {
+    "start": 140,
+    "arabic": "باب الدَّلِيلِ عَلَى أَنَّ مَنْ قَصَدَ أَخْذَ مَالِ غَيْرِهِ بِغَيْرِ حَقٍّ كَانَ الْقَاصِدُ مُهْدَرَ الدَّمِ فِي حَقِّهِ وَإِنْ قُتِلَ كَانَ فِي النَّارِ وَأَنَّ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ",
+    "swahili": "MLANGO: Ushahidi kwamba damu ya mwenye lengo la kukamata mali za watu wengine bila ya haki inaweza kumwagika, akiuawa atakuwa motoni, na aliyeuawa akitetea mali yake ni shahidi."
+  },
+  {
+    "start": "142a",
+    "arabic": "باب اسْتِحْقَاقِ الْوَالِي الْغَاشِّ لِرَعِيَّتِهِ النَّارَ ‏‏",
+    "swahili": "MLANGO: Mtu anayesimamia jambo, anayetapeli raia wake, anastahili moto"
+  },
+  {
+    "start": "143a",
+    "arabic": "باب رَفْعِ الأَمَانَةِ وَالإِيمَانِ مِنْ بَعْضِ الْقُلُوبِ وَعَرْضِ الْفِتَنِ عَلَى الْقُلُوبِ ‏‏",
+    "swahili": "MLANGO: Kutoweka kwa imani na imani kutoka kwa baadhi ya mioyo na kuonekana kwa fitnah katika baadhi ya mioyo"
+  },
+  {
+    "start": "144a",
+    "arabic": "باب بَيَانِ أَنَّ الْإِسْلَامَ بَدَأَ غَرِيبًا وَسَيَعُودُ غَرِيبًا وَأَنَّهُ يَأْرِزُ بَيْنَ الْمَسْجِدَيْنِ",
+    "swahili": "MLANGO: Kufafanua kwamba Uislamu ulianza kama kitu cha ajabu, na utarudi kuwa kitu cha ajabu, na utarudi nyuma kati ya Masajid mawili."
+  },
+  {
+    "start": "148a",
+    "arabic": "باب ذَهَابِ الإِيمَانِ آخِرَ الزَّمَانِ ‏‏",
+    "swahili": "MLANGO: Kutoweka kwa Imani Mwishoni mwa Wakati"
+  },
+  {
+    "start": 149,
+    "arabic": "باب جَوَازِ الاِسْتِسْرَارِ لِلْخَائِفِ ‏‏",
+    "swahili": "MLANGO: Ruhusa ya kuficha imani katika hali ya hofu"
+  },
+  {
+    "start": "150a",
+    "arabic": "باب تَأَلُّفِ قَلْبِ مَنْ يَخَافُ عَلَى إِيمَانِهِ لِضَعْفِهِ وَالنَّهْيِ عَنِ الْقَطْعِ بِالإِيمَانِ مِنْ غَيْرِ دَلِيلٍ قَاطِعٍ",
+    "swahili": "MLANGO: Kuwa mwema kwa yule ambaye imani yake iko na wasiwasi kwa sababu ni dhaifu; Uharamu wa kuhusisha Imani kwa mtu bila ushahidi wa uhakika"
+  },
+  {
+    "start": "151a",
+    "arabic": "باب زِيَادَةِ طُمَأْنِينَةِ الْقَلْبِ بِتَظَاهُرِ الأَدِلَّةِ ‏‏",
+    "swahili": "MLANGO: Kuongeza wa moyo na ushahidi wa kuonekana"
+  },
+  {
+    "start": 152,
+    "arabic": "باب وُجُوبِ الإِيمَانِ بِرِسَالَةِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى جَمِيعِ النَّاسِ وَنَسْخِ الْمِلَلِ بِمِلَّتِهِ",
+    "swahili": "MLANGO: Wajibu wa kuamini kwamba ujumbe wa Mtume wetu Muhammad (ﷺ) ni kwa ajili ya watu wote, na kufutwa kwa dini nyingine zote."
+  },
+  {
+    "start": "155a",
+    "arabic": "باب نُزُولِ عِيسَى ابْنِ مَرْيَمَ حَاكِمًا بِشَرِيعَةِ نَبِيِّنَا مُحَمَّدٍ صلى الله عليه وسلم",
+    "swahili": "MLANGO: Kushuka kwa 'Eisa bin Mariam kuhukumu kwa mujibu wa Shari'ah ya Mtume wetu Muhammad (ﷺ); Na vipi Mwenyezi Mungu ameutukuza Umma huu; Na kubainisha dalili kwamba dini hii haitafutwa; na kwamba kundi kutoka humo litaendelea kushikamana na haki na kushinda mpaka Siku ya Kiyama"
+  },
+  {
+    "start": "157a",
+    "arabic": "باب بَيَانِ الزَّمَنِ الَّذِي لاَ يُقْبَلُ فِيهِ الإِيمَانُ ‏‏",
+    "swahili": "MLANGO: Kufafanua wakati ambapo imani haitakubaliwa tena"
+  },
+  {
+    "start": "160a",
+    "arabic": "باب بَدْءِ الْوَحْىِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏‏",
+    "swahili": "MLANGO: Mwanzo wahyi kwa Mtume wa Allah (swalla Allahu alayhi wa sallam)"
+  },
+  {
+    "start": "162a",
+    "arabic": "باب الإِسْرَاءِ بِرَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى السَّمَوَاتِ وَفَرْضِ الصَّلَوَاتِ ‏‏",
+    "swahili": "MLANGO: Safari ya usiku ambayo Mtume wa Allah (swalla Allahu alayhi wa sallam) alipandishwa mbinguni na kuamrishwa Sala."
+  },
+  {
+    "start": "169a",
+    "arabic": "باب فِي ذِكْرِ الْمَسِيحِ ابْنِ مَرْيَمَ وَالْمَسِيحِ الدَّجَّالِ ‏‏",
+    "swahili": "MLANGO: Akimtaja Al-Masih Mwana wa Mariam na Al-Masih ad-Dajjal"
+  },
+  {
+    "start": 173,
+    "arabic": "باب فِي ذِكْرِ سِدْرَةِ الْمُنْتَهَى ‏‏",
+    "swahili": "MLANGO: Kuhusu (Mti wa Lote wa Mpaka Mkuu)"
+  },
+  {
+    "start": 175,
+    "arabic": "باب مَعْنَى قَوْلِ اللَّهِ عَزَّ وَجَلَّ: {وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى} وَهَلْ رَأَى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَبَّهُ لَيْلَةَ الإِسْرَاءِ",
+    "swahili": "MLANGO: Maana ya Kauli ya Mwenyezi Mungu, Mwenye nguvu na Mtukufu: Na hakika alimuona katika mteremko wa pili (wakati mwingine).\" Na je Mtume wa Allah (swalla Allahu alayhi wa sallam) alimuona Mola wake Mlezi katika usiku wa Israa?"
+  },
+  {
+    "start": "178a",
+    "arabic": "باب فِي قَوْلِهِ عَلَيْهِ السَّلاَمُ ‏\"‏ نُورٌ أَنَّى أَرَاهُ ‏\"‏ ‏.‏ وَفِي قَوْلِهِ ‏\"‏ رَأَيْتُ نُورًا",
+    "swahili": "MLANGO: Kauli ya Mtume wa Allah (swalla Allahu alayhi wa sallam): “Nuru, ningewezaje kumuona? na: \"Niliona Nuru\""
+  },
+  {
+    "start": "179a",
+    "arabic": "باب فِي قَوْلِهِ عَلَيْهِ السَّلاَمُ: «إِنَّ اللَّهَ لاَ يَنَامُ». وَفِي قَوْلِهِ: «حِجَابُهُ النُّورُ لَوْ كَشَفَهُ لأَحْرَقَ سُبُحَاتُ وَجْهِهِ مَا انْتَهَى إِلَيْهِ بَصَرُهُ مِنْ خَلْقِهِ»",
+    "swahili": "MLANGO: Kauli ya Mtume wa Allah (swalla Allahu alayhi wa sallam) na “Pazia lake ni jepesi, na lau angeliondoa, uzuri wa uso wake ungeunguza viumbe vyake vyote mpaka macho yanapomfikia”."
+  },
+  {
+    "start": 180,
+    "arabic": "باب إِثْبَاتِ رُؤْيَةِ الْمُؤْمِنِينَ فِي الآخِرَةِ رَبَّهُمْ سُبْحَانَهُ وَتَعَالَى ‏‏",
+    "swahili": "MLANGO: Na kuthibitisha kwamba Waumini watamuona Mola wao Mlezi, Akhera ni Mtukufu na aliye juu"
+  },
+  {
+    "start": "182a",
+    "arabic": "باب مَعْرِفَةِ طَرِيقِ الرُّؤْيَةِ ‏‏",
+    "swahili": "MLANGO: Kujua juu ya kuona"
+  },
+  {
+    "start": "184a",
+    "arabic": "باب إِثْبَاتِ الشَّفَاعَةِ وَإِخْرَاجِ الْمُوَحِّدِينَ مِنَ النَّارِ ‏‏",
+    "swahili": "MLANGO: Uombezi na kuwatoa Motoni wale walioamini tawhid"
+  },
+  {
+    "start": "186a",
+    "arabic": "باب آخِرِ أَهْلِ النَّارِ خُرُوجًا ‏‏",
+    "swahili": "MLANGO: Ni wa mwisho katika watu wa Motoni watatolewa humo"
+  },
+  {
+    "start": 188,
+    "arabic": "باب أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً فِيهَا ‏‏",
+    "swahili": "MLANGO: Hali ya watu wa chini kabisa peponi"
+  },
+  {
+    "start": "196a",
+    "arabic": "باب فِي قَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَنَا أَوَّلُ النَّاسِ يَشْفَعُ فِي الْجَنَّةِ وَأَنَا أَكْثَرُ الأَنْبِيَاءِ تَبَعًا»",
+    "swahili": "MLANGO: Kuhusiana na kauli ya Mtume wa Allah (swalla Allahu alayhi wa sallam): \"Mimi nitakuwa wa kwanza katika watu kuombea pepo, na nitakuwa Mtume Mwenye Idadi kubwa ya wafuasi.\""
+  },
+  {
+    "start": "198a",
+    "arabic": "باب اخْتِبَاءِ النَّبِيِّ صلى الله عليه وسلم دَعْوَةَ الشَّفَاعَةِ لأُمَّتِهِ ‏‏",
+    "swahili": "MLANGO: Mtume wa Allah (swalla Allahu alayhi wa sallam) ataakhirisha dua yake ili kuuombea umma wake"
+  },
+  {
+    "start": 202,
+    "arabic": "باب دُعَاءِ النَّبِيِّ صلى الله عليه وسلم لأُمَّتِهِ وَبُكَائِهِ شَفَقَةً عَلَيْهِمْ ‏‏",
+    "swahili": "MLANGO: Dua ya Mtume wa Allah (swalla Allahu alayhi wa sallam) kwa umma wake na kilio chake kwa kuwahurumia"
+  },
+  {
+    "start": 203,
+    "arabic": "باب بَيَانِ أَنَّ مَنْ مَاتَ عَلَى الْكُفْرِ فَهُوَ فِي النَّارِ وَلاَ تَنَالُهُ شَفَاعَةٌ وَلاَ تَنْفَعُهُ قَرَابَةُ الْمُقَرَّبِينَ",
+    "swahili": "MLANGO: Kubainisha kuwa aliyekufa hali ya ukafiri, basi yumo Motoni, na uombezi wala uhusiano wowote na walio karibu na Mwenyezi Mungu hautamfaa kitu."
+  },
+  {
+    "start": "204a",
+    "arabic": "باب فِي قَوْلِهِ تَعَالَى: {وَأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِينَ}",
+    "swahili": "MLANGO: Kuhusu kauli ya Mwenyezi Mungu Mtukufu: \"Na waonye watu wa jamaa zako.\""
+  },
+  {
+    "start": "209a",
+    "arabic": "باب شَفَاعَةِ النَّبِيِّ صلى الله عليه وسلم لأَبِي طَالِبٍ وَالتَّخْفِيفِ عَنْهُ بِسَبَبِهِ ‏‏",
+    "swahili": "MLANGO: Uombezi wa Mtume wa Allah (swalla Allahu alayhi wa sallam) kwa Abu Talib na kupunguzwa kwa adhabu yake kama matokeo"
+  },
+  {
+    "start": 211,
+    "arabic": "باب أَهْوَنِ أَهْلِ النَّارِ عَذَابًا ‏‏",
+    "swahili": "MLANGO: Adhabu kidogo sana katika watu wa Motoni"
+  },
+  {
+    "start": 214,
+    "arabic": "باب الدَّلِيلِ علَى أَنَّ مَنْ مَاتَ عَلَى الْكُفْرِ لاَ يَنْفَعُهُ عَمَلٌ ‏‏",
+    "swahili": "MLANGO: Ushahidi wa kwamba atakaye kufa juu ya ukafiri, hakuna jambo jema litakalomfaa"
+  },
+  {
+    "start": 215,
+    "arabic": "باب مُوَالاَةِ الْمُؤْمِنِينَ وَمُقَاطَعَةِ غَيْرِهِمْ وَالْبَرَاءَةِ مِنْهُمْ ‏‏",
+    "swahili": "MLANGO: Utii kwa Waumini, na kuwaacha wengine na kuwakataa"
+  },
+  {
+    "start": "216a",
+    "arabic": "باب الدَّلِيلِ عَلَى دُخُولِ طَوَائِفَ مِنَ الْمُسْلِمِينَ الْجَنَّةَ بِغَيْرِ حِسَابٍ وَلاَ عَذَابٍ ‏‏",
+    "swahili": "MLANGO: Ushahidi kwamba majina ya Waislamu yataingia Peponi bila ya kuhesabiwa, na bila ya kuadhibiwa"
+  },
+  {
+    "start": "221a",
+    "arabic": "باب كَوْنِ هَذِهِ الأُمَّةِ نِصْفَ أَهْلِ الْجَنَّةِ ‏",
+    "swahili": "MLANGO: Kubainisha kwamba ummah huu utaunda nusu ya Watu wa Peponi"
+  },
+  {
+    "start": "222a",
+    "arabic": "باب قَوْلِهِ يَقُولُ اللَّهُ لِآدَمَ أَخْرِجْ بَعْثَ النَّارِ مِنْ كُلِّ أَلْفٍ تِسْعَ مِائَةٍ وَتِسْعَةً وَتِسْعِينَ",
+    "swahili": "MLANGO: Mwenyezi Mungu atamwambia Adam: \"Lete sehemu ya Motoni; Mia Tisa Tisini na Tisa katika Kila Elfu.\""
+  }
+]

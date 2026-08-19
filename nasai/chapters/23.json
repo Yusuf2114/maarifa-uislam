@@ -1,0 +1,502 @@
+[
+  {
+    "start": "2435",
+    "arabic": "باب وُجُوبِ الزَّكَاةِ ‏‏",
+    "swahili": "MLANGO: WAJIBU WA ZAKA"
+  },
+  {
+    "start": "2440",
+    "arabic": "باب التَّغْلِيظِ فِي حَبْسِ الزَّكَاةِ ‏‏",
+    "swahili": "MLANGO: ONYO KALI DHIDI YA KUZUIA ZAKA"
+  },
+  {
+    "start": "2443",
+    "arabic": "باب مَانِعِ الزَّكَاةِ ‏‏",
+    "swahili": "MLANGO: MWENYE KUZUIA ZAKA"
+  },
+  {
+    "start": "2444",
+    "arabic": "باب عُقُوبَةِ مَانِعِ الزَّكَاةِ ‏‏",
+    "swahili": "MLANGO: ADHABU AU MWENYE KUZUIA ZAKA"
+  },
+  {
+    "start": "2445",
+    "arabic": "باب زَكَاةِ الإِبِلِ ‏‏",
+    "swahili": "MLANGO: ZAKAH KWENYE MIFEREJI"
+  },
+  {
+    "start": "2448",
+    "arabic": "باب مَانِعِ زَكَاةِ الإِبِلِ ‏‏",
+    "swahili": "MLANGO: MWENYE KUZUIA ZAKA YA NGAMIA"
+  },
+  {
+    "start": "2449",
+    "arabic": "باب سُقُوطِ الزَّكَاةِ عَنِ الإِبِلِ، إِذَا كَانَتْ رِسْلاً لأَهْلِهَا وَلِحُمُولَتِهِمْ ‏‏",
+    "swahili": "MLANGO: KUTOA ZAKAH JUU YA NGAMIA IKIWA ZINATUMIKA KUBEBA WATU NA BIDHAA"
+  },
+  {
+    "start": "2450",
+    "arabic": "باب زَكَاةِ الْبَقَرِ ‏‏",
+    "swahili": "MLANGO: ZAHAH JUU YA NG'OMBE"
+  },
+  {
+    "start": "2454",
+    "arabic": "باب مَانِعِ زَكَاةِ الْبَقَرِ ‏‏",
+    "swahili": "MLANGO: MWENYE KUZUIA ZAKA JUU YA NG'OMBE"
+  },
+  {
+    "start": "2455",
+    "arabic": "باب زَكَاةِ الْغَنَمِ ‏‏",
+    "swahili": "MLANGO: ZAKAH JUU YA KONDOO"
+  },
+  {
+    "start": "2456",
+    "arabic": "باب مَانِعِ زَكَاةِ الْغَنَمِ ‏‏",
+    "swahili": "MLANGO: MWENYE KUZUIA ZAKA JUU YA KONDOO"
+  },
+  {
+    "start": "2457",
+    "arabic": "باب الْجَمْعِ بَيْنَ الْمُتَفَرِّقِ وَالتَّفْرِيقِ بَيْنَ الْمُجْتَمِعِ ‏‏",
+    "swahili": "MLANGO: KUCHANGANYA KINACHOTENGANISHA NA KUTENGANISHA KINACHOUNGANISHWA"
+  },
+  {
+    "start": "2459",
+    "arabic": "باب صَلاَةِ الإِمَامِ عَلَى صَاحِبِ الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: MTAWALA AKIOMBA BARAKA KWA MWENYE KUTOA SADAKA"
+  },
+  {
+    "start": "2460",
+    "arabic": "باب إِذَا جَاوَزَ فِي الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: WAKATI KUNA UKIUKAJI KATIKA SADAKA (ILIYOKUSANYWA)"
+  },
+  {
+    "start": "2462",
+    "arabic": "باب إِعْطَاءِ السَّيِّدِ الْمَالَ بِغَيْرِ اخْتِيَارِ الْمُصَدِّقِ ‏‏",
+    "swahili": "MLANGO: MMILIKI AKITOA KITU BILA MTOZA ZAKAH KUKICHAGUA"
+  },
+  {
+    "start": "2467",
+    "arabic": "باب زَكَاةِ الْخَيْلِ ‏‏",
+    "swahili": "MLANGO: ZAKAH JUU YA FARASI"
+  },
+  {
+    "start": "2471",
+    "arabic": "باب زَكَاةِ الرَّقِيقِ ‏‏",
+    "swahili": "MLANGO: ZAKAH JUU YA WATUMWA"
+  },
+  {
+    "start": "2473",
+    "arabic": "باب زَكَاةِ الْوَرِقِ ‏‏",
+    "swahili": "MLANGO: ZAKAH JUU YA FEDHA"
+  },
+  {
+    "start": "2479",
+    "arabic": "باب زَكَاةِ الْحُلِيِّ ‏‏",
+    "swahili": "MLANGO: ZAKAH JUU YA VITO"
+  },
+  {
+    "start": "2481",
+    "arabic": "باب مَانِعِ زَكَاةِ مَالِهِ ‏‏",
+    "swahili": "MLANGO: MWENYE KUZUIA ZAKAH KWA MALI YAKE"
+  },
+  {
+    "start": "2483",
+    "arabic": "باب زَكَاةِ التَّمْرِ ‏‏",
+    "swahili": "MLANGO: ZAKAH KWA TAREHE"
+  },
+  {
+    "start": "2484",
+    "arabic": "باب زَكَاةِ الْحِنْطَةِ ‏‏",
+    "swahili": "MLANGO: ZAKAH JUU YA NGANO"
+  },
+  {
+    "start": "2485",
+    "arabic": "باب زَكَاةِ الْحُبُوبِ ‏‏",
+    "swahili": "MLANGO: ZAKAH JUU YA NAFAKA"
+  },
+  {
+    "start": "2486",
+    "arabic": "باب الْقَدْرِ الَّذِي تَجِبُ فِيهِ الصَّدَقَةُ ‏‏",
+    "swahili": "MLANGO: KIASI AMBACHO ZAKAAH INATAKIWA"
+  },
+  {
+    "start": "2488",
+    "arabic": "باب مَا يُوجِبُ الْعُشْرَ وَمَا يُوجِبُ نِصْفَ الْعُشْرِ ‏‏",
+    "swahili": "MLANGO: JUU YA NINI MOJA YA KUMI INAYOSTAHILI, NA KWA NINI NUSU MOJA YA KUMI INASTAHILI"
+  },
+  {
+    "start": "2491",
+    "arabic": "باب كَمْ يَتْرُكُ الْخَارِصُ ‏‏",
+    "swahili": "MLANGO: JE, MKADIRIAJI ANAPASWA KUACHA KIASI GANI?"
+  },
+  {
+    "start": "2492",
+    "arabic": "باب قَوْلِهِ عَزَّ وَجَلَّ ‏{‏ وَلاَ تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ ‏}‏ ‏‏",
+    "swahili": "MLANGO: KAULI YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU: \"WALA MSIKUSUDIA KUTOA KWAO MABAYA\"."
+  },
+  {
+    "start": "2494",
+    "arabic": "باب الْمَعْدِنِ ‏‏",
+    "swahili": "MLANGO: MADINI"
+  },
+  {
+    "start": "2499",
+    "arabic": "باب زَكَاةِ النَّحْلِ ‏‏",
+    "swahili": "MLANGO: ZAKAH JUU YA NYUKI"
+  },
+  {
+    "start": "2500",
+    "arabic": "باب فَرْضِ زَكَاةِ رَمَضَانَ ‏.‏",
+    "swahili": "MLANGO: WAJIBU WA ZAKA YA RAMADHANI"
+  },
+  {
+    "start": "2501",
+    "arabic": "باب فَرْضِ زَكَاةِ رَمَضَانَ عَلَى الْمَمْلُوكِ ‏‏",
+    "swahili": "MLANGO: WAJIBU WA ZAKA YA RAMADHANI KWA WATUMWA"
+  },
+  {
+    "start": "2502",
+    "arabic": "باب فَرْضِ زَكَاةِ رَمَضَانَ عَلَى الصَّغِيرِ ‏‏",
+    "swahili": "MLANGO: WAJIBU WA ZAKA YA RAMADHANI KWA WATOTO"
+  },
+  {
+    "start": "2503",
+    "arabic": "باب فَرْضِ زَكَاةِ رَمَضَانَ عَلَى الْمُسْلِمِينَ دُونَ الْمُعَاهِدِينَ ‏‏",
+    "swahili": "MLANGO: WAJIBU WA ZAKA YA RAMADHANI KWA WAISLAMU ISIPOKUWA WASIOKUWA WAISLAMU KUWA NA AGANO."
+  },
+  {
+    "start": "2505",
+    "arabic": "باب كَمْ فُرِضَ ‏‏",
+    "swahili": "MLANGO: KIASI GANI KILIAMRIWA"
+  },
+  {
+    "start": "2506",
+    "arabic": "باب فَرْضِ صَدَقَةِ الْفِطْرِ قَبْلَ نُزُولِ الزَّكَاةِ ‏‏",
+    "swahili": "MLANGO: SADAQATUL FITR ILIAMRISHWA KABLA YA KUTEREMSHWA AMRI YA KUTOA ZAKA"
+  },
+  {
+    "start": "2508",
+    "arabic": "باب مَكِيلَةِ زَكَاةِ الْفِطْرِ ‏‏",
+    "swahili": "MLANGO: KIPIMO CHA ZAKATUL-FITWR"
+  },
+  {
+    "start": "2511",
+    "arabic": "باب التَّمْرِ فِي زَكَاةِ الْفِطْرِ ‏‏",
+    "swahili": "MLANGO: TAREHE KAMA ZAKATUL-FITR"
+  },
+  {
+    "start": "2512",
+    "arabic": "باب الزَّبِيبِ ‏‏",
+    "swahili": "MLANGO: ZABIBU KAMA ZAKATUL-FITR"
+  },
+  {
+    "start": "2514",
+    "arabic": "باب الدَّقِيقِ ‏‏",
+    "swahili": "MLANGO: UNGA"
+  },
+  {
+    "start": "2515",
+    "arabic": "باب الْحِنْطَةِ ‏‏",
+    "swahili": "MLANGO: NGANO"
+  },
+  {
+    "start": "2516",
+    "arabic": "باب السُّلْتِ ‏‏",
+    "swahili": "MLANGO: RYE"
+  },
+  {
+    "start": "2517",
+    "arabic": "باب الشَّعِيرِ ‏‏",
+    "swahili": "MLANGO: SHAYIRI"
+  },
+  {
+    "start": "2518",
+    "arabic": "باب الأَقِطِ ‏‏",
+    "swahili": "MLANGO: JIBINI LA COTTAGE"
+  },
+  {
+    "start": "2519",
+    "arabic": "باب كَمِ الصَّاعُ ‏‏",
+    "swahili": "MLANGO: A SA' NI NGAPI?"
+  },
+  {
+    "start": "2521",
+    "arabic": "باب الْوَقْتِ الَّذِي يُسْتَحَبُّ أَنْ تُؤَدَّى صَدَقَةُ الْفِطْرِ فِيهِ ‏‏",
+    "swahili": "MLANGO: WAKATI NI MUSTAHAB KULIPA SADAQATUL FITR"
+  },
+  {
+    "start": "2522",
+    "arabic": "باب إِخْرَاجِ الزَّكَاةِ مِنْ بَلَدٍ إِلَى بَلَدٍ ‏‏",
+    "swahili": "MLANGO: KUCHUKUA ZAKAAH KUTOKA NCHI MOJA HADI NYINGINE"
+  },
+  {
+    "start": "2523",
+    "arabic": "باب إِذَا أَعْطَاهَا غَنِيًّا وَهُوَ لاَ يَشْعُرُ ‏‏",
+    "swahili": "MLANGO: MTU AKIMPA (SADAKA) TAJIRI BILA KUJITAMBUA"
+  },
+  {
+    "start": "2524",
+    "arabic": "باب الصَّدَقَةِ مِنْ غُلُولٍ ‏‏",
+    "swahili": "MLANGO: HISANI KUTOKA KWA GHULUL[1]"
+  },
+  {
+    "start": "2526",
+    "arabic": "باب جَهْدِ الْمُقِلِّ ‏‏",
+    "swahili": "MLANGO: NGUVU ZA MASIKINI"
+  },
+  {
+    "start": "2531",
+    "arabic": "باب الْيَدِ الْعُلْيَا ‏‏",
+    "swahili": "MLANGO: MKONO WA JUU"
+  },
+  {
+    "start": "2532",
+    "arabic": "باب أَيَّتِهِمَا الْيَدُ الْعُلْيَا ‏‏",
+    "swahili": "MLANGO: NI YUPI KATI YAO ALIYE JUU ZAIDI?"
+  },
+  {
+    "start": "2533",
+    "arabic": "باب الْيَدِ السُّفْلَى ‏‏",
+    "swahili": "MLANGO: MKONO WA CHINI"
+  },
+  {
+    "start": "2534",
+    "arabic": "باب الصَّدَقَةِ عَنْ ظَهْرِ، غِنًى ‏‏",
+    "swahili": "MLANGO: KUTOA SADAKA WAKATI UNAJITOSHELEZA"
+  },
+  {
+    "start": "2535",
+    "arabic": "باب تَفْسِيرِ ذَلِكَ ‏‏",
+    "swahili": "MLANGO: UFAFANUZI WA HILO"
+  },
+  {
+    "start": "2536",
+    "arabic": "باب إِذَا تَصَدَّقَ وَهُوَ مُحْتَاجٌ إِلَيْهِ هَلْ يُرَدُّ عَلَيْهِ ‏‏",
+    "swahili": "MLANGO: JE, MTU AKITOA SADAKA FULANI NAYE AKAHITAJI, JE, INAWEZA KURUDISHWA KWAKE?"
+  },
+  {
+    "start": "2537",
+    "arabic": "باب صَدَقَةِ الْعَبْدِ ‏‏",
+    "swahili": "MLANGO: HISANI YA MTUMWA"
+  },
+  {
+    "start": "2539",
+    "arabic": "باب صَدَقَةِ الْمَرْأَةِ مِنْ بَيْتِ زَوْجِهَا ‏‏",
+    "swahili": "MLANGO: MWANAMKE AKITOA HISANI KUTOKA NYUMBANI KWA MUMEWE"
+  },
+  {
+    "start": "2540",
+    "arabic": "باب عَطِيَّةِ الْمَرْأَةِ بِغَيْرِ إِذْنِ زَوْجِهَا ‏‏",
+    "swahili": "MLANGO: MWANAMKE KUTOA (SADAKA) BILA IDHINI YA MUMEWE"
+  },
+  {
+    "start": "2541",
+    "arabic": "باب فَضْلِ الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: FADHILA YA SADAKA"
+  },
+  {
+    "start": "2542",
+    "arabic": "باب أَىُّ الصَّدَقَةِ أَفْضَلُ ‏‏",
+    "swahili": "MLANGO: NI SADAKA YA AINA GANI ILIYO BORA ZAIDI?"
+  },
+  {
+    "start": "2547",
+    "arabic": "باب صَدَقَةِ الْبَخِيلِ ‏‏",
+    "swahili": "MLANGO: SADAKA YA BAKHILI"
+  },
+  {
+    "start": "2549",
+    "arabic": "باب الإِحْصَاءِ فِي الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: KUHESABU MTU ATOE KATIKA SADAKA"
+  },
+  {
+    "start": "2552",
+    "arabic": "باب الْقَلِيلِ فِي الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: KIASI KIDOGO CHA SADAKA"
+  },
+  {
+    "start": "2554",
+    "arabic": "باب التَّحْرِيضِ عَلَى الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: KUHIMIZA HISANI"
+  },
+  {
+    "start": "2556",
+    "arabic": "باب الشَّفَاعَةِ فِي الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: KUOMBEA (MTU WA KUPEWA) SADAKA"
+  },
+  {
+    "start": "2558",
+    "arabic": "باب الاِخْتِيَالِ فِي الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: FAHARI KATIKA KUTOA HISANI"
+  },
+  {
+    "start": "2560",
+    "arabic": "باب أَجْرِ الْخَازِنِ إِذَا تَصَدَّقَ بِإِذْنِ مَوْلاَهُ ‏‏",
+    "swahili": "MLANGO: THAWABU YA MWENYE HIFADHI IWAPO ATATOA SADAKA KWA IDHINI YA BWANA WAKE"
+  },
+  {
+    "start": "2561",
+    "arabic": "باب الْمُسِرِّ بِالصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: MWENYE KUTOA SADAKA KWA SIRI"
+  },
+  {
+    "start": "2562",
+    "arabic": "باب الْمَنَّانِ بِمَا أَعْطَى ‏‏",
+    "swahili": "MLANGO: AL-MANNAN: MWENYE KUWAKUMBUSHA WATU ALIYOWAPA"
+  },
+  {
+    "start": "2565",
+    "arabic": "باب رَدِّ السَّائِلِ ‏‏",
+    "swahili": "MLANGO: KUJIBU ANAYEULIZA"
+  },
+  {
+    "start": "2566",
+    "arabic": "باب مَنْ يُسْأَلُ وَلاَ يُعْطِي ‏‏",
+    "swahili": "MLANGO: MWENYE KUOMBA NA ASIPEWE"
+  },
+  {
+    "start": "2567",
+    "arabic": "باب مَنْ سَأَلَ بِاللَّهِ عَزَّ وَجَلَّ ‏‏",
+    "swahili": "MLANGO: MWENYE KUOMBA KWA AJILI YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU"
+  },
+  {
+    "start": "2568",
+    "arabic": "باب مَنْ سَأَلَ بِوَجْهِ اللَّهِ عَزَّ وَجَلَّ ‏‏",
+    "swahili": "MLANGO: MWENYE KUOMBA KWA USO WA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU"
+  },
+  {
+    "start": "2569",
+    "arabic": "باب مَنْ يُسْأَلُ بِاللَّهِ عَزَّ وَجَلَّ وَلاَ يُعْطِي بِهِ ‏‏",
+    "swahili": "MLANGO: MWENYE KUOMBA KWA AJILI YA MWENYEZI MUNGU, MWENYE NGUVU NA MTUKUFU, LAKINI HATOI"
+  },
+  {
+    "start": "2570",
+    "arabic": "باب ثَوَابِ مَنْ يُعْطِي ‏‏",
+    "swahili": "MLANGO: MALIPO YA MWENYE KUTOA"
+  },
+  {
+    "start": "2571",
+    "arabic": "باب تَفْسِيرِ الْمِسْكِينِ ‏‏",
+    "swahili": "MLANGO: MAANA YA AL-MISKIN (MASKINI)"
+  },
+  {
+    "start": "2575",
+    "arabic": "باب الْفَقِيرِ الْمُخْتَالِ ‏‏",
+    "swahili": "MLANGO: MASKINI ANAYEJIONYESHA"
+  },
+  {
+    "start": "2577",
+    "arabic": "باب فَضْلِ السَّاعِي عَلَى الأَرْمَلَةِ ‏‏",
+    "swahili": "MLANGO: FADHILA ZA YULE ANAYEJITAHIDI KUMFADHILI MJANE"
+  },
+  {
+    "start": "2578",
+    "arabic": "باب الْمُؤَلَّفَةِ قُلُوبُهُمْ ‏‏",
+    "swahili": "MLANGO: WALE AMBAO MISINGI YAO IMEEGEMEZWA KWENYE UISLAMU"
+  },
+  {
+    "start": "2579",
+    "arabic": "باب الصَّدَقَةِ لِمَنْ تَحَمَّلَ بِحَمَالَةٍ ‏‏",
+    "swahili": "MLANGO: HISANI KWA YULE ANAYECHUKUA JUKUMU LA KIFEDHA"
+  },
+  {
+    "start": "2581",
+    "arabic": "باب الصَّدَقَةِ عَلَى الْيَتِيمِ ‏‏",
+    "swahili": "MLANGO: , KUTOA SADAKA KWA YATIMA"
+  },
+  {
+    "start": "2582",
+    "arabic": "باب الصَّدَقَةِ عَلَى الأَقَارِبِ ‏‏",
+    "swahili": "MLANGO: KUTOA HISANI KWA NDUGU"
+  },
+  {
+    "start": "2584",
+    "arabic": "باب الْمَسْأَلَةِ ‏‏",
+    "swahili": "MLANGO: KUOMBA MSAADA"
+  },
+  {
+    "start": "2587",
+    "arabic": "باب سُؤَالِ الصَّالِحِينَ ‏‏",
+    "swahili": "MLANGO: KUULIZA KUTOKA KWA WAADILIFU"
+  },
+  {
+    "start": "2588",
+    "arabic": "باب الاِسْتِعْفَافِ عَنِ الْمَسْأَلَةِ، ‏‏",
+    "swahili": "MLANGO: KUJIZUIA KUULIZA"
+  },
+  {
+    "start": "2590",
+    "arabic": "باب فَضْلِ مَنْ لاَ يَسْأَلُ النَّاسَ شَيْئًا ‏‏",
+    "swahili": "MLANGO: FADHILA ZA YULE AMBAYE HAWAOMBI WATU CHOCHOTE"
+  },
+  {
+    "start": "2592",
+    "arabic": "باب حَدِّ الْغِنَى ‏‏",
+    "swahili": "MLANGO: NINI MAANA YA UHURU WA NJIA"
+  },
+  {
+    "start": "2593",
+    "arabic": "باب الإِلْحَافِ فِي الْمَسْأَلَةِ ‏‏",
+    "swahili": "MLANGO: KUDAI WAKATI WA KUULIZA"
+  },
+  {
+    "start": "2594",
+    "arabic": "باب مَنِ الْمُلْحِفُ",
+    "swahili": "MLANGO: NI NANI ANAYEDAI ANAPOULIZA?"
+  },
+  {
+    "start": "2596",
+    "arabic": "باب إِذَا لَمْ يَكُنْ لَهُ دَرَاهِمُ وَكَانَ لَهُ عِدْلُهَا ‏‏",
+    "swahili": "MLANGO: IKIWA HANA DIRHAM YOYOTE LAKINI ANAYO SAWA NAYO"
+  },
+  {
+    "start": "2598",
+    "arabic": "باب مَسْأَلَةِ الْقَوِيِّ الْمُكْتَسِبِ ‏‏",
+    "swahili": "MLANGO: MWANAUME MWENYE NGUVU NA AFYA ANAULIZA (KWA MSAADA)"
+  },
+  {
+    "start": "2599",
+    "arabic": "باب مَسْأَلَةِ الرَّجُلِ ذَا سُلْطَانٍ ‏‏",
+    "swahili": "MLANGO: MWANAUME ANAYEMUULIZA SULTANI (KWA MSAADA)"
+  },
+  {
+    "start": "2600",
+    "arabic": "باب مَسْأَلَةِ الرَّجُلِ فِي أَمْرٍ لاَ بُدَّ لَهُ مِنْهُ ‏‏",
+    "swahili": "MLANGO: KUULIZA WAKATI HAKUNA MBADALA"
+  },
+  {
+    "start": "2604",
+    "arabic": "باب مَنْ آتَاهُ اللَّهُ عَزَّ وَجَلَّ مَالاً مِنْ غَيْرِ مَسْأَلَةٍ ‏‏",
+    "swahili": "MLANGO: YULE AMBAYE MWENYEZI MUNGU, MWENYE NGUVU NA UTUKUFU, HUMPA MALI BILA YEYE KUOMBA"
+  },
+  {
+    "start": "2609",
+    "arabic": "باب اسْتِعْمَالِ آلِ النَّبِيِّ صلى الله عليه وسلم عَلَى الصَّدَقَةِ ‏‏",
+    "swahili": "MLANGO: KUTEUA FAMILIA YA MTUME KUKUSANYA SADAKA"
+  },
+  {
+    "start": "2610",
+    "arabic": "باب ابْنِ أُخْتِ الْقَوْمِ مِنْهُمْ ‏‏",
+    "swahili": "MLANGO: MTOTO WA BINTI YA WATU, NI MMOJA WAO"
+  },
+  {
+    "start": "2612",
+    "arabic": "باب مَوْلَى الْقَوْمِ مِنْهُمْ ‏‏",
+    "swahili": "MLANGO: MTUMWA ALIYEACHILIWA WA WATU NI MMOJA WAO"
+  },
+  {
+    "start": "2613",
+    "arabic": "باب الصَّدَقَةِ لاَ تَحِلُّ لِلنَّبِيِّ صلى الله عليه وسلم ‏‏",
+    "swahili": "MLANGO: SADAKA HAIJUZU KWA MTUME"
+  },
+  {
+    "start": "2614",
+    "arabic": "باب إِذَا تَحَوَّلَتِ الصَّدَقَةُ ‏‏",
+    "swahili": "MLANGO: WAKATI SADAKA INAPITISHWA"
+  },
+  {
+    "start": "2615",
+    "arabic": "باب شِرَاءِ الصَّدَقَةِ",
+    "swahili": "MLANGO: KUNUNUA KITU AMBACHO MTU AMETOA KWA HISANI"
+  }
+]

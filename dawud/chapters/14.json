@@ -1,0 +1,412 @@
+[
+  {
+    "start": 2313,
+    "arabic": "باب مَبْدَإِ فَرْضِ الصِّيَامِ",
+    "swahili": "MLANGO : MWANZO WA AMRI YA KUFUNGA"
+  },
+  {
+    "start": 2315,
+    "arabic": "باب نَسْخِ قَوْلِهِ ‏ {‏ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ ‏} ‏",
+    "swahili": "MLANGO : KUFUTWA KWA KAULI YA MWENYEZI MUNGU ALIYE JUU: AMA WALE AMBAO WANAFUNGA KWA SHIDA NI FIDIA."
+  },
+  {
+    "start": 2317,
+    "arabic": "باب مَنْ قَالَ هِيَ مُثْبَتَةٌ لِلشَّيْخِ وَالْحُبْلَى",
+    "swahili": "MLANGO : ALIYESEMA HIYO INAWAHUSU WAZEE NA WAJAWAZITO"
+  },
+  {
+    "start": 2319,
+    "arabic": "باب الشَّهْرِ يَكُونُ تِسْعًا وَعِشْرِينَ",
+    "swahili": "MLANGO : MWEZI UNAWEZA KUWA SIKU ISHIRINI NA TISA"
+  },
+  {
+    "start": 2324,
+    "arabic": "باب إِذَا أَخْطَأَ الْقَوْمُ الْهِلاَلَ",
+    "swahili": "MLANGO : WANANCHI WANAPOKOSEA KUONA MWELEKEO"
+  },
+  {
+    "start": 2325,
+    "arabic": "باب إِذَا أُغْمِيَ الشَّهْرُ",
+    "swahili": "MLANGO : WAKATI (KUONA HUSIKA KWA) MWEZI ULIPOFICHWA"
+  },
+  {
+    "start": 2327,
+    "arabic": "باب مَنْ قَالَ فَإِنْ غُمَّ عَلَيْكُمْ فَصُومُوا ثَلاَثِينَ",
+    "swahili": "MLANGO : ALIYESEMA IKIWA YATAFICHA KWAKO (HUU), BASI FUNGA SIKU THELATHINI."
+  },
+  {
+    "start": 2328,
+    "arabic": "باب فِي التَّقَدُّمِ",
+    "swahili": "MLANGO : KUHUSU KUTANGULIA (RAMADHANI KWA KUFUNGA MWISHO WA SHA'BAN)"
+  },
+  {
+    "start": 2332,
+    "arabic": "باب إِذَا رُؤِيَ الْهِلاَلُ فِي بَلَدٍ قَبْلَ الآخَرِينَ بِلَيْلَةٍ",
+    "swahili": "MLANGO : MWELE UNAPOONEKANA KATIKA NCHI USIKU KABLA HAIJAONEKANA KATIKA NCHI NYINGINE."
+  },
+  {
+    "start": 2334,
+    "arabic": "باب كَرَاهِيَةِ صَوْمِ يَوْمِ الشَّكِّ",
+    "swahili": "MLANGO : KWAMBA HAIPENDEKI KUFUNGA SIKU YA MASHAKA"
+  },
+  {
+    "start": 2335,
+    "arabic": "باب فِيمَنْ يَصِلُ شَعْبَانَ بِرَمَضَانَ",
+    "swahili": "MLANGO : KUHUSU ALIYEMUUNGANISHA SHA'BAN NA RAMADHANI"
+  },
+  {
+    "start": 2337,
+    "arabic": "باب فِي كَرَاهِيَةِ ذَلِكَ",
+    "swahili": "MLANGO : KUHUSU HILO KUPENDWA"
+  },
+  {
+    "start": 2338,
+    "arabic": "باب شَهَادَةِ رَجُلَيْنِ عَلَى رُؤْيَةِ هِلاَلِ شَوَّالٍ",
+    "swahili": "MLANGO : USHUHUDA WA WANAUME WAWILI KUHUSU KUONA UPEO WA SHAWWAL"
+  },
+  {
+    "start": 2340,
+    "arabic": "باب فِي شَهَادَةِ الْوَاحِدِ عَلَى رُؤْيَةِ هِلاَلِ رَمَضَانَ",
+    "swahili": "MLANGO : KUHUSU USHUHUDA WA MTU MMOJA KUHUSU KUONA UPEO WA RAMADHANI."
+  },
+  {
+    "start": 2343,
+    "arabic": "باب فِي تَوْكِيدِ السُّحُورِ",
+    "swahili": "MLANGO : KUSISITIZA SAHUR (MLO WA KABLA YA ASUBUHI)"
+  },
+  {
+    "start": 2344,
+    "arabic": "باب مَنْ سَمَّى السَّحُورَ الْغَدَاءَ",
+    "swahili": "MLANGO : YEYOTE ALIYEMUITA SAHURI, \"AL-GHADA\" (FURSA)"
+  },
+  {
+    "start": 2346,
+    "arabic": "باب وَقْتِ السُّحُورِ",
+    "swahili": "MLANGO : WAKATI WA SAHURI"
+  },
+  {
+    "start": 2350,
+    "arabic": "باب فِي الرَّجُلِ يَسْمَعُ النِّدَاءَ وَالإِنَاءُ عَلَى يَدِهِ",
+    "swahili": "MLANGO : MTU AKISIKIA WITO HUKU CHOMBO KIKO MKONONI MWAKE"
+  },
+  {
+    "start": 2351,
+    "arabic": "باب وَقْتِ فِطْرِ الصَّائِمِ",
+    "swahili": "MLANGO : WAKATI WA MWENYE KUFUNGA KUFUNGA (FUNGA YAKE)"
+  },
+  {
+    "start": 2353,
+    "arabic": "باب مَا يُسْتَحَبُّ مِنْ تَعْجِيلِ الْفِطْرِ",
+    "swahili": "MLANGO : PENDEKEZO LA KUFANYA HARAKA KUFUNGA KASI"
+  },
+  {
+    "start": 2355,
+    "arabic": "باب مَا يُفْطَرُ عَلَيْهِ",
+    "swahili": "MLANGO : NINI CHA KUTUMIA ILI KUVUNJA KASI YA MTU"
+  },
+  {
+    "start": 2357,
+    "arabic": "باب الْقَوْلِ عِنْدَ الإِفْطَارِ",
+    "swahili": "MLANGO : MSEMO WA WAKATI WA KUFUNGA KASI"
+  },
+  {
+    "start": 2359,
+    "arabic": "باب الْفِطْرِ قَبْلَ غُرُوبِ الشَّمْسِ",
+    "swahili": "MLANGO : KUFUNGA KASI KABLA YA JUA"
+  },
+  {
+    "start": 2360,
+    "arabic": "باب فِي الْوِصَالِ",
+    "swahili": "MLANGO : SURAT AL-WISAL (KUFUNGA ENDELEA)"
+  },
+  {
+    "start": 2362,
+    "arabic": "باب الْغِيبَةِ لِلصَّائِمِ",
+    "swahili": "MLANGO : MWENYE KUFUNGA AKISENGEA"
+  },
+  {
+    "start": 2364,
+    "arabic": "باب السِّوَاكِ لِلصَّائِمِ",
+    "swahili": "MLANGO : THAE SIWAK KWA MWENYE KUFUNGA"
+  },
+  {
+    "start": 2365,
+    "arabic": "باب الصَّائِمِ يَصُبُّ عَلَيْهِ الْمَاءَ مِنَ الْعَطَشِ وَيُبَالِغُ فِي الاِسْتِنْشَاقِ",
+    "swahili": "MLANGO : MWENYE KUFUNGA AKIJIMWAGIA MAJI KWA KIU, NA KUZIDI KUNUSA MAJI KWENYE PUA."
+  },
+  {
+    "start": 2367,
+    "arabic": "باب فِي الصَّائِمِ يَحْتَجِمُ",
+    "swahili": "MLANGO : MWENYE KUFUNGA AKIPIGWA KIKOMBE"
+  },
+  {
+    "start": 2372,
+    "arabic": "باب فِي الرُّخْصَةِ فِي ذَلِكَ",
+    "swahili": "MLANGO : KUHUSU POSHO KWA HILO"
+  },
+  {
+    "start": 2376,
+    "arabic": "باب فِي الصَّائِمِ يَحْتَلِمُ نَهَارًا فِي شَهْرِ رَمَضَانَ",
+    "swahili": "MLANGO : KUHUSU MWENYE KUFUNGA KUOTA NDOTO NYEVU WAKATI WA SIKU YA RAMADHANI."
+  },
+  {
+    "start": 2377,
+    "arabic": "باب فِي الْكَحْلِ عِنْدَ النَّوْمِ لِلصَّائِمِ",
+    "swahili": "MLANGO : KUHUSU MWENYE KUFUNGA ANATUMIA KOHL WAKATI WA KULALA"
+  },
+  {
+    "start": 2380,
+    "arabic": "باب الصَّائِمِ يَسْتَقِيءُ عَامِدًا",
+    "swahili": "MLANGO : MWENYE KUFUNGA ANAYETAPIKA KWA MAKUSUDI"
+  },
+  {
+    "start": 2382,
+    "arabic": "باب الْقُبْلَةِ لِلصَّائِمِ",
+    "swahili": "MLANGO : KUBUSU KWA MTU ALIYEFUNGA"
+  },
+  {
+    "start": 2386,
+    "arabic": "باب الصَّائِمِ يَبْلَعُ الرِّيقَ",
+    "swahili": "MLANGO : MWENYE KUFUNGA AKIMEZA MATE"
+  },
+  {
+    "start": 2387,
+    "arabic": "باب كَرَاهِيَتِهِ لِلشَّابِّ",
+    "swahili": "MLANGO : KWAMBA HAIPENDWI KWA KESI YA KIJANA (AKIWA AMEFUNGA)"
+  },
+  {
+    "start": 2388,
+    "arabic": "باب فِيمَنْ أَصْبَحَ جُنُبًا فِي شَهْرِ رَمَضَانَ",
+    "swahili": "MLANGO : YEYOTE ALIYEAMKA ASUBUHI KATIKA HALI YA UCHAFU WA KINGONO WAKATI WA RAMADHANI."
+  },
+  {
+    "start": 2390,
+    "arabic": "باب كَفَّارَةِ مَنْ أَتَى أَهْلَهُ فِي رَمَضَانَ",
+    "swahili": "MLANGO : FUPISHO KWA MWANAUME ANAYEFANYA MAPENZI NA MKEWE WAKATI WA RAMADHANI."
+  },
+  {
+    "start": 2396,
+    "arabic": "باب التَّغْلِيظِ فِي مَنْ أَفْطَرَ عَمْدًا",
+    "swahili": "MLANGO : TISHIO KALI KWA MWENYE KUFUNGUA FUNGA KWA MAKUSUDI"
+  },
+  {
+    "start": 2398,
+    "arabic": "باب مَنْ أَكَلَ نَاسِيًا",
+    "swahili": "MLANGO : ALIYEKULA KWA KUSAHAU"
+  },
+  {
+    "start": 2399,
+    "arabic": "باب تَأْخِيرِ قَضَاءِ رَمَضَانَ",
+    "swahili": "MLANGO : KUCHELEWA KUTIMIZA (SIKU ZILIZOKOSA) RAMADHANI"
+  },
+  {
+    "start": 2400,
+    "arabic": "باب فِيمَنْ مَاتَ وَعَلَيْهِ صِيَامٌ",
+    "swahili": "MLANGO : KUHUSU YEYOTE ALIYEKUFA NA FUNGA FULANI BADO ZINAFIKIWA JUU YAKE"
+  },
+  {
+    "start": 2402,
+    "arabic": "باب الصَّوْمِ فِي السَّفَرِ",
+    "swahili": "MLANGO : KUFUNGA WAKATI WA SAFARI"
+  },
+  {
+    "start": 2407,
+    "arabic": "باب اخْتِيَارِ الْفِطْرِ",
+    "swahili": "MLANGO : UPENDELEO WA KUFUNGA KASI (WAKATI UPO SAFARI)"
+  },
+  {
+    "start": 2409,
+    "arabic": "باب فِيمَنِ اخْتَارَ الصِّيَامَ",
+    "swahili": "MLANGO : ALIYE PENDELEA KUFUNGA (WAKATI AKIWA SAFARI)"
+  },
+  {
+    "start": 2412,
+    "arabic": "باب مَتَى يُفْطِرُ الْمُسَافِرُ إِذَا خَرَجَ",
+    "swahili": "MLANGO : JE, MSAFIRI HUFUNGUA SAUMU LINI BAADA YA KUONDOKA?"
+  },
+  {
+    "start": 2413,
+    "arabic": "باب قَدْرِ مَسِيرَةِ مَا يُفْطِرُ فِيهِ",
+    "swahili": "MLANGO : KIWANGO CHA UMBALI WA KUFUNGA KASI"
+  },
+  {
+    "start": 2415,
+    "arabic": "باب مَنْ يَقُولُ صُمْتُ رَمَضَانَ كُلَّهُ",
+    "swahili": "MLANGO : ALIYESEMA: \"HAKIKA NIMEFUNGA RAMADHANI YOTE\""
+  },
+  {
+    "start": 2416,
+    "arabic": "باب فِي صَوْمِ الْعِيدَيْنِ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA SIKU YA 'EID MBILI"
+  },
+  {
+    "start": 2418,
+    "arabic": "باب صِيَامِ أَيَّامِ التَّشْرِيقِ",
+    "swahili": "MLANGO : KUFUNGA SIKU ZA AT-TASHRIQ"
+  },
+  {
+    "start": 2420,
+    "arabic": "باب النَّهْىِ أَنْ يُخَصَّ يَوْمُ الْجُمُعَةِ بِصَوْمٍ",
+    "swahili": "MLANGO : MARUFUKU YA KUTAJA IJUMAA KWA KUFUNGA"
+  },
+  {
+    "start": 2421,
+    "arabic": "باب النَّهْىِ أَنْ يُخَصَّ يَوْمُ السَّبْتِ بِصَوْمٍ",
+    "swahili": "MLANGO : MARUFUKU YA KUTAJA JUMAMOSI KWA KUFUNGA"
+  },
+  {
+    "start": 2422,
+    "arabic": "باب الرُّخْصَةِ فِي ذَلِكَ",
+    "swahili": "MLANGO : RUHUSA KWA HILO"
+  },
+  {
+    "start": 2425,
+    "arabic": "باب فِي صَوْمِ الدَّهْرِ تَطَوُّعًا",
+    "swahili": "MLANGO : KUHUSU KUFUNGA KWA HIARI ENDELEVU"
+  },
+  {
+    "start": 2428,
+    "arabic": "باب فِي صَوْمِ أَشْهُرِ الْحُرُمِ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA MIEZI ILIYO SIRI"
+  },
+  {
+    "start": 2429,
+    "arabic": "باب فِي صَوْمِ الْمُحَرَّمِ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA NDANI YA MUHARRAM"
+  },
+  {
+    "start": 2430,
+    "arabic": "باب فِي صَوْمِ رَجَبَ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA KATIKA RAJAB"
+  },
+  {
+    "start": 2431,
+    "arabic": "باب فِي صَوْمِ شَعْبَانَ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA NDANI YA SHA'BAN"
+  },
+  {
+    "start": 2432,
+    "arabic": "باب فِي صَوْمِ شَوَّالٍ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA NDANI YA SHAWWAL"
+  },
+  {
+    "start": 2433,
+    "arabic": "باب فِي صَوْمِ سِتَّةِ أَيَّامٍ مِنْ شَوَّالٍ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA SIKU SITA NDANI YA SHAWWAL"
+  },
+  {
+    "start": 2434,
+    "arabic": "باب كَيْفَ كَانَ يَصُومُ النَّبِيُّ صلى الله عليه وسلم",
+    "swahili": "MLANGO : JINSI GANI MTUME (SAWS) ATAKAVYOFUNGA"
+  },
+  {
+    "start": 2436,
+    "arabic": "باب فِي صَوْمِ الاِثْنَيْنِ وَالْخَمِيسِ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA JUMATATU NA ALHAMISI"
+  },
+  {
+    "start": 2437,
+    "arabic": "باب فِي صَوْمِ الْعَشْرِ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA SIKU KUMI (SIKU)"
+  },
+  {
+    "start": 2439,
+    "arabic": "باب فِي فِطْرِ الْعَشْرِ",
+    "swahili": "MLANGO : KUHUSU KUTOFUNGA WAKATI WA KUMI (SIKU ZA DHUL-HIJJAH)"
+  },
+  {
+    "start": 2440,
+    "arabic": "باب فِي صَوْمِ عَرَفَةَ بِعَرَفَةَ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA SIKU YA (SIKU YA) 'ARAFAH AT 'ARAFAT"
+  },
+  {
+    "start": 2442,
+    "arabic": "باب فِي صَوْمِ يَوْمِ عَاشُورَاءَ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA SIKU YA 'ASHURA'"
+  },
+  {
+    "start": 2445,
+    "arabic": "باب مَا رُوِيَ أَنَّ عَاشُورَاءَ الْيَوْمُ التَّاسِعُ",
+    "swahili": "MLANGO : NINI KIMEHUSIANA KUHUSU 'ASHURA' KUWA SIKU YA TISA (YA MUHARRAM)"
+  },
+  {
+    "start": 2447,
+    "arabic": "باب فِي فَضْلِ صَوْمِهِ",
+    "swahili": "MLANGO : FADHILA ZA KUFUNGA ('ASHURA')"
+  },
+  {
+    "start": 2448,
+    "arabic": "باب فِي صَوْمِ يَوْمٍ وَفِطْرِ يَوْمٍ",
+    "swahili": "MLANGO : KUFUNGA SIKU, NA SI KUFUNGA SIKU"
+  },
+  {
+    "start": 2449,
+    "arabic": "باب فِي صَوْمِ الثَّلاَثِ مِنْ كُلِّ شَهْرٍ",
+    "swahili": "MLANGO : KUHUSU KUFUNGA SIKU TATU KILA MWEZI"
+  },
+  {
+    "start": 2451,
+    "arabic": "باب مَنْ قَالَ الاِثْنَيْنِ وَالْخَمِيسِ",
+    "swahili": "MLANGO : ALIYESEMA JUMATATU NA ALHAMISI"
+  },
+  {
+    "start": 2453,
+    "arabic": "باب مَنْ قَالَ لاَ يُبَالِي مِنْ أَىِّ الشَّهْرِ",
+    "swahili": "MLANGO : ALIYESEMA KUWA HAKUNA KUTAFAKARI (SIKU YA KUFUNGA) YA MWEZI."
+  },
+  {
+    "start": 2454,
+    "arabic": "باب النِّيَّةِ فِي الصِّيَامِ",
+    "swahili": "MLANGO : NIA YA KUFUNGA"
+  },
+  {
+    "start": 2455,
+    "arabic": "باب فِي الرُّخْصَةِ فِي ذَلِكَ",
+    "swahili": "MLANGO : KUHUSU POSHO KWA HILO"
+  },
+  {
+    "start": 2457,
+    "arabic": "باب مَنْ رَأَى عَلَيْهِ الْقَضَاءَ",
+    "swahili": "MLANGO : YEYOTE ALIYEKUWA NA MAONI KWAMBA MTU WA NAMNA HIYO ANAPASWA KUTENGENEZA"
+  },
+  {
+    "start": 2458,
+    "arabic": "باب الْمَرْأَةِ تَصُومُ بِغَيْرِ إِذْنِ زَوْجِهَا",
+    "swahili": "MLANGO : MWANAMKE AKIFUNGA BILA RUHUSA YA MUMEWE"
+  },
+  {
+    "start": 2460,
+    "arabic": "باب فِي الصَّائِمِ يُدْعَى إِلَى وَلِيمَةٍ",
+    "swahili": "MLANGO : KUHUSU MWENYE KUFUNGA ANAYEALIKWA KWA WALIMAH (SIKUKUU YA HARUSI)"
+  },
+  {
+    "start": 2461,
+    "arabic": "باب مَا يَقُولُ الصَّائِمُ إِذَا دُعِيَ إِلَى الطَّعَامِ",
+    "swahili": "MLANGO : JE, MWENYE KUFUNGA ASEMEJE ANAPOALIKWA KWENYE CHAKULA?"
+  },
+  {
+    "start": 2462,
+    "arabic": "باب الاِعْتِكَافِ",
+    "swahili": "MLANGO : AL-I'TIKAF"
+  },
+  {
+    "start": 2465,
+    "arabic": "باب أَيْنَ يَكُونُ الاِعْتِكَافُ",
+    "swahili": "MLANGO : YUKO WAPI AL-I'TIKAF (ANAZINGATIWA) ?"
+  },
+  {
+    "start": 2467,
+    "arabic": "باب الْمُعْتَكِفِ يَدْخُلُ الْبَيْتَ لِحَاجَتِهِ",
+    "swahili": "MLANGO : MTU AKIINGIA I'TIKAF AKIINGIA NYUMBANI KWAKE KWA HITAJI"
+  },
+  {
+    "start": 2472,
+    "arabic": "باب الْمُعْتَكِفِ يَعُودُ الْمَرِيضَ",
+    "swahili": "MLANGO : MTU AKIANGALIA I'TIKAF KUWATEMBELEA WAGONJWA"
+  },
+  {
+    "start": 2476,
+    "arabic": "باب فِي الْمُسْتَحَاضَةِ تَعْتَكِفُ",
+    "swahili": "MLANGO : MWANAMKE ANAYESUMBULIWA NA ISTIHADAH AKIFUATILIA I'TIKAF"
+  }
+]

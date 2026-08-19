@@ -1,0 +1,497 @@
+[
+  {
+    "start": 1721,
+    "arabic": "باب فَرْضِ الْحَجِّ",
+    "swahili": "MLANGO : WAJIBU WA HAJJ"
+  },
+  {
+    "start": 1723,
+    "arabic": "باب فِي الْمَرْأَةِ تَحُجُّ بِغَيْرِ مَحْرَمٍ",
+    "swahili": "MLANGO : KUHUSU MWANAMKE ANAYEFANYA HAJJ BILA MAHRAM"
+  },
+  {
+    "start": 1729,
+    "arabic": "باب ‏\"‏ لاَ صَرُورَةَ ‏\"‏ فِي الإِسْلاَمِ",
+    "swahili": "MLANGO : HAKUNA UMONASTIKI (SARURAH) KATIKA UISLAMU"
+  },
+  {
+    "start": 1730,
+    "arabic": "باب التَّزَوُّدِ فِي الْحَجِّ",
+    "swahili": "MLANGO : KUCHUKUA RIZIKI KWA AJILI YA HAJJ"
+  },
+  {
+    "start": 1731,
+    "arabic": "باب التِّجَارَةِ فِي الْحَجِّ",
+    "swahili": "MLANGO : BIASHARA WAKATI WA HJJ"
+  },
+  {
+    "start": 1732,
+    "arabic": "باب",
+    "swahili": "MLANGO : ILI KUHARAKISHA KUFANYA HAJJ"
+  },
+  {
+    "start": 1733,
+    "arabic": "باب الْكَرِيِّ",
+    "swahili": "MLANGO : KWA KUKODISHA (MNYAMA ANAYEPANDA)"
+  },
+  {
+    "start": 1736,
+    "arabic": "باب فِي الصَّبِيِّ يَحُجُّ",
+    "swahili": "MLANGO : KUHUSU MTOTO AKIFANYA HAJJ"
+  },
+  {
+    "start": 1737,
+    "arabic": "باب فِي الْمَوَاقِيتِ",
+    "swahili": "MLANGO : KUHUSU MIQAT"
+  },
+  {
+    "start": 1743,
+    "arabic": "باب الْحَائِضِ تُهِلُّ بِالْحَجِّ",
+    "swahili": "MLANGO : MWANAMKE AKIINGIA IHRAM KWA HAJI WAKATI WA HEDHI ZAKE"
+  },
+  {
+    "start": 1745,
+    "arabic": "باب الطِّيبِ عِنْدَ الإِحْرَامِ",
+    "swahili": "MLANGO : KUVAA MANUKATO WAKATI WA KUINGIA HALI YA IHRAM"
+  },
+  {
+    "start": 1747,
+    "arabic": "باب التَّلْبِيدِ",
+    "swahili": "MLANGO : TALBID (KUTENGENEZA NYWELE)"
+  },
+  {
+    "start": 1749,
+    "arabic": "باب فِي الْهَدْىِ",
+    "swahili": "MLANGO : KUHUSU HADI"
+  },
+  {
+    "start": 1750,
+    "arabic": "باب فِي هَدْىِ الْبَقَرِ",
+    "swahili": "MLANGO : JUU YA NG'OMBE WA SADAKA"
+  },
+  {
+    "start": 1752,
+    "arabic": "باب فِي الإِشْعَارِ",
+    "swahili": "MLANGO : JUU YA KUWEKA ALAMA WANYAMA WA SADAKA"
+  },
+  {
+    "start": 1756,
+    "arabic": "باب تَبْدِيلِ الْهَدْىِ",
+    "swahili": "MLANGO : JUU YA KUBADILISHA WANYAMA WA SADAKA"
+  },
+  {
+    "start": 1757,
+    "arabic": "باب مَنْ بَعَثَ بِهَدْيِهِ وَأَقَامَ",
+    "swahili": "MLANGO : KUHUSU YULE ANAYEPELEKA MNYAMA WA SADAKA LAKINI ANABAKI MAKAZI."
+  },
+  {
+    "start": 1760,
+    "arabic": "باب فِي رُكُوبِ الْبُدْنِ",
+    "swahili": "MLANGO : JUU YA KUPANDA WANYAMA WA SADAKA"
+  },
+  {
+    "start": 1762,
+    "arabic": "باب فِي الْهَدْىِ إِذَا عَطِبَ قَبْلَ أَنْ يَبْلُغَ",
+    "swahili": "MLANGO : KUHUSU MNYAMA WA SADAKA KUSHINDWA KUENDELEA KUSAFIRI KABLA YA KUFIKA MAKKA."
+  },
+  {
+    "start": 1767,
+    "arabic": "باب كَيْفَ تُنْحَرُ الْبُدْنُ",
+    "swahili": "MLANGO : JINSI GANI NGAMIA ANAWEZA KUTOLEWA SADAKA"
+  },
+  {
+    "start": 1770,
+    "arabic": "باب فِي وَقْتِ الإِحْرَامِ",
+    "swahili": "MLANGO : WAKATI WA IHRAM"
+  },
+  {
+    "start": 1776,
+    "arabic": "باب الاِشْتِرَاطِ فِي الْحَجِّ",
+    "swahili": "MLANGO : HALI YA KUPIGA KATI WAKATI WA HJJ"
+  },
+  {
+    "start": 1777,
+    "arabic": "باب فِي إِفْرَادِ الْحَجِّ",
+    "swahili": "MLANGO : KUFANYA IFRAD HAJJ"
+  },
+  {
+    "start": 1795,
+    "arabic": "باب فِي الإِقْرَانِ",
+    "swahili": "MLANGO : KUHUSU QIRAN HAJJ"
+  },
+  {
+    "start": 1807,
+    "arabic": "باب الرَّجُلُ يُهِلُّ بِالْحَجِّ ثُمَّ يَجْعَلُهَا عُمْرَةً",
+    "swahili": "MLANGO : MTU AKIINGIA IHRAM KWA AJILI YA HAJJ KISHA AKAIBADILISHA KUWA 'UMRAH"
+  },
+  {
+    "start": 1809,
+    "arabic": "باب الرَّجُلِ يَحُجُّ عَنْ غَيْرِهِ",
+    "swahili": "MLANGO : MTU AKIFANYA HAJJ KWA NIABA YA MWINGINE"
+  },
+  {
+    "start": 1812,
+    "arabic": "باب كَيْفَ التَّلْبِيَةُ",
+    "swahili": "MLANGO : UTARATIBU WA TALBIYAH"
+  },
+  {
+    "start": 1815,
+    "arabic": "باب مَتَى يَقْطَعُ التَّلْبِيَةَ",
+    "swahili": "MLANGO : LINI MTU ANAPASWA KUACHA TALBIYAH?"
+  },
+  {
+    "start": 1817,
+    "arabic": "باب مَتَى يَقْطَعُ الْمُعْتَمِرُ التَّلْبِيَةَ",
+    "swahili": "MLANGO : JE, LINI YULE ANAYEFANYA 'UMRA AACHE TALBIYAH?"
+  },
+  {
+    "start": 1818,
+    "arabic": "باب الْمُحْرِمِ يُؤَدِّبُ غُلاَمَهُ",
+    "swahili": "MLANGO : YULE NDANI YA IHRAM ANAYEMUADHIBU MTUMWA WAKE"
+  },
+  {
+    "start": 1819,
+    "arabic": "باب الرَّجُلِ يُحْرِمُ فِي ثِيَابِهِ",
+    "swahili": "MLANGO : MTU AKIINGIA NDANI YA IHRAM AKIWA AMEVAA NGUO ZAKE ZA KAWAIDA."
+  },
+  {
+    "start": 1823,
+    "arabic": "باب مَا يَلْبَسُ الْمُحْرِمُ",
+    "swahili": "MLANGO : NINI MUHRIM ANAPASWA KUVAA"
+  },
+  {
+    "start": 1832,
+    "arabic": "باب الْمُحْرِمِ يَحْمِلُ السِّلاَحَ",
+    "swahili": "MLANGO : MUHRIM AKIBEBA SILAHA"
+  },
+  {
+    "start": 1833,
+    "arabic": "باب فِي الْمُحْرِمَةِ تُغَطِّي وَجْهَهَا",
+    "swahili": "MLANGO : KUHUSU MWANAMKE MWENYE IHRAM AKIFUNIKA USO WAKE"
+  },
+  {
+    "start": 1834,
+    "arabic": "باب فِي الْمُحْرِمِ يُظَلَّلُ",
+    "swahili": "MLANGO : MUHRIM AKIWA KIVULI"
+  },
+  {
+    "start": 1835,
+    "arabic": "باب الْمُحْرِمِ يَحْتَجِمُ",
+    "swahili": "MLANGO : MUHRIM AKIPIGWA KIKOMBE"
+  },
+  {
+    "start": 1838,
+    "arabic": "باب يَكْتَحِلُ الْمُحْرِمُ",
+    "swahili": "MLANGO : MUHRIM ANAYETUMIA KOHL"
+  },
+  {
+    "start": 1840,
+    "arabic": "باب الْمُحْرِمِ يَغْتَسِلُ",
+    "swahili": "MLANGO : KUOGA MUHRIM"
+  },
+  {
+    "start": 1841,
+    "arabic": "باب الْمُحْرِمِ يَتَزَوَّجُ",
+    "swahili": "MLANGO : KUOA KWA MUHRIM"
+  },
+  {
+    "start": 1846,
+    "arabic": "باب مَا يَقْتُلُ الْمُحْرِمُ مِنَ الدَّوَابِّ",
+    "swahili": "MLANGO : WANYAMA AMBAO MUHRIM ANARUHUSIWA KUWAUA"
+  },
+  {
+    "start": 1849,
+    "arabic": "باب لَحْمِ الصَّيْدِ لِلْمُحْرِمِ",
+    "swahili": "MLANGO : NYAMA YA MCHEZO KWA MUHRIM"
+  },
+  {
+    "start": 1853,
+    "arabic": "باب فِي الْجَرَادِ لِلْمُحْرِمِ",
+    "swahili": "MLANGO : KUHUSU KULA NZIGE NA MUHRIM"
+  },
+  {
+    "start": 1856,
+    "arabic": "باب فِي الْفِدْيَةِ",
+    "swahili": "MLANGO : KUHUSU FIDYAH"
+  },
+  {
+    "start": 1862,
+    "arabic": "باب الإِحْصَارِ",
+    "swahili": "MLANGO : AKIZUIWA KUTIMIZA HAJJ"
+  },
+  {
+    "start": 1865,
+    "arabic": "باب دُخُولِ مَكَّةَ",
+    "swahili": "MLANGO : KUINGIA MAKAKA"
+  },
+  {
+    "start": 1870,
+    "arabic": "باب فِي رَفْعِ الْيَدَيْنِ إِذَا رَأَى الْبَيْتَ",
+    "swahili": "MLANGO : KUINUA MKONO WAKATI WA KUONA NYUMBA"
+  },
+  {
+    "start": 1873,
+    "arabic": "باب فِي تَقْبِيلِ الْحَجَرِ",
+    "swahili": "MLANGO : JUU YA KUBUSU JIWE LEUSI"
+  },
+  {
+    "start": 1874,
+    "arabic": "باب اسْتِلاَمِ الأَرْكَانِ",
+    "swahili": "MLANGO : KUGUSA KONA NYINGINE"
+  },
+  {
+    "start": 1877,
+    "arabic": "باب الطَّوَافِ الْوَاجِبِ",
+    "swahili": "MLANGO : KUHUSU TAWAF YA WAJIBU"
+  },
+  {
+    "start": 1883,
+    "arabic": "باب الاِضْطِبَاعِ فِي الطَّوَافِ",
+    "swahili": "MLANGO : KUFUNUA BEGA LA KULIA WAKATI WA TAWAF"
+  },
+  {
+    "start": 1885,
+    "arabic": "باب فِي الرَّمَلِ",
+    "swahili": "MLANGO : AR-RAML (KUTEMBEA KWA GHASIA WAKATI WA TAWAF)"
+  },
+  {
+    "start": 1892,
+    "arabic": "باب الدُّعَاءِ فِي الطَّوَافِ",
+    "swahili": "MLANGO : KUOMBA DUA WAKATI WA TAWAF"
+  },
+  {
+    "start": 1894,
+    "arabic": "باب الطَّوَافِ بَعْدَ الْعَصْرِ",
+    "swahili": "MLANGO : KUFANYA TAWAF BAADA YA ASR"
+  },
+  {
+    "start": 1895,
+    "arabic": "باب طَوَافِ الْقَارِنِ",
+    "swahili": "MLANGO : TAWAF KWA ANAYEFANYA QIRAN"
+  },
+  {
+    "start": 1898,
+    "arabic": "باب الْمُلْتَزَمِ",
+    "swahili": "MLANGO : KUHUSU MULTAZAM"
+  },
+  {
+    "start": 1901,
+    "arabic": "باب أَمْرِ الصَّفَا وَالْمَرْوَةِ",
+    "swahili": "MLANGO : KUHUSU AS-SAFA NA AL-MARWAH"
+  },
+  {
+    "start": 1905,
+    "arabic": "باب صِفَةِ حَجَّةِ النَّبِيِّ صلى الله عليه وسلم",
+    "swahili": "MLANGO : MAELEZO YA HAJJ YA MTUME (SAWS)."
+  },
+  {
+    "start": 1910,
+    "arabic": "باب الْوُقُوفِ بِعَرَفَةَ",
+    "swahili": "MLANGO : AKISIMAMA 'ARAFAH"
+  },
+  {
+    "start": 1911,
+    "arabic": "باب الْخُرُوجِ إِلَى مِنًى",
+    "swahili": "MLANGO : KUONDOKA KWA MINA"
+  },
+  {
+    "start": 1913,
+    "arabic": "باب الْخُرُوجِ إِلَى عَرَفَةَ",
+    "swahili": "MLANGO : KUACHA MINA KWA 'ARAFAH"
+  },
+  {
+    "start": 1914,
+    "arabic": "باب الرَّوَاحِ إِلَى عَرَفَةَ",
+    "swahili": "MLANGO : KUINGIA 'ARAFAH"
+  },
+  {
+    "start": 1915,
+    "arabic": "باب الْخُطْبَةِ عَلَى الْمِنْبَرِ بِعَرَفَةَ",
+    "swahili": "MLANGO : KUTOA MAHUBIRI KWENYE MINBAR HUKO 'ARAFAH"
+  },
+  {
+    "start": 1919,
+    "arabic": "باب مَوْضِعِ الْوُقُوفِ بِعَرَفَةَ",
+    "swahili": "MLANGO : NAFASI YA KUSIMAMA KWENYE 'ARAFAH"
+  },
+  {
+    "start": 1920,
+    "arabic": "باب الدَّفْعَةِ مِنْ عَرَفَةَ",
+    "swahili": "MLANGO : KUTOKA KWA 'ARAFAH"
+  },
+  {
+    "start": 1926,
+    "arabic": "باب الصَّلاَةِ بِجَمْعٍ",
+    "swahili": "MLANGO : SWALA AL-JAM' (AL-MUZDALIFAH)"
+  },
+  {
+    "start": 1939,
+    "arabic": "باب التَّعْجِيلِ مِنْ جَمْعٍ",
+    "swahili": "MLANGO : KUONDOKA MAPEMA KUTOKA KWA JAM' (AL-MUZDALIFAH)"
+  },
+  {
+    "start": 1945,
+    "arabic": "باب يَوْمِ الْحَجِّ الأَكْبَرِ",
+    "swahili": "MLANGO : SIKU YA 'HAJJ KUU'"
+  },
+  {
+    "start": 1947,
+    "arabic": "باب الأَشْهُرِ الْحُرُمِ",
+    "swahili": "MLANGO : MIEZI MATAKATIFU"
+  },
+  {
+    "start": 1949,
+    "arabic": "باب مَنْ لَمْ يُدْرِكْ عَرَفَةَ",
+    "swahili": "MLANGO : ALIYEKOSA 'ARAFAH"
+  },
+  {
+    "start": 1951,
+    "arabic": "باب النُّزُولِ بِمِنًى",
+    "swahili": "MLANGO : AKIWA KAMBI MINA"
+  },
+  {
+    "start": 1952,
+    "arabic": "باب أَىِّ يَوْمٍ يَخْطُبُ بِمِنًى",
+    "swahili": "MLANGO : SIKU GANI MAHUBIRI YATOLEWE MINA ?"
+  },
+  {
+    "start": 1954,
+    "arabic": "باب مَنْ قَالَ خَطَبَ يَوْمَ النَّحْرِ",
+    "swahili": "MLANGO : ALIYESEMA KUWA MAHUBIRI YANATOLEWA SIKU YA SADAKA"
+  },
+  {
+    "start": 1956,
+    "arabic": "باب أَىِّ وَقْتٍ يَخْطُبُ يَوْمَ النَّحْرِ",
+    "swahili": "MLANGO : NI SAA GANI MAHUBIRI YATOLEWE SIKU YA SADAKA."
+  },
+  {
+    "start": 1957,
+    "arabic": "باب مَا يَذْكُرُ الإِمَامُ فِي خُطْبَتِهِ بِمِنًى",
+    "swahili": "MLANGO : IMAM ATAJE KATIKA KHUTBAH YAKE HUKO MINA ?"
+  },
+  {
+    "start": 1958,
+    "arabic": "باب يَبِيتُ بِمَكَّةَ لَيَالِيَ مِنًى",
+    "swahili": "MLANGO : KATIKA KUTUMIA USIKU WA MINA MAKAKA"
+  },
+  {
+    "start": 1960,
+    "arabic": "باب الصَّلاَةِ بِمِنًى",
+    "swahili": "MLANGO : SALAMA YA MINA"
+  },
+  {
+    "start": 1965,
+    "arabic": "باب الْقَصْرِ لأَهْلِ مَكَّةَ",
+    "swahili": "MLANGO : KUFUPISHA DUA KWA WAKAZI WA MAKAKA"
+  },
+  {
+    "start": 1966,
+    "arabic": "باب فِي رَمْىِ الْجِمَارِ",
+    "swahili": "MLANGO : KUHUSU KUPIGA MAWE JIMAR"
+  },
+  {
+    "start": 1979,
+    "arabic": "باب الْحَلْقِ وَالتَّقْصِيرِ",
+    "swahili": "MLANGO : KUHUSU KUNDOA FUPI NA KUNYOA NYWELE"
+  },
+  {
+    "start": 1986,
+    "arabic": "باب الْعُمْرَةِ",
+    "swahili": "MLANGO : KUHUSU 'UMRA"
+  },
+  {
+    "start": 1995,
+    "arabic": "باب الْمُهِلَّةِ بِالْعُمْرَةِ تَحِيضُ فَيُدْرِكُهَا الْحَجُّ",
+    "swahili": "MLANGO : KUHUSU WANAWAKE WENYE HEDHI WALIOINGIA IHRAM KWA AJILI YA UMRAH, LAKINI WAKASHIKEA WAKATI WA HAJI, HIVYO."
+  },
+  {
+    "start": 1997,
+    "arabic": "باب الْمَقَامِ فِي الْعُمْرَةِ",
+    "swahili": "MLANGO : KUBAKI MAKAKA BAADA YA 'UMRAH"
+  },
+  {
+    "start": 1998,
+    "arabic": "باب الإِفَاضَةِ فِي الْحَجِّ",
+    "swahili": "MLANGO : TAWAF YA AL-IFADAH KATIKA HJJ"
+  },
+  {
+    "start": 2002,
+    "arabic": "باب الْوَدَاعِ",
+    "swahili": "MLANGO : KUONDOKA (KUTOKA MAKAKA)"
+  },
+  {
+    "start": 2003,
+    "arabic": "باب الْحَائِضِ تَخْرُجُ بَعْدَ الإِفَاضَةِ",
+    "swahili": "MLANGO : MWANAMKE MWENYE HEDHI ANAYEONDOKA BAADA YA (TAWAF YA) AL-IFADAH."
+  },
+  {
+    "start": 2005,
+    "arabic": "باب طَوَافِ الْوَدَاعِ",
+    "swahili": "MLANGO : KUHUSU TAWAF YA KUAGA"
+  },
+  {
+    "start": 2008,
+    "arabic": "باب التَّحْصِيبِ",
+    "swahili": "MLANGO : KUPIGA KAMBI KATIKA BONDE LA AL-MUHASSAB"
+  },
+  {
+    "start": 2014,
+    "arabic": "باب فِيمَنْ قَدَّمَ شَيْئًا قَبْلَ شَىْءٍ فِي حَجِّهِ",
+    "swahili": "MLANGO : KUHUSU MTU ALIYEFANYA TENDO KABLA YA WAKATI WAKE WAKATI WA HAJJ."
+  },
+  {
+    "start": 2016,
+    "arabic": "باب فِي مَكَّةَ",
+    "swahili": "MLANGO : KUHUSU (KUOMBA NYUMA YA SUTRAH NDANI) MAKAKA"
+  },
+  {
+    "start": 2017,
+    "arabic": "باب تَحْرِيمِ حَرَمِ مَكَّةَ",
+    "swahili": "MLANGO : KUHUSU UTAKATIFU ​​WA MAKAKA"
+  },
+  {
+    "start": 2021,
+    "arabic": "باب فِي نَبِيذِ السِّقَايَةِ",
+    "swahili": "MLANGO : KUHUSU KUMPA NABIDH MUHRIM KUNYWA"
+  },
+  {
+    "start": 2022,
+    "arabic": "باب الإِقَامَةِ بِمَكَّةَ",
+    "swahili": "MLANGO : KUKAA MAKAKA"
+  },
+  {
+    "start": 2023,
+    "arabic": "باب الصَّلَاةِ فِي الْكَعْبَةِ",
+    "swahili": "MLANGO : KUOMBA NDANI YA KA'BA"
+  },
+  {
+    "start": 2028,
+    "arabic": "باب الصَّلَاةِ فِي الْحِجْرِ",
+    "swahili": "MLANGO : KUHUSU SALA YA HIJR"
+  },
+  {
+    "start": 2029,
+    "arabic": "باب فِي دُخُولِ الْكَعْبَةِ",
+    "swahili": "MLANGO : KUINGIA KA'BA"
+  },
+  {
+    "start": 2031,
+    "arabic": "باب فِي مَالِ الْكَعْبَةِ",
+    "swahili": "MLANGO : KUHUSU UTAJIRI NDANI YA KA'BA"
+  },
+  {
+    "start": 2033,
+    "arabic": "باب فِي إِتْيَانِ الْمَدِينَةِ",
+    "swahili": "MLANGO : KWENDA KWA AL-MADINAH"
+  },
+  {
+    "start": 2034,
+    "arabic": "باب فِي تَحْرِيمِ الْمَدِينَةِ",
+    "swahili": "MLANGO : KUHUSU UTAKATIFU ​​WA AL-MADINAH"
+  },
+  {
+    "start": 2041,
+    "arabic": "باب زِيَارَةِ الْقُبُورِ",
+    "swahili": "MLANGO : KUTEMBELEA MAKABURI"
+  }
+]

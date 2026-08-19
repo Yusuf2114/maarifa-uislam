@@ -1,0 +1,22 @@
+[
+{ "start": 2385, "arabic": "باب مَنِ اشْتَرَى بِالدَّيْنِ وَلَيْسَ عِنْدَهُ ثَمَنُهُ، أَوْ لَيْسَ بِحَضْرَتِهِ", "swahili": "MLANGO 1: Yule anayenunua kitu kwa mkopo na hana thamani yake (pesa) mkononi, au haina naye hapo alipo" },
+{ "start": 2387, "arabic": "باب مَنْ أَخَذَ أَمْوَالَ النَّاسِ يُرِيدُ أَدَاءَهَا أَوْ إِتْلاَفَهَا", "swahili": "MLANGO 2: Kukopa mali za watu kwa nia ya kuzilipa au kwa nia ya kuzipoteza (kuzidhulumu)" },
+{ "start": 2388, "arabic": "باب أَدَاءِ الدُّيُونِ وَقَوْلِ اللَّهِ تَعَالَى إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا", "swahili": "MLANGO 3: Ulipaji wa madeni na kauli ya Allah: «Hakika Allah anawaamrisha mzirudishe amana kwa wenyewe»" },
+{ "start": 2390, "arabic": "باب اسْتِقْرَاضِ الإِبِلِ", "swahili": "MLANGO 4: Kukopa ngamia (kama deni)" },
+{ "start": 2391, "arabic": "باب حُسْنِ التَّقَاضِي", "swahili": "MLANGO 5: Kudai deni kwa njia nzuri na ya upole" },
+{ "start": 2392, "arabic": "باب هَلْ يُعْطَى أَكْبَرَ مِنْ سِنِّهِ", "swahili": "MLANGO 6: Je, inawezekana kumlipa mdai ngamia mwenye umri mkubwa kuliko yule anayedaiwa?" },
+{ "start": 2393, "arabic": "باب حُسْنِ الْقَضَاءِ", "swahili": "MLANGO 7: Kulipa deni kwa njia nzuri na ya ukarimu" },
+{ "start": 2395, "arabic": "باب إِذَا قَضَى دُونَ حَقِّهِ أَوْ حَلَّلَهُ فَهْوَ جَائِزٌ", "swahili": "MLANGO 8: Ikiwa mtu atalipa kidogo kuliko anachodaiwa au mdai akamsamehe sehemu ya deni, basi inajuzu" },
+{ "start": 2396, "arabic": "باب إِذَا قَاصَّ أَوْ جَازَفَهُ فِي الدَّيْنِ تَمْرًا بِتَمْرٍ أَوْ غَيْرِهِ", "swahili": "MLANGO 9: Kukamilisha hesabu kwa kulipana deni la tende kwa tende au vinginevyo kwa makadirio" },
+{ "start": 2397, "arabic": "باب مَنِ اسْتَعَاذَ مِنَ الدَّيْنِ", "swahili": "MLANGO 10: Yule anayejikinga kwa Allah kutokana na deni" },
+{ "start": 2398, "arabic": "باب الصَّلاَةِ عَلَى مَنْ تَرَكَ دَيْنًا", "swahili": "MLANGO 11: Swala ya jeneza kwa mtu aliyekufa akiwa na deni" },
+{ "start": 2400, "arabic": "باب مَطْلُ الْغَنِيِّ ظُلْمٌ", "swahili": "MLANGO 12: Tajiri (mwenye uwezo) kuchelewesha kulipa deni ni dhuluma" },
+{ "start": 2401, "arabic": "باب لِصَاحِبِ الْحَقِّ مَقَالٌ", "swahili": "MLANGO 13: Mwenye haki (mdai) anaruhusiwa kusema (kudai haki yake)" },
+{ "start": 2402, "arabic": "باب إِذَا وَجَدَ مَالَهُ عِنْدَ مُفْلِسٍ فِي الْبَيْعِ وَالْقَرْضِ وَالْوَدِيعَةِ فَهْوَ أَحَقُّ بِهِ", "swahili": "MLANGO 14: Akikuta mali yake kwa mtu aliyefilisika katika mauzo, mkopo au amana, basi yeye ana haki nayo zaidi" },
+{ "start": 2400, "arabic": "بَابُ مَنْ أَخَّرَ الْغَرِيمَ إِلَى الْغَدِ أَوْ نَحْوِهِ، وَلَمْ يَرَ ذَلِكَ مَطْلاً", "swahili": "MLANGO 15: Yule anayemsogezea mdaiwa muda mpaka kesho au mfano wake, na haoni kuwa huko ni kuchelewesha" },
+{ "start": 2403, "arabic": "باب مَنْ بَاعَ مَالَ الْمُفْلِسِ أَوِ الْمُعْدِمِ فَقَسَمَهُ بَيْنَ الْغُرَمَاءِ", "swahili": "MLANGO 16: Yule anayeuza mali ya aliyefilisika au fukara na kuigawanya miongoni mwa wadai" },
+{ "start": 2404, "arabic": "باب إِذَا أَقْرَضَهُ إِلَى أَجَلٍ مُسَمًّى أَوْ أَجَّلَهُ فِي الْبَيْعِ", "swahili": "MLANGO 17: Ikiwa amemkopesha kwa muda maalumu au amempa muda katika mauzo" },
+{ "start": 2405, "arabic": "باب الشَّفَاعَةِ فِي وَضْعِ الدَّيْنِ", "swahili": "MLANGO 18: Uombezi katika kupunguza deni" },
+{ "start": 2407, "arabic": "باب مَا يُنْهَى عَنْ إِضَاعَةِ الْمَالِ وَقَوْلِ اللَّهِ تَعَالَى وَاللَّهُ لاَ يُحِبُّ الْفَسَادَ", "swahili": "MLANGO 19: Yale yaliyokatazwa kuhusu kupoteza mali na kauli ya Allah: «Na Allah hapendi ufisadi»" },
+{ "start": 2409, "arabic": "باب الْعَبْدُ رَاعٍ فِي مَالِ سَيِّدِهِ وَلاَ يَعْمَلُ إِلاَّ بِإِذْنِهِ", "swahili": "MLANGO 20: Mtumwa ni msimamizi wa mali ya bwana wake na hafanyi lolote isipokuwa kwa idhini yake" }
+]

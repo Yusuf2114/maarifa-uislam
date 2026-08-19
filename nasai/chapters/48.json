@@ -1,0 +1,622 @@
+[
+  {
+    "start": "5040",
+    "arabic": "باب الْفِطْرَةِ ‏‏",
+    "swahili": "MLANGO: FITRAH"
+  },
+  {
+    "start": "5045",
+    "arabic": "باب إِحْفَاءِ الشَّارِبِ ‏‏",
+    "swahili": "MLANGO: KUPUNGUZA MASHARUBU"
+  },
+  {
+    "start": "5048",
+    "arabic": "باب الرُّخْصَةِ فِي حَلْقِ الرَّأْسِ ‏‏",
+    "swahili": "MLANGO: MAKUBALIANO YA KUNYOA KICHWA"
+  },
+  {
+    "start": "5049",
+    "arabic": "باب النَّهْىِ عَنْ حَلْقِ الْمَرْأَةِ، رَأْسَهَا ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA MWANAMKE KUNYOA KICHWA CHAKE"
+  },
+  {
+    "start": "5050",
+    "arabic": "باب النَّهْىِ عَنِ الْقَزَعِ، ‏‏",
+    "swahili": "MLANGO: KUHARAMISHWA KWA AL-QAZA' (KUNYOA SEHEMU YA KICHWA NA KUACHA SEHEMU)"
+  },
+  {
+    "start": "5052",
+    "arabic": "باب الأَخْذِ مِنَ الشَّعْرِ ‏‏",
+    "swahili": "MLANGO: KUKATA NYWELE (NYWELE)"
+  },
+  {
+    "start": "5055",
+    "arabic": "باب التَّرَجُّلِ غِبًّا ‏‏",
+    "swahili": "MLANGO: KUCHANA NYWELE KILA SIKU NYINGINE"
+  },
+  {
+    "start": "5059",
+    "arabic": "باب التَّيَامُنِ فِي التَّرَجُّلِ ‏‏",
+    "swahili": "MLANGO: KUANZIA KULIA WAKATI WA KUCHANA NYWELE ZA MTU"
+  },
+  {
+    "start": "5060",
+    "arabic": "باب اتِّخَاذِ الشَّعْرِ ‏‏",
+    "swahili": "MLANGO: KURUHUSU NYWELE KUKUA"
+  },
+  {
+    "start": "5063",
+    "arabic": "باب الذُّؤَابَةِ ‏‏",
+    "swahili": "MLANGO: MISUKO"
+  },
+  {
+    "start": "5066",
+    "arabic": "باب تَطْوِيلِ الْجُمَّةِ ‏‏",
+    "swahili": "MLANGO: KURUHUSU NYWELE KUKUA KWA MUDA MREFU"
+  },
+  {
+    "start": "5067",
+    "arabic": "باب عَقْدِ اللِّحْيَةِ ‏‏",
+    "swahili": "MLANGO: KUFUNGA NDEVU"
+  },
+  {
+    "start": "5068",
+    "arabic": "باب النَّهْىِ عَنْ نَتْفِ الشَّيْبِ، ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA KUNYOA MVI"
+  },
+  {
+    "start": "5069",
+    "arabic": "باب الإِذْنِ بِالْخِضَابِ ‏‏",
+    "swahili": "MLANGO: RUHUSA YA KUPAKA NYWELE"
+  },
+  {
+    "start": "5075",
+    "arabic": "باب النَّهْىِ عَنِ الْخِضَابِ، بِالسَّوَادِ ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA KUPAKA NYWELE NYEUSI"
+  },
+  {
+    "start": "5077",
+    "arabic": "باب الْخِضَابِ بِالْحِنَّاءِ وَالْكَتَمِ ‏‏",
+    "swahili": "MLANGO: KUPAKA NYWELE KWA HENNA NA KATAM"
+  },
+  {
+    "start": "5085",
+    "arabic": "باب الْخِضَابِ بِالصُّفْرَةِ ‏‏",
+    "swahili": "MLANGO: KUPAKA NYWELE KWA RANGI YA MANJANO"
+  },
+  {
+    "start": "5089",
+    "arabic": "باب الْخِضَابِ لِلنِّسَاءِ ‏‏",
+    "swahili": "MLANGO: WANAWAKE KUPAKA RANGI"
+  },
+  {
+    "start": "5090",
+    "arabic": "باب كَرَاهِيَةِ رِيحِ الْحِنَّاءِ ‏‏",
+    "swahili": "MLANGO: KUTOPENDA HARUFU YA HINA"
+  },
+  {
+    "start": "5091",
+    "arabic": "باب النَّتْفِ ‏‏",
+    "swahili": "MLANGO: KUNYOA NYWELE"
+  },
+  {
+    "start": "5092",
+    "arabic": "باب وَصْلِ الشَّعْرِ بِالْخِرَقِ ‏‏",
+    "swahili": "MLANGO: KUPANUA NYWELE KWA NGUO"
+  },
+  {
+    "start": "5094",
+    "arabic": "باب الْوَاصِلَةِ ‏‏",
+    "swahili": "MLANGO: MWANAMKE ANAYEBANDIKA VIONGEZEO VYA NYWELE"
+  },
+  {
+    "start": "5095",
+    "arabic": "باب الْمُسْتَوْصِلَةِ ‏‏",
+    "swahili": "MLANGO: MWANAMKE AMBAYE AMEBANDIKWA VIONGEZEO VYA NYWELE"
+  },
+  {
+    "start": "5099",
+    "arabic": "باب الْمُتَنَمِّصَاتِ ‏‏",
+    "swahili": "MLANGO: AL-MUTANAMMISAT (WANAWAKE WALIONG'OLEWA NYUSI)"
+  },
+  {
+    "start": "5102",
+    "arabic": "باب الْمُوتَشِمَاتِ وَذِكْرِ الاِخْتِلاَفِ عَلَى عَبْدِ اللَّهِ بْنِ مُرَّةَ وَالشَّعْبِيِّ فِي هَذَا ‏.‏",
+    "swahili": "MLANGO: WANAWAKE WALIOCHORA TATTOO, NA KUTAJWA KWA TOFAUTI IMEPOKEWA KUTOKA KWA ABDULLAH BIN MURRAH NA ASH-SHA'BI KUHUSU HILI."
+  },
+  {
+    "start": "5107",
+    "arabic": "باب الْمُتَفَلِّجَاتِ ‏‏",
+    "swahili": "MLANGO: WANAWAKE WALIOTENGANISHWA MENO"
+  },
+  {
+    "start": "5110",
+    "arabic": "باب تَحْرِيمِ الْوَشْرِ ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA KUWEKA FAILI (MENO)"
+  },
+  {
+    "start": "5113",
+    "arabic": "باب الْكُحْلِ ‏‏",
+    "swahili": "MLANGO: KOHL"
+  },
+  {
+    "start": "5114",
+    "arabic": "باب الدَّهْنِ ‏‏",
+    "swahili": "MLANGO: AD-DAHN (MAFUTA)"
+  },
+  {
+    "start": "5115",
+    "arabic": "باب الزَّعْفَرَانِ ‏‏",
+    "swahili": "MLANGO: ZAFARANI"
+  },
+  {
+    "start": "5116",
+    "arabic": "باب الْعَنْبَرِ ‏‏",
+    "swahili": "MLANGO: AMBER"
+  },
+  {
+    "start": "5117",
+    "arabic": "باب الْفَصْلِ بَيْنَ طِيبِ الرِّجَالِ وَطِيبِ النِّسَاءِ ‏‏",
+    "swahili": "MLANGO: TOFAUTI KATI YA PERFUMES KWA WANAUME NA PERFUMES KWA WANAWAKE"
+  },
+  {
+    "start": "5119",
+    "arabic": "باب أَطْيَبِ الطِّيبِ ‏‏",
+    "swahili": "MLANGO: AINA BORA YA PERFUME"
+  },
+  {
+    "start": "5120",
+    "arabic": "باب التَّزَعْفُرِ وَالْخَلُوقِ ‏‏",
+    "swahili": "MLANGO: ZAFARANI NA AL-KHALUQ"
+  },
+  {
+    "start": "5126",
+    "arabic": "باب مَا يُكْرَهُ لِلنِّسَاءِ مِنَ الطِّيبِ ‏‏",
+    "swahili": "MLANGO: AINA ZA MANUKATO YANAYOCHUKIWA (MAKRUH) KWA WANAWAKE"
+  },
+  {
+    "start": "5127",
+    "arabic": "باب اغْتِسَالِ الْمَرْأَةِ مِنَ الطِّيبِ ‏‏",
+    "swahili": "MLANGO: WANAWAKE WANAOFANYA GHUSL KUONDOA PERFUME"
+  },
+  {
+    "start": "5128",
+    "arabic": "باب النَّهْىِ لِلْمَرْأَةِ أَنْ تَشْهَدَ الصَّلاَةَ إِذَا أَصَابَتْ مِنَ الْبَخُورِ ‏‏",
+    "swahili": "MLANGO: UHARAMU WA WANAWAKE KUHUDHURIA SWALA IKIWA WAMEJITIA UVUMBA"
+  },
+  {
+    "start": "5135",
+    "arabic": "باب الْبَخُورِ ‏‏",
+    "swahili": "MLANGO: UVUMBA"
+  },
+  {
+    "start": "5136",
+    "arabic": "باب الْكَرَاهِيَةِ لِلنِّسَاءِ فِي إِظْهَارِ الْحُلِيِّ وَالذَّهَبِ ‏‏",
+    "swahili": "MLANGO: KUTOPENDA WANAWAKE KUONYESHA VITO VYAO NA DHAHABU"
+  },
+  {
+    "start": "5144",
+    "arabic": "باب تَحْرِيمِ الذَّهَبِ عَلَى الرِّجَالِ ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA DHAHABU KWA WANAUME"
+  },
+  {
+    "start": "5161",
+    "arabic": "باب مَنْ أُصِيبَ أَنْفُهُ هَلْ يَتَّخِذُ أَنْفًا مِنْ ذَهَبٍ ‏‏",
+    "swahili": "MLANGO: IKIWA PUA YA MWANADAMU IMEKATWA, JE, ANAWEZA KUVAA PUA ILIYOTENGENEZWA KWA DHAHABU?"
+  },
+  {
+    "start": "5163",
+    "arabic": "باب الرُّخْصَةِ فِي خَاتَمِ الذَّهَبِ لِلرِّجَالِ ‏‏",
+    "swahili": "MLANGO: MAKUBALIANO YA PETE ZA DHAHABU KWA WANAUME"
+  },
+  {
+    "start": "5164",
+    "arabic": "باب خَاتَمِ الذَّهَبِ ‏‏",
+    "swahili": "MLANGO: PETE ZA DHAHABU"
+  },
+  {
+    "start": "5180",
+    "arabic": "باب الاِخْتِلاَفِ عَلَى يَحْيَى بْنِ أَبِي كَثِيرٍ فِيهِ",
+    "swahili": "MLANGO: TOFAUTI ZILIZORIPOTIWA KUTOKA KWA YAHYA BIN ABI KATHIR KUHUSU HILO"
+  },
+  {
+    "start": "5183",
+    "arabic": "باب حَدِيثِ عَبِيدَةَ",
+    "swahili": "MLANGO: HADIYTH YA ́ABIDAH"
+  },
+  {
+    "start": "5186",
+    "arabic": "باب حَدِيثِ أَبِي هُرَيْرَةَ وَالاِخْتِلاَفِ عَلَى قَتَادَةَ",
+    "swahili": "MLANGO: HADIYTH YA ABU HURAIRAH NA TOFAUTI IMEPOKEWA KUTOKA KWA QATADAH"
+  },
+  {
+    "start": "5195",
+    "arabic": "باب مِقْدَارِ مَا يُجْعَلُ فِي الْخَاتَمِ مِنَ الْفِضَّةِ ‏‏",
+    "swahili": "MLANGO: KIASI CHA FEDHA KINACHOWEZA KUJUMUISHWA KWENYE PETE"
+  },
+  {
+    "start": "5196",
+    "arabic": "باب صِفَةِ خَاتَمِ النَّبِيِّ صلى الله عليه وسلم ‏‏",
+    "swahili": "MLANGO: MAELEZO YA PETE YA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM)"
+  },
+  {
+    "start": "5203",
+    "arabic": "باب مَوْضِعِ الْخَاتَمِ مِنَ الْيَدِ ذِكْرِ حَدِيثِ عَلِيٍّ وَعَبْدِ اللَّهِ بْنِ جَعْفَرٍ ‏‏",
+    "swahili": "MLANGO: AMBAPO PETE INAPASWA KUVALIWA MIKONONI, KUTAJA HADITHI YA ALI NA ABDULLAH BIN JA'FAR."
+  },
+  {
+    "start": "5205",
+    "arabic": "باب لُبْسِ خَاتَمِ حَدِيدٍ مَلْوِيٍّ عَلَيْهِ بِفِضَّةٍ ‏‏",
+    "swahili": "MLANGO: KUVAA PETE YA CHUMA YENYE SILVER ILIYOSOKOTWA KUZUNGUKA"
+  },
+  {
+    "start": "5206",
+    "arabic": "باب لُبْسِ خَاتَمِ صُفْرٍ ‏‏",
+    "swahili": "MLANGO: KUVAA PETE YA SHABA"
+  },
+  {
+    "start": "5209",
+    "arabic": "باب قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ لاَ تَنْقُشُوا عَلَى خَوَاتِيمِكُمْ عَرَبِيًّا ‏\"‏ ‏.‏",
+    "swahili": "MLANGO: MANENO YA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM): \"MSICHONGE KIARABU (MANENO) KWENYE PETE ZENU\""
+  },
+  {
+    "start": "5210",
+    "arabic": "باب النَّهْىِ عَنِ الْخَاتَمِ، فِي السَّبَّابَةِ ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA KUVAA PETE KWENYE KIDOLE"
+  },
+  {
+    "start": "5213",
+    "arabic": "باب نَزْعِ الْخَاتَمِ عِنْدَ دُخُولِ الْخَلاَءِ ‏‏",
+    "swahili": "MLANGO: KUVUA PETE WAKATI WA KUINGIA AL-KHALA' (ENEO AMBALO ANAJISAIDIA)"
+  },
+  {
+    "start": "5219",
+    "arabic": "باب الْجَلاَجِلِ ‏‏",
+    "swahili": "MLANGO: KENGELE NDOGO"
+  },
+  {
+    "start": "5225",
+    "arabic": "باب ذِكْرِ الْفِطْرَةِ ‏‏",
+    "swahili": "MLANGO: FITRAH"
+  },
+  {
+    "start": "5226",
+    "arabic": "باب إِحْفَاءِ الشَّوَارِبِ وَإِعْفَاءِ اللِّحْيَةِ ‏‏",
+    "swahili": "MLANGO: KUPUNGUZA MASHARUBU NA KUACHA NDEVU ZIKUE"
+  },
+  {
+    "start": "5227",
+    "arabic": "باب حَلْقِ رُءُوسِ الصِّبْيَانِ ‏‏",
+    "swahili": "MLANGO: KUNYOA VICHWA VYA WAVULANA"
+  },
+  {
+    "start": "5228",
+    "arabic": "باب ذِكْرِ النَّهْىِ عَنْ أَنْ يُحْلَقَ بَعْضُ شَعْرِ الصَّبِيِّ وَيُتْرَكَ بَعْضُهُ ‏‏",
+    "swahili": "MLANGO: AKITAJA MARUFUKU YA KUNYOA SEHEMU YA KICHWA CHA MTOTO WA KIUME NA KUACHA SEHEMU"
+  },
+  {
+    "start": "5232",
+    "arabic": "باب اتِّخَاذِ الْجُمَّةِ ‏‏",
+    "swahili": "MLANGO: KUVAA NYWELE NDEFU ZA MTU"
+  },
+  {
+    "start": "5236",
+    "arabic": "باب تَسْكِينِ الشَّعْرِ ‏‏",
+    "swahili": "MLANGO: KUTULIZA NYWELE ZA MTU"
+  },
+  {
+    "start": "5238",
+    "arabic": "باب فَرْقِ الشَّعْرِ ‏‏",
+    "swahili": "MLANGO: KUGAWANYA NYWELE"
+  },
+  {
+    "start": "5239",
+    "arabic": "باب التَّرَجُّلِ ‏‏",
+    "swahili": "MLANGO: KUCHANA NYWELE ZA MTU"
+  },
+  {
+    "start": "5240",
+    "arabic": "باب التَّيَامُنِ فِي التَّرَجُّلِ ‏‏",
+    "swahili": "MLANGO: KUANZIA KULIA WAKATI WA KUCHANA NYWELE"
+  },
+  {
+    "start": "5241",
+    "arabic": "باب الأَمْرِ بِالْخِضَابِ ‏‏",
+    "swahili": "MLANGO: AMRI YA KUPAKA NYWELE"
+  },
+  {
+    "start": "5243",
+    "arabic": "باب تَصْفِيرِ اللِّحْيَةِ ‏‏",
+    "swahili": "MLANGO: KUPAKA NDEVU MANJANO"
+  },
+  {
+    "start": "5244",
+    "arabic": "باب تَصْفِيرِ اللِّحْيَةِ بِالْوَرْسِ وَالزَّعْفَرَانِ ‏‏",
+    "swahili": "MLANGO: KUPAKA NDEVU MANJANO KWA VITA NA ZAFARANI"
+  },
+  {
+    "start": "5245",
+    "arabic": "باب الْوَصْلِ فِي الشَّعْرِ ‏‏",
+    "swahili": "MLANGO: KUONGEZA UPANUZI KWA NYWELE"
+  },
+  {
+    "start": "5247",
+    "arabic": "باب وَصْلِ الشَّعْرِ بِالْخِرَقِ ‏‏",
+    "swahili": "MLANGO: VIPANUZI VYA NYWELE VILIVYOTENGENEZWA KWA NGUO"
+  },
+  {
+    "start": "5249",
+    "arabic": "باب لَعْنِ الْوَاصِلَةِ ‏‏",
+    "swahili": "MLANGO: KUMLAANI MWANAMKE ANAYEREKEBISHA VIONGEZEO VYA NYWELE"
+  },
+  {
+    "start": "5250",
+    "arabic": "باب لَعْنِ الْوَاصِلَةِ وَالْمُسْتَوْصِلَةِ ‏‏",
+    "swahili": "MLANGO: KUMLAANI MWANAMKE ANAYETENGENEZA NYWELE ZA KUREFUSHA NA YULE AMBAYE AMEFANYA HILO"
+  },
+  {
+    "start": "5251",
+    "arabic": "باب لَعْنِ الْوَاشِمَةِ وَالْمُوتَشِمَةِ ‏‏",
+    "swahili": "MLANGO: KUMLAANI MWANAMKE ANAYEJICHORA TATTOO NA ALIYEFANYA HIZO"
+  },
+  {
+    "start": "5252",
+    "arabic": "باب لَعْنِ الْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ ‏‏",
+    "swahili": "MLANGO: KULAANI AL-MUTANAMMISAT (WANAWAKE WALIONG'OLEWA NYUSI) NA WALIOTENGANISHWA MENO."
+  },
+  {
+    "start": "5256",
+    "arabic": "باب التَّزَعْفُرِ ‏‏",
+    "swahili": "MLANGO: KUTUMIA ZAFARANI"
+  },
+  {
+    "start": "5258",
+    "arabic": "باب الطِّيبِ ‏‏",
+    "swahili": "MLANGO: PERFUME"
+  },
+  {
+    "start": "5264",
+    "arabic": "باب ذِكْرِ أَطْيَبِ الطِّيبِ ‏‏",
+    "swahili": "MLANGO: BORA YA PERFUME"
+  },
+  {
+    "start": "5265",
+    "arabic": "باب تَحْرِيمِ لُبْسِ الذَّهَبِ ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA KUVAA DHAHABU"
+  },
+  {
+    "start": "5266",
+    "arabic": "باب النَّهْىِ عَنْ لُبْسِ، خَاتَمِ الذَّهَبِ ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA KUVAA PETE ZA DHAHABU"
+  },
+  {
+    "start": "5275",
+    "arabic": "باب صِفَةِ خَاتَمِ النَّبِيِّ صلى الله عليه وسلم وَنَقْشِهِ ‏‏",
+    "swahili": "MLANGO: MAELEZO YA PETE YA MTUME WA ALLAH (SWALLA ALLAHU ALYHI WASALLAM) NA MAANDISHI YAKE"
+  },
+  {
+    "start": "5282",
+    "arabic": "باب مَوْضِعِ الْخَاتَمِ ‏‏",
+    "swahili": "MLANGO: AMBAPO PETE INAPASWA KUVALIWA"
+  },
+  {
+    "start": "5288",
+    "arabic": "باب مَوْضِعِ الْفَصِّ ‏‏",
+    "swahili": "MLANGO: AMBAPO JIWE (FASS) LITAVALIWA"
+  },
+  {
+    "start": "5289",
+    "arabic": "باب طَرْحِ الْخَاتَمِ وَتَرْكِ لُبْسِهِ ‏‏",
+    "swahili": "MLANGO: KUTUPA PETE NA KUTOIVAA TENA"
+  },
+  {
+    "start": "5294",
+    "arabic": "باب ذِكْرِ مَا يُسْتَحَبُّ مِنْ لُبْسِ الثِّيَابِ وَمَا يُكْرَهُ مِنْهَا ‏‏",
+    "swahili": "MLANGO: KUTAJA NGUO AMBAZO INAPENDEKEZWA KUVAA, NA AMBAYO HAIPENDI KUVAA"
+  },
+  {
+    "start": "5295",
+    "arabic": "باب ذِكْرِ النَّهْىِ عَنْ لُبْسِ السِّيَرَاءِ، ‏‏",
+    "swahili": "MLANGO: MARUFUKU YA KUVAA SIRA'"
+  },
+  {
+    "start": "5296",
+    "arabic": "باب ذِكْرِ الرُّخْصَةِ لِلنِّسَاءِ فِي لُبْسِ السِّيَرَاءِ ‏‏",
+    "swahili": "MLANGO: MAKUBALIANO YA KURUHUSU WANAWAKE KUVAA SIRA'"
+  },
+  {
+    "start": "5299",
+    "arabic": "باب ذِكْرِ النَّهْىِ عَنْ لُبْسِ الإِسْتَبْرَقِ",
+    "swahili": "MLANGO: MAKATAZO YA KUVAA AL-ISTABRAQ"
+  },
+  {
+    "start": "5300",
+    "arabic": "باب صِفَةِ الإِسْتَبْرَقِ ‏‏",
+    "swahili": "MLANGO: MAELEZO YA AL-ISTABRAQ"
+  },
+  {
+    "start": "5301",
+    "arabic": "باب ذِكْرِ النَّهْىِ عَنْ لُبْسِ الدِّيبَاجِ ‏‏",
+    "swahili": "MLANGO: AKITAJA MAKATAZO YA KUVAA AD-DIBAJ"
+  },
+  {
+    "start": "5302",
+    "arabic": "باب لُبْسِ الدِّيبَاجِ الْمَنْسُوجِ بِالذَّهَبِ ‏‏",
+    "swahili": "MLANGO: AMEVAA AD-DIBAJ ILIYOSOKOTWA KWA DHAHABU"
+  },
+  {
+    "start": "5303",
+    "arabic": "باب ذِكْرِ نَسْخِ ذَلِكَ ‏‏",
+    "swahili": "MLANGO: AKITAJA KUFUTWA KWA HILO"
+  },
+  {
+    "start": "5304",
+    "arabic": "باب التَّشْدِيدِ فِي لُبْسِ الْحَرِيرِ وَأَنَّ مَنْ لَبِسَهُ فِي الدُّنْيَا لَمْ يَلْبَسْهُ فِي الآخِرَةِ ‏",
+    "swahili": "MLANGO: ONYO KALI DHIDI YA KUVAA HARIRI, NA ATAKAYEIVAA KATIKA DUNIA HATOIVAA AKHERA."
+  },
+  {
+    "start": "5309",
+    "arabic": "باب ذِكْرِ النَّهْىِ عَنِ الثِّيَابِ الْقِسِّيَّةِ، ‏‏",
+    "swahili": "MLANGO: KUHARAMISHWA KWA NGUO ZA AL-QASSIYAH"
+  },
+  {
+    "start": "5310",
+    "arabic": "باب الرُّخْصَةِ فِي لُبْسِ الْحَرِيرِ ‏‏",
+    "swahili": "MLANGO: MAKUBALIANO YA KUVAA HARIRI"
+  },
+  {
+    "start": "5314",
+    "arabic": "باب لُبْسِ الْحُلَلِ ‏‏",
+    "swahili": "MLANGO: KUVAA HULLAHS"
+  },
+  {
+    "start": "5315",
+    "arabic": "باب لُبْسِ الْحِبَرَةِ ‏‏",
+    "swahili": "MLANGO: KUVAA HIBARAH"
+  },
+  {
+    "start": "5316",
+    "arabic": "باب ذِكْرِ النَّهْىِ عَنْ لُبْسِ الْمُعَصْفَرِ، ‏‏",
+    "swahili": "MLANGO: AKITAJA MARUFUKU YA KUVAA NGUO ZILIZOTIWA RANGI YA SAFFLOWER"
+  },
+  {
+    "start": "5319",
+    "arabic": "باب لُبْسِ الْخُضْرِ مِنَ الثِّيَابِ ‏‏",
+    "swahili": "MLANGO: KUVAA NGUO ZA KIJANI"
+  },
+  {
+    "start": "5320",
+    "arabic": "باب لُبْسِ الْبُرُودِ ‏‏",
+    "swahili": "MLANGO: KUVAA BURDAH (NGUO)"
+  },
+  {
+    "start": "5322",
+    "arabic": "باب الأَمْرِ بِلُبْسِ الْبِيضِ مِنَ الثِّيَابِ ‏‏",
+    "swahili": "MLANGO: AMRI YA KUVAA NGUO NYEUPE"
+  },
+  {
+    "start": "5324",
+    "arabic": "باب لُبْسِ الأَقْبِيَةِ ‏‏",
+    "swahili": "MLANGO: KUVAA ZA QABA"
+  },
+  {
+    "start": "5325",
+    "arabic": "باب لُبْسِ السَّرَاوِيلِ ‏‏",
+    "swahili": "MLANGO: KUVAA SURUALI"
+  },
+  {
+    "start": "5326",
+    "arabic": "باب التَّغْلِيظِ فِي جَرِّ الإِزَارِ ‏‏",
+    "swahili": "MLANGO: ONYO KALI DHIDI YA KUMBURUTA IZAR WA MTU"
+  },
+  {
+    "start": "5329",
+    "arabic": "باب مَوْضِعِ الإِزَارِ",
+    "swahili": "MLANGO: JE, IZAR AJE WAPI?"
+  },
+  {
+    "start": "5330",
+    "arabic": "باب مَا تَحْتَ الْكَعْبَيْنِ مِنَ الإِزَارِ",
+    "swahili": "MLANGO: CHOCHOTE CHA IZAR KINAKUJA CHINI YA VIFUNDO VYA MIGUU"
+  },
+  {
+    "start": "5332",
+    "arabic": "باب إِسْبَالِ الإِزَارِ",
+    "swahili": "MLANGO: ISBAL AL-IZAR (KUMUACHA IZAR ANING'INIE CHINI YA VIFUNDO VYA MIGUU)"
+  },
+  {
+    "start": "5336",
+    "arabic": "باب ذُيُولِ النِّسَاءِ",
+    "swahili": "MLANGO: NGUO ZA WANAWAKE"
+  },
+  {
+    "start": "5340",
+    "arabic": "باب النِّهْىِ عَنِ اشْتِمَالِ الصَّمَّاءِ،",
+    "swahili": "MLANGO: MARUFUKU YA ISHTIMAL AS-SAMMA'"
+  },
+  {
+    "start": "5342",
+    "arabic": "باب النَّهْىِ عَنْ الاِحْتِبَاءِ، فِي ثَوْبٍ وَاحِدٍ",
+    "swahili": "MLANGO: KUHARAMISHWA KWA AL-IHTIBA' (KUJIFUNGA NGUO MOJA)"
+  },
+  {
+    "start": "5343",
+    "arabic": "باب لُبْسِ الْعَمَائِمِ الْحَرْقَانِيَّةِ",
+    "swahili": "MLANGO: AMEVAA VILEMBA VYEUSI"
+  },
+  {
+    "start": "5344",
+    "arabic": "باب لُبْسِ الْعَمَائِمِ السُّودِ",
+    "swahili": "MLANGO: AMEVAA VILEMBA VYEUSI"
+  },
+  {
+    "start": "5346",
+    "arabic": "باب إِرْخَاءِ طَرَفِ الْعِمَامَةِ بَيْنَ الْكَتِفَيْنِ",
+    "swahili": "MLANGO: KURUHUSU MWISHO WA KILEMBA KUNING'INIA KATI YA MABEGA"
+  },
+  {
+    "start": "5347",
+    "arabic": "باب التَّصَاوِيرِ",
+    "swahili": "MLANGO: PICHA"
+  },
+  {
+    "start": "5356",
+    "arabic": "باب ذِكْرِ أَشَدِّ النَّاسِ عَذَابًا",
+    "swahili": "MLANGO: WATU AMBAO WATAADHIBIWA VIKALI ZAIDI"
+  },
+  {
+    "start": "5358",
+    "arabic": "باب ذِكْرِ مَا يُكَلَّفُ أَصْحَابُ الصُّوَرِ يَوْمَ الْقِيَامَةِ",
+    "swahili": "MLANGO: YALE WATAKAYOAMRISHWA WATENGENEZAJI PICHA SIKU YA KIYAMA"
+  },
+  {
+    "start": "5364",
+    "arabic": "باب ذِكْرِ أَشَدِّ النَّاسِ عَذَابًا",
+    "swahili": "MLANGO: WATU AMBAO WATAADHIBIWA VIKALI ZAIDI"
+  },
+  {
+    "start": "5366",
+    "arabic": "باب اللُّحُفِ",
+    "swahili": "MLANGO: MABLANKETI"
+  },
+  {
+    "start": "5367",
+    "arabic": "باب صِفَةِ نَعْلِ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "swahili": "MLANGO: MAELEZO YA VIATU VYA Mtume wa Allah (swalla Allahu alayhi wa sallam)"
+  },
+  {
+    "start": "5369",
+    "arabic": "باب ذِكْرِ النَّهْىِ عَنِ الْمَشْىِ، فِي نَعْلٍ وَاحِدَةٍ",
+    "swahili": "MLANGO: MARUFUKU YA KUTEMBEA KATIKA SANDAL MOJA"
+  },
+  {
+    "start": "5371",
+    "arabic": "باب مَا جَاءَ فِي الأَنْطَاعِ",
+    "swahili": "MLANGO: NINI KIMEHUSIANA KUHUSU NGUO ZA NGOZI"
+  },
+  {
+    "start": "5372",
+    "arabic": "باب اتِّخَاذِ الْخَادِمِ وَالْمَرْكَبِ",
+    "swahili": "MLANGO: KUWEKA WATUMISHI NA MILIMA"
+  },
+  {
+    "start": "5373",
+    "arabic": "باب حِلْيَةِ السَّيْفِ",
+    "swahili": "MLANGO: MAPAMBO YA UPANGA"
+  },
+  {
+    "start": "5376",
+    "arabic": "باب النَّهْىِ عَنِ الْجُلُوسِ، عَلَى الْمَيَاثِرِ مِنَ الأُرْجُوَانِ",
+    "swahili": "MLANGO: MARUFUKU YA KUKETI KWENYE RED AL-MAYATHIR"
+  },
+  {
+    "start": "5377",
+    "arabic": "باب الْجُلُوسِ عَلَى الْكَرَاسِيِّ",
+    "swahili": "MLANGO: KUKETI KWENYE VITI"
+  },
+  {
+    "start": "5378",
+    "arabic": "باب اتِّخَاذِ الْقِبَابِ الْحُمْرِ",
+    "swahili": "MLANGO: KUTUMIA HEMA NYEKUNDU"
+  }
+]
