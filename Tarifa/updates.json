@@ -1,11 +1,11 @@
 {
   "hijri_offset": 0,
   "announcement": {
-    "id": "tangazo_001",
+    "id": "tangazo_002",
     "active": true,
     "title": "Muandamo wa Mwezi!",
     "text": "Mwezi umeonekana leo jioni. Kesho ni siku ya kwanza ya mwezi mtukufu.",
     "ref": "Tangazo Rasmi",
-    "expires_at": "2026-04-01T23:59:59Z"
+    "expires_at": "2026-10-02T23:59:59Z"
   }
 }
