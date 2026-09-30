@@ -1,11 +1,11 @@
 {
   "hijri_offset": 0,
   "announcement": {
-    "id": "tangazo_002",
+    "id": "tangazo_test_leo_01",
     "active": true,
-    "title": "Muandamo wa Mwezi!",
-    "text": "Mwezi umeonekana leo jioni. Kesho ni siku ya kwanza ya mwezi mtukufu.",
-    "ref": "Tangazo Rasmi",
-    "expires_at": "2026-10-02T23:59:59Z"
+    "title": "Jaribio la Taarifa Mpya (Test)!",
+    "text": "Hongera sana! Mfumo wa updates za mtandaoni unafanya kazi kikamilifu kwenye simu yako.",
+    "ref": "Ma'rifa App Team",
+    "expires_at": "2026-12-31T23:59:59Z"
   }
 }
