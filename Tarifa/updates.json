@@ -1,10 +1,10 @@
 {
-  "hijri_offset": 0,
+  "hijri_offset": 1,
   "announcement": {
     "id": "tangazo_test_leo_01",
     "active": true,
     "title": "Jaribio la Taarifa Mpya (Test)!",
-    "text": "Hongera sana! Mfumo wa updates za mtandaoni unafanya kazi kikamilifu kwenye simu yako.",
+    "text": "mwezi muandamo.",
     "ref": "Ma'rifa App Team",
     "expires_at": "2026-12-31T23:59:59Z"
   }
