@@ -1,10 +1,10 @@
 {
-  "hijri_offset": 1,
+  "hijri_offset": 2,
   "announcement": {
     "id": "tangazo_test_leo_01",
     "active": true,
     "title": "Jaribio la Taarifa Mpya (Test)!",
-    "text": "mwezi muandamo.",
+    "text": "mwezi muandamo000000000.",
     "ref": "Ma'rifa App Team",
     "expires_at": "2026-12-31T23:59:59Z"
   }
